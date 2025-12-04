@@ -265,9 +265,10 @@ export default class KissTranslatorPlugin extends Plugin {
 			new Notice("KISS Translator: 正在翻译，请稍候…");
 			return;
 		}
-		if (this.uiSession && this.uiSession.hasTranslations()) {
+		// 如果当前已经开启（无论有无译文），则关闭
+		if (this.fabState !== "off") {
 			this.suppressUiAuto = true;
-			this.uiSession.clear();
+			this.uiSession?.clear();
 			this.setFabState("off");
 			this.uiDictionaryEnabled = false;
 			this.resumeUiAutoSoon();
