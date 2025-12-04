@@ -66,12 +66,14 @@ export class TranslationSession {
 	private hideOriginal() {
 		this.translated.forEach((_translation, original) => {
 			original.classList.add(HIDE_ORIGINAL_CLASS);
+			(original as HTMLElement).style.visibility = "hidden";
 		});
 	}
 
 	private restoreOriginalVisibility() {
 		this.translated.forEach((_translation, original) => {
 			original.classList.remove(HIDE_ORIGINAL_CLASS);
+			(original as HTMLElement).style.visibility = "";
 		});
 	}
 
@@ -96,6 +98,7 @@ export class TranslationSession {
 	private collectBlocks(root: HTMLElement): HTMLElement[] {
 		const selector =
 			"p, li, blockquote, h1, h2, h3, h4, h5, h6, td, th, pre, button, label, span, div";
+		const maxLen = this.settings.maxTextLength ?? 160;
 		return Array.from(root.querySelectorAll<HTMLElement>(selector)).filter(
 			(el) => {
 				if (this.isInSkipArea(el)) return false;
@@ -106,7 +109,7 @@ export class TranslationSession {
 				const text = this.normalizeText(el.innerText || "");
 				if (!text) return false;
 				if (text.length < 2) return false;
-				if (text.length > 160) return false;
+				if (text.length > maxLen) return false;
 				return true;
 			}
 		);
@@ -136,8 +139,12 @@ export class TranslationSession {
 		const translated = await this.translateText(text);
 		if (!translated) return;
 
-		const translation = document.createElement("div");
+		const translation = document.createElement(this.isBlockNode(block) ? "div" : "span");
 		translation.className = TRANSLATION_CLASS;
+		if (this.isBlockNode(block)) {
+			translation.style.display = "block";
+			translation.style.width = "100%";
+		}
 		const inner = document.createElement("span");
 		inner.textContent = translated;
 		inner.setAttribute("data-source", text);
@@ -157,6 +164,29 @@ export class TranslationSession {
 
 		block.insertAdjacentElement("afterend", translation);
 		this.translated.set(block, translation);
+	}
+
+	private isBlockNode(el: HTMLElement) {
+		const tag = el.tagName.toLowerCase();
+		const blockTags = new Set([
+			"p",
+			"div",
+			"li",
+			"blockquote",
+			"h1",
+			"h2",
+			"h3",
+			"h4",
+			"h5",
+			"h6",
+			"td",
+			"th",
+			"pre",
+			"section",
+		]);
+		if (blockTags.has(tag)) return true;
+		const display = getComputedStyle(el).display;
+		return display && !display.startsWith("inline");
 	}
 
 	private attachEditControls(

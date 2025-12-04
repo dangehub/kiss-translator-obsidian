@@ -29,6 +29,7 @@ export interface KissTranslatorSettings {
 	hideOriginal: boolean;
 	autoTranslateOnOpen: boolean;
 	editMode?: boolean;
+	maxTextLength?: number;
 }
 
 interface SkipPreset {
@@ -94,6 +95,7 @@ const DEFAULT_SETTINGS: KissTranslatorSettings = {
 	hideOriginal: false,
 	autoTranslateOnOpen: false,
 	editMode: false,
+	maxTextLength: 160,
 };
 
 export default class KissTranslatorPlugin extends Plugin {
@@ -638,6 +640,22 @@ class KissSettingTab extends PluginSettingTab {
 					.setValue(this.plugin.settings.autoTranslateOnOpen)
 					.onChange(async (value) => {
 						this.plugin.settings.autoTranslateOnOpen = value;
+						await this.plugin.saveSettings();
+					})
+			);
+
+		new Setting(containerEl)
+			.setName("最大文本长度")
+			.setDesc("单块文本超过此长度则不翻译（默认 160 字符）。")
+			.addText((text) =>
+				text
+					.setPlaceholder("160")
+					.setValue(String(this.plugin.settings.maxTextLength ?? 160))
+					.onChange(async (value) => {
+						const num = parseInt(value, 10);
+						this.plugin.settings.maxTextLength = Number.isFinite(num)
+							? Math.max(1, num)
+							: 160;
 						await this.plugin.saveSettings();
 					})
 			);
