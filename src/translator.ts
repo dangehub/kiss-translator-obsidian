@@ -145,12 +145,11 @@ export class TranslationSession {
 		const translated = await this.translateText(text, dictionaryOnly);
 		if (!translated) return;
 
-		const translation = document.createElement(this.isBlockNode(block) ? "div" : "span");
-		translation.className = TRANSLATION_CLASS;
-		if (this.isBlockNode(block)) {
-			translation.style.display = "block";
-			translation.style.width = "100%";
-		}
+		// 基于原节点浅拷贝，尽可能继承标签与样式，避免丢失原有字体/字号/加粗等
+		const translation = block.cloneNode(false) as HTMLElement;
+		translation.classList.add(TRANSLATION_CLASS);
+		translation.removeAttribute("id");
+		this.copyInlineStyles(block, translation);
 		const inner = document.createElement("span");
 		inner.textContent = translated;
 		inner.setAttribute("data-source", text);
@@ -488,5 +487,36 @@ export class TranslationSession {
 		(this.settings.uiScopes || []).forEach((s) => scopes.add(s));
 		(this.settings.recentUiScopes || []).forEach((s) => scopes.add(s));
 		return Array.from(scopes).filter(Boolean);
+	}
+
+	private copyInlineStyles(from: HTMLElement, to: HTMLElement) {
+		// 将原元素的常用计算样式内联到译文节点，保留字体、字号、行高、颜色等
+		const computed = getComputedStyle(from);
+		const props = [
+			"font-family",
+			"font-size",
+			"font-weight",
+			"font-style",
+			"font-variant",
+			"line-height",
+			"letter-spacing",
+			"color",
+			"background-color",
+			"text-decoration",
+			"text-transform",
+			"white-space",
+		];
+		for (const key of props) {
+			const val = computed.getPropertyValue(key);
+			if (val) {
+				to.style.setProperty(key, val, computed.getPropertyPriority(key));
+			}
+		}
+		// 保留原类名（不覆盖翻译标记）
+		from.classList.forEach((cls) => {
+			if (cls !== TRANSLATION_CLASS) {
+				to.classList.add(cls);
+			}
+		});
 	}
 }
