@@ -346,6 +346,65 @@ export default class KissTranslatorPlugin extends Plugin {
 		}
 	}
 
+	private getUiTarget(): HTMLElement | null {
+		return (
+			document.querySelector<HTMLElement>(".modal.mod-settings") ||
+			document.querySelector<HTMLElement>(".modal-container .mod-settings") ||
+			document.querySelector<HTMLElement>(".workspace-split.mod-vertical") ||
+			document.body
+		);
+	}
+
+	private startUiObserver() {
+		if (this.uiObserver) return;
+		let timer: NodeJS.Timeout | null = null;
+		this.uiObserver = new MutationObserver(() => {
+			if (this.uiBusy || !this.uiSession?.hasTranslations()) return;
+			if (timer) clearTimeout(timer);
+			timer = setTimeout(() => this.retranslateUI(), 300);
+		});
+		this.uiObserver.observe(document.body, {
+			subtree: true,
+			childList: true,
+			characterData: true,
+		});
+	}
+
+	private stopUiObserver() {
+		if (this.uiObserver) {
+			this.uiObserver.disconnect();
+			this.uiObserver = null;
+		}
+	}
+
+	private async retranslateUI() {
+		if (this.uiBusy) return;
+		const target = this.getUiTarget();
+		if (!target) return;
+		this.uiTarget = target;
+		if (!this.uiSession) {
+			this.uiSession = new TranslationSession(null, this.settings, {
+				dictionary: this.dictStore || undefined,
+				scopeId: this.settings.uiScope || "ui-global",
+			});
+		} else {
+			this.uiSession.updateSettings(this.settings);
+			this.uiSession.clear();
+		}
+		this.uiBusy = true;
+		this.uiSession
+			.translate(target, { reuseOnly: this.autoReuseOnly })
+			.then(() => this.fab?.setActive(true))
+			.catch((err) => {
+				console.error(err);
+				this.fab?.setActive(false);
+			})
+			.finally(() => {
+				this.uiBusy = false;
+				this.autoReuseOnly = true; // 自动重译只用词典
+			});
+	}
+
 	private clearActive() {
 		const view = this.getActiveMarkdownView();
 		if (!view) return;
@@ -511,6 +570,18 @@ export default class KissTranslatorPlugin extends Plugin {
 		editRow.appendChild(editInput);
 		editRow.appendChild(editText);
 		switches.appendChild(editRow);
+
+		// 手动触发翻译按钮
+		const manualBtn = document.createElement("button");
+		manualBtn.textContent = "手动触发翻译";
+		manualBtn.className = "kiss-manual-btn";
+		manualBtn.onclick = async (e) => {
+			e.stopPropagation();
+			this.autoReuseOnly = false;
+			this.translateUIWithFab();
+			this.closeScopeMenu();
+		};
+		switches.appendChild(manualBtn);
 
 		// 隐藏原文开关
 		const hideRow = document.createElement("label");

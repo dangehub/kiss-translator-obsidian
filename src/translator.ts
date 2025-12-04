@@ -47,7 +47,7 @@ export class TranslationSession {
 
 		this.clear();
 
-		const blocks = this.collectBlocks(root);
+		const blocks = this.collectBlocks(root, options?.reuseOnly);
 		for (const block of blocks) {
 			await this.translateBlock(block, dictionaryOnly);
 		}
@@ -101,7 +101,7 @@ export class TranslationSession {
 		return document.body;
 	}
 
-	private collectBlocks(root: HTMLElement): HTMLElement[] {
+	private collectBlocks(root: HTMLElement, reuseOnly?: boolean): HTMLElement[] {
 		const selector =
 			"p, li, blockquote, h1, h2, h3, h4, h5, h6, td, th, pre, button, label, span, div";
 		const maxLen = this.settings.maxTextLength ?? 160;
@@ -353,14 +353,14 @@ export class TranslationSession {
 			}
 		}
 
+		if (reuseOnly) return "";
+
 		const translatedText =
 			apiType === "openai"
 				? await this.translateWithOpenAI(text)
 				: await this.translateWithSimple(text);
 
-		if (!translatedText) {
-			throw new Error("翻译结果为空，请检查接口响应格式或提示词。");
-		}
+		if (!translatedText) return "";
 
 		this.cache.set(text, translatedText);
 		if (dictKey && this.dict) {
