@@ -67,6 +67,10 @@ If your plugin does not need CSS, delete this file.
 	background: #27ae60 !important; /* active green */
 }
 
+.kiss-fab-empty {
+	background: #f1c40f !important; /* on but no dict hits */
+}
+
 .kiss-fab-idle {
 	background: #e74c3c !important;
 }

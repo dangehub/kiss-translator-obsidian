@@ -8,6 +8,7 @@ export class FloatingFab {
 	private dragging = false;
 	private offsetX = 0;
 	private offsetY = 0;
+	private state: "off" | "empty" | "active" = "off";
 
 	constructor(plugin: KissTranslatorPlugin) {
 		this.plugin = plugin;
@@ -75,10 +76,17 @@ export class FloatingFab {
 		this.el = fab;
 	}
 
-	setActive(active: boolean) {
+	setState(state: "off" | "empty" | "active") {
 		if (!this.el) return;
-		this.el.classList.toggle("kiss-fab-active", active);
-		this.el.classList.toggle("kiss-fab-idle", !active);
+		this.state = state;
+		this.el.classList.remove("kiss-fab-active", "kiss-fab-idle", "kiss-fab-empty");
+		if (state === "active") {
+			this.el.classList.add("kiss-fab-active");
+		} else if (state === "empty") {
+			this.el.classList.add("kiss-fab-empty");
+		} else {
+			this.el.classList.add("kiss-fab-idle");
+		}
 	}
 
 	unmount() {

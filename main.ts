@@ -113,6 +113,7 @@ export default class KissTranslatorPlugin extends Plugin {
 	private uiMutationTimer: number | null = null;
 	private suppressUiAuto = false;
 	private uiDictionaryEnabled = true;
+	private fabState: "off" | "empty" | "active" = "off";
 
 	async onload() {
 		await this.loadSettings();
@@ -155,6 +156,7 @@ export default class KissTranslatorPlugin extends Plugin {
 
 		this.fab = new FloatingFab(this);
 		this.fab.mount();
+		this.setFabState("off");
 		this.startUiAutoApply();
 	}
 
@@ -167,6 +169,11 @@ export default class KissTranslatorPlugin extends Plugin {
 		this.dictStore?.flush().catch((err) => console.error(err));
 		this.closeScopeMenu();
 		this.stopUiAutoApply();
+	}
+
+	private setFabState(state: "off" | "empty" | "active") {
+		this.fabState = state;
+		this.fab?.setState(state);
 	}
 
 	private getActiveMarkdownView(): MarkdownView | null {
@@ -217,11 +224,11 @@ export default class KissTranslatorPlugin extends Plugin {
 		session
 			.translate(target, { dictionaryOnly: false })
 			.then(() => {
-				this.fab?.setActive(true);
+				this.setFabState(session.hasTranslations() ? "active" : "empty");
 			})
 			.catch((err) => {
 				console.error(err);
-				this.fab?.setActive(false);
+				this.setFabState("off");
 				new Notice(`KISS Translator: ${err.message}`);
 			})
 			.finally(() => {
@@ -242,7 +249,7 @@ export default class KissTranslatorPlugin extends Plugin {
 		session
 			.translate(target, { dictionaryOnly: true })
 			.then(() => {
-				this.fab?.setActive(session.hasTranslations());
+				this.setFabState(session.hasTranslations() ? "active" : "empty");
 			})
 			.catch((err) => {
 				console.error(err);
@@ -261,7 +268,7 @@ export default class KissTranslatorPlugin extends Plugin {
 		if (this.uiSession && this.uiSession.hasTranslations()) {
 			this.suppressUiAuto = true;
 			this.uiSession.clear();
-			this.fab?.setActive(false);
+			this.setFabState("off");
 			this.uiDictionaryEnabled = false;
 			this.resumeUiAutoSoon();
 			return;

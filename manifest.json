@@ -1,7 +1,7 @@
 {
 	"id": "aqu-kiss-translator",
 	"name": "KISS Translator",
-	"version": "0.5.0",
+	"version": "0.6.0",
 	"minAppVersion": "0.15.0",
 	"description": "Translate Obsidian with a lightweight inline bilingual view.",
 	"author": "dangehub",
