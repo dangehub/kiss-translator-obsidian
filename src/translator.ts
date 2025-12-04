@@ -33,7 +33,13 @@ export class TranslationSession {
 		this.promptSig = (settings.systemPrompt || "") + (settings.userPrompt || "");
 	}
 
-	async translate(rootOverride?: HTMLElement) {
+	async translate(
+		rootOverride?: HTMLElement,
+		options?: {
+			dictionaryOnly?: boolean;
+		}
+	) {
+		const dictionaryOnly = options?.dictionaryOnly ?? false;
 		const root = rootOverride ?? this.findPreviewRoot();
 		if (!root) {
 			throw new Error("未找到可翻译的区域。");
@@ -43,7 +49,7 @@ export class TranslationSession {
 
 		const blocks = this.collectBlocks(root);
 		for (const block of blocks) {
-			await this.translateBlock(block);
+			await this.translateBlock(block, dictionaryOnly);
 		}
 
 		this.applyOriginalVisibility();
@@ -132,11 +138,11 @@ export class TranslationSession {
 		return text.replace(/\s+/g, " ").trim();
 	}
 
-	private async translateBlock(block: HTMLElement) {
+	private async translateBlock(block: HTMLElement, dictionaryOnly: boolean) {
 		const text = this.normalizeText(block.innerText || "");
 		if (!text || text.length < 2) return;
 
-		const translated = await this.translateText(text);
+		const translated = await this.translateText(text, dictionaryOnly);
 		if (!translated) return;
 
 		const translation = document.createElement(this.isBlockNode(block) ? "div" : "span");
@@ -277,7 +283,7 @@ export class TranslationSession {
 			this.cache.delete(source);
 			inner.textContent = "[...]";
 			try {
-				const fresh = await this.translateWithFallback(source);
+				const fresh = await this.translateWithFallback(source, false);
 				if (fresh) inner.textContent = fresh;
 			} catch (err) {
 				console.error(err);
@@ -304,9 +310,12 @@ export class TranslationSession {
 		textarea.focus();
 	}
 
-	private async translateWithFallback(source: string): Promise<string | null> {
+	private async translateWithFallback(
+		source: string,
+		dictionaryOnly = false
+	): Promise<string | null> {
 		try {
-			const text = await this.translateText(source);
+			const text = await this.translateText(source, dictionaryOnly);
 			return text;
 		} catch (err) {
 			console.error(err);
@@ -314,7 +323,10 @@ export class TranslationSession {
 		return null;
 	}
 
-	private async translateText(text: string): Promise<string> {
+	private async translateText(
+		text: string,
+		dictionaryOnly: boolean
+	): Promise<string | null> {
 		const cached = this.cache.get(text);
 		if (cached) return cached;
 
@@ -347,6 +359,9 @@ export class TranslationSession {
 						return alt.translated;
 					}
 				}
+			}
+			if (dictionaryOnly) {
+				return null;
 			}
 		}
 

@@ -120,6 +120,16 @@ If your plugin does not need CSS, delete this file.
 	margin-bottom: 6px;
 }
 
+.kiss-scope-actions {
+	display: flex;
+	gap: 6px;
+	margin-bottom: 6px;
+}
+
+.kiss-scope-actions button {
+	width: 100%;
+}
+
 .kiss-scope-switches {
 	display: flex;
 	flex-direction: column;

@@ -19,7 +19,7 @@ export class FloatingFab {
 		const fab = document.createElement("div");
 		fab.id = FAB_ID;
 		fab.textContent = "译";
-		fab.title = "点击翻译当前界面，拖动可移动";
+		fab.title = "双击开关词典翻译，右键打开菜单，拖动可移动";
 		fab.className = "kiss-fab";
 
 		const startDrag = (evt: MouseEvent | TouchEvent) => {
@@ -58,7 +58,7 @@ export class FloatingFab {
 			if (clickTimeout) {
 				clearTimeout(clickTimeout);
 				clickTimeout = null;
-				this.plugin.translateUIWithFab();
+				this.plugin.toggleUiDictionaryTranslations();
 			} else {
 				clickTimeout = setTimeout(() => {
 					clickTimeout = null;

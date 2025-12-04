@@ -109,6 +109,10 @@ export default class KissTranslatorPlugin extends Plugin {
 	private scopeMenuEl: HTMLElement | null = null;
 	private scopeMenuHandler: ((ev: MouseEvent) => void) | null = null;
 	private uiBusy = false;
+	private uiMutationObserver: MutationObserver | null = null;
+	private uiMutationTimer: number | null = null;
+	private suppressUiAuto = false;
+	private uiDictionaryEnabled = true;
 
 	async onload() {
 		await this.loadSettings();
@@ -151,6 +155,7 @@ export default class KissTranslatorPlugin extends Plugin {
 
 		this.fab = new FloatingFab(this);
 		this.fab.mount();
+		this.startUiAutoApply();
 	}
 
 	onunload() {
@@ -161,6 +166,7 @@ export default class KissTranslatorPlugin extends Plugin {
 		this.fab?.unmount();
 		this.dictStore?.flush().catch((err) => console.error(err));
 		this.closeScopeMenu();
+		this.stopUiAutoApply();
 	}
 
 	private getActiveMarkdownView(): MarkdownView | null {
@@ -196,36 +202,20 @@ export default class KissTranslatorPlugin extends Plugin {
 			new Notice("KISS Translator: 正在翻译，请稍候…");
 			return;
 		}
-		const target =
-			document.querySelector<HTMLElement>(".modal.mod-settings") ||
-			document.querySelector<HTMLElement>(".modal-container .mod-settings") ||
-			document.querySelector<HTMLElement>(".workspace-split.mod-vertical") ||
-			document.body;
-
+		const target = this.findUiTarget();
 		if (!target) {
 			new Notice("KISS Translator: 未找到可翻译的界面。");
 			return;
 		}
 
-		if (!this.uiSession) {
-			this.uiSession = new TranslationSession(null, this.settings, {
-				dictionary: this.dictStore || undefined,
-				scopeId: this.settings.uiScope || "ui-global",
-			});
-		} else {
-			this.uiSession.updateSettings(this.settings);
-		}
-
-		if (this.uiSession.hasTranslations()) {
-			this.uiSession.clear();
-			new Notice("KISS Translator: 已清除翻译。");
-			this.fab?.setActive(false);
-			return;
-		}
-
+		this.prepareUiSession();
+		this.uiDictionaryEnabled = true;
+		const session = this.uiSession;
+		if (!session) return;
+		this.suppressUiAuto = true;
 		this.uiBusy = true;
-		this.uiSession
-			.translate(target)
+		session
+			.translate(target, { dictionaryOnly: false })
 			.then(() => {
 				this.fab?.setActive(true);
 			})
@@ -236,7 +226,117 @@ export default class KissTranslatorPlugin extends Plugin {
 			})
 			.finally(() => {
 				this.uiBusy = false;
+				this.resumeUiAutoSoon();
 			});
+	}
+
+	private applyUiDictionaryTranslations() {
+		if (this.uiBusy || !this.uiDictionaryEnabled) return;
+		const target = this.findUiTarget();
+		if (!target) return;
+		this.prepareUiSession();
+		const session = this.uiSession;
+		if (!session) return;
+		this.suppressUiAuto = true;
+		this.uiBusy = true;
+		session
+			.translate(target, { dictionaryOnly: true })
+			.then(() => {
+				this.fab?.setActive(session.hasTranslations());
+			})
+			.catch((err) => {
+				console.error(err);
+			})
+			.finally(() => {
+				this.uiBusy = false;
+				this.resumeUiAutoSoon();
+			});
+	}
+
+	toggleUiDictionaryTranslations() {
+		if (this.uiBusy) {
+			new Notice("KISS Translator: 正在翻译，请稍候…");
+			return;
+		}
+		if (this.uiSession && this.uiSession.hasTranslations()) {
+			this.suppressUiAuto = true;
+			this.uiSession.clear();
+			this.fab?.setActive(false);
+			this.uiDictionaryEnabled = false;
+			this.resumeUiAutoSoon();
+			return;
+		}
+		this.uiDictionaryEnabled = true;
+		this.applyUiDictionaryTranslations();
+	}
+
+	private findUiTarget(): HTMLElement | null {
+		return (
+			document.querySelector<HTMLElement>(".modal.mod-settings") ||
+			document.querySelector<HTMLElement>(".modal-container .mod-settings") ||
+			document.querySelector<HTMLElement>(".workspace-split.mod-vertical") ||
+			document.body ||
+			null
+		);
+	}
+
+	private prepareUiSession() {
+		if (!this.uiSession) {
+			this.uiSession = new TranslationSession(null, this.settings, {
+				dictionary: this.dictStore || undefined,
+				scopeId: this.settings.uiScope || "ui-global",
+			});
+		} else {
+			this.uiSession.updateSettings(this.settings);
+		}
+	}
+
+	private resumeUiAutoSoon() {
+		window.setTimeout(() => {
+			this.suppressUiAuto = false;
+		}, 80);
+	}
+
+	private scheduleUiDictionaryApply() {
+		if (this.suppressUiAuto || this.uiBusy || !this.uiDictionaryEnabled) return;
+		if (this.uiMutationTimer) {
+			window.clearTimeout(this.uiMutationTimer);
+		}
+		this.uiMutationTimer = window.setTimeout(() => {
+			this.uiMutationTimer = null;
+			this.applyUiDictionaryTranslations();
+		}, 200);
+	}
+
+	private startUiAutoApply() {
+		if (this.uiMutationObserver || !document?.body) return;
+		this.uiMutationObserver = new MutationObserver((records) => {
+			if (this.suppressUiAuto) return;
+			// 忽略仅发生在已有翻译块内部的变动，避免悬停切换时反复重绘导致闪烁
+			const meaningful = records.some((m) => {
+				const target = m.target as HTMLElement;
+				return !target?.closest?.(".kiss-translated-block");
+			});
+			if (!meaningful) return;
+			this.scheduleUiDictionaryApply();
+		});
+		this.uiMutationObserver.observe(document.body, {
+			childList: true,
+			subtree: true,
+			characterData: true,
+		});
+		this.scheduleUiDictionaryApply();
+	}
+
+	private stopUiAutoApply() {
+		if (this.uiMutationObserver) {
+			this.uiMutationObserver.disconnect();
+			this.uiMutationObserver = null;
+		}
+		if (this.uiMutationTimer) {
+			window.clearTimeout(this.uiMutationTimer);
+			this.uiMutationTimer = null;
+		}
 	}
 
 	private clearActive() {
@@ -371,6 +471,18 @@ export default class KissTranslatorPlugin extends Plugin {
 		title.textContent = "选择 UI 词典";
 		title.className = "kiss-scope-menu-title";
 		menu.appendChild(title);
+
+		const actions = document.createElement("div");
+		actions.className = "kiss-scope-actions";
+		const translateBtn = document.createElement("button");
+		translateBtn.textContent = "翻译当前页面";
+		translateBtn.onclick = (e) => {
+			e.stopPropagation();
+			this.translateUIWithFab();
+			this.closeScopeMenu();
+		};
+		actions.appendChild(translateBtn);
+		menu.appendChild(actions);
 
 		const switches = document.createElement("div");
 		switches.className = "kiss-scope-switches";
