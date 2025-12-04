@@ -115,7 +115,7 @@ export class TranslationSession {
 
 	private collectBlocks(root: HTMLElement): HTMLElement[] {
 		const selector =
-			"p, li, blockquote, h1, h2, h3, h4, h5, h6, td, th, pre, button, label, span, div";
+			"p, li, blockquote, h1, h2, h3, h4, h5, h6, td, th, pre, button, label, span, div, option";
 		const maxLen = this.settings.maxTextLength ?? 160;
 		return Array.from(root.querySelectorAll<HTMLElement>(selector)).filter(
 			(el) => {
@@ -123,8 +123,8 @@ export class TranslationSession {
 				if (el.classList.contains(TRANSLATION_CLASS)) return false;
 				if (el.closest(`.${TRANSLATION_CLASS}`)) return false;
 				const tag = el.tagName.toLowerCase();
-				if (tag !== "label" && el.querySelector("input, textarea, select")) return false;
-				if (tag !== "label" && el.children.length > 0) return false;
+				if (tag !== "label" && tag !== "option" && el.querySelector("input, textarea, select")) return false;
+				if (tag !== "label" && tag !== "option" && el.children.length > 0) return false;
 				const text = this.normalizeText(el.innerText || "");
 				if (!text) return false;
 				if (text.length < 2) return false;
@@ -238,6 +238,10 @@ export class TranslationSession {
 			const span = document.createElement("span");
 			span.textContent = text;
 			el.appendChild(span);
+			return;
+		}
+		if (tag === "option") {
+			el.textContent = text;
 			return;
 		}
 		el.textContent = text;
@@ -564,7 +568,7 @@ export class TranslationSession {
 			tag === "button" ||
 			tag === "select" ||
 			tag === "textarea" ||
-			tag === "option" ||
+			tag === "option" || // option 也视为交互，防止克隆丢失所属 select
 			tag === "input" ||
 			tag === "label" ||
 			(tag === "a" && (el as HTMLAnchorElement).href)
