@@ -8,7 +8,7 @@
 - 支持 OpenAI 兼容接口（自定义模型、system/user prompt）或简单文本接口（LibreTranslate 兼容）。
 - 可配置“不翻译的选择器”，默认跳过设置页侧边栏。
 - 译文样式为行内块，尽量不破坏布局。
-- 本地持久化词典：优先命中字典，无需重复请求；存放于插件目录的 `translation/`，内置约 1000 条上限并防抖写盘，格式含 `version/scope/entries`，便于未来分享。
+- 本地持久化词典：优先命中字典，无需重复请求；存放于插件目录的 `translation/`，翻译积攒到一定量后防抖写盘，格式含 `version/scope/entries`，便于未来分享。
 - 译文可就地编辑：每条译文有编辑按钮，修改后写回词典；支持重置为自动翻译。
 - 自动应用词典：检测到页面/界面变动后，自动用所有可用词典填充已有翻译，无需重复请求接口。
 
@@ -29,7 +29,7 @@
 - 构建：`npm run build`
 - 手动安装：将 `main.js`、`manifest.json`、`styles.css` 复制到 `<Vault>/.obsidian/plugins/kiss-translator-obsidian/`。
 
-## 已知限制 / 待规划
+## 待改进项
 - UI 翻译的“归属插件”目前默认存放到全局词典，可通过“跳过选择器”自定义范围，暂未自动识别插件来源。
 - 词典落盘在桌面端路径 `<Vault>/.obsidian/plugins/kiss-translator-obsidian/translation/`；移动端或无写权限环境暂未验证。
 
@@ -69,3 +69,12 @@
 - 新增全局悬浮球，点击翻译/清除当前界面；支持拖拽位置。
 - 设置页文案改为中文，新增“不翻译的选择器”配置并默认屏蔽设置侧边栏。
 - 译文样式改为紧凑行内块，减少布局影响；README 更新使用与构建说明。
+
+# 致谢
+
+- 本项目基于[fishjar/kiss-translator: A simple, open source bilingual translation extension &amp; Greasemonkey script (一个简约、开源的 双语对照翻译扩展 &amp; 油猴脚本)](https://github.com/fishjar/kiss-translator "fishjar/kiss-translator: A simple, open source bilingual translation extension &amp; Greasemonkey script (一个简约、开源的 双语对照翻译扩展 &amp; 油猴脚本)")开发
+
+
+# vide coding 警告
+
+本项目大量使用ai辅助编程。
