@@ -8,15 +8,15 @@ If your plugin does not need CSS, delete this file.
 */
 
 .kiss-translated-block {
-	display: inline-block;
-	margin: 2px 6px;
-	padding: 2px 6px;
-	border-left: 2px solid var(--interactive-accent);
-	background-color: var(--background-secondary);
-	border-radius: 4px;
-	color: var(--text-normal);
-	font-size: 0.95em;
-	line-height: 1.4;
+	display: inline;
+	margin: 0;
+	padding: 0;
+	border: none;
+	background: none;
+	border-radius: 0;
+	color: inherit;
+	font-size: inherit;
+	line-height: inherit;
 }
 
 .kiss-translated-block:last-child {

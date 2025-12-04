@@ -72,14 +72,14 @@ export class TranslationSession {
 	private hideOriginal() {
 		this.translated.forEach((_translation, original) => {
 			original.classList.add(HIDE_ORIGINAL_CLASS);
-			(original as HTMLElement).style.visibility = "hidden";
+			(original as HTMLElement).style.display = "none";
 		});
 	}
 
 	private restoreOriginalVisibility() {
 		this.translated.forEach((_translation, original) => {
 			original.classList.remove(HIDE_ORIGINAL_CLASS);
-			(original as HTMLElement).style.visibility = "";
+			(original as HTMLElement).style.display = "";
 		});
 	}
 
@@ -150,13 +150,11 @@ export class TranslationSession {
 		translation.classList.add(TRANSLATION_CLASS);
 		translation.removeAttribute("id");
 		this.copyInlineStyles(block, translation);
-		const inner = document.createElement("span");
-		inner.textContent = translated;
-		inner.setAttribute("data-source", text);
-		inner.setAttribute("data-translated", translated);
-		inner.setAttribute("data-original", text);
-		this.attachHoverSwap(translation, inner);
-		translation.appendChild(inner);
+		translation.textContent = translated;
+		translation.setAttribute("data-source", text);
+		translation.setAttribute("data-translated", translated);
+		translation.setAttribute("data-original", text);
+		this.attachHoverSwap(translation);
 
 		const dictKey = this.dict?.genKey({
 			text,
@@ -167,29 +165,29 @@ export class TranslationSession {
 			promptSig: this.promptSig,
 		});
 		if (dictKey && this.dict) {
-			this.attachEditControls(translation, inner, dictKey, text);
+			this.attachEditControls(translation, translation, dictKey, text);
 		}
 
 		block.insertAdjacentElement("afterend", translation);
 		this.translated.set(block, translation);
 	}
 
-	private attachHoverSwap(wrapper: HTMLElement, inner: HTMLElement) {
+	private attachHoverSwap(wrapper: HTMLElement) {
 		const swapText = (next: string) => {
-			inner.classList.add("kiss-switching");
-			inner.style.opacity = "0";
-			inner.style.filter = "blur(2px)";
+			wrapper.classList.add("kiss-switching");
+			wrapper.style.opacity = "0";
+			wrapper.style.filter = "blur(2px)";
 			setTimeout(() => {
-				inner.textContent = next;
-				inner.style.opacity = "1";
-				inner.style.filter = "blur(0)";
-				inner.classList.remove("kiss-switching");
+				wrapper.textContent = next;
+				wrapper.style.opacity = "1";
+				wrapper.style.filter = "blur(0)";
+				wrapper.classList.remove("kiss-switching");
 			}, 150);
 		};
 
 		wrapper.addEventListener("mouseenter", () => {
 			if (!this.settings.hideOriginal || !this.settings.smartOriginal) return;
-			const ori = inner.getAttribute("data-original");
+			const ori = wrapper.getAttribute("data-original");
 			if (ori) {
 				wrapper.classList.add("kiss-hovering-original");
 				swapText(ori);
@@ -197,7 +195,7 @@ export class TranslationSession {
 		});
 		wrapper.addEventListener("mouseleave", () => {
 			if (!this.settings.hideOriginal || !this.settings.smartOriginal) return;
-			const tr = inner.getAttribute("data-translated");
+			const tr = wrapper.getAttribute("data-translated");
 			if (tr) {
 				wrapper.classList.remove("kiss-hovering-original");
 				swapText(tr);
