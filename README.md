@@ -43,6 +43,15 @@
 - 暂不支持移动端
 - 每次进入编辑模式，会在最后加一个`edit`
 
+## 致谢
+
+- 本项目受到[fishjar/kiss-translator: A simple, open source bilingual translation extension &amp; Greasemonkey script (一个简约、开源的 双语对照翻译扩展 &amp; 油猴脚本)](https://github.com/fishjar/kiss-translator)启发
+- 沉浸式翻译很好用，但是sdk不公开了，故开发此插件
+
+## Vibe Coding警告
+
+本插件开发基本使用AI完成。
+
 ## Changelog
 
 ### 0.7.0
