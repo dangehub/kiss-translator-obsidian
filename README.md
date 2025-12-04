@@ -7,7 +7,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![GPL-3.0 License][license-shield]][license-url]
 
 ---
 
@@ -98,4 +97,3 @@
 [stars-url]: https://github.com/dangehub/kiss-translator-obsidian/stargazers
 [issues-shield]: https://img.shields.io/github/issues/dangehub/kiss-translator-obsidian.svg?style=flat-square
 [issues-url]: https://img.shields.io/github/issues/dangehub/kiss-translator-obsidian.svg
-[license-shield]: https://img.shields.io/github/license/dangehub/kiss-translator-obsidian.svg?style=flat-square
