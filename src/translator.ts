@@ -284,8 +284,11 @@ export class TranslationSession {
 		if (!this.dict || !this.settings.editMode) return;
 		const btn = document.createElement("button");
 		btn.className = EDIT_BTN_CLASS;
-		btn.textContent = "Edit";
+		btn.type = "button";
 		btn.title = "编辑译文";
+		btn.setAttribute("aria-label", "编辑译文");
+		btn.innerHTML =
+			'<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="kiss-edit-icon"><path d="M12 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path><path d="M18.375 2.625a1 1 0 0 1 3 3l-9.013 9.014a2 2 0 0 1-.853.505l-2.873.84a.5.5 0 0 1-.62-.62l.84-2.873a2 2 0 0 1 .506-.852z"></path></svg>';
 		btn.addEventListener("click", (evt) => {
 			evt.stopPropagation();
 			this.openEditor(wrapper, inner, dictKey, source);
@@ -299,7 +302,10 @@ export class TranslationSession {
 		dictKey: string,
 		source: string
 	) {
-		const current = inner.textContent || "";
+		const current =
+			inner.getAttribute("data-translated") ||
+			inner.textContent ||
+			"";
 		const host = document.createElement("div");
 		host.className = EDIT_WRAPPER_CLASS;
 
@@ -339,7 +345,7 @@ export class TranslationSession {
 		saveBtn.onclick = async () => {
 			const val = textarea.value.trim();
 			if (!val) return;
-			inner.textContent = val;
+			this.setElementText(inner, val);
 			inner.setAttribute("data-translated", val);
 			this.cache.set(source, val);
 			await this.dict?.set(this.scopeId, {
