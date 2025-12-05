@@ -15,6 +15,7 @@ export class FloatingFab {
 	private touchStart: { x: number; y: number } | null = null;
 	private pos = { x: 0, y: 0 };
 	private cleanupFns: Array<() => void> = [];
+	private fabSize = { w: 44, h: 44 };
 
 	constructor(plugin: KissTranslatorPlugin) {
 		this.plugin = plugin;
@@ -34,9 +35,10 @@ export class FloatingFab {
 		fab.className = "kiss-fab";
 		const saved = this.plugin.settings.fabPosition;
 		if (saved && typeof saved.x === "number" && typeof saved.y === "number") {
-			this.pos = { x: saved.x, y: saved.y };
-			fab.style.left = `${saved.x}px`;
-			fab.style.top = `${saved.y}px`;
+			const clamped = this.clampPosition(saved.x, saved.y);
+			this.pos = clamped;
+			fab.style.left = `${clamped.x}px`;
+			fab.style.top = `${clamped.y}px`;
 			fab.style.right = "auto";
 			fab.style.bottom = "auto";
 		}
@@ -66,8 +68,8 @@ export class FloatingFab {
 				}
 			}
 			if (!this.dragging) return;
-			const x = Math.max(0, Math.min(window.innerWidth - 44, clientX - this.offsetX));
-			const y = Math.max(0, Math.min(window.innerHeight - 44, clientY - this.offsetY));
+			const clamped = this.clampPosition(clientX - this.offsetX, clientY - this.offsetY);
+			const { x, y } = clamped;
 			this.pos = { x, y };
 			fab.style.left = `${x}px`;
 			fab.style.top = `${y}px`;
@@ -166,6 +168,19 @@ export class FloatingFab {
 		fab.addEventListener("contextmenu", onContext);
 		this.cleanupFns.push(() => fab.removeEventListener("contextmenu", onContext));
 
+		const onResize = () => {
+			const clamped = this.clampPosition(this.pos.x, this.pos.y);
+			this.pos = clamped;
+			if (this.el) {
+				this.el.style.left = `${clamped.x}px`;
+				this.el.style.top = `${clamped.y}px`;
+				this.el.style.right = "auto";
+				this.el.style.bottom = "auto";
+			}
+		};
+		window.addEventListener("resize", onResize);
+		this.cleanupFns.push(() => window.removeEventListener("resize", onResize));
+
 		document.body.appendChild(fab);
 		this.el = fab;
 	}
@@ -188,6 +203,15 @@ export class FloatingFab {
 		this.el = null;
 		this.cleanupFns.forEach((fn) => fn());
 		this.cleanupFns = [];
+	}
+
+	private clampPosition(x: number, y: number) {
+		const maxX = Math.max(0, window.innerWidth - this.fabSize.w);
+		const maxY = Math.max(0, window.innerHeight - this.fabSize.h);
+		return {
+			x: Math.max(0, Math.min(maxX, x)),
+			y: Math.max(0, Math.min(maxY, y)),
+		};
 	}
 
 	private getPoint(evt: MouseEvent | TouchEvent) {
