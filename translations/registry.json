@@ -1,0 +1,13 @@
+{
+  "dictionaries": [
+    {
+      "id": "pdf-plus-plus",
+      "scope": "PDF++",
+      "name": "PDF++ 词典",
+      "description": "PDF++ UI 词典",
+      "downloadUrl": "https://github.com/dangehub/kiss-translator-obsidian/raw/refs/heads/main/translations/pdf++.json",
+      "updatedAt": 1736000000000,
+      "entryCount": 80
+    }
+  ]
+}
