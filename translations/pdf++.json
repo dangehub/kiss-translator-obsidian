@@ -3,480 +3,6 @@
   "scope": "PDF++",
   "entries": [
     {
-      "key": "38958a0738958a0738958a07",
-      "source": "Editing PDF files",
-      "translated": "编辑 PDF 文件",
-      "updatedAt": 1764924172094
-    },
-    {
-      "key": "47726a6747726a6747726a67",
-      "source": "Backlink highlighting",
-      "translated": "反向链接高亮",
-      "updatedAt": 1764924172636
-    },
-    {
-      "key": "7911ea867911ea867911ea86",
-      "source": "Rectangular selection embeds",
-      "translated": "矩形选择嵌入",
-      "updatedAt": 1764924173559
-    },
-    {
-      "key": "678203d1678203d1678203d1",
-      "source": "PDF++ callouts",
-      "translated": "PDF++ 注释",
-      "updatedAt": 1764924174329
-    },
-    {
-      "key": "197e55e7197e55e7197e55e7",
-      "source": "PDF toolbar",
-      "translated": "PDF 工具栏",
-      "updatedAt": 1764924176082
-    },
-    {
-      "key": "e2c51f56e2c51f56e2c51f56",
-      "source": "Viewer options",
-      "translated": "查看器选项",
-      "updatedAt": 1764924176663
-    },
-    {
-      "key": "97c62c7f97c62c7f97c62c7f",
-      "source": "Context menu in PDF viewer",
-      "translated": "PDF查看器中的上下文菜单",
-      "updatedAt": 1764924177703
-    },
-    {
-      "key": "5642f3185642f3185642f318",
-      "source": "Copying on mobile",
-      "translated": "移动设备上的复制",
-      "updatedAt": 1764924179455
-    },
-    {
-      "key": "3923a8633923a8633923a863",
-      "source": "Copying links via hotkeys",
-      "translated": "通过快捷键复制链接",
-      "updatedAt": 1764924180185
-    },
-    {
-      "key": "01a1861c01a1861c01a1861c",
-      "source": "Other shortcut commands",
-      "translated": "其他快捷命令",
-      "updatedAt": 1764924181237
-    },
-    {
-      "key": "9256a7ba9256a7ba9256a7ba",
-      "source": "Copy templates",
-      "translated": "复制模板",
-      "updatedAt": 1764924181811
-    },
-    {
-      "key": "eb78ef44eb78ef44eb78ef44",
-      "source": "Auto-copy / auto-focus / auto-paste",
-      "translated": "自动复制 / 自动聚焦 / 自动粘贴",
-      "updatedAt": 1764924183609
-    },
-    {
-      "key": "1736e03a1736e03a1736e03a",
-      "source": "PDF Annotations",
-      "translated": "PDF 注释",
-      "updatedAt": 1764924184781
-    },
-    {
-      "key": "9b8656fa9b8656fa9b8656fa",
-      "source": "PDF internal links",
-      "translated": "PDF 内部链接",
-      "updatedAt": 1764924186175
-    },
-    {
-      "key": "5cc646545cc646545cc64654",
-      "source": "Citations in PDF (experimental)",
-      "translated": "PDF 中的引用（实验性）",
-      "updatedAt": 1764924187010
-    },
-    {
-      "key": "fe0ec2e7fe0ec2e7fe0ec2e7",
-      "source": "External links in PDF",
-      "translated": "PDF 中的外部链接",
-      "updatedAt": 1764924188011
-    },
-    {
-      "key": "473086c4473086c4473086c4",
-      "source": "PDF sidebar",
-      "translated": "PDF 侧边栏",
-      "updatedAt": 1764924189120
-    },
-    {
-      "key": "f76aed42f76aed42f76aed42",
-      "source": "PDF outline (table of contents)",
-      "translated": "PDF 大纲（目录）",
-      "updatedAt": 1764924190308
-    },
-    {
-      "key": "616ac1b1616ac1b1616ac1b1",
-      "source": "PDF thumbnails",
-      "translated": "PDF 缩略图",
-      "updatedAt": 1764924192989
-    },
-    {
-      "key": "75a2c8aa75a2c8aa75a2c8aa",
-      "source": "PDF page composer (experimental)",
-      "translated": "PDF 页面合成器（实验性）",
-      "updatedAt": 1764924193781
-    },
-    {
-      "key": "959271679592716795927167",
-      "source": "Opening links to PDF files",
-      "translated": "打开指向PDF文件的链接",
-      "updatedAt": 1764924194459
-    },
-    {
-      "key": "eafc2314eafc2314eafc2314",
-      "source": "Embedding PDF files",
-      "translated": "嵌入 PDF 文件",
-      "updatedAt": 1764924195206
-    },
-    {
-      "key": "dfd29e22dfd29e22dfd29e22",
-      "source": "Backlinks pane for PDF files",
-      "translated": "PDF 文件的反向链接面板",
-      "updatedAt": 1764924197465
-    },
-    {
-      "key": "5ff0ac775ff0ac775ff0ac77",
-      "source": "Search from links",
-      "translated": "从链接中搜索",
-      "updatedAt": 1764924198699
-    },
-    {
-      "key": "f5213985f5213985f5213985",
-      "source": "Integration with external apps (desktop-only)",
-      "translated": "与外部应用集成（仅限桌面端）",
-      "updatedAt": 1764924200164
-    },
-    {
-      "key": "799641367996413679964136",
-      "source": "View Sync",
-      "translated": "查看同步",
-      "updatedAt": 1764924200740
-    },
-    {
-      "key": "319e3ae6319e3ae6319e3ae6",
-      "source": "Dummy PDFs for external files",
-      "translated": "外部文件的占位 PDF",
-      "updatedAt": 1764924201642
-    },
-    {
-      "key": "8580f4eb8580f4eb8580f4eb",
-      "source": "Vim keybindings",
-      "translated": "Vim 快捷键",
-      "updatedAt": 1764924202868
-    },
-    {
-      "key": "0cb0f5280cb0f5280cb0f528",
-      "source": "Misc",
-      "translated": "杂项",
-      "updatedAt": 1764924204186
-    },
-    {
-      "key": "c6ccaeaec6ccaeaec6ccaeae",
-      "source": "Style settings",
-      "translated": "样式设置",
-      "updatedAt": 1764924204802
-    },
-    {
-      "key": "dbed11c0dbed11c0dbed11c0",
-      "source": "Support development",
-      "translated": "支持开发",
-      "updatedAt": 1764924205530
-    },
-    {
-      "key": "78fa425178fa425178fa4251",
-      "source": "Tip",
-      "translated": "提示",
-      "updatedAt": 1764924206707
-    },
-    {
-      "key": "ae56b5bcae56b5bcae56b5bc",
-      "source": "You can easily navigate through the settings by clicking the icons in the header above.",
-      "translated": "您只需点击上方标题栏中的图标，即可轻松浏览各项设置。",
-      "updatedAt": 1764924208897
-    },
-    {
-      "key": "abf54fd1abf54fd1abf54fd1",
-      "source": "Some settings below require reopening tabs or reloading the plugin to take effect.",
-      "translated": "以下某些设置需要重新打开标签页或重新加载插件才能生效。",
-      "updatedAt": 1764924210123
-    },
-    {
-      "key": "56a398a156a398a156a398a1",
-      "source": "By allowing PDF++ to modify PDF files directly, you can:",
-      "translated": "通过允许 PDF++ 直接修改 PDF 文件，您可以：",
-      "updatedAt": 1764924212171
-    },
-    {
-      "key": "ad80904aad80904aad80904a",
-      "source": "Add, edit and delete highlights and links in PDF files.",
-      "translated": "在 PDF 文件中添加、编辑和删除高亮和链接。",
-      "updatedAt": 1764924213491
-    },
-    {
-      "key": "64eca59464eca59464eca594",
-      "source": "Add, insert, delete or extract PDF pages and auto-update links.",
-      "translated": "添加、插入、删除或提取 PDF 页面并自动更新链接。",
-      "updatedAt": 1764924215531
-    },
-    {
-      "key": "204041c6204041c6204041c6",
-      "source": "Add, rename, move and delete outline items.",
-      "translated": "添加、重命名、移动和删除大纲项。",
-      "updatedAt": 1764924216332
-    },
-    {
-      "key": "75124a5375124a5375124a53",
-      "source": "Enable PDF editing",
-      "translated": "启用 PDF 编辑",
-      "updatedAt": 1764924217072
-    },
-    {
-      "key": "6fbf35bc6fbf35bc6fbf35bc",
-      "source": "The author assumes no responsibility for any data corruption. Please make sure you have a backup of your files.",
-      "translated": "作者不对任何数据损坏承担责任。请确保您已备份好自己的文件。",
-      "updatedAt": 1764924218707
-    },
-    {
-      "key": "98f5f53398f5f53398f5f533",
-      "source": "Annotate PDF files with highlights just by linking to text selection. You can easily copy links to selections using color palette in the toolbar. See the \"Color palette\" section for the details.",
-      "translated": "只需链接到文本选区，即可用高亮标注 PDF 文件。您可以使用工具栏中的调色板轻松复制选区的链接。详情请参见“调色板”部分。",
-      "updatedAt": 1764924220380
-    },
-    {
-      "key": "dda8d01bdda8d01bdda8d01b",
-      "source": "Highlight backlinks in PDF viewer",
-      "translated": "在 PDF 阅读器中高亮显示反向链接",
-      "updatedAt": 1764924221421
-    },
-    {
-      "key": "7857ff3b7857ff3b7857ff3b",
-      "source": "In the PDF viewer, any referenced text will be highlighted for easy identification.",
-      "translated": "在 PDF 查看器中，所有被引用的文本都会被高亮显示，以便于识别。",
-      "updatedAt": 1764924223059
-    },
-    {
-      "key": "fd79a107fd79a107fd79a107",
-      "source": "Try turning off the following options if you experience performance issues.",
-      "translated": "如果遇到性能问题，请尝试关闭以下选项。",
-      "updatedAt": 1764924223889
-    },
-    {
-      "key": "5f65e4795f65e4795f65e479",
-      "source": "Highlight backlinks in PDF embeds",
-      "translated": "在 PDF 嵌入中高亮显示反向链接",
-      "updatedAt": 1764924224624
-    },
-    {
-      "key": "9d007fdb9d007fdb9d007fdb",
-      "source": "Highlight backlinks in Canvas",
-      "translated": "在 Canvas 中高亮显示反向链接",
-      "updatedAt": 1764924225464
-    },
-    {
-      "key": "cb3dfbcdcb3dfbcdcb3dfbcd",
-      "source": "Highlight backlinks in hover popover previews",
-      "translated": "在悬停弹出预览中高亮显示反向链接",
-      "updatedAt": 1764924226555
-    },
-    {
-      "key": "f7137c7bf7137c7bf7137c7b",
-      "source": "Highlight style",
-      "translated": "高亮样式",
-      "updatedAt": 1764924227044
-    },
-    {
-      "key": "04feb5d504feb5d504feb5d5",
-      "source": "How backlinks to a text selection should be visualized.",
-      "translated": "应如何可视化指向某段文本的反向链接。",
-      "updatedAt": 1764924228017
-    },
-    {
-      "key": "d38071ecd38071ecd38071ec",
-      "source": "Highlight",
-      "translated": "高亮",
-      "updatedAt": 1764924228961
-    },
-    {
-      "key": "0b2e445a0b2e445a0b2e445a",
-      "source": "Underline",
-      "translated": "下划线",
-      "updatedAt": 1764924230977
-    },
-    {
-      "key": "959266729592667295926672",
-      "source": "Action when hovering over highlighted text",
-      "translated": "悬停在高亮文本上时的操作",
-      "updatedAt": 1764924231654
-    },
-    {
-      "key": "5d5ea19d5d5ea19d5d5ea19d",
-      "source": "Easily open backlinks or display a popover preview of it by pressing ctrl (by default) while hovering over a highlighted text in PDF viewer.",
-      "translated": "在 PDF 阅读器中，将鼠标悬停在高亮文本上并按住 Ctrl 键（默认），即可轻松打开反向链接或显示其弹出预览。",
-      "updatedAt": 1764924234016
-    },
-    {
-      "key": "5b3be8c35b3be8c35b3be8c3",
-      "source": "Open backlink",
-      "translated": "开放反向链接",
-      "updatedAt": 1764924234596
-    },
-    {
-      "key": "737e69d5737e69d5737e69d5",
-      "source": "Popover preview of backlink",
-      "translated": "反向链接的弹出预览",
-      "updatedAt": 1764924235159
-    },
-    {
-      "key": "671161566711615667116156",
-      "source": "Require ctrl key while hovering",
-      "translated": "悬停时需要按住 Ctrl 键",
-      "updatedAt": 1764924235782
-    },
-    {
-      "key": "7f0d44997f0d44997f0d4499",
-      "source": "Currently required. You can toggle this on and off in the core Page Preview plugin settings > PDF++: backlink highlights.",
-      "translated": "当前为必填项。您可以在核心“页面预览”插件设置 > PDF++：反向链接高亮中开启或关闭此选项。",
-      "updatedAt": 1764924237381
-    },
-    {
-      "key": "0c2bb5b40c2bb5b40c2bb5b4",
-      "source": "Open page preview settings",
-      "translated": "打开页面预览设置",
-      "updatedAt": 1764924238106
-    },
-    {
-      "key": "aa14e1f9aa14e1f9aa14e1f9",
-      "source": "Double click highlighted text to open the corresponding backlink",
-      "translated": "双击高亮文本以打开对应的反向链接",
-      "updatedAt": 1764924239166
-    },
-    {
-      "key": "7e6153f77e6153f77e6153f7",
-      "source": "How backlinks are opened",
-      "translated": "反向链接是如何打开的",
-      "updatedAt": 1764924240101
-    },
-    {
-      "key": "eb56fc32eb56fc32eb56fc32",
-      "source": "Customize how backlinks are opened when double-clicking highlighted text.",
-      "translated": "自定义双击高亮文本时反向链接的打开方式。",
-      "updatedAt": 1764924240963
-    },
-    {
-      "key": "c4796320c4796320c4796320",
-      "source": "How to open the markdown file when no markdown file is opened",
-      "translated": "当没有打开任何 Markdown 文件时，如何打开 Markdown 文件",
-      "updatedAt": 1764924242056
-    },
-    {
-      "key": "159acaa2159acaa2159acaa2",
-      "source": "Current tab",
-      "translated": "当前标签页",
-      "updatedAt": 1764924243149
-    },
-    {
-      "key": "7f79b7777f79b7777f79b777",
-      "source": "New tab",
-      "translated": "新标签页",
-      "updatedAt": 1764924243736
-    },
-    {
-      "key": "617b7f6e617b7f6e617b7f6e",
-      "source": "Split right",
-      "translated": "向右分割",
-      "updatedAt": 1764924244634
-    },
-    {
-      "key": "cd7c9c15cd7c9c15cd7c9c15",
-      "source": "Split left",
-      "translated": "向左分割",
-      "updatedAt": 1764924245404
-    },
-    {
-      "key": "e8c40dfce8c40dfce8c40dfc",
-      "source": "Split down",
-      "translated": "向下拆分",
-      "updatedAt": 1764924247492
-    },
-    {
-      "key": "62801fab62801fab62801fab",
-      "source": "Split up",
-      "translated": "分开",
-      "updatedAt": 1764924248147
-    },
-    {
-      "key": "01b2278c01b2278c01b2278c",
-      "source": "New window",
-      "translated": "新窗口",
-      "updatedAt": 1764924250722
-    },
-    {
-      "key": "03e32ff603e32ff603e32ff6",
-      "source": "Right sidebar",
-      "translated": "右侧边栏",
-      "updatedAt": 1764924251426
-    },
-    {
-      "key": "47e8424d47e8424d47e8424d",
-      "source": "Left sidebar",
-      "translated": "左侧边栏",
-      "updatedAt": 1764924252364
-    },
-    {
-      "key": "6f282afd6f282afd6f282afd",
-      "source": "Ignore existing markdown tabs in...",
-      "translated": "忽略现有的 Markdown 制表符……",
-      "updatedAt": 1764924253266
-    },
-    {
-      "key": "b2396406b2396406b2396406",
-      "source": "If some notes are opened in the ignored splits, PDF++ will still open the backlink in the way specified in the previous setting. For example, you might want to ignore the left sidebar if you are pinning a certain note (e.g. daily note) in it.",
-      "translated": "如果某些笔记在被忽略的分栏中打开，PDF++ 仍会按照前述设置指定的方式打开反向链接。例如，如果你在左侧边栏中固定了某篇笔记（如每日笔记），你可能希望忽略该侧边栏。",
-      "updatedAt": 1764924255323
-    },
-    {
-      "key": "12f1aa4212f1aa4212f1aa42",
-      "source": "Popout windows",
-      "translated": "弹出窗口",
-      "updatedAt": 1764924256020
-    },
-    {
-      "key": "5b9694dc5b9694dc5b9694dc",
-      "source": "Don't move focus to markdown view after opening a backlink",
-      "translated": "打开反向链接后不要将焦点移至 Markdown 视图",
-      "updatedAt": 1764924257131
-    },
-    {
-      "key": "85e98bc285e98bc285e98bc2",
-      "source": "This option will be ignored when you open a link in a tab in the same split as the current tab.",
-      "translated": "当你在与当前标签页相同的分屏中打开链接时，此选项将被忽略。",
-      "updatedAt": 1764924258272
-    },
-    {
-      "key": "59e5339259e5339259e53392",
-      "source": "Colors",
-      "translated": "颜色",
-      "updatedAt": 1764924258815
-    },
-    {
-      "key": "584231825842318258423182",
-      "source": "Highlight colors",
-      "translated": "高亮颜色",
-      "updatedAt": 1764924259402
-    },
-    {
-      "key": "7fdd44437fdd44437fdd4443",
-      "source": "You can ues the color palette in PDF toolbars to easily copy links with \"&color=...\" appended automatically. See the \"Color palette\" section for the details.",
-      "translated": "您可以使用 PDF 工具栏中的调色板，轻松复制自动附加了“&color=...”的链接。详情请参见“调色板”部分。",
-      "updatedAt": 1764924260799
-    },
-    {
       "key": "ac165d69ac165d69ac165d69",
       "source": "You can also opt not to use this plugin-dependent notation and apply a single color (the \"default highlight color\" setting) to all highlights.",
       "translated": "你也可以选择不使用这种依赖插件的标注方式，而对所有高亮应用单一颜色（即“默认高亮颜色”设置）。",
@@ -505,36 +31,6 @@
       "source": "If no color is specified in link text, this color will be used.",
       "translated": "如果链接文本中未指定颜色，将使用此颜色。",
       "updatedAt": 1764924267860
-    },
-    {
-      "key": "581dc6c2581dc6c2581dc6c2",
-      "source": "Obsidian default",
-      "translated": "Obsidian 默认",
-      "updatedAt": 1764924268559
-    },
-    {
-      "key": "66364cb866364cb866364cb8",
-      "source": "Yellow",
-      "translated": "黄色",
-      "updatedAt": 1764924269031
-    },
-    {
-      "key": "fe2e424ffe2e424ffe2e424f",
-      "source": "Red",
-      "translated": "红色",
-      "updatedAt": 1764924269823
-    },
-    {
-      "key": "35baf76c35baf76c35baf76c",
-      "source": "Note",
-      "translated": "注意",
-      "updatedAt": 1764924270411
-    },
-    {
-      "key": "450119ba450119ba450119ba",
-      "source": "Important",
-      "translated": "重要",
-      "updatedAt": 1764924270975
     },
     {
       "key": "364f3896364f3896364f3896",
@@ -747,12 +243,6 @@
       "updatedAt": 1764924318819
     },
     {
-      "key": "88997a5988997a5988997a59",
-      "source": "Don't specify",
-      "translated": "不要指定",
-      "updatedAt": 1764924319401
-    },
-    {
       "key": "a4b2f26fa4b2f26fa4b2f26f",
       "source": "Share a single color among all color palettes",
       "translated": "在所有调色板中共享一种颜色",
@@ -795,88 +285,16 @@
       "updatedAt": 1764924326426
     },
     {
-      "key": "aa5c6961aa5c6961aa5c6961",
-      "source": "Fit width",
-      "translated": "适应宽度",
-      "updatedAt": 1764924327248
-    },
-    {
-      "key": "41a06d9841a06d9841a06d98",
-      "source": "Fit height",
-      "translated": "适应高度",
-      "updatedAt": 1764924327813
-    },
-    {
-      "key": "b2ad9554b2ad9554b2ad9554",
-      "source": "Fit page",
-      "translated": "适合页面",
-      "updatedAt": 1764924328233
-    },
-    {
-      "key": "386a72e1386a72e1386a72e1",
-      "source": "Custom...",
-      "translated": "自定义...",
-      "updatedAt": 1764924329942
-    },
-    {
-      "key": "cf030ceacf030ceacf030cea",
-      "source": "Custom zoom level (%)",
-      "translated": "自定义缩放比例 (%)",
-      "updatedAt": 1764924331018
-    },
-    {
       "key": "12ec6c5912ec6c5912ec6c59",
       "source": "Default scroll mode",
       "translated": "默认滚动模式",
       "updatedAt": 1764924331811
     },
     {
-      "key": "b4c7096eb4c7096eb4c7096e",
-      "source": "Vertical",
-      "translated": "垂直",
-      "updatedAt": 1764924333759
-    },
-    {
-      "key": "2fd347022fd347022fd34702",
-      "source": "Horizontal",
-      "translated": "水平",
-      "updatedAt": 1764924334365
-    },
-    {
-      "key": "22f7df1922f7df1922f7df19",
-      "source": "Wrapped",
-      "translated": "已包装",
-      "updatedAt": 1764924334904
-    },
-    {
-      "key": "c0e2b245c0e2b245c0e2b245",
-      "source": "In-page",
-      "translated": "页内",
-      "updatedAt": 1764924335455
-    },
-    {
       "key": "939abd25939abd25939abd25",
       "source": "Default spread mode",
       "translated": "默认展开模式",
       "updatedAt": 1764924337246
-    },
-    {
-      "key": "b48af375b48af375b48af375",
-      "source": "Single page",
-      "translated": "单页",
-      "updatedAt": 1764924338074
-    },
-    {
-      "key": "1e92c38d1e92c38d1e92c38d",
-      "source": "Two page (odd)",
-      "translated": "两页（奇数页）",
-      "updatedAt": 1764924338721
-    },
-    {
-      "key": "eaabd01aeaabd01aeaabd01a",
-      "source": "Two page (even)",
-      "translated": "两页（偶数）",
-      "updatedAt": 1764924339660
     },
     {
       "key": "674674d2674674d2674674d2",
@@ -913,42 +331,6 @@
       "source": "Show the context menu right after selecting text when...",
       "translated": "在...时，选中文本后立即显示上下文菜单",
       "updatedAt": 1764924348668
-    },
-    {
-      "key": "5e302f4d5e302f4d5e302f4d",
-      "source": "Always",
-      "translated": "总是",
-      "updatedAt": 1764924349275
-    },
-    {
-      "key": "3fcae41e3fcae41e3fcae41e",
-      "source": "Ctrl key is pressed",
-      "translated": "Ctrl 键已按下",
-      "updatedAt": 1764924349983
-    },
-    {
-      "key": "e83cd2e7e83cd2e7e83cd2e7",
-      "source": "Win key is pressed",
-      "translated": "Win 键已按下",
-      "updatedAt": 1764924350559
-    },
-    {
-      "key": "2ca555d72ca555d72ca555d7",
-      "source": "Shift key is pressed",
-      "translated": "Shift 键已按下",
-      "updatedAt": 1764924351330
-    },
-    {
-      "key": "5884a06e5884a06e5884a06e",
-      "source": "Alt key is pressed",
-      "translated": "Alt 键已按下",
-      "updatedAt": 1764924352007
-    },
-    {
-      "key": "37ffe33637ffe33637ffe336",
-      "source": "Never",
-      "translated": "从不",
-      "updatedAt": 1764924353135
     },
     {
       "key": "84be15e984be15e984be15e9",
@@ -1059,28 +441,10 @@
       "updatedAt": 1764924370407
     },
     {
-      "key": "524dd4da524dd4da524dd4da",
-      "source": "Copy format",
-      "translated": "复制格式",
-      "updatedAt": 1764924371754
-    },
-    {
-      "key": "b9661e78b9661e78b9661e78",
-      "source": "Display text format",
-      "translated": "显示文本格式",
-      "updatedAt": 1764924372225
-    },
-    {
       "key": "4eea3fab4eea3fab4eea3fab",
       "source": "Submenu",
       "translated": "子菜单",
       "updatedAt": 1764924372735
-    },
-    {
-      "key": "15cba8b615cba8b615cba8b6",
-      "source": "None",
-      "translated": "无",
-      "updatedAt": 1764924373511
     },
     {
       "key": "6a20570f6a20570f6a20570f",
@@ -1105,24 +469,6 @@
       "source": "Action triggered by selecting \"Copy\" option on mobile devices",
       "translated": "通过在移动设备上选择“复制”选项触发的操作",
       "updatedAt": 1764924379969
-    },
-    {
-      "key": "b5407624b5407624b5407624",
-      "source": "Copy text",
-      "translated": "复制文本",
-      "updatedAt": 1764924380608
-    },
-    {
-      "key": "99a4e0ae99a4e0ae99a4e0ae",
-      "source": "Obsidian default (copy as quote)",
-      "translated": "Obsidian 默认（复制为引用）",
-      "updatedAt": 1764924382069
-    },
-    {
-      "key": "0342ecb10342ecb10342ecb1",
-      "source": "Run PDF++'s copy command",
-      "translated": "运行 PDF++ 的复制命令",
-      "updatedAt": 1764924382851
     },
     {
       "key": "41b8b46141b8b46141b8b461",
@@ -1263,30 +609,6 @@
       "updatedAt": 1764924413042
     },
     {
-      "key": "28b33b6928b33b6928b33b69",
-      "source": "Title & page",
-      "translated": "标题与页面",
-      "updatedAt": 1764924413967
-    },
-    {
-      "key": "883b4ccf883b4ccf883b4ccf",
-      "source": "Page",
-      "translated": "页面",
-      "updatedAt": 1764924415585
-    },
-    {
-      "key": "23ecfb6123ecfb6123ecfb61",
-      "source": "Text",
-      "translated": "文本",
-      "updatedAt": 1764924416686
-    },
-    {
-      "key": "1187fd181187fd181187fd18",
-      "source": "Emoji",
-      "translated": "表情符号",
-      "updatedAt": 1764924417183
-    },
-    {
       "key": "f9ac399ef9ac399ef9ac399e",
       "source": "Share a single display text format among all PDF viewers",
       "translated": "在所有 PDF 阅读器之间共享一种显示文本格式",
@@ -1327,36 +649,6 @@
       "source": "Default action when clicking on color palette",
       "translated": "点击调色板时的默认操作",
       "updatedAt": 1764924425114
-    },
-    {
-      "key": "76b861c676b861c676b861c6",
-      "source": "Quote",
-      "translated": "引用",
-      "updatedAt": 1764924426198
-    },
-    {
-      "key": "f86a0a7cf86a0a7cf86a0a7c",
-      "source": "Link",
-      "translated": "链接",
-      "updatedAt": 1764924429264
-    },
-    {
-      "key": "ff837477ff837477ff837477",
-      "source": "Embed",
-      "translated": "嵌入",
-      "updatedAt": 1764924429730
-    },
-    {
-      "key": "64b5ef7064b5ef7064b5ef70",
-      "source": "Callout",
-      "translated": "标注",
-      "updatedAt": 1764924430355
-    },
-    {
-      "key": "28d5ea2d28d5ea2d28d5ea2d",
-      "source": "Quote in callout",
-      "translated": "引用框中的引文",
-      "updatedAt": 1764924431221
     },
     {
       "key": "58ee2c0458ee2c0458ee2c04",
@@ -1473,42 +765,6 @@
       "updatedAt": 1764924455070
     },
     {
-      "key": "cff53b26cff53b26cff53b26",
-      "source": "Last pasted .md",
-      "translated": "上次粘贴的 .md",
-      "updatedAt": 1764924455696
-    },
-    {
-      "key": "2ca81a9d2ca81a9d2ca81a9d",
-      "source": "Last active .md",
-      "translated": "最近活跃 .md",
-      "updatedAt": 1764924456927
-    },
-    {
-      "key": "3e8eca0f3e8eca0f3e8eca0f",
-      "source": "Last active & open .md",
-      "translated": "最近活跃并打开的 .md 文件",
-      "updatedAt": 1764924458792
-    },
-    {
-      "key": "72d99b3e72d99b3e72d99b3e",
-      "source": "Last pasted .md if any, otherwise last active .md",
-      "translated": "上次粘贴的 .md 文件（如果有的话），否则为上次活动的 .md 文件",
-      "updatedAt": 1764924459998
-    },
-    {
-      "key": "727b120c727b120c727b120c",
-      "source": "Last pasted .md if any, otherwise last active & open .md",
-      "translated": "上次粘贴的 .md 文件（如果有的话），否则为最后活动且打开的 .md 文件",
-      "updatedAt": 1764924460907
-    },
-    {
-      "key": "9465ce2c9465ce2c9465ce2c",
-      "source": "Last active & open .md if any, otherwise last pasted .md",
-      "translated": "如果有最近活动且打开的 .md 文件，则使用该文件；否则使用最近粘贴的 .md 文件。",
-      "updatedAt": 1764924462542
-    },
-    {
       "key": "f9973a8df9973a8df9973a8d",
       "source": "Auto-paste",
       "translated": "自动粘贴",
@@ -1557,18 +813,6 @@
       "updatedAt": 1764924476566
     },
     {
-      "key": "c6434f48c6434f48c6434f48",
-      "source": "Clear text selection after auto-pasting",
-      "translated": "自动粘贴后清除文本选择",
-      "updatedAt": 1764924478505
-    },
-    {
-      "key": "aef23723aef23723aef23723",
-      "source": "If enabled, the text selection in the PDF viewer will be automatically cleared after performing auto-pasting.",
-      "translated": "如果启用，执行自动粘贴后，PDF 查看器中的文本选择将自动清除。",
-      "updatedAt": 1764924479442
-    },
-    {
       "key": "61dcd44061dcd44061dcd440",
       "source": "Respect current cursor position",
       "translated": "保留当前光标位置",
@@ -1579,18 +823,6 @@
       "source": "When enabled, triggering auto-pasting will paste the copied text at the current cursor position if the target note is already opened. If disabled, the text will be always appended to the end of the note.",
       "translated": "启用后，如果目标笔记已打开，触发自动粘贴会将复制的文本粘贴到当前光标位置。如果禁用，则文本将始终追加到笔记末尾。",
       "updatedAt": 1764924481832
-    },
-    {
-      "key": "561448585614485856144858",
-      "source": "Blank line above the appended content",
-      "translated": "附加内容上方的空行",
-      "updatedAt": 1764924482637
-    },
-    {
-      "key": "892456cc892456cc892456cc",
-      "source": "Because you disabled the option above, auto-pasted content will be added at the end of your note. Enable this option to make sure that you have a blank line between the existing content and the newly added content.",
-      "translated": "由于您已禁用上述选项，自动粘贴的内容将被添加到笔记末尾。启用此选项可确保在现有内容与新添加的内容之间保留一个空行。",
-      "updatedAt": 1764924483871
     },
     {
       "key": "a63308caa63308caa63308ca",
@@ -1615,24 +847,6 @@
       "source": "How to open target markdown file when not opened",
       "translated": "如何在目标 Markdown 文件未打开时打开它",
       "updatedAt": 1764924487522
-    },
-    {
-      "key": "9fb9813b9fb9813b9fb9813b",
-      "source": "Hover Editor",
-      "translated": "悬浮编辑器",
-      "updatedAt": 1764924488340
-    },
-    {
-      "key": "1b8bb14e1b8bb14e1b8bb14e",
-      "source": "Close Hover Editor when it loses focus",
-      "translated": "失去焦点时关闭悬停编辑器",
-      "updatedAt": 1764924490147
-    },
-    {
-      "key": "140cc6ba140cc6ba140cc6ba",
-      "source": "This option will not affect the behavior of Hover Editor outside of PDF++.",
-      "translated": "此选项不会影响 Hover Editor 在 PDF++ 之外的行为。",
-      "updatedAt": 1764924491519
     },
     {
       "key": "607360076073600760736007",
@@ -1869,24 +1083,6 @@
       "updatedAt": 1764924545208
     },
     {
-      "key": "0c96c9a40c96c9a40c96c9a4",
-      "source": "Same as other internal links",
-      "translated": "与其他内部链接相同",
-      "updatedAt": 1764924545973
-    },
-    {
-      "key": "1475547e1475547e1475547e",
-      "source": "PDF++'s custom bibliography popover",
-      "translated": "PDF++ 的自定义参考文献弹出窗口",
-      "updatedAt": 1764924547749
-    },
-    {
-      "key": "b180849cb180849cb180849c",
-      "source": "Google Scholar popover",
-      "translated": "Google Scholar 弹出窗口",
-      "updatedAt": 1764924548572
-    },
-    {
       "key": "0de14c010de14c010de14c01",
       "source": "Currently not required. You can toggle this on and off in the core Page Preview plugin settings > PDF++: citation links in PDF.",
       "translated": "目前不需要。您可以在核心“页面预览”插件设置 > PDF++：PDF 中的引用链接中切换此选项的开启和关闭。",
@@ -1975,18 +1171,6 @@
       "source": "Reopen PDFs after changing this option.",
       "translated": "更改此选项后重新打开 PDF 文件。",
       "updatedAt": 1764924572742
-    },
-    {
-      "key": "d4d0e5e3d4d0e5e3d4d0e5e3",
-      "source": "Thumbnails",
-      "translated": "缩略图",
-      "updatedAt": 1764924573406
-    },
-    {
-      "key": "c7d29f1cc7d29f1cc7d29f1c",
-      "source": "Outline",
-      "translated": "大纲",
-      "updatedAt": 1764924574066
     },
     {
       "key": "a3a6953aa3a6953aa3a6953a",
@@ -2215,18 +1399,6 @@
       "source": "Applies to the commands \"Insert page before/after this page\".",
       "translated": "适用于“在此页之前/之后插入页面”命令。",
       "updatedAt": 1764924622330
-    },
-    {
-      "key": "abeb0d2babeb0d2babeb0d2b",
-      "source": "Keep labels unchanged",
-      "translated": "保持标签不变",
-      "updatedAt": 1764924623188
-    },
-    {
-      "key": "0830aecd0830aecd0830aecd",
-      "source": "Update",
-      "translated": "更新",
-      "updatedAt": 1764924624024
     },
     {
       "key": "fe512d93fe512d93fe512d93",
@@ -2511,12 +1683,6 @@
       "updatedAt": 1764924691366
     },
     {
-      "key": "383807053838070538380705",
-      "source": "PDF++ default",
-      "translated": "PDF++ 默认",
-      "updatedAt": 1764924692297
-    },
-    {
       "key": "82cbb22282cbb22282cbb222",
       "source": "Search options",
       "translated": "搜索选项",
@@ -2527,24 +1693,6 @@
       "source": "Case sensitive search",
       "translated": "区分大小写的搜索",
       "updatedAt": 1764924694084
-    },
-    {
-      "key": "45acaa1345acaa1345acaa13",
-      "source": "Yes",
-      "translated": "是的",
-      "updatedAt": 1764924694702
-    },
-    {
-      "key": "2f9e5d3d2f9e5d3d2f9e5d3d",
-      "source": "No",
-      "translated": "否",
-      "updatedAt": 1764924695449
-    },
-    {
-      "key": "90b67c3090b67c3090b67c30",
-      "source": "Follow default setting",
-      "translated": "遵循默认设置",
-      "updatedAt": 1764924696162
     },
     {
       "key": "f3df7739f3df7739f3df7739",
@@ -2619,60 +1767,6 @@
       "updatedAt": 1764924710269
     },
     {
-      "key": "9f8580b09f8580b09f8580b0",
-      "source": "Vault folder",
-      "translated": "保险库文件夹",
-      "updatedAt": 1764924711598
-    },
-    {
-      "key": "529515ed529515ed529515ed",
-      "source": "Same folder as current file",
-      "translated": "与当前文件相同的文件夹",
-      "updatedAt": 1764924712363
-    },
-    {
-      "key": "762d00e5762d00e5762d00e5",
-      "source": "In the folder specified below",
-      "translated": "在下面指定的文件夹中",
-      "updatedAt": 1764924712992
-    },
-    {
-      "key": "1f51f13e1f51f13e1f51f13e",
-      "source": "In subfolder under current folder",
-      "translated": "在当前文件夹下的子文件夹中",
-      "updatedAt": 1764924715034
-    },
-    {
-      "key": "ac674bf1ac674bf1ac674bf1",
-      "source": "Same as Obsidian's attachment location",
-      "translated": "与 Obsidian 的附件位置相同",
-      "updatedAt": 1764924715748
-    },
-    {
-      "key": "b6af2109b6af2109b6af2109",
-      "source": "Dummy file folder path",
-      "translated": "虚拟文件夹路径",
-      "updatedAt": 1764924716567
-    },
-    {
-      "key": "e91277d8e91277d8e91277d8",
-      "source": "Place newly created dummy PDF files in this folder.",
-      "translated": "将新创建的虚拟 PDF 文件放入此文件夹中。",
-      "updatedAt": 1764924717684
-    },
-    {
-      "key": "695e07c9695e07c9695e07c9",
-      "source": "Subfolder name",
-      "translated": "子文件夹名称",
-      "updatedAt": 1764924718499
-    },
-    {
-      "key": "63f2d73b63f2d73b63f2d73b",
-      "source": "If your file is under \"vault/folder\", and you set subfolder name to \"attachments\", dummy PDF files will be saved to \"vault/folder/attachments\".",
-      "translated": "如果你的文件位于“vault/folder”下，并将子文件夹名称设置为“attachments”，则虚拟 PDF 文件将保存到“vault/folder/attachments”。",
-      "updatedAt": 1764924721120
-    },
-    {
       "key": "4738c3204738c3204738c320",
       "source": "Modifier key to create a dummy PDF file on drag & drop",
       "translated": "用于在拖放时创建虚拟 PDF 文件的修饰键",
@@ -2683,24 +1777,6 @@
       "source": "After dragging an external PDF file, drop it on the editor while pressing this modifier key to create a dummy file and insert a link to it. You can drag a URL to a PDF file on the web from within your browser (link, URL bar, bookmark, etc.) or a PDF file on your desktop machine from your file manager (File Explorer etc.). Note that on mobile, you might need to start pressing the modifier key before starting the drag operation.",
       "translated": "拖动外部 PDF 文件后，在按住此修饰键的同时将其拖放到编辑器中，即可创建一个占位文件并插入指向该文件的链接。您可以从浏览器内（如链接、地址栏、书签等）拖拽指向网络上 PDF 文件的 URL，也可以从文件管理器（如文件资源管理器等）拖拽本地计算机桌面上的 PDF 文件。请注意，在移动设备上，您可能需要在开始拖拽操作之前就按住修饰键。",
       "updatedAt": 1764924725728
-    },
-    {
-      "key": "b3afaf7cb3afaf7cb3afaf7c",
-      "source": "Shift",
-      "translated": "Shift",
-      "updatedAt": 1764924726563
-    },
-    {
-      "key": "8cb90b558cb90b558cb90b55",
-      "source": "Ctrl",
-      "translated": "Ctrl",
-      "updatedAt": 1764924727272
-    },
-    {
-      "key": "6da7761e6da7761e6da7761e",
-      "source": "Ctrl+Shift",
-      "translated": "Ctrl+Shift",
-      "updatedAt": 1764924727751
     },
     {
       "key": "e26b8d15e26b8d15e26b8d15",
@@ -2731,198 +1807,6 @@
       "source": "Reopen the PDF viewers after changing this option.",
       "translated": "更改此选项后，请重新打开 PDF 查看器。",
       "updatedAt": 1764924735610
-    },
-    {
-      "key": "b74c857bb74c857bb74c857b",
-      "source": "Vimrc file path (optional)",
-      "translated": "Vimrc 文件路径（可选）",
-      "updatedAt": 1764924736554
-    },
-    {
-      "key": "39feff8239feff8239feff82",
-      "source": "Example (not necessarily recommendations):",
-      "translated": "示例（不一定是推荐）：",
-      "updatedAt": 1764924737389
-    },
-    {
-      "key": "3e720d463e720d463e720d46",
-      "source": "After changing the path or the file content, you need to reopen the PDF viewer. If the vimrc file is a hidden file or is under a hidden folder, you need to reload PDF++ or the app.",
-      "translated": "更改路径或文件内容后，需要重新打开 PDF 查看器。如果 vimrc 文件是隐藏文件或位于隐藏文件夹中，则需要重新加载 PDF++ 或该应用程序。",
-      "updatedAt": 1764924740453
-    },
-    {
-      "key": "57b59c4b57b59c4b57b59c4b",
-      "source": "Visual mode",
-      "translated": "可视模式",
-      "updatedAt": 1764924741242
-    },
-    {
-      "key": "ff0e023eff0e023eff0e023e",
-      "source": "Use motion keys to adjust text selection",
-      "translated": "使用方向键调整文本选择",
-      "updatedAt": 1764924742053
-    },
-    {
-      "key": "f5bdcfb8f5bdcfb8f5bdcfb8",
-      "source": "Tips:",
-      "translated": "提示：",
-      "updatedAt": 1764924742739
-    },
-    {
-      "key": "8c6fe8bf8c6fe8bf8c6fe8bf",
-      "source": "Outline mode",
-      "translated": "大纲模式",
-      "updatedAt": 1764924743354
-    },
-    {
-      "key": "e0a56f68e0a56f68e0a56f68",
-      "source": "Enter outline mode when opening PDF outline view",
-      "translated": "打开 PDF 大纲视图时进入大纲模式",
-      "updatedAt": 1764924744255
-    },
-    {
-      "key": "6ee07fa46ee07fa46ee07fa4",
-      "source": "Smooth motion in outline mode",
-      "translated": "轮廓模式下的平滑运动",
-      "updatedAt": 1764924745120
-    },
-    {
-      "key": "f0ebf2f6f0ebf2f6f0ebf2f6",
-      "source": "Command-line mode (experimental)",
-      "translated": "命令行模式（实验性）",
-      "updatedAt": 1764924745883
-    },
-    {
-      "key": "01c33c7c01c33c7c01c33c7c",
-      "source": "Use arrow down/up keys to go back and forth the command history.",
-      "translated": "使用向下/向上箭头键在命令历史记录中前后移动。",
-      "updatedAt": 1764924746813
-    },
-    {
-      "key": "a94387c9a94387c9a94387c9",
-      "source": "Hint mode (experimental)",
-      "translated": "提示模式（实验性）",
-      "updatedAt": 1764924749685
-    },
-    {
-      "key": "c954ca1ac954ca1ac954ca1a",
-      "source": "Also check out Style Settings > PDF++ > Vim keybindings > Hint mode.",
-      "translated": "还可以查看样式设置 > PDF++ > Vim 快捷键 > 提示模式。",
-      "updatedAt": 1764924750552
-    },
-    {
-      "key": "434512d1434512d1434512d1",
-      "source": "Characters to use in hint mode",
-      "translated": "提示模式中使用的字符",
-      "updatedAt": 1764924751594
-    },
-    {
-      "key": "5fc08b235fc08b235fc08b23",
-      "source": "They are used preferentially from left to right, so you might want to put the easier-to-reach keys first. This is the same as Tridactyl's \"hintchars\" option.",
-      "translated": "它们会优先从左到右使用，因此你可能希望将更容易按到的键放在前面。这与 Tridactyl 的 \"hintchars\" 选项相同。",
-      "updatedAt": 1764924753233
-    },
-    {
-      "key": "dc89802edc89802edc89802e",
-      "source": "Default arguments for the \":hint\" Ex command",
-      "translated": "“:hint” Ex 命令的默认参数",
-      "updatedAt": 1764924754312
-    },
-    {
-      "key": "c3f26d91c3f26d91c3f26d91",
-      "source": "Space-separated list of \"link\"/\"annot\"/\"backlink\" or \"all\". Run \":help :hint\" for the details.",
-      "translated": "以空格分隔的 \"link\"、\"annot\"、\"backlink\" 或 \"all\" 列表。运行 \":help :hint\" 查看详细信息。",
-      "updatedAt": 1764924755940
-    },
-    {
-      "key": "97bcfc1097bcfc1097bcfc10",
-      "source": "Context menu",
-      "translated": "上下文菜单",
-      "updatedAt": 1764924756361
-    },
-    {
-      "key": "967d4c41967d4c41967d4c41",
-      "source": "Enable Vim keys in PDF context menus",
-      "translated": "在 PDF 上下文菜单中启用 Vim 快捷键",
-      "updatedAt": 1764924757387
-    },
-    {
-      "key": "c625d4c0c625d4c0c625d4c0",
-      "source": "If enabled, you can use j/k/h/l keys, instead of the arrow keys, to navigate through context menu items in the PDF viewer.",
-      "translated": "如果启用，您可以使用 j/k/h/l 键代替方向键在 PDF 查看器的上下文菜单项中导航。",
-      "updatedAt": 1764924759575
-    },
-    {
-      "key": "0a4899b10a4899b10a4899b1",
-      "source": "Scrolling",
-      "translated": "滚动",
-      "updatedAt": 1764924760392
-    },
-    {
-      "key": "dede5d6cdede5d6cdede5d6c",
-      "source": "Scroll size (px) of the jkhl keys",
-      "translated": "jkhl 键的滚动尺寸（像素）",
-      "updatedAt": 1764924761395
-    },
-    {
-      "key": "8b5d5f708b5d5f708b5d5f70",
-      "source": "The size of scroll when one of the jkhl keys is pressed once.",
-      "translated": "按下 j、k、h 或 l 键一次时的滚动大小。",
-      "updatedAt": 1764924762491
-    },
-    {
-      "key": "e09e96f5e09e96f5e09e96f5",
-      "source": "Increase scroll size when zoomed in",
-      "translated": "放大时增加滚动区域大小",
-      "updatedAt": 1764924763632
-    },
-    {
-      "key": "2faa5a422faa5a422faa5a42",
-      "source": "Speed of continuous scroll (px per ms)",
-      "translated": "连续滚动速度（每毫秒像素数）",
-      "updatedAt": 1764924764401
-    },
-    {
-      "key": "d04ce995d04ce995d04ce995",
-      "source": "The speed of scroll when pressing and holding down the jkhl keys.",
-      "translated": "按住 jkhl 键时滚动的速度。",
-      "updatedAt": 1764924765522
-    },
-    {
-      "key": "047764130477641304776413",
-      "source": "Smooth scroll",
-      "translated": "平滑滚动",
-      "updatedAt": 1764924768194
-    },
-    {
-      "key": "ec0bd492ec0bd492ec0bd492",
-      "source": "Search",
-      "translated": "搜索",
-      "updatedAt": 1764924769526
-    },
-    {
-      "key": "bee32cf6bee32cf6bee32cf6",
-      "source": "hlsearch",
-      "translated": "hlsearch",
-      "updatedAt": 1764924770059
-    },
-    {
-      "key": "31b3afd831b3afd831b3afd8",
-      "source": "If enabled, all matches will be highlighted.",
-      "translated": "如果启用，所有匹配项将被高亮显示。",
-      "updatedAt": 1764924770751
-    },
-    {
-      "key": "81a510f681a510f681a510f6",
-      "source": "incsearch",
-      "translated": "增量搜索",
-      "updatedAt": 1764924771267
-    },
-    {
-      "key": "b08735aab08735aab08735aa",
-      "source": "Incremental search: while typing the search query, update the search results after every keystroke. If disabled, the results will be shown only after pressing Enter.",
-      "translated": "增量搜索：在输入搜索查询时，每按一次键就更新搜索结果。如果禁用此功能，则仅在按下回车键后显示结果。",
-      "updatedAt": 1764924772856
     },
     {
       "key": "81bd360681bd360681bd3606",
@@ -2965,18 +1849,6 @@
       "source": "The \"Create new PDF\" command will create a new PDF file in the location specified here.",
       "translated": "“创建新 PDF”命令将在此处指定的位置创建一个新的 PDF 文件。",
       "updatedAt": 1764924782972
-    },
-    {
-      "key": "5386ad2f5386ad2f5386ad2f",
-      "source": "Folder to create new PDFs in",
-      "translated": "用于创建新 PDF 的文件夹",
-      "updatedAt": 1764924785779
-    },
-    {
-      "key": "514745eb514745eb514745eb",
-      "source": "Newly created PDFs will appear under this folder.",
-      "translated": "新创建的 PDF 文件将显示在此文件夹下。",
-      "updatedAt": 1764924786770
     },
     {
       "key": "209d197a209d197a209d197a",
@@ -4159,6 +3031,48 @@
       "source": "Newly created PDFs will appear under this folder.",
       "translated": "新创建的 PDF 文件将显示在此文件夹下。",
       "updatedAt": 1764924786770
+    },
+    {
+      "key": "29ae097929ae097929ae0979",
+      "source": "Ignore existing markdown tabs in...",
+      "translated": "忽略现有的 Markdown 制表符……",
+      "updatedAt": 1764924253266
+    },
+    {
+      "key": "50a5f18250a5f18250a5f182",
+      "source": "If some notes are opened in the ignored splits, PDF++ will still open the backlink in the way specified in the previous setting. For example, you might want to ignore the left sidebar if you are pinning a certain note (e.g. daily note) in it.",
+      "translated": "如果某些笔记在被忽略的分栏中打开，PDF++ 仍会按照前述设置指定的方式打开反向链接。例如，如果你在左侧边栏中固定了某篇笔记（如每日笔记），你可能希望忽略该侧边栏。",
+      "updatedAt": 1764924255323
+    },
+    {
+      "key": "28caf7c628caf7c628caf7c6",
+      "source": "Popout windows",
+      "translated": "弹出窗口",
+      "updatedAt": 1764924256020
+    },
+    {
+      "key": "5a6721d85a6721d85a6721d8",
+      "source": "Don't move focus to markdown view after opening a backlink",
+      "translated": "打开反向链接后不要将焦点移至 Markdown 视图",
+      "updatedAt": 1764924257131
+    },
+    {
+      "key": "c7fbf946c7fbf946c7fbf946",
+      "source": "This option will be ignored when you open a link in a tab in the same split as the current tab.",
+      "translated": "当你在与当前标签页相同的分屏中打开链接时，此选项将被忽略。",
+      "updatedAt": 1764924258272
+    },
+    {
+      "key": "cebf1306cebf1306cebf1306",
+      "source": "Highlight colors",
+      "translated": "高亮颜色",
+      "updatedAt": 1764924259402
+    },
+    {
+      "key": "b06ef107b06ef107b06ef107",
+      "source": "You can ues the color palette in PDF toolbars to easily copy links with \"&color=...\" appended automatically. See the \"Color palette\" section for the details.",
+      "translated": "您可以使用 PDF 工具栏中的调色板，轻松复制自动附加了“&color=...”的链接。详情请参见“调色板”部分。",
+      "updatedAt": 1764924260799
     }
   ]
 }
