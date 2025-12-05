@@ -382,13 +382,11 @@ export class TranslationSession {
 		const cached = this.cache.get(text);
 		if (cached) return cached;
 
-		const { apiType } = this.settings;
-
 		const dictKey = this.dict?.genKey({
 			text,
 			fromLang: this.settings.fromLang,
 			toLang: this.settings.toLang,
-			apiType,
+			apiType: this.settings.apiType,
 			model: this.settings.model,
 			promptSig: this.promptSig,
 		});
@@ -405,10 +403,7 @@ export class TranslationSession {
 			}
 		}
 
-		const translatedText =
-			apiType === "openai"
-				? await this.translateWithOpenAI(text)
-				: await this.translateWithSimple(text);
+		const translatedText = await this.translateWithOpenAI(text);
 
 		if (!translatedText) {
 			throw new Error("翻译结果为空，请检查接口响应格式或提示词。");
@@ -424,49 +419,6 @@ export class TranslationSession {
 			});
 		}
 		return translatedText;
-	}
-
-	private async translateWithSimple(text: string): Promise<string> {
-		const { apiUrl, apiKey, fromLang, toLang } = this.settings;
-		if (!apiUrl) {
-			throw new Error("请先在设置中配置翻译接口地址。");
-		}
-
-		const payload: Record<string, string> = {
-			q: text,
-			source: fromLang || "auto",
-			target: toLang || "zh",
-			format: "text",
-		};
-		if (apiKey) {
-			payload.api_key = apiKey;
-		}
-
-		const res = await fetch(apiUrl, {
-			method: "POST",
-			headers: {
-				"Content-Type": "application/json",
-			},
-			body: JSON.stringify(payload),
-		});
-
-		if (!res.ok) {
-			throw new Error(`翻译接口返回错误：${res.status}`);
-		}
-
-		try {
-			const data = await res.json();
-			if (typeof data?.translatedText === "string") {
-				return data.translatedText;
-			}
-			if (Array.isArray(data) && data[0]?.translatedText) {
-				return data[0].translatedText;
-			}
-		} catch (err) {
-			console.error(err);
-			throw new Error("解析翻译接口响应失败");
-		}
-		return "";
 	}
 
 	private fillTemplate(template: string, text: string) {

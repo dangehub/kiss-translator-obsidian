@@ -12,7 +12,7 @@ import { FloatingFab } from "./src/fab";
 import { DictionaryStore } from "./src/dictionary";
 
 export interface KissTranslatorSettings {
-	apiType: "simple" | "openai";
+	apiType: "openai";
 	apiUrl: string;
 	apiKey: string;
 	model: string;
@@ -26,7 +26,6 @@ export interface KissTranslatorSettings {
 	uiScopes: string[];
 	recentUiScopes: string[];
 	hideOriginal: boolean;
-	autoTranslateOnOpen: boolean;
 	editMode?: boolean;
 	smartOriginal?: boolean;
 	maxTextLength?: number;
@@ -94,10 +93,9 @@ const DEFAULT_SETTINGS: KissTranslatorSettings = {
 	uiScopes: ["ui-global"],
 	recentUiScopes: ["ui-global"],
 	hideOriginal: false,
-	autoTranslateOnOpen: false,
 	editMode: false,
 	smartOriginal: false,
-	maxTextLength: 160,
+	maxTextLength: 500,
 	fabPosition: undefined,
 };
 
@@ -145,14 +143,6 @@ export default class KissTranslatorPlugin extends Plugin {
 			name: "Set UI dictionary scope",
 			callback: () => this.promptUiScope(),
 		});
-
-		if (this.settings.autoTranslateOnOpen) {
-			this.registerEvent(
-				this.app.workspace.on("file-open", () => {
-					this.translateActive();
-				})
-			);
-		}
 
 		this.addSettingTab(new KissSettingTab(this.app, this));
 
@@ -727,26 +717,20 @@ class KissSettingTab extends PluginSettingTab {
 		const { containerEl } = this;
 		containerEl.empty();
 
-		containerEl.createEl("h2", { text: "KISS Translator (Obsidian)" });
+		// 按指南避免额外顶级 heading，直接列出设置项
 
 		new Setting(containerEl)
-			.setName("API 类型")
-			.setDesc("选择简单文本接口或 OpenAI 兼容接口。")
-			.addDropdown((dropdown) =>
-				dropdown
-					.addOption("openai", "OpenAI 兼容 (chat/completions)")
-					.addOption("simple", "简单文本接口 (LibreTranslate)")
-					.setValue(this.plugin.settings.apiType)
-					.onChange(async (value) => {
-						this.plugin.settings.apiType =
-							value as KissTranslatorSettings["apiType"];
-						await this.plugin.saveSettings();
-					})
-			);
+			.setName("API 接口类型")
+			.setDesc("支持 OpenAI compatible api")
+			.addExtraButton((btn) => {
+				btn.setIcon("check");
+				btn.setTooltip("当前使用 OpenAI 兼容接口");
+				btn.setDisabled(true);
+			});
 
 		new Setting(containerEl)
 			.setName("API URL")
-			.setDesc("翻译接口地址，OpenAI 兼容用 /v1/chat/completions，或 LibreTranslate 兼容。")
+			.setDesc("翻译接口地址，OpenAI compatible，例如 https://api.openai.com/v1/chat/completions")
 			.addText((text) =>
 				text
 					.setPlaceholder("https://api.openai.com/v1/chat/completions")
@@ -759,7 +743,7 @@ class KissSettingTab extends PluginSettingTab {
 
 		new Setting(containerEl)
 			.setName("API Key")
-			.setDesc("可选，如果接口需要鉴权请填写。")
+			.setDesc("例如 sk-xxxxx")
 			.addText((text) =>
 				text
 					.setPlaceholder("sk-...")
@@ -771,8 +755,8 @@ class KissSettingTab extends PluginSettingTab {
 			);
 
 		new Setting(containerEl)
-			.setName("模型 (OpenAI)")
-			.setDesc("OpenAI 兼容模式下使用的模型，如 gpt-4o-mini。")
+			.setName("Model")
+			.setDesc("大语言模型id，例如 gpt-4o-mini")
 			.addText((text) =>
 				text
 					.setPlaceholder("gpt-4o-mini")
@@ -785,7 +769,7 @@ class KissSettingTab extends PluginSettingTab {
 
 		new Setting(containerEl)
 			.setName("源语言")
-			.setDesc("使用 auto 自动检测。")
+			.setDesc("【一般无需更改】默认值auto")
 			.addText((text) =>
 				text
 					.setPlaceholder("auto")
@@ -798,7 +782,7 @@ class KissSettingTab extends PluginSettingTab {
 
 		new Setting(containerEl)
 			.setName("目标语言")
-			.setDesc("翻译成的语言，例如 zh、en、ja。")
+			.setDesc("翻译成的语言，例如 zh、en、ja")
 			.addText((text) =>
 				text
 					.setPlaceholder("zh")
@@ -810,36 +794,24 @@ class KissSettingTab extends PluginSettingTab {
 			);
 
 		new Setting(containerEl)
-			.setName("打开笔记自动翻译")
-			.setDesc("打开笔记时自动翻译（阅读模式）。")
-			.addToggle((toggle) =>
-				toggle
-					.setValue(this.plugin.settings.autoTranslateOnOpen)
-					.onChange(async (value) => {
-						this.plugin.settings.autoTranslateOnOpen = value;
-						await this.plugin.saveSettings();
-					})
-			);
-
-		new Setting(containerEl)
 			.setName("最大文本长度")
-			.setDesc("单块文本超过此长度则不翻译（默认 160 字符）。")
+			.setDesc("单块文本超过此长度则不翻译（默认 500 字符）")
 			.addText((text) =>
 				text
-					.setPlaceholder("160")
-					.setValue(String(this.plugin.settings.maxTextLength ?? 160))
+					.setPlaceholder("500")
+					.setValue(String(this.plugin.settings.maxTextLength ?? 500))
 					.onChange(async (value) => {
 						const num = parseInt(value, 10);
 						this.plugin.settings.maxTextLength = Number.isFinite(num)
 							? Math.max(1, num)
-							: 160;
+							: 500;
 						await this.plugin.saveSettings();
 					})
 			);
 
 		const presetsHeader = new Setting(containerEl)
 			.setName("不翻译的选择器预设")
-			.setDesc("为不同界面创建可重用的选择器预设，匹配的元素及其子节点不会被翻译。");
+			.setDesc("为不同界面创建可重用的选择器预设，匹配的元素及其子节点不会被翻译");
 		presetsHeader.addButton((btn) =>
 			btn.setButtonText("新增预设").onClick(async () => {
 				this.plugin.settings.skipPresets?.push({
@@ -916,20 +888,8 @@ class KissSettingTab extends PluginSettingTab {
 		});
 
 		new Setting(containerEl)
-			.setName("UI 词典名")
-			.setDesc("悬浮球翻译 UI 时使用的词典作用域，例如 ui-global 或具体插件名。")
-			.addText((text) =>
-				text
-					.setPlaceholder("ui-global")
-					.setValue(this.plugin.settings.uiScope)
-					.onChange(async (value) => {
-						await this.plugin.setUiScope(value);
-					})
-			);
-
-		new Setting(containerEl)
-			.setName("System prompt (OpenAI)")
-			.setDesc("可选。可使用占位符 {from} {to}。")
+			.setName("System prompt/系统提示词")
+			.setDesc("【可选】。可使用占位符 {from} {to}")
 			.addTextArea((text) =>
 				text
 					.setPlaceholder(
@@ -943,8 +903,8 @@ class KissSettingTab extends PluginSettingTab {
 			);
 
 		new Setting(containerEl)
-			.setName("User prompt (OpenAI)")
-			.setDesc("必填。可使用占位符 {text} {from} {to}。")
+			.setName("User prompt/用户提示词")
+			.setDesc("【必填】可使用占位符 {text} {from} {to}")
 			.addTextArea((text) =>
 				text
 					.setPlaceholder(

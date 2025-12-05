@@ -14,6 +14,7 @@ export class FloatingFab {
 	private longPressTimer: NodeJS.Timeout | null = null;
 	private touchStart: { x: number; y: number } | null = null;
 	private pos = { x: 0, y: 0 };
+	private cleanupFns: Array<() => void> = [];
 
 	constructor(plugin: KissTranslatorPlugin) {
 		this.plugin = plugin;
@@ -85,7 +86,9 @@ export class FloatingFab {
 		};
 
 		fab.addEventListener("mousedown", startDrag);
-		fab.addEventListener("touchstart", (evt) => {
+		this.cleanupFns.push(() => fab.removeEventListener("mousedown", startDrag));
+
+		const onTouchStart = (evt: TouchEvent) => {
 			startDrag(evt);
 			if (this.longPressTimer) clearTimeout(this.longPressTimer);
 			this.longPressTimer = setTimeout(() => {
@@ -95,17 +98,25 @@ export class FloatingFab {
 					this.plugin.openScopeMenu(pt.clientX, pt.clientY);
 				}
 			}, 550);
-		});
+		};
+		fab.addEventListener("touchstart", onTouchStart);
+		this.cleanupFns.push(() => fab.removeEventListener("touchstart", onTouchStart));
+
 		window.addEventListener("mousemove", onMove);
+		this.cleanupFns.push(() => window.removeEventListener("mousemove", onMove));
 		window.addEventListener("touchmove", onMove);
+		this.cleanupFns.push(() => window.removeEventListener("touchmove", onMove));
 		window.addEventListener("mouseup", endDrag);
-		window.addEventListener("touchend", () => {
+		this.cleanupFns.push(() => window.removeEventListener("mouseup", endDrag));
+		const onTouchEnd = () => {
 			if (this.longPressTimer) {
 				clearTimeout(this.longPressTimer);
 				this.longPressTimer = null;
 			}
 			endDrag();
-		});
+		};
+		window.addEventListener("touchend", onTouchEnd);
+		this.cleanupFns.push(() => window.removeEventListener("touchend", onTouchEnd));
 
 		let lastTap = 0;
 		const handleActivate = (evt: Event) => {
@@ -125,12 +136,14 @@ export class FloatingFab {
 			}
 		};
 
-		fab.addEventListener("click", (evt) => {
+		const onClick = (evt: MouseEvent) => {
 			if (isMobile) return; // 移动端用 touchend 处理双击
 			handleActivate(evt);
-		});
+		};
+		fab.addEventListener("click", onClick);
+		this.cleanupFns.push(() => fab.removeEventListener("click", onClick));
 
-		fab.addEventListener("touchend", (evt) => {
+		const onTouchEndActivate = (evt: TouchEvent) => {
 			if (this.longPressTimer) {
 				clearTimeout(this.longPressTimer);
 				this.longPressTimer = null;
@@ -141,13 +154,17 @@ export class FloatingFab {
 			}
 			endDrag();
 			handleActivate(evt);
-		});
+		};
+		fab.addEventListener("touchend", onTouchEndActivate);
+		this.cleanupFns.push(() => fab.removeEventListener("touchend", onTouchEndActivate));
 
-		fab.addEventListener("contextmenu", (evt) => {
+		const onContext = (evt: MouseEvent) => {
 			if (isMobile) return;
 			evt.preventDefault();
 			this.plugin.openScopeMenu(evt.clientX, evt.clientY);
-		});
+		};
+		fab.addEventListener("contextmenu", onContext);
+		this.cleanupFns.push(() => fab.removeEventListener("contextmenu", onContext));
 
 		document.body.appendChild(fab);
 		this.el = fab;
@@ -169,6 +186,8 @@ export class FloatingFab {
 	unmount() {
 		this.el?.remove();
 		this.el = null;
+		this.cleanupFns.forEach((fn) => fn());
+		this.cleanupFns = [];
 	}
 
 	private getPoint(evt: MouseEvent | TouchEvent) {
