@@ -1,7 +1,7 @@
 {
 	"id": "aqu-kiss-translator",
 	"name": "KISS Translator",
-	"version": "0.7.5",
+	"version": "0.7.8",
 	"minAppVersion": "0.15.0",
 	"description": "Translate UI and notes with an inline bilingual view using your OpenAI-compatible endpoint.",
 	"author": "dangehub",
