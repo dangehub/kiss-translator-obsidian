@@ -29,6 +29,7 @@ export interface KissTranslatorSettings {
 	hideOriginal: boolean;
 	extractOnly: boolean;
 	cloudRegistryUrl?: string;
+	cloudRegistryLang?: string;
 	editMode?: boolean;
 	smartOriginal?: boolean;
 	maxTextLength?: number;
@@ -99,6 +100,7 @@ const DEFAULT_SETTINGS: KissTranslatorSettings = {
 	hideOriginal: false,
 	extractOnly: false,
 	cloudRegistryUrl: "",
+	cloudRegistryLang: "",
 	editMode: false,
 	smartOriginal: false,
 	maxTextLength: 500,
@@ -127,8 +129,10 @@ export default class KissTranslatorPlugin extends Plugin {
 	private fabState: "off" | "empty" | "active" = "off";
 	private fabInitialized = false;
 	cloudRegistry: CloudDictMeta[] = [];
+	cloudRegistryLangs: string[] = [];
 	cloudRegistryLoading = false;
 	cloudRegistryError: string | null = null;
+	cloudRegistryQuery = "";
 
 	async onload() {
 		await this.loadSettings();
@@ -611,6 +615,7 @@ export default class KissTranslatorPlugin extends Plugin {
 		if (!this.settings.cloudRegistryUrl) {
 			this.cloudRegistry = [];
 			this.cloudRegistryError = null;
+			this.cloudRegistryLangs = [];
 			return;
 		}
 		this.cloudRegistryLoading = true;
@@ -618,6 +623,18 @@ export default class KissTranslatorPlugin extends Plugin {
 		try {
 			const list = await fetchRegistry(this.settings.cloudRegistryUrl);
 			this.cloudRegistry = list;
+			const langs = Array.from(
+				new Set(
+					list
+						.map((i) => i.lang || "")
+						.map((s) => s.trim())
+				)
+			);
+			this.cloudRegistryLangs = langs;
+			if (!this.settings.cloudRegistryLang || !langs.includes(this.settings.cloudRegistryLang)) {
+				this.settings.cloudRegistryLang = langs[0] || "";
+				await this.saveSettings();
+			}
 		} catch (err) {
 			console.error(err);
 			this.cloudRegistryError = (err as any)?.message || String(err);
@@ -980,40 +997,82 @@ class KissSettingTab extends PluginSettingTab {
 				cls: "mod-warning",
 			});
 		} else if (this.plugin.cloudRegistry.length > 0) {
-			const list = cloudSection.createEl("div", { cls: "kiss-cloud-list" });
-			this.plugin.cloudRegistry
+			if (this.plugin.cloudRegistryLangs.length > 1) {
+				new Setting(cloudSection)
+					.setName("选择语言")
+					.addDropdown((dd) => {
+						this.plugin.cloudRegistryLangs.forEach((lang) => {
+							dd.addOption(lang || "default", lang || "default");
+						});
+						dd.setValue(this.plugin.settings.cloudRegistryLang || "");
+						dd.onChange(async (value) => {
+							this.plugin.settings.cloudRegistryLang = value;
+							await this.plugin.saveSettings();
+							this.display();
+						});
+					});
+			}
+
+			new Setting(cloudSection)
+				.setName("搜索词典")
+				.setDesc("按名称或 scope 过滤")
+				.addText((text) =>
+					text
+						.setPlaceholder("输入关键词过滤")
+						.setValue(this.plugin.cloudRegistryQuery)
+						.onChange((value) => {
+							this.plugin.cloudRegistryQuery = value;
+							this.display();
+						})
+				);
+
+			const langFilter = (this.plugin.settings.cloudRegistryLang || "").trim();
+			const query = (this.plugin.cloudRegistryQuery || "").trim().toLowerCase();
+			const filtered = this.plugin.cloudRegistry
+				.filter((item) => {
+					if (langFilter && (item.lang || "").trim() !== langFilter) return false;
+					if (!query) return true;
+					const name = (item.name || "").toLowerCase();
+					const scope = (item.scope || "").toLowerCase();
+					return name.includes(query) || scope.includes(query);
+				})
 				.slice()
-				.sort((a, b) => (b.updatedAt || 0) - (a.updatedAt || 0))
-				.forEach((item) => {
-					const row = list.createEl("div", { cls: "kiss-cloud-row" });
-					const title = row.createEl("div", {
-						text: item.name || item.scope,
-						cls: "kiss-cloud-title",
-					});
-					title.setAttr("title", item.description || "");
-					row.createEl("div", {
-						text: `Scope: ${item.scope}`,
-						cls: "kiss-cloud-scope",
-					});
-					const metaLine: string[] = [];
-					if (item.updatedAt) metaLine.push(`更新: ${new Date(item.updatedAt).toLocaleString()}`);
-					if (item.entryCount) metaLine.push(`条目: ${item.entryCount}`);
-					if (item.votes?.up || item.votes?.down) {
-						metaLine.push(`票数: +${item.votes.up || 0}/-${item.votes.down || 0}`);
-					}
-					if (metaLine.length > 0) {
-						row.createEl("div", { text: metaLine.join(" · "), cls: "kiss-cloud-meta" });
-					}
-					const actions = row.createEl("div", { cls: "kiss-cloud-actions" });
-					const btn = actions.createEl("button", { text: "下载" });
-					btn.onclick = async () => {
-						btn.setText("下载中…");
-						btn.toggleAttribute("disabled", true);
-						await this.plugin.downloadCloudDict(item);
-						btn.setText("下载");
-						btn.toggleAttribute("disabled", false);
-					};
+				.sort((a, b) => (b.updatedAt || 0) - (a.updatedAt || 0));
+
+			const list = cloudSection.createEl("div", { cls: "kiss-cloud-list" });
+			if (filtered.length === 0) {
+				list.createEl("div", { text: "没有匹配的词典。" });
+			}
+			filtered.forEach((item) => {
+				const row = list.createEl("div", { cls: "kiss-cloud-row" });
+				const title = row.createEl("div", {
+					text: item.name || item.scope,
+					cls: "kiss-cloud-title",
 				});
+				title.setAttr("title", item.description || "");
+				row.createEl("div", {
+					text: `Scope: ${item.scope}`,
+					cls: "kiss-cloud-scope",
+				});
+				if (item.lang) {
+					row.createEl("div", { text: `语言: ${item.lang}`, cls: "kiss-cloud-lang" });
+				}
+				const metaLine: string[] = [];
+				if (item.updatedAt) metaLine.push(`更新: ${new Date(item.updatedAt).toLocaleString()}`);
+				if (item.entryCount) metaLine.push(`条目: ${item.entryCount}`);
+				if (metaLine.length > 0) {
+					row.createEl("div", { text: metaLine.join(" · "), cls: "kiss-cloud-meta" });
+				}
+				const actions = row.createEl("div", { cls: "kiss-cloud-actions" });
+				const btn = actions.createEl("button", { text: "下载" });
+				btn.onclick = async () => {
+					btn.setText("下载中…");
+					btn.toggleAttribute("disabled", true);
+					await this.plugin.downloadCloudDict(item);
+					btn.setText("下载");
+					btn.toggleAttribute("disabled", false);
+				};
+			});
 		} else {
 			cloudSection.createEl("div", { text: "未配置清单，或清单为空。" });
 		}

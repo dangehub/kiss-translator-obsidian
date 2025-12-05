@@ -306,6 +306,11 @@ If your plugin does not need CSS, delete this file.
 	font-size: 12px;
 }
 
+.kiss-cloud-lang {
+	color: var(--text-muted);
+	font-size: 12px;
+}
+
 .kiss-cloud-actions {
 	display: flex;
 	gap: 8px;
