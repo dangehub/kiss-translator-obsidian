@@ -85,11 +85,23 @@ jobs:
           node <<'NODE'
           const fs = require('fs');
           const path = require('path');
+          const cp = require('child_process');
 
           const repo = process.env.GITHUB_REPOSITORY;
           const branch = process.env.GITHUB_REF_NAME || 'main';
           const root = path.join(process.cwd(), 'translations');
           const registryPath = path.join(root, 'registry.json');
+
+          // Load previous registry to reuse updatedAt when unchanged
+          let prev = {};
+          if (fs.existsSync(registryPath)) {
+            try { prev = JSON.parse(fs.readFileSync(registryPath, 'utf8')); } catch { prev = {}; }
+          }
+          const prevIndex = {};
+          for (const [lang, list] of Object.entries(prev.languages || {})) {
+            prevIndex[lang] = {};
+            for (const item of list) prevIndex[lang][item.scope] = item;
+          }
 
           function walk(dir) {
             return fs.readdirSync(dir, { withFileTypes: true }).flatMap((ent) => {
@@ -109,6 +121,14 @@ jobs:
             return base;
           }
 
+          function lastCommitMs(file, fallback) {
+            try {
+              const ts = cp.execSync(`git log -1 --format=%ct -- "${file}"`).toString().trim();
+              if (ts) return Number(ts) * 1000;
+            } catch (_) {}
+            return fallback;
+          }
+
           const languages = {};
 
           for (const file of walk(root)) {
@@ -122,12 +142,14 @@ jobs:
             const scope = guessScope(file, lang, raw.scope);
             const entryCount = Array.isArray(raw.entries) ? raw.entries.length : 0;
             const downloadUrl = `https://raw.githubusercontent.com/${repo}/refs/heads/${branch}/${encodeURI(path.relative(process.cwd(), file).replace(/\\/g, '/'))}`;
+            const prevItem = prevIndex[lang]?.[scope];
+            const updatedAt = lastCommitMs(file, prevItem?.updatedAt ?? Math.floor(stats.mtimeMs));
             const item = {
               scope,
               name: raw.name || scope,
               description: raw.description,
               downloadUrl,
-              updatedAt: Math.floor(stats.mtimeMs),
+              updatedAt,
               entryCount,
               version: raw.version || 1,
               lang
