@@ -81,11 +81,21 @@ jobs:
           NODE
 
       - name: Rebuild registry.json
+        env:
+          FILES: ${{ steps.diff.outputs.files }}
         run: |
           node <<'NODE'
           const fs = require('fs');
           const path = require('path');
           const cp = require('child_process');
+
+          const changed = new Set(
+            (process.env.FILES || '')
+              .split('\n')
+              .map(s => s.trim())
+              .filter(Boolean)
+              .map(p => path.normalize(p))
+          );
 
           const repo = process.env.GITHUB_REPOSITORY;
           const branch = process.env.GITHUB_REF_NAME || 'main';
@@ -134,16 +144,20 @@ jobs:
           for (const file of walk(root)) {
             if (file === registryPath) continue;
             if (!file.endsWith('.json')) continue;
-            const rel = path.relative(root, file).split(path.sep);
-            if (rel.length < 2) continue; // expect translations/<lang>/<file>
-            const lang = rel[0];
+            const relParts = path.relative(root, file).split(path.sep);
+            if (relParts.length < 2) continue; // expect translations/<lang>/<file>
+            const lang = relParts[0];
+            const relPath = path.relative(process.cwd(), file).replace(/\\/g, '/');
+            const isChanged = changed.has(path.normalize(relPath));
             const raw = JSON.parse(fs.readFileSync(file, 'utf8'));
             const stats = fs.statSync(file);
             const scope = guessScope(file, lang, raw.scope);
             const entryCount = Array.isArray(raw.entries) ? raw.entries.length : 0;
-            const downloadUrl = `https://raw.githubusercontent.com/${repo}/refs/heads/${branch}/${encodeURI(path.relative(process.cwd(), file).replace(/\\/g, '/'))}`;
+            const downloadUrl = `https://raw.githubusercontent.com/${repo}/refs/heads/${branch}/${encodeURI(relPath)}`;
             const prevItem = prevIndex[lang]?.[scope];
-            const updatedAt = lastCommitMs(file, prevItem?.updatedAt ?? Math.floor(stats.mtimeMs));
+            const updatedAt = isChanged
+              ? lastCommitMs(file, Math.floor(stats.mtimeMs))
+              : (prevItem?.updatedAt ?? lastCommitMs(file, Math.floor(stats.mtimeMs)));
             const item = {
               scope,
               name: raw.name || scope,
