@@ -4,8 +4,8 @@
       {
         "scope": "BRAT",
         "name": "BRAT",
-        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/BRAT.json",
-        "updatedAt": 1764954809450,
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/l10n_main/translations/en/BRAT.json",
+        "updatedAt": 1764955430062,
         "entryCount": 34,
         "version": 1,
         "lang": "en"
@@ -15,8 +15,8 @@
       {
         "scope": "BRAT",
         "name": "BRAT",
-        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/zh/BRAT_zh.json",
-        "updatedAt": 1764954809450,
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/l10n_main/translations/zh/BRAT_zh.json",
+        "updatedAt": 1764955430062,
         "entryCount": 34,
         "version": 1,
         "lang": "zh"
@@ -24,8 +24,8 @@
       {
         "scope": "PDF++",
         "name": "PDF++",
-        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/zh/pdf++_zh.json",
-        "updatedAt": 1764954809450,
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/l10n_main/translations/zh/pdf++_zh.json",
+        "updatedAt": 1764955430063,
         "entryCount": 512,
         "version": 1,
         "lang": "zh"
