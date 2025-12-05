@@ -67,6 +67,28 @@ export class TranslationSession {
 		this.applyOriginalVisibility();
 	}
 
+	async extractOnly(rootOverride?: HTMLElement) {
+		const root = rootOverride ?? this.findPreviewRoot();
+		if (!root) {
+			throw new Error("未找到可提取的区域。");
+		}
+		const blocks = this.collectBlocks(root);
+		for (const block of blocks) {
+			const text = this.normalizeText(block.innerText || "");
+			if (!text || text.length < 2) continue;
+			const keys = this.buildDictKeys(text);
+			if (!keys.primary || !this.dict) continue;
+			const existing = await this.dict.get(this.scopeId, keys.all);
+			if (existing?.translated) continue;
+			await this.dict.set(this.scopeId, {
+				key: keys.primary,
+				source: text,
+				translated: text,
+				updatedAt: Date.now(),
+			});
+		}
+	}
+
 	clear() {
 		this.restoreOriginalVisibility();
 		this.translated.forEach((el, original) => {

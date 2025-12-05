@@ -27,6 +27,7 @@ export interface KissTranslatorSettings {
 	uiScopes: string[];
 	recentUiScopes: string[];
 	hideOriginal: boolean;
+	extractOnly: boolean;
 	cloudRegistryUrl?: string;
 	editMode?: boolean;
 	smartOriginal?: boolean;
@@ -96,6 +97,7 @@ const DEFAULT_SETTINGS: KissTranslatorSettings = {
 	uiScopes: ["ui-global"],
 	recentUiScopes: ["ui-global"],
 	hideOriginal: false,
+	extractOnly: false,
 	cloudRegistryUrl: "",
 	editMode: false,
 	smartOriginal: false,
@@ -213,6 +215,39 @@ export default class KissTranslatorPlugin extends Plugin {
 			console.error(err);
 			new Notice(`KISS Translator: ${err.message}`);
 		});
+	}
+
+	extractUIWithFab() {
+		if (this.uiBusy) {
+			new Notice("KISS Translator: 正在提取，请稍候…");
+			return;
+		}
+		const target = this.findUiTarget();
+		if (!target) {
+			new Notice("KISS Translator: 未找到可提取的界面。");
+			return;
+		}
+
+		this.prepareUiSession();
+		this.uiDictionaryEnabled = true;
+		const session = this.uiSession;
+		if (!session) return;
+		this.suppressUiAuto = true;
+		this.uiBusy = true;
+		session
+			.extractOnly(target)
+			.then(() => {
+				this.setFabState("active");
+			})
+			.catch((err) => {
+				console.error(err);
+				this.setFabState("off");
+				new Notice(`KISS Translator: ${err.message}`);
+			})
+			.finally(() => {
+				this.uiBusy = false;
+				this.resumeUiAutoSoon();
+			});
 	}
 
 	translateUIWithFab() {
@@ -672,10 +707,14 @@ export default class KissTranslatorPlugin extends Plugin {
 		const actions = document.createElement("div");
 		actions.className = "kiss-scope-actions";
 		const translateBtn = document.createElement("button");
-		translateBtn.textContent = "翻译当前页面";
+		translateBtn.textContent = this.settings.extractOnly ? "提取当前页面" : "翻译当前页面";
 		translateBtn.onclick = (e) => {
 			e.stopPropagation();
-			this.translateUIWithFab();
+			if (this.settings.extractOnly) {
+				this.extractUIWithFab();
+			} else {
+				this.translateUIWithFab();
+			}
 			this.closeScopeMenu();
 		};
 		actions.appendChild(translateBtn);
@@ -1178,6 +1217,18 @@ class KissSettingTab extends PluginSettingTab {
 						this.plugin.settings.userPrompt = value;
 						void this.plugin.saveSettings();
 					})
+			);
+
+		new Setting(containerEl)
+			.setName("仅提取词典（不调用在线翻译）")
+			.setDesc("开启后，悬浮球菜单显示“提取当前页面”，会把当前页面文案写入词典，source 与 translated 相同，便于后续人工翻译。")
+			.addToggle((toggle) =>
+				toggle.setValue(this.plugin.settings.extractOnly).onChange(async (value) => {
+					this.plugin.settings.extractOnly = value;
+					await this.plugin.saveSettings();
+					this.plugin.session?.updateSettings(this.plugin.settings);
+					this.plugin.uiSession?.updateSettings(this.plugin.settings);
+				})
 			);
 	}
 }
