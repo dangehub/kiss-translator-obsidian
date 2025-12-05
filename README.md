@@ -1,4 +1,4 @@
-# KISS Translator (Obsidian)
+# KISS Translator
 
 ---
 
@@ -35,6 +35,10 @@
 
 注：有任何问题和建议欢迎在issue中反馈，也可以加本插件的QQ交流群 1034829731
 
+## 隐私声明
+
+本插件在调用LLM翻译和获取云端词典时需要网络权限，但这两个功能均为可选项。
+LLM翻译与云端词典库均可自定义。
 
 ## 插件安装
 
@@ -49,13 +53,11 @@
 - 安装依赖：`npm install`
 - 开发监视：`npm run dev`
 - 构建：`npm run build`
-- 手动安装：将 `main.js`、`manifest.json`、`styles.css` 复制到 `<Vault>/.obsidian/plugins/aqu-kiss-translator/`。
 
 ## 开发路线/已知BUG
 - 上架Obsidian插件市场
 - 可视化导入/导出词典
 - 可视化插件入门引导
-- 云端词典市场
 - 翻译带有链接的文本块会导致链接无法点击，因此暂不允许进行此类操作
 
 ## 致谢与碎碎念
@@ -69,6 +71,13 @@
 本插件开发基本使用AI完成。
 
 ## Changelog
+
+### 0.8.0
+
+- 增加云端词典功能：现在用户可以自定义一个git仓库，然后下载云端词典
+    - 本仓库默认提供一套词典（暂未更新）
+    - 通用化设计，可以迁移到Gitee等平台
+    - 与crowdin集成，允许用户使用crowdin优化翻译
 
 ### 0.7.8
 

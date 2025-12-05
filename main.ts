@@ -99,7 +99,7 @@ const DEFAULT_SETTINGS: KissTranslatorSettings = {
 	recentUiScopes: ["ui-global"],
 	hideOriginal: false,
 	extractOnly: false,
-	cloudRegistryUrl: "",
+	cloudRegistryUrl: "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/registry.json",
 	cloudRegistryLang: "",
 	editMode: false,
 	smartOriginal: false,
