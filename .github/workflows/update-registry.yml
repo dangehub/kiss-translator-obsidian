@@ -1,0 +1,102 @@
+name: Update registry.json
+
+on:
+  push:
+    paths:
+      - "translations/**.json"
+      - "!translations/registry.json"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build-registry:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Rebuild registry.json
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const path = require('path');
+
+          const repo = process.env.GITHUB_REPOSITORY;
+          const branch = process.env.GITHUB_REF_NAME || 'main';
+          const root = path.join(process.cwd(), 'translations');
+          const registryPath = path.join(root, 'registry.json');
+
+          function walk(dir) {
+            return fs.readdirSync(dir, { withFileTypes: true }).flatMap((ent) => {
+              const p = path.join(dir, ent.name);
+              if (ent.isDirectory()) return walk(p);
+              return [p];
+            });
+          }
+
+          function guessScope(file, lang, rawScope) {
+            if (rawScope) return rawScope;
+            const base = path.basename(file, '.json');
+            const suffix = `_${lang}`;
+            if (base.toLowerCase().endsWith(suffix.toLowerCase())) {
+              return base.slice(0, -suffix.length);
+            }
+            return base;
+          }
+
+          const languages = {};
+
+          for (const file of walk(root)) {
+            if (file === registryPath) continue;
+            if (!file.endsWith('.json')) continue;
+            // lang = first dir under translations
+            const rel = path.relative(root, file).split(path.sep);
+            if (rel.length < 2) continue; // expect translations/<lang>/<file>
+            const lang = rel[0];
+            const raw = JSON.parse(fs.readFileSync(file, 'utf8'));
+            const stats = fs.statSync(file);
+            const scope = guessScope(file, lang, raw.scope);
+            const entryCount = Array.isArray(raw.entries) ? raw.entries.length : 0;
+            const downloadUrl = `https://raw.githubusercontent.com/${repo}/refs/heads/${branch}/${encodeURI(path.relative(process.cwd(), file).replace(/\\/g, '/'))}`;
+            const item = {
+              scope,
+              name: raw.name || scope,
+              description: raw.description,
+              downloadUrl,
+              updatedAt: Math.floor(stats.mtimeMs),
+              entryCount,
+              version: raw.version || 1,
+              lang
+            };
+            languages[lang] ??= [];
+            languages[lang].push(item);
+          }
+
+          // sort by scope
+          for (const lang of Object.keys(languages)) {
+            languages[lang].sort((a, b) => a.scope.localeCompare(b.scope));
+          }
+
+          const out = { languages };
+          fs.writeFileSync(registryPath, JSON.stringify(out, null, 2));
+          console.log('registry.json updated');
+          NODE
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet translations/registry.json; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add translations/registry.json
+          git commit -m "chore: update registry.json"
+          git push
