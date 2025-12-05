@@ -1,9 +1,9 @@
 {
-	"id": "aqu-kiss-translator",
+	"id": "kiss-translator-obsidian",
 	"name": "KISS Translator",
-	"version": "0.7.1",
+	"version": "0.7.2",
 	"minAppVersion": "0.15.0",
-	"description": "Translate Obsidian with a lightweight inline bilingual view.",
+	"description": "Translate Obsidian UI and notes with an inline bilingual view using your OpenAI-compatible endpoint.",
 	"author": "dangehub",
 	"authorUrl": "https://github.com/dangehub/kiss-translator-obsidian",
 	"fundingUrl": "https://github.com/dangehub/kiss-translator-obsidian",
