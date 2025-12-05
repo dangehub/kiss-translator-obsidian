@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "scope": "BRAT",
+  "entries": [
+    {
+      "key": "538664595386645953866459",
+      "source": "Auto-enable plugins after installation",
+      "translated": "Auto-enable plugins after installation",
+      "updatedAt": 1764949323374
+    },
+    {
+      "key": "fecdc003fecdc003fecdc003",
+      "source": "If enabled beta plugins will be automatically enabled after installtion by default. Note: you can toggle this on and off for each plugin in the \"Add Plugin\" form.",
+      "translated": "If enabled beta plugins will be automatically enabled after installtion by default. Note: you can toggle this on and off for each plugin in the \"Add Plugin\" form.",
+      "updatedAt": 1764949323374
+    },
+    {
+      "key": "8a19adc18a19adc18a19adc1",
+      "source": "Auto-update plugins at startup",
+      "translated": "Auto-update plugins at startup",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "5f0af4bf5f0af4bf5f0af4bf",
+      "source": "If enabled all beta plugins will be checked for updates each time Obsidian starts. Note: this does not update frozen version plugins.",
+      "translated": "If enabled all beta plugins will be checked for updates each time Obsidian starts. Note: this does not update frozen version plugins.",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "75644e1975644e1975644e19",
+      "source": "Auto-update themes at startup",
+      "translated": "Auto-update themes at startup",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "7f85d6967f85d6967f85d696",
+      "source": "If enabled all beta themes will be checked for updates each time Obsidian starts.",
+      "translated": "If enabled all beta themes will be checked for updates each time Obsidian starts.",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "10f281c810f281c810f281c8",
+      "source": "Select latest plugin version by default",
+      "translated": "Select latest plugin version by default",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "5c876a055c876a055c876a05",
+      "source": "If enabled the latest version will be selected by default when adding a new plugin.",
+      "translated": "If enabled the latest version will be selected by default when adding a new plugin.",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "c87c8dbac87c8dbac87c8dba",
+      "source": "Allow incompatible plugins",
+      "translated": "Allow incompatible plugins",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "0b4cd40b0b4cd40b0b4cd40b",
+      "source": "If enabled, plugins with higher app versions will be allowed to be installed. Also it allows desktop-only plugins to be installed on mobile devices.",
+      "translated": "If enabled, plugins with higher app versions will be allowed to be installed. Also it allows desktop-only plugins to be installed on mobile devices.",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "3b4c180e3b4c180e3b4c180e",
+      "source": "Learn more about my work at:",
+      "translated": "Learn more about my work at:",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "7428e0e17428e0e17428e0e1",
+      "source": "Beta plugin list",
+      "translated": "Beta plugin list",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "4afa0b244afa0b244afa0b24",
+      "source": "The following is a list of beta plugins added via the command \"Add a beta plugin for testing\". You can chose to add the latest version or a frozen version. A frozen version is a specific release of a plugin based on its release tag.",
+      "translated": "The following is a list of beta plugins added via the command \"Add a beta plugin for testing\". You can chose to add the latest version or a frozen version. A frozen version is a specific release of a plugin based on its release tag.",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "4cea48244cea48244cea4824",
+      "source": "Click the 'Edit' button next to a plugin to change the installed version and the x button next to a plugin to remove it from the list.",
+      "translated": "Click the 'Edit' button next to a plugin to change the installed version and the x button next to a plugin to remove it from the list.",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "6728420e6728420e6728420e",
+      "source": "Removing from the list does not delete the plugin, this should be done from the Community Plugins tab in Settings.",
+      "translated": "Removing from the list does not delete the plugin, this should be done from the Community Plugins tab in Settings.",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "6072bea26072bea26072bea2",
+      "source": "Add beta plugin",
+      "translated": "Add beta plugin",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "8265b60f8265b60f8265b60f",
+      "source": "Tracked version: 0.7.5 (frozen)",
+      "translated": "Tracked version: 0.7.5 (frozen)",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "671e146c671e146c671e146c",
+      "source": "Tracked version: 0.0.1 (frozen)",
+      "translated": "Tracked version: 0.0.1 (frozen)",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "6a3f334a6a3f334a6a3f334a",
+      "source": "Beta themes list",
+      "translated": "Beta themes list",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "9142cbfa9142cbfa9142cbfa",
+      "source": "Add beta theme",
+      "translated": "Add beta theme",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "df07e4d4df07e4d4df07e4d4",
+      "source": "Monitoring",
+      "translated": "Monitoring",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "2b4a1d872b4a1d872b4a1d87",
+      "source": "Enable notifications",
+      "translated": "Enable notifications",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "0bad6c930bad6c930bad6c93",
+      "source": "BRAT will provide popup notifications for its various activities. Turn this off means no notifications from BRAT.",
+      "translated": "BRAT will provide popup notifications for its various activities. Turn this off means no notifications from BRAT.",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "5d250b3a5d250b3a5d250b3a",
+      "source": "Enable logging",
+      "translated": "Enable logging",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "399bc446399bc446399bc446",
+      "source": "Plugin updates will be logged to a file in the log file.",
+      "translated": "Plugin updates will be logged to a file in the log file.",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "1a72b8821a72b8821a72b882",
+      "source": "BRAT log file location",
+      "translated": "BRAT log file location",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "83213e7b83213e7b83213e7b",
+      "source": "Logs will be saved to this file. Don't add .md to the file name.",
+      "translated": "Logs will be saved to this file. Don't add .md to the file name.",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "a65820a0a65820a0a65820a0",
+      "source": "Enable verbose logging",
+      "translated": "Enable verbose logging",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "565bda75565bda75565bda75",
+      "source": "Get a lot more information in the log.",
+      "translated": "Get a lot more information in the log.",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "24864aad24864aad24864aad",
+      "source": "Debugging mode",
+      "translated": "Debugging mode",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "821274b2821274b2821274b2",
+      "source": "Atomic Bomb level console logging. Can be used for troubleshooting and development.",
+      "translated": "Atomic Bomb level console logging. Can be used for troubleshooting and development.",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "512f21df512f21df512f21df",
+      "source": "Personal access token",
+      "translated": "Personal access token",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "18096c3e18096c3e18096c3e",
+      "source": "Validate",
+      "translated": "Validate",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "457bb755457bb755457bb755",
+      "source": "No token provided",
+      "translated": "No token provided",
+      "updatedAt": 1764949323375
+    }
+  ]
+}
