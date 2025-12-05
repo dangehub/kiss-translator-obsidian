@@ -5,13 +5,13 @@
     {
       "key": "538664595386645953866459",
       "source": "Auto-enable plugins after installation",
-      "translated": "Auto-enable plugins after installation",
+      "translated": "安装后自动启用插件",
       "updatedAt": 1764949323374
     },
     {
       "key": "fecdc003fecdc003fecdc003",
       "source": "If enabled beta plugins will be automatically enabled after installtion by default. Note: you can toggle this on and off for each plugin in the \"Add Plugin\" form.",
-      "translated": "If enabled beta plugins will be automatically enabled after installtion by default. Note: you can toggle this on and off for each plugin in the \"Add Plugin\" form.",
+      "translated": "如果启用测试版插件将在安装后自动启用。 注意：您可以在“添加插件”表单中为每个插件开关。",
       "updatedAt": 1764949323374
     },
     {
