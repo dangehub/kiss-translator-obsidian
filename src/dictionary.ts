@@ -35,8 +35,37 @@ export class DictionaryStore {
 		}
 	}
 
+	async ensureScope(scope: string) {
+		await this.ensureReady();
+		const filePath = this.getFilePath(scope);
+		try {
+			if (await this.adapter.exists(filePath)) return;
+			const empty: DictFile = { version: FILE_VERSION, scope, entries: [] };
+			await this.safeWrite(filePath, empty);
+			this.cache.set(scope, empty);
+		} catch (err) {
+			console.error("dict ensure scope failed", err);
+		}
+	}
+
+	async listScopes(): Promise<string[]> {
+		try {
+			if (!(await this.adapter.exists(this.baseDir))) return [];
+			const listed = await this.adapter.list(this.baseDir);
+			const scopes = new Set<string>();
+			for (const file of listed.files || []) {
+				const base = this.getScopeFromPath(file);
+				if (base) scopes.add(base);
+			}
+			return Array.from(scopes);
+		} catch (err) {
+			console.error("dict list failed", err);
+			return [];
+		}
+	}
+
 	private getFilePath(scope: string) {
-		const safe = scope.replace(/[^a-zA-Z0-9-_.]/g, "_");
+		const safe = scope.replace(/[^a-zA-Z0-9-_.+]/g, "_");
 		return `${this.baseDir}/${safe}.json`;
 	}
 
@@ -68,8 +97,15 @@ export class DictionaryStore {
 
 	private async load(scope: string): Promise<DictFile> {
 		if (this.cache.has(scope)) return this.cache.get(scope)!;
+		await this.ensureReady();
 		const filePath = this.getFilePath(scope);
 		try {
+			if (!(await this.adapter.exists(filePath))) {
+				const empty: DictFile = { version: FILE_VERSION, scope, entries: [] };
+				this.cache.set(scope, empty);
+				await this.safeWrite(filePath, empty);
+				return empty;
+			}
 			const raw = await this.adapter.read(filePath);
 			const parsed = JSON.parse(raw) as DictFile;
 			if (parsed.version !== FILE_VERSION || !Array.isArray(parsed.entries)) {
@@ -78,9 +114,14 @@ export class DictionaryStore {
 			this.cache.set(scope, parsed);
 			return parsed;
 		} catch (err) {
-			console.error("dict load failed", err);
+			if (!this.isNotFound(err)) {
+				console.error("dict load failed", err);
+			}
 			const empty: DictFile = { version: FILE_VERSION, scope, entries: [] };
 			this.cache.set(scope, empty);
+			if (this.isNotFound(err)) {
+				await this.safeWrite(filePath, empty);
+			}
 			return empty;
 		}
 	}
@@ -95,6 +136,7 @@ export class DictionaryStore {
 	}
 
 	async flush(scope?: string) {
+		await this.ensureReady();
 		const scopes = scope ? [scope] : Array.from(this.cache.keys());
 		for (const s of scopes) {
 			const data = this.cache.get(s);
@@ -161,7 +203,13 @@ export class DictionaryStore {
 		this.cache.delete(scope);
 		const filePath = this.getFilePath(scope);
 		if (this.isFsAdapter(this.adapter) && this.adapter.remove) {
-			await this.adapter.remove(filePath);
+			try {
+				await this.adapter.remove(filePath);
+			} catch (err) {
+				if (!this.isNotFound(err)) {
+					console.error("dict remove failed", err);
+				}
+			}
 		} else {
 			await this.adapter.write(filePath, JSON.stringify({ version: FILE_VERSION, scope, entries: [] }));
 		}
@@ -186,6 +234,26 @@ export class DictionaryStore {
 			h = (h * 33) ^ input.charCodeAt(i);
 		}
 		return (h >>> 0).toString(16).padStart(8, "0").repeat(3).slice(0, 24);
+	}
+
+	private async safeWrite(filePath: string, data: DictFile) {
+		try {
+			await this.adapter.write(filePath, JSON.stringify(data, null, 2));
+		} catch (err) {
+			console.error("dict write failed", err);
+		}
+	}
+
+	private getScopeFromPath(filePath: string) {
+		const name = filePath.split("/").pop() || filePath.split("\\").pop() || "";
+		if (!name.toLowerCase().endsWith(".json")) return null;
+		return name.replace(/\.json$/i, "");
+	}
+
+	private isNotFound(err: unknown) {
+		if (!err) return false;
+		const code = (err as any).code;
+		return code === "ENOENT" || String(err).includes("ENOENT");
 	}
 
 	private isFsAdapter(

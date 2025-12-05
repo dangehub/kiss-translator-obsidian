@@ -119,6 +119,7 @@ export default class KissTranslatorPlugin extends Plugin {
 		await this.loadSettings();
 		this.dictStore = new DictionaryStore(this.getTranslationDir(), this.app.vault.adapter);
 		await this.dictStore.ensureReady();
+		await this.syncUiScopesFromDisk();
 
 		this.addCommand({
 			id: "kiss-translate-current",
@@ -378,9 +379,8 @@ export default class KissTranslatorPlugin extends Plugin {
 		this.settings.uiScope = scope;
 		const list = [scope, ...this.settings.recentUiScopes];
 		this.settings.recentUiScopes = Array.from(new Set(list)).slice(0, 5);
-		if (!this.settings.uiScopes.includes(scope)) {
-			this.settings.uiScopes.push(scope);
-		}
+		this.settings.uiScopes = Array.from(new Set([...(this.settings.uiScopes || []), scope]));
+		await this.dictStore?.ensureScope(scope);
 		await this.saveSettings();
 		this.uiSession = null; // 重置以清空缓存
 	}
@@ -446,6 +446,24 @@ export default class KissTranslatorPlugin extends Plugin {
 	private getTranslationDir() {
 		// 使用 vault 相对路径，兼容移动端
 		return `.obsidian/plugins/${this.manifest.id}/translation`;
+	}
+
+	private async syncUiScopesFromDisk() {
+		if (!this.dictStore) return;
+		const diskScopes = await this.dictStore.listScopes();
+		const merged = new Set<string>([
+			"ui-global",
+			...(this.settings.uiScopes || []),
+			...diskScopes,
+		]);
+		this.settings.uiScopes = Array.from(merged);
+		this.settings.recentUiScopes = (this.settings.recentUiScopes || []).filter((s) =>
+			merged.has(s)
+		);
+		if (!merged.has(this.settings.uiScope)) {
+			this.settings.uiScope = "ui-global";
+		}
+		await this.saveSettings();
 	}
 
 	private applyCss(el: HTMLElement, props: Record<string, string>) {
