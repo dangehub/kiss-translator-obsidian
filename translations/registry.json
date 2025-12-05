@@ -13,7 +13,7 @@
       "scope": "dataview",
       "name": "Dataview 常用翻译",
       "description": "Dataview 设置与错误提示翻译。",
-      "downloadUrl": "https://example.com/dicts/dataview.json",
+      "downloadUrl": "https://github.com/dangehub/kiss-translator-obsidian/raw/refs/heads/main/translations/pdf++.json",
       "updatedAt": 1735600000000,
       "entryCount": 210,
       "votes": { "up": 28, "down": 0 }
@@ -22,7 +22,7 @@
       "scope": "canvas",
       "name": "Canvas 术语",
       "description": "Canvas 面板、节点、连线等 UI 文字。",
-      "downloadUrl": "https://example.com/dicts/canvas.json",
+      "downloadUrl": "https://github.com/dangehub/kiss-translator-obsidian/raw/refs/heads/main/translations/pdf++.json",
       "updatedAt": 1735500000000,
       "entryCount": 160,
       "votes": { "up": 10, "down": 0 }
