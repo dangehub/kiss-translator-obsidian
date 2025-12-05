@@ -10,6 +10,7 @@ import {
 import { TranslationSession } from "./src/translator";
 import { FloatingFab } from "./src/fab";
 import { DictionaryStore } from "./src/dictionary";
+import { fetchCloudDict, fetchRegistry, type CloudDictMeta } from "./src/cloud";
 
 export interface KissTranslatorSettings {
 	apiType: "openai";
@@ -26,6 +27,7 @@ export interface KissTranslatorSettings {
 	uiScopes: string[];
 	recentUiScopes: string[];
 	hideOriginal: boolean;
+	cloudRegistryUrl?: string;
 	editMode?: boolean;
 	smartOriginal?: boolean;
 	maxTextLength?: number;
@@ -94,6 +96,7 @@ const DEFAULT_SETTINGS: KissTranslatorSettings = {
 	uiScopes: ["ui-global"],
 	recentUiScopes: ["ui-global"],
 	hideOriginal: false,
+	cloudRegistryUrl: "",
 	editMode: false,
 	smartOriginal: false,
 	maxTextLength: 500,
@@ -121,6 +124,9 @@ export default class KissTranslatorPlugin extends Plugin {
 	private uiDictionaryEnabled = true;
 	private fabState: "off" | "empty" | "active" = "off";
 	private fabInitialized = false;
+	cloudRegistry: CloudDictMeta[] = [];
+	cloudRegistryLoading = false;
+	cloudRegistryError: string | null = null;
 
 	async onload() {
 		await this.loadSettings();
@@ -566,6 +572,47 @@ export default class KissTranslatorPlugin extends Plugin {
 		return `.obsidian/plugins/${this.manifest.id}/translation`;
 	}
 
+	async refreshCloudRegistry() {
+		if (!this.settings.cloudRegistryUrl) {
+			this.cloudRegistry = [];
+			this.cloudRegistryError = null;
+			return;
+		}
+		this.cloudRegistryLoading = true;
+		this.cloudRegistryError = null;
+		try {
+			const list = await fetchRegistry(this.settings.cloudRegistryUrl);
+			this.cloudRegistry = list;
+		} catch (err) {
+			console.error(err);
+			this.cloudRegistryError = (err as any)?.message || String(err);
+		} finally {
+			this.cloudRegistryLoading = false;
+		}
+	}
+
+	async downloadCloudDict(meta: CloudDictMeta) {
+		if (!this.dictStore) return;
+		const notice = new Notice(`正在下载词典：${meta.name || meta.scope}`);
+		try {
+			const file = await fetchCloudDict(meta);
+			await this.dictStore.ensureScope(file.scope);
+			await this.dictStore.import(file.scope, file);
+			if (!this.settings.uiScopes.includes(file.scope)) {
+				this.settings.uiScopes.push(file.scope);
+			}
+			this.settings.recentUiScopes = Array.from(
+				new Set([file.scope, ...this.settings.recentUiScopes])
+			).slice(0, 5);
+			await this.saveSettings();
+			this.uiSession = null;
+			notice.setMessage(`已导入词典：${meta.name || meta.scope}`);
+		} catch (err) {
+			console.error(err);
+			new Notice(`下载词典失败：${(err as any)?.message || err}`);
+		}
+	}
+
 	private async syncUiScopesFromDisk() {
 		if (!this.dictStore) return;
 		const diskScopes = await this.dictStore.listScopes();
@@ -861,6 +908,76 @@ class KissSettingTab extends PluginSettingTab {
 		containerEl.empty();
 
 		// 按指南避免额外顶级 heading，直接列出设置项
+
+		const cloudSection = containerEl.createDiv({ cls: "kiss-cloud-section" });
+		cloudSection.createEl("h3", { text: "云端词典（只读）" });
+		new Setting(cloudSection)
+			.setName("清单地址")
+			.setDesc("提供一个云端词典清单 URL（JSON），可从 GitHub/Gitea/raw 静态文件读取")
+			.addText((text) =>
+				text
+					.setPlaceholder("https://example.com/registry.json")
+					.setValue(this.plugin.settings.cloudRegistryUrl || "")
+					.onChange(async (value) => {
+						this.plugin.settings.cloudRegistryUrl = value.trim();
+						await this.plugin.saveSettings();
+					})
+			)
+			.addExtraButton((btn) =>
+				btn
+					.setIcon("refresh-ccw")
+					.setTooltip("刷新云端词典清单")
+					.onClick(async () => {
+						await this.plugin.refreshCloudRegistry();
+						this.display();
+					})
+			);
+
+		if (this.plugin.cloudRegistryLoading) {
+			cloudSection.createEl("div", { text: "正在拉取云端清单…" });
+		} else if (this.plugin.cloudRegistryError) {
+			cloudSection.createEl("div", {
+				text: `拉取失败：${this.plugin.cloudRegistryError}`,
+				cls: "mod-warning",
+			});
+		} else if (this.plugin.cloudRegistry.length > 0) {
+			const list = cloudSection.createEl("div", { cls: "kiss-cloud-list" });
+			this.plugin.cloudRegistry
+				.slice()
+				.sort((a, b) => (b.updatedAt || 0) - (a.updatedAt || 0))
+				.forEach((item) => {
+					const row = list.createEl("div", { cls: "kiss-cloud-row" });
+					const title = row.createEl("div", {
+						text: item.name || item.scope,
+						cls: "kiss-cloud-title",
+					});
+					title.setAttr("title", item.description || "");
+					row.createEl("div", {
+						text: `Scope: ${item.scope}`,
+						cls: "kiss-cloud-scope",
+					});
+					const metaLine: string[] = [];
+					if (item.updatedAt) metaLine.push(`更新: ${new Date(item.updatedAt).toLocaleString()}`);
+					if (item.entryCount) metaLine.push(`条目: ${item.entryCount}`);
+					if (item.votes?.up || item.votes?.down) {
+						metaLine.push(`票数: +${item.votes.up || 0}/-${item.votes.down || 0}`);
+					}
+					if (metaLine.length > 0) {
+						row.createEl("div", { text: metaLine.join(" · "), cls: "kiss-cloud-meta" });
+					}
+					const actions = row.createEl("div", { cls: "kiss-cloud-actions" });
+					const btn = actions.createEl("button", { text: "下载" });
+					btn.onclick = async () => {
+						btn.setText("下载中…");
+						btn.toggleAttribute("disabled", true);
+						await this.plugin.downloadCloudDict(item);
+						btn.setText("下载");
+						btn.toggleAttribute("disabled", false);
+					};
+				});
+		} else {
+			cloudSection.createEl("div", { text: "未配置清单，或清单为空。" });
+		}
 
 		new Setting(containerEl)
 			.setName("API 接口类型")

@@ -276,6 +276,42 @@ If your plugin does not need CSS, delete this file.
 	padding: 4px 8px;
 }
 
+.kiss-cloud-list {
+	max-height: 260px;
+	overflow: auto;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 8px;
+	padding: 6px;
+	margin-top: 6px;
+	display: flex;
+	flex-direction: column;
+	gap: 6px;
+}
+
+.kiss-cloud-row {
+	display: flex;
+	flex-direction: column;
+	gap: 2px;
+	padding: 6px;
+	border-radius: 6px;
+	background: var(--background-secondary);
+}
+
+.kiss-cloud-title {
+	font-weight: 600;
+}
+
+.kiss-cloud-meta {
+	color: var(--text-muted);
+	font-size: 12px;
+}
+
+.kiss-cloud-actions {
+	display: flex;
+	gap: 8px;
+	align-items: center;
+}
+
 .kiss-translating-loading {
 	display: inline-block;
 	width: 10px;

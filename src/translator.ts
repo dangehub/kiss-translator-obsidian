@@ -408,8 +408,9 @@ export class TranslationSession {
 				if (hit?.translated) {
 					this.cache.set(text, hit.translated);
 					// 迁移：如命中旧 key，将其保存为新 key
-					if (hit.key !== keys.primary) {
+					if (hit.key !== keys.primary && keys.primary) {
 						await this.dict.set(scope, { ...hit, key: keys.primary });
+						await this.dict.remove(scope, hit.key);
 					}
 					return hit.translated;
 				}
