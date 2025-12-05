@@ -1,94 +1,44 @@
 {
-  "dictionaries": [
-    {
-      "scope": "pdf-plus-plus",
-      "name": "PDF++ 中文包",
-      "description": "PDF++ 插件的完整中文翻译。",
-      "downloadUrl": "https://github.com/dangehub/kiss-translator-obsidian/raw/refs/heads/main/translations/pdf++.json",
-      "updatedAt": 1735710000000,
-      "entryCount": 520,
-      "votes": { "up": 32, "down": 1 }
-    },
-    {
-      "scope": "dataview",
-      "name": "Dataview 常用翻译",
-      "description": "Dataview 设置与错误提示翻译。",
-      "downloadUrl": "https://github.com/dangehub/kiss-translator-obsidian/raw/refs/heads/main/translations/dataview.json",
-      "updatedAt": 1735600000000,
-      "entryCount": 210,
-      "votes": { "up": 28, "down": 0 }
-    },
-    {
-      "scope": "canvas",
-      "name": "Canvas 术语",
-      "description": "Canvas 面板、节点、连线等 UI 文字。",
-      "downloadUrl": "https://github.com/dangehub/kiss-translator-obsidian/raw/refs/heads/main/translations/pdf++.json",
-      "updatedAt": 1735500000000,
-      "entryCount": 160,
-      "votes": { "up": 10, "down": 0 }
-    },
-    {
-      "scope": "templater",
-      "name": "Templater 中文",
-      "description": "Templater 设置和提示信息翻译。",
-      "downloadUrl": "https://example.com/dicts/templater.json",
-      "updatedAt": 1735400000000,
-      "entryCount": 185,
-      "votes": { "up": 22, "down": 2 }
-    },
-    {
-      "scope": "quickadd",
-      "name": "QuickAdd 翻译",
-      "description": "QuickAdd 菜单、Macro、Template 提示。",
-      "downloadUrl": "https://example.com/dicts/quickadd.json",
-      "updatedAt": 1735300000000,
-      "entryCount": 140,
-      "votes": { "up": 12, "down": 1 }
-    },
-    {
-      "scope": "calendar",
-      "name": "Calendar 插件",
-      "description": "日历 UI、周视图、命令翻译。",
-      "downloadUrl": "https://example.com/dicts/calendar.json",
-      "updatedAt": 1735200000000,
-      "entryCount": 95,
-      "votes": { "up": 8, "down": 0 }
-    },
-    {
-      "scope": "reading-mode",
-      "name": "阅读模式增强",
-      "description": "阅读模式快捷键、工具栏提示。",
-      "downloadUrl": "https://example.com/dicts/reading-mode.json",
-      "updatedAt": 1735100000000,
-      "entryCount": 75,
-      "votes": { "up": 6, "down": 0 }
-    },
-    {
-      "scope": "annotation-helper",
-      "name": "标注助手",
-      "description": "批注、侧栏、过滤器相关文案。",
-      "downloadUrl": "https://example.com/dicts/annotation-helper.json",
-      "updatedAt": 1735000000000,
-      "entryCount": 130,
-      "votes": { "up": 15, "down": 1 }
-    },
-    {
-      "scope": "ai-notes",
-      "name": "AI Notes",
-      "description": "AI 笔记生成/改写/总结功能提示。",
-      "downloadUrl": "https://example.com/dicts/ai-notes.json",
-      "updatedAt": 1734900000000,
-      "entryCount": 110,
-      "votes": { "up": 18, "down": 3 }
-    },
-    {
-      "scope": "kanban",
-      "name": "Kanban 看板",
-      "description": "看板列、卡片、命令的翻译。",
-      "downloadUrl": "https://example.com/dicts/kanban.json",
-      "updatedAt": 1734800000000,
-      "entryCount": 150,
-      "votes": { "up": 14, "down": 0 }
-	}
-  ]
+  "languages": {
+    "en": [
+      {
+        "scope": "a",
+        "name": "A (English)",
+        "description": "English UI strings for plugin A",
+        "downloadUrl": "https://example.com/translations/en/a.json",
+        "updatedAt": 1735710000000,
+        "entryCount": 120,
+        "version": 1
+      },
+      {
+        "scope": "b",
+        "name": "B (English)",
+        "description": "English UI strings for plugin B",
+        "downloadUrl": "https://example.com/translations/en/b.json",
+        "updatedAt": 1735600000000,
+        "entryCount": 95,
+        "version": 1
+      }
+    ],
+    "zh": [
+      {
+        "scope": "PDF++",
+        "name": "PDF++",
+        "description": "PDF++",
+        "downloadUrl": "https://github.com/dangehub/kiss-translator-obsidian/raw/refs/heads/main/translations/pdf++.json",
+        "updatedAt": 1735715000000,
+        "entryCount": 120,
+        "version": 1
+      },
+      {
+        "scope": "BRAT",
+        "name": "BRAT",
+        "description": "BRAT",
+        "downloadUrl": "https://github.com/dangehub/kiss-translator-obsidian/raw/refs/heads/main/translations/BRAT.json",
+        "updatedAt": 1735605000000,
+        "entryCount": 95,
+        "version": 1
+      }
+    ]
+  }
 }
