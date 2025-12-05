@@ -30,10 +30,10 @@ jobs:
           if [ -z "$BASE" ] || ! git cat-file -e "$BASE" 2>/dev/null; then
             BASE=$(git rev-parse HEAD^)
           fi
-          FILES=$(git diff --name-only "$BASE"...HEAD -- translations/**.json ':!translations/registry.json' 2>/dev/null || true)
+          FILES=$(git diff --name-only "$BASE"...HEAD -- ":(glob)translations/**/*.json" ":(glob)!translations/registry.json" 2>/dev/null || true)
           # Fallback for edge cases
           if [ -z "$FILES" ]; then
-            FILES=$(git diff --name-only HEAD^1 HEAD -- translations/**.json ':!translations/registry.json' 2>/dev/null || true)
+            FILES=$(git diff --name-only HEAD^1 HEAD -- ":(glob)translations/**/*.json" ":(glob)!translations/registry.json" 2>/dev/null || true)
           fi
           echo "Changed files (base=$BASE):"
           echo "$FILES"
