@@ -6,31 +6,31 @@
       "key": "e2be9c90e2be9c90e2be9c90",
       "source": "Color scheme",
       "translated": "配色方案",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "0091abc70091abc70091abc7",
       "source": "To create a custom color scheme use the",
       "translated": "要创建自定义配色方案，请使用",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "0064aaad0064aaad0064aaad",
       "source": "Light mode color scheme",
       "translated": "明亮模式配色方案",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "be758758be758758be758758",
       "source": "Preset color options for light mode.",
       "translated": "明亮模式的预设配色选项。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "1ff46e731ff46e731ff46e73",
       "source": "Default",
       "translated": "默认",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "47fd54af47fd54af47fd54af",
@@ -114,43 +114,43 @@
       "key": "0d20e6490d20e6490d20e649",
       "source": "Light mode background contrast",
       "translated": "明亮模式背景对比度",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "3c97c7c23c97c7c23c97c7c2",
       "source": "Level of contrast between sidebar and main content.",
       "translated": "侧边栏和主要内容之间的对比度。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "8f66973e8f66973e8f66973e",
       "source": "All white",
       "translated": "全白",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "fd0757cefd0757cefd0757ce",
       "source": "Low contrast",
       "translated": "低对比度",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "52a21cd452a21cd452a21cd4",
       "source": "High contrast",
       "translated": "高对比度",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "0f53b34f0f53b34f0f53b34f",
       "source": "Dark mode color scheme",
       "translated": "暗黑模式配色方案",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "928952a9928952a9928952a9",
       "source": "Preset colors options for dark mode.",
       "translated": "暗黑模式的预设配色选项。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "469ca5d4469ca5d4469ca5d4",
@@ -162,19 +162,19 @@
       "key": "d0f7686bd0f7686bd0f7686b",
       "source": "Dark mode background contrast",
       "translated": "暗黑模式背景对比度",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "0a9913690a9913690a991369",
       "source": "True black",
       "translated": "纯黑",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "92c4bb9f92c4bb9f92c4bb9f",
       "source": "Features",
       "translated": "功能",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "6e349ecb6e349ecb6e349ecb",
@@ -186,319 +186,319 @@
       "key": "fcd13dedfcd13dedfcd13ded",
       "source": "Text labels for primary navigation",
       "translated": "资源导航图标 📁 和 🔍 标签化",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "82db5eed82db5eed82db5eed",
       "source": "Navigation items in the left sidebar uses text labels.",
       "translated": "左侧边栏顶部的资源导航图标栏改为上下标签栏的形式。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "7cd7f34b7cd7f34b7cd7f34b",
       "source": "Colorful window frame",
       "translated": "窗口颜色",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "696950606969506069695060",
       "source": "The top area of the app uses your accent color.",
       "translated": "应用顶部窗口框使用外观设置里的主题色。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "f8cdf472f8cdf472f8cdf472",
       "source": "Colorful active states",
       "translated": "选中状态的背景色",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "c7e08813c7e08813c7e08813",
       "source": "Active file and menu items use your accent color.",
       "translated": "当前选中的文件和菜单项使用您设置的主题色。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "794f3181794f3181794f3181",
       "source": "Colorful headings",
       "translated": "多彩标题",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "fe7641e6fe7641e6fe7641e6",
       "source": "Headings use a different color for each size.",
       "translated": "每种尺寸的标题使用不同的颜色。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "026769be026769be026769be",
       "source": "Minimal status bar",
       "translated": "Minimal 底部状态栏",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "564754a1564754a1564754a1",
       "source": "Turn off to use full-width status bar.",
       "translated": "关闭以使用全宽状态栏。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "92f24b7692f24b7692f24b76",
       "source": "Trim file names in sidebars",
       "translated": "裁剪侧边栏中过长的文件名",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "adcb370aadcb370aadcb370a",
       "source": "Use ellipses to fit file names on a single line.",
       "translated": "使用省略号替代过长的文字部分使得文件名归于同一行上。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "6a2ee2226a2ee2226a2ee222",
       "source": "Workspace borders",
       "translated": "工作区边界",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "fb775fd2fb775fd2fb775fd2",
       "source": "Display divider lines between workspace elements.",
       "translated": "显示工作区空间分隔线（如侧边栏与编辑器之间的分隔线）。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "f5eb1a57f5eb1a57f5eb1a57",
       "source": "Focus mode",
       "translated": "专注模式",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "71db1dbc71db1dbc71db1dbc",
       "source": "Hide tab bar and status bar, hover to display. Can be toggled via hotkey.",
       "translated": "隐藏标签栏和状态栏，悬停可显示。此特性可以通过热键切换。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "bb0ec90abb0ec90abb0ec90a",
       "source": "Underline internal links",
       "translated": "在内部链接下划线",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "ff54d095ff54d095ff54d095",
       "source": "Show underlines on internal links.",
       "translated": "在内部链接上显示下划线。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "fddb4110fddb4110fddb4110",
       "source": "Underline external links",
       "translated": "为外部链接加下划线",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "3e1e694f3e1e694f3e1e694f",
       "source": "Show underlines on external links.",
       "translated": "在外部链接上显示下划线。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "5c5c46fa5c5c46fa5c5c46fa",
       "source": "Maximize media",
       "translated": "媒体文件尺寸最大化嵌入",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "98e4908598e4908598e49085",
       "source": "Images and videos fill the width of the line.",
       "translated": "图像和视频的宽度填满整行。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "eb8fe722eb8fe722eb8fe722",
       "source": "Layout",
       "translated": "布局",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "156170c5156170c5156170c5",
       "source": "These options can also be defined on a per-file basis, see",
       "translated": "这些选项也可以根据每个文件的基础上自定义，详情请参阅",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "8b1634748b1634748b163474",
       "source": "Image grids",
       "translated": "图像网格",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "6f7ef1a76f7ef1a76f7ef1a7",
       "source": "Turn consecutive images into columns — to make a new row, add an extra line break between images.",
       "translated": "将连续图像转换为列以创建新行，在图像之间添加额外的换行符。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "ce11c4d2ce11c4d2ce11c4d2",
       "source": "Chart width",
       "translated": "图表宽度",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "fd0a32f6fd0a32f6fd0a32f6",
       "source": "Default width for chart blocks.",
       "translated": "图表块的默认宽度。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "63c4ac4f63c4ac4f63c4ac4f",
       "source": "Wide line width",
       "translated": "宽元素行宽",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "46284ef846284ef846284ef8",
       "source": "Maximum line width",
       "translated": "最大行宽",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "be7e63d0be7e63d0be7e63d0",
       "source": "100% pane width",
       "translated": "100% 窗格宽度",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "2912150a2912150a2912150a",
       "source": "Iframe width",
       "translated": "Iframe 宽度",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "ac8ce6eeac8ce6eeac8ce6ee",
       "source": "Default width for iframe blocks.",
       "translated": "iframe块的默认宽度。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "d92d2bd9d92d2bd9d92d2bd9",
       "source": "Image width",
       "translated": "图像宽度",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "7c9824bd7c9824bd7c9824bd",
       "source": "Default width for image blocks.",
       "translated": "图像块的默认宽度。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "af792162af792162af792162",
       "source": "Map width",
       "translated": "地图宽度",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "d5d35c86d5d35c86d5d35c86",
       "source": "Default width for map blocks.",
       "translated": "地图块的默认宽度。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "bcb2be20bcb2be20bcb2be20",
       "source": "Table width",
       "translated": "表格宽度",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "4b5b3f724b5b3f724b5b3f72",
       "source": "Default width for table and Dataview blocks.",
       "translated": "表格数据视图块的默认宽度。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "d416f8bfd416f8bfd416f8bf",
       "source": "Typography",
       "translated": "排版",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "f3d67eb3f3d67eb3f3d67eb3",
       "source": "Text font size",
       "translated": "文本字体尺寸",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "173805081738050817380508",
       "source": "Used for the main text (default 16).",
       "translated": "用于正文（默认值16）。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "8f1a4b918f1a4b918f1a4b91",
       "source": "Small font size",
       "translated": "小号字体尺寸",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "16443bd716443bd716443bd7",
       "source": "Used for text in the sidebars and tabs (default 13).",
       "translated": "用于侧边栏和选项卡中的文本（默认值13）。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "171178891711788917117889",
       "source": "Line height",
       "translated": "行高",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "321e9713321e9713321e9713",
       "source": "Line height of text (default 1.5).",
       "translated": "文本的行高（默认值为1.5）。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "313dc983313dc983313dc983",
       "source": "Normal line width",
       "translated": "标准行宽",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "7a5f31517a5f31517a5f3151",
       "source": "Number of characters per line (default 40).",
       "translated": "标准行宽每行所占字符数（默认值为40）。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "16869e7916869e7916869e79",
       "source": "Number of characters per line for wide elements (default 50).",
       "translated": "宽元素每行所占的字符数（默认值为50）。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "aec5a27daec5a27daec5a27d",
       "source": "Maximum line width %",
       "translated": "最大行宽%",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "63f21a0b63f21a0b63f21a0b",
       "source": "Percentage of space inside a pane that a line can fill (default 88).",
       "translated": "一行文字能够填充编辑器横向空间的百分比（默认值为88）。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "250add6a250add6a250add6a",
       "source": "Editor font",
       "translated": "编辑器字体",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "363329a2363329a2363329a2",
       "source": "Overrides the text font defined in Obsidian Appearance settings when in edit mode.",
       "translated": "在编辑模式下，覆盖在obsidian外观(Appearance)设置中定义的文本字体。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     }
   ]
 }
