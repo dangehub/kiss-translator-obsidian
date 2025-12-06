@@ -1,0 +1,222 @@
+{
+  "version": 1,
+  "scope": "QuickAdd",
+  "entries": [
+    {
+      "key": "74932eb974932eb974932eb9",
+      "source": "QuickAdd Settings",
+      "translated": "QuickAdd Settings",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "7dbe1a487dbe1a487dbe1a48",
+      "source": "Template",
+      "translated": "Template",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "8ff69a1c8ff69a1c8ff69a1c",
+      "source": "Capture",
+      "translated": "Capture",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "e7ed398ae7ed398ae7ed398a",
+      "source": "Macro",
+      "translated": "Macro",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "6f8caf516f8caf516f8caf51",
+      "source": "Multi",
+      "translated": "Multi",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "b5fb25d2b5fb25d2b5fb25d2",
+      "source": "Add Choice",
+      "translated": "Add Choice",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "05c8c35105c8c35105c8c351",
+      "source": "Packages",
+      "translated": "Packages",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "61ad338a61ad338a61ad338a",
+      "source": "Bundle or import QuickAdd automations as reusable packages.",
+      "translated": "Bundle or import QuickAdd automations as reusable packages.",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "e7ecd060e7ecd060e7ecd060",
+      "source": "Export package…",
+      "translated": "Export package…",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "d82775d9d82775d9d82775d9",
+      "source": "Import package…",
+      "translated": "Import package…",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "770d1ca3770d1ca3770d1ca3",
+      "source": "Use Multi-line Input Prompt",
+      "translated": "Use Multi-line Input Prompt",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "266959a1266959a1266959a1",
+      "source": "Use multi-line input prompt instead of single-line input prompt",
+      "translated": "Use multi-line input prompt instead of single-line input prompt",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "50e6a27350e6a27350e6a273",
+      "source": "Template Folder Path",
+      "translated": "Template Folder Path",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "08192ba208192ba208192ba2",
+      "source": "Path to the folder where templates are stored. Used to suggest template files when configuring QuickAdd.",
+      "translated": "Path to the folder where templates are stored. Used to suggest template files when configuring QuickAdd.",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "2af5cae92af5cae92af5cae9",
+      "source": "Announce Updates",
+      "translated": "Announce Updates",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "5c6fa5a85c6fa5a85c6fa5a8",
+      "source": "Display release notes when a new version is installed. This includes new features, demo videos, and bug fixes.",
+      "translated": "Display release notes when a new version is installed. This includes new features, demo videos, and bug fixes.",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "23e91ea223e91ea223e91ea2",
+      "source": "Show updates on each new release",
+      "translated": "Show updates on each new release",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "aa3cb671aa3cb671aa3cb671",
+      "source": "Show updates only on major releases (new features, breaking changes)",
+      "translated": "Show updates only on major releases (new features, breaking changes)",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "f8692aadf8692aadf8692aad",
+      "source": "Don't show",
+      "translated": "Don't show",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "e61372e1e61372e1e61372e1",
+      "source": "Show Capture Notifications",
+      "translated": "Show Capture Notifications",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "abea1186abea1186abea1186",
+      "source": "Display a notification when content is captured successfully to confirm the operation completed.",
+      "translated": "Display a notification when content is captured successfully to confirm the operation completed.",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "a65f3c84a65f3c84a65f3c84",
+      "source": "Show Input Cancellation Notifications",
+      "translated": "Show Input Cancellation Notifications",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "a5c5292ca5c5292ca5c5292c",
+      "source": "Display a notification when an input prompt is cancelled without submitting. Disable this to avoid extra notices when dismissing prompts.",
+      "translated": "Display a notification when an input prompt is cancelled without submitting. Disable this to avoid extra notices when dismissing prompts.",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "764453397644533976445339",
+      "source": "Format template variables as proper property types (Beta)",
+      "translated": "Format template variables as proper property types (Beta)",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "1c6b11a71c6b11a71c6b11a7",
+      "source": "When enabled, template variables in front matter will be formatted as proper Obsidian property types. Arrays become List properties, numbers become Number properties, booleans become Checkbox properties, etc. This is a beta feature that may have edge cases.",
+      "translated": "When enabled, template variables in front matter will be formatted as proper Obsidian property types. Arrays become List properties, numbers become Number properties, booleans become Checkbox properties, etc. This is a beta feature that may have edge cases.",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "918326469183264691832646",
+      "source": "Global Variables",
+      "translated": "Global Variables",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "63acc43f63acc43f63acc43f",
+      "source": "Add variable",
+      "translated": "Add variable",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "b1284a1fb1284a1fb1284a1f",
+      "source": "Name",
+      "translated": "Name",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "bd48c3f3bd48c3f3bd48c3f3",
+      "source": "Value",
+      "translated": "Value",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "da913775da913775da913775",
+      "source": "Actions",
+      "translated": "Actions",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "03a9558403a9558403a95584",
+      "source": "One-page input for choices (Beta)",
+      "translated": "One-page input for choices (Beta)",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "d03bba33d03bba33d03bba33",
+      "source": "Experimental. Resolve variables up front and show a single dynamic form before executing Template/Capture choices. See Advanced → One-page Inputs in docs.",
+      "translated": "Experimental. Resolve variables up front and show a single dynamic form before executing Template/Capture choices. See Advanced → One-page Inputs in docs.",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "68e8f6ca68e8f6ca68e8f6ca",
+      "source": "Disable AI & Online features",
+      "translated": "Disable AI & Online features",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "9cd0d78e9cd0d78e9cd0d78e",
+      "source": "This prevents the plugin from making requests to external providers like OpenAI. You can still use User Scripts to execute arbitrary code, including contacting external providers. However, this setting disables plugin features like the AI Assistant from doing so. You need to disable this setting to use the AI Assistant.",
+      "translated": "This prevents the plugin from making requests to external providers like OpenAI. You can still use User Scripts to execute arbitrary code, including contacting external providers. However, this setting disables plugin features like the AI Assistant from doing so. You need to disable this setting to use the AI Assistant.",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "e824cf9de824cf9de824cf9d",
+      "source": "Show icon in sidebar",
+      "translated": "Show icon in sidebar",
+      "updatedAt": 1764997062950
+    },
+    {
+      "key": "4e00774a4e00774a4e00774a",
+      "source": "Add QuickAdd icon to the sidebar ribbon. Requires a reload.",
+      "translated": "Add QuickAdd icon to the sidebar ribbon. Requires a reload.",
+      "updatedAt": 1764997062950
+    }
+  ]
+}
