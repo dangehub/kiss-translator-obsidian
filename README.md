@@ -7,10 +7,11 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'Y8Y51PPQXN');kofiwidget2.draw();</script> 
 
 ---
 
-翻译 Obsidian 界面和笔记的插件，使用 OpenAI 兼容接口，支持本地词典和双语对照。
+在 Obsidian 里一键翻译界面和笔记：悬浮球操作、本地词典优先、双语对照可编辑，支持 OpenAI 兼容接口与云端词典下载。
 
 ## 功能亮点
 - 界面/笔记翻译：支持隐藏原文、悬停显示原文、编辑译文。
@@ -21,7 +22,9 @@
 
 注：有任何问题和建议欢迎在issue中反馈，也可以加本插件的QQ交流群 1034829731
 
-## 快速上手
+## 配置
+
+### 快速上手
 1) 设置 → 填写 API：
    - API URL：如 `https://api.openai.com/v1/chat/completions`
    - API Key：如 `sk-...`
@@ -32,7 +35,7 @@
    - 双击：开/关翻译注入模式；颜色显示状态（红/黄/绿）
    - 右键/长按：打开菜单 → 翻译当前页面 / 提取当前页面（提取模式） / 选择或新增 UI 词典 / 编辑模式 / 隐藏原文 / 悬停显示原文
 
-## 悬浮球与词典管理
+### 悬浮球与词典管理
 | 操作/项 | 说明 |
 | --- | --- |
 | 双击悬浮球 | 开/关翻译注入（红=关，黄=无命中，绿=已注入） |
@@ -42,13 +45,13 @@
 | 编辑模式 | 展示译文后的编辑按钮；可写回词典或重置 |
 | 隐藏原文 / 悬停显示原文 | 仅展示译文；可在悬停时临时查看原文 |
 
-## 设置速查
+### 设置详解
 - **翻译 / 提取**：切换“仅提取”后，悬浮球菜单显示“提取当前页面”，不调用 API。
 - **最大文本长度**：单块文本超过此长度会跳过翻译，默认 500。
 - **API 设置**：URL / Key / Model / 源语言（建议 auto）/ 目标语言。
 - **不翻译的选择器预设**：可为不同界面配置跳过的选择器，支持启用/停用、增删改。
 
-## 词典与云端
+### 词典与云端
 - 本地词典存放在插件目录的 `translation/` 下，按 scope 管理。
 - 云端注册表可自定义（支持 GitHub/Gitea/raw 静态文件），注册表包含 scope、语言、下载链接、条目数等信息。
 - 下载时会优先按 Obsidian 当前语言匹配语言列表；若无则回退到英文。
@@ -79,6 +82,19 @@
 - 本项目受到 [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) 启发。
 - 沉浸式翻译 SDK 不再公开，遂自研实现。
 - 旧版 i18n 插件因修改他人源码无法上架，本插件改为无侵入实现。
+
+## 赞助与打赏
+
+如果您想支持我的话
+![](docs/奶茶表情包.jpg)
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/kofi.jpg" alt="Ko-fi" width="220"></td>
+    <td align="center"><img src="docs/支付宝收款码.png" alt="Alipay" width="220"></td>
+    <td align="center"><img src="docs/微信收款码.png" alt="WeChat" width="220"></td>
+  </tr>
+</table>
 
 ## Vibe Coding 警告
 本插件开发基本使用 AI 完成。
