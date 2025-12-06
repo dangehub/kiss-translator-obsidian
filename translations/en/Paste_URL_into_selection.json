@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "scope": "Paste URL into selection",
+  "entries": [
+    {
+      "key": "ffd9f8caffd9f8caffd9f8ca",
+      "source": "URL-into-selection Settings",
+      "translated": "URL-into-selection Settings",
+      "updatedAt": 1765001231387
+    },
+    {
+      "key": "531bc4dc531bc4dc531bc4dc",
+      "source": "Fallback Regular expression",
+      "translated": "Fallback Regular expression",
+      "updatedAt": 1765001231388
+    },
+    {
+      "key": "3510f0d43510f0d43510f0d4",
+      "source": "Regular expression used to match URLs when default match fails.",
+      "translated": "Regular expression used to match URLs when default match fails.",
+      "updatedAt": 1765001231388
+    },
+    {
+      "key": "cabec5d2cabec5d2cabec5d2",
+      "source": "Behavior on pasting URL when nothing is selected",
+      "translated": "Behavior on pasting URL when nothing is selected",
+      "updatedAt": 1765001231388
+    },
+    {
+      "key": "61a3808d61a3808d61a3808d",
+      "source": "Auto Select: Automatically select word surrounding the cursor.",
+      "translated": "Auto Select: Automatically select word surrounding the cursor.",
+      "updatedAt": 1765001231388
+    },
+    {
+      "key": "efbfee0eefbfee0eefbfee0e",
+      "source": "Do nothing",
+      "translated": "Do nothing",
+      "updatedAt": 1765001231388
+    },
+    {
+      "key": "808d4edf808d4edf808d4edf",
+      "source": "Auto Select",
+      "translated": "Auto Select",
+      "updatedAt": 1765001231388
+    },
+    {
+      "key": "58fbfc6358fbfc6358fbfc63",
+      "source": "Insert [](url)",
+      "translated": "Insert [](url)",
+      "updatedAt": 1765001231388
+    },
+    {
+      "key": "021768860217688602176886",
+      "source": "Insert <url>",
+      "translated": "Insert <url>",
+      "updatedAt": 1765001231388
+    },
+    {
+      "key": "04dd24e304dd24e304dd24e3",
+      "source": "Whitelist for image embed syntax",
+      "translated": "Whitelist for image embed syntax",
+      "updatedAt": 1765001231388
+    }
+  ]
+}
