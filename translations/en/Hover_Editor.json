@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "scope": "Hover Editor",
+  "entries": [
+    {
+      "key": "2c0b4c102c0b4c102c0b4c10",
+      "source": "Default Mode",
+      "translated": "Default Mode",
+      "updatedAt": 1765001042782
+    },
+    {
+      "key": "efa3f789efa3f789efa3f789",
+      "source": "Editing view",
+      "translated": "Editing view",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "dc17e3efdc17e3efdc17e3ef",
+      "source": "Match current view",
+      "translated": "Match current view",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "4ad2efc04ad2efc04ad2efc0",
+      "source": "Auto Pin",
+      "translated": "Auto Pin",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "b7888126b7888126b7888126",
+      "source": "On drag or resize",
+      "translated": "On drag or resize",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "60a112f560a112f560a112f5",
+      "source": "Trigger hover preview on embeds",
+      "translated": "Trigger hover preview on embeds",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "29449c5229449c5229449c52",
+      "source": "Allow hover preview to trigger when hovering over any type of rendered embed such as images or block references",
+      "translated": "Allow hover preview to trigger when hovering over any type of rendered embed such as images or block references",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "bcc7095fbcc7095fbcc7095f",
+      "source": "Trigger hover preview on sub-heading links",
+      "translated": "Trigger hover preview on sub-heading links",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "2af5ece42af5ece42af5ece4",
+      "source": "Use hover editor for links to subheadings, instead of the built-in preview/editor",
+      "translated": "Use hover editor for links to subheadings, instead of the built-in preview/editor",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "38c4831738c4831738c48317",
+      "source": "Trigger hover preview on block links",
+      "translated": "Trigger hover preview on block links",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "71fbb0c171fbb0c171fbb0c1",
+      "source": "Use hover editor for links to blocks, instead of the built-in preview/editor",
+      "translated": "Use hover editor for links to blocks, instead of the built-in preview/editor",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "f1d4181cf1d4181cf1d4181c",
+      "source": "Trigger hover preview on footnotes",
+      "translated": "Trigger hover preview on footnotes",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "418720024187200241872002",
+      "source": "Use hover editor for footnotes, instead of the built-in preview/editor",
+      "translated": "Use hover editor for footnotes, instead of the built-in preview/editor",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "e87bca7be87bca7be87bca7b",
+      "source": "Auto Focus",
+      "translated": "Auto Focus",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "da424638da424638da424638",
+      "source": "Set the hover editor as the active pane when opened",
+      "translated": "Set the hover editor as the active pane when opened",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "1207fa211207fa211207fa21",
+      "source": "Minimize downwards",
+      "translated": "Minimize downwards",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "a4df25cda4df25cda4df25cd",
+      "source": "When double clicking to minimize, the window will roll down instead of rolling up",
+      "translated": "When double clicking to minimize, the window will roll down instead of rolling up",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "76c4111f76c4111f76c4111f",
+      "source": "Snap to edges",
+      "translated": "Snap to edges",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "645e354a645e354a645e354a",
+      "source": "Quickly arrange popovers by dragging them to the edges of the screen. The left and right edges will maximize the popover vertically. The top edge will maximize the popover to fill the entire screen. Dragging the popovers away from the edges will restore the popver to its original size.",
+      "translated": "Quickly arrange popovers by dragging them to the edges of the screen. The left and right edges will maximize the popover vertically. The top edge will maximize the popover to fill the entire screen. Dragging the popovers away from the edges will restore the popver to its original size.",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "b08666d9b08666d9b08666d9",
+      "source": "Show view header by default",
+      "translated": "Show view header by default",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "b3dc262fb3dc262fb3dc262f",
+      "source": "Show the view header by default when triggering a hover editor. When disabled, view headers will only show if you click the view header icon to the left of the minimize button.",
+      "translated": "Show the view header by default when triggering a hover editor. When disabled, view headers will only show if you click the view header icon to the left of the minimize button.",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "ce8a0d9dce8a0d9dce8a0d9d",
+      "source": "Click to zoom image",
+      "translated": "Click to zoom image",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "ec72367eec72367eec72367e",
+      "source": "Click and hold an image within a hover editor to temporarily maximize the popover and image to fill the entire viewport. On mouse up, the hover editor will restore to its original size.",
+      "translated": "Click and hold an image within a hover editor to temporarily maximize the popover and image to fill the entire viewport. On mouse up, the hover editor will restore to its original size.",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "917884419178844191788441",
+      "source": "Initial popover width",
+      "translated": "Initial popover width",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "6ab5ff756ab5ff756ab5ff75",
+      "source": "Enter any valid CSS unit",
+      "translated": "Enter any valid CSS unit",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "3aa02bb83aa02bb83aa02bb8",
+      "source": "Initial popover height",
+      "translated": "Initial popover height",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "b079596cb079596cb079596c",
+      "source": "Hover Trigger Delay (ms)",
+      "translated": "Hover Trigger Delay (ms)",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "7a7234b37a7234b37a7234b3",
+      "source": "How long to wait before showing a Hover Editor when hovering over a link",
+      "translated": "How long to wait before showing a Hover Editor when hovering over a link",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "d2ce3342d2ce3342d2ce3342",
+      "source": "Hover Close Delay (ms)",
+      "translated": "Hover Close Delay (ms)",
+      "updatedAt": 1765001042783
+    },
+    {
+      "key": "bdf780a9bdf780a9bdf780a9",
+      "source": "How long to wait before closing a Hover Editor once the mouse leaves",
+      "translated": "How long to wait before closing a Hover Editor once the mouse leaves",
+      "updatedAt": 1765001042783
+    }
+  ]
+}
