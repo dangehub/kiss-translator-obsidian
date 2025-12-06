@@ -1,0 +1,666 @@
+{
+  "version": 1,
+  "scope": "Latex Suite",
+  "entries": [
+    {
+      "key": "aee27caeaee27caeaee27cae",
+      "source": "Snippets",
+      "translated": "Snippets",
+      "updatedAt": 1765001260648
+    },
+    {
+      "key": "66abe29d66abe29d66abe29d",
+      "source": "Enabled",
+      "translated": "Enabled",
+      "updatedAt": 1765001260648
+    },
+    {
+      "key": "ee1cda82ee1cda82ee1cda82",
+      "source": "Whether snippets are enabled.",
+      "translated": "Whether snippets are enabled.",
+      "updatedAt": 1765001260648
+    },
+    {
+      "key": "d10c826dd10c826dd10c826d",
+      "source": "Enter snippets here. Remember to add a comma after each snippet, and escape all backslashes with an extra \\. Lines starting with \"//\" will be treated as comments and ignored.",
+      "translated": "Enter snippets here. Remember to add a comma after each snippet, and escape all backslashes with an extra \\. Lines starting with \"//\" will be treated as comments and ignored.",
+      "updatedAt": 1765001260648
+    },
+    {
+      "key": "7de689b97de689b97de689b9",
+      "source": "10",
+      "translated": "10",
+      "updatedAt": 1765001260648
+    },
+    {
+      "key": "d90389b8d90389b8d90389b8",
+      "source": "11",
+      "translated": "11",
+      "updatedAt": 1765001260648
+    },
+    {
+      "key": "70cd5bbb70cd5bbb70cd5bbb",
+      "source": "12",
+      "translated": "12",
+      "updatedAt": 1765001260648
+    },
+    {
+      "key": "b80a19bab80a19bab80a19ba",
+      "source": "13",
+      "translated": "13",
+      "updatedAt": 1765001260648
+    },
+    {
+      "key": "fbe6aabdfbe6aabdfbe6aabd",
+      "source": "14",
+      "translated": "14",
+      "updatedAt": 1765001260648
+    },
+    {
+      "key": "5703aabc5703aabc5703aabc",
+      "source": "15",
+      "translated": "15",
+      "updatedAt": 1765001260648
+    },
+    {
+      "key": "eecd7cbfeecd7cbfeecd7cbf",
+      "source": "16",
+      "translated": "16",
+      "updatedAt": 1765001260648
+    },
+    {
+      "key": "360a3abe360a3abe360a3abe",
+      "source": "17",
+      "translated": "17",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "5db547b15db547b15db547b1",
+      "source": "18",
+      "translated": "18",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "b8d247b0b8d247b0b8d247b0",
+      "source": "19",
+      "translated": "19",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "3a7cfbda3a7cfbda3a7cfbda",
+      "source": "20",
+      "translated": "20",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "5717284b5717284b5717284b",
+      "source": "// Math mode",
+      "translated": "// Math mode",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "b1aa6900b1aa6900b1aa6900",
+      "source": "trigger",
+      "translated": "trigger",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "fe23bffefe23bffefe23bffe",
+      "source": "\"mk\"",
+      "translated": "\"mk\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "cd2965a6cd2965a6cd2965a6",
+      "source": "replacement",
+      "translated": "replacement",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "102429cc102429cc102429cc",
+      "source": "\"$$0$\"",
+      "translated": "\"$$0$\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "93b7a16893b7a16893b7a168",
+      "source": "options",
+      "translated": "options",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "4ceb2bcd4ceb2bcd4ceb2bcd",
+      "source": "\"tA\"",
+      "translated": "\"tA\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "d20aa871d20aa871d20aa871",
+      "source": "\"dm\"",
+      "translated": "\"dm\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "e76ec04ce76ec04ce76ec04c",
+      "source": "\"$$\\n$0\\n$$\"",
+      "translated": "\"$$\\n$0\\n$$\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "2941c01a2941c01a2941c01a",
+      "source": "\"tAw\"",
+      "translated": "\"tAw\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "e0c87538e0c87538e0c87538",
+      "source": "\"beg\"",
+      "translated": "\"beg\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "132e3d25132e3d25132e3d25",
+      "source": "\"\\\\begin{$0}\\n$1\\n\\\\end{$0}\"",
+      "translated": "\"\\\\begin{$0}\\n$1\\n\\\\end{$0}\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "0721c7d40721c7d40721c7d4",
+      "source": "\"mA\"",
+      "translated": "\"mA\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "39ff4e1039ff4e1039ff4e10",
+      "source": "// Dashes",
+      "translated": "// Dashes",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "4ed802984ed802984ed80298",
+      "source": "// {trigger: \"--\", replacement: \"–\", options: \"tA\"},",
+      "translated": "// {trigger: \"--\", replacement: \"–\", options: \"tA\"},",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "764538217645382176453821",
+      "source": "// {trigger: \"–-\", replacement: \"—\", options: \"tA\"},",
+      "translated": "// {trigger: \"–-\", replacement: \"—\", options: \"tA\"},",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "79b2b95f79b2b95f79b2b95f",
+      "source": "// {trigger: \"—-\", replacement: \"---\", options: \"tA\"},",
+      "translated": "// {trigger: \"—-\", replacement: \"---\", options: \"tA\"},",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "9005768b9005768b9005768b",
+      "source": "// Greek letters",
+      "translated": "// Greek letters",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "f446b999f446b999f446b999",
+      "source": "\"@a\"",
+      "translated": "\"@a\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "29d7b10c29d7b10c29d7b10c",
+      "source": "\"\\\\alpha\"",
+      "translated": "\"\\\\alpha\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "5b2c49ba5b2c49ba5b2c49ba",
+      "source": "\"@b\"",
+      "translated": "\"@b\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "c7ff8d8ac7ff8d8ac7ff8d8a",
+      "source": "\"\\\\beta\"",
+      "translated": "\"\\\\beta\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "84114bdf84114bdf84114bdf",
+      "source": "\"@g\"",
+      "translated": "\"@g\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "e1ca04bfe1ca04bfe1ca04bf",
+      "source": "\"\\\\gamma\"",
+      "translated": "\"\\\\gamma\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "acf6c6ffacf6c6ffacf6c6ff",
+      "source": "\"@G\"",
+      "translated": "\"@G\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "4857e59f4857e59f4857e59f",
+      "source": "\"\\\\Gamma\"",
+      "translated": "\"\\\\Gamma\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "5741fa7c5741fa7c5741fa7c",
+      "source": "\"@d\"",
+      "translated": "\"@d\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "9668ad609668ad609668ad60",
+      "source": "\"\\\\delta\"",
+      "translated": "\"\\\\delta\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "af7fd71caf7fd71caf7fd71c",
+      "source": "\"@D\"",
+      "translated": "\"@D\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "12e84e4012e84e4012e84e40",
+      "source": "\"\\\\Delta\"",
+      "translated": "\"\\\\Delta\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "340e5a1d340e5a1d340e5a1d",
+      "source": "\"@e\"",
+      "translated": "\"@e\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "b185a61ab185a61ab185a61a",
+      "source": "\"\\\\epsilon\"",
+      "translated": "\"\\\\epsilon\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "e1f2b327e1f2b327e1f2b327",
+      "source": "\":e\"",
+      "translated": "\":e\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "2bb6af3f2bb6af3f2bb6af3f",
+      "source": "\"\\\\varepsilon\"",
+      "translated": "\"\\\\varepsilon\"",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "a7f51053a7f51053a7f51053",
+      "source": "Load snippets from file or folder",
+      "translated": "Load snippets from file or folder",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "b785bed5b785bed5b785bed5",
+      "source": "Whether to load snippets from a specified file, or from all files within a folder (instead of from the plugin settings).",
+      "translated": "Whether to load snippets from a specified file, or from all files within a folder (instead of from the plugin settings).",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "43ec1c7e43ec1c7e43ec1c7e",
+      "source": "Snippets file or folder location",
+      "translated": "Snippets file or folder location",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "c30ef1b7c30ef1b7c30ef1b7",
+      "source": "Key trigger for non-auto snippets",
+      "translated": "Key trigger for non-auto snippets",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "f05df971f05df971f05df971",
+      "source": "What key to press to expand non-auto snippets.",
+      "translated": "What key to press to expand non-auto snippets.",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "a96def8fa96def8fa96def8f",
+      "source": "Tab",
+      "translated": "Tab",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "def220dcdef220dcdef220dc",
+      "source": "Space",
+      "translated": "Space",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "753264917532649175326491",
+      "source": "Conceal",
+      "translated": "Conceal",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "f3f520d2f3f520d2f3f520d2",
+      "source": "Make equations more readable by hiding LaTeX syntax and instead displaying it in a pretty format.",
+      "translated": "Make equations more readable by hiding LaTeX syntax and instead displaying it in a pretty format.",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "7fba71c17fba71c17fba71c1",
+      "source": "LaTeX beneath the cursor will be revealed.",
+      "translated": "LaTeX beneath the cursor will be revealed.",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "207d991b207d991b207d991b",
+      "source": "Disabled by default to not confuse new users. However, I recommend turning this on once you are comfortable with the plugin!",
+      "translated": "Disabled by default to not confuse new users. However, I recommend turning this on once you are comfortable with the plugin!",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "0fbf657b0fbf657b0fbf657b",
+      "source": "Reveal delay (ms)",
+      "translated": "Reveal delay (ms)",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "95a6065795a6065795a60657",
+      "source": "How long to delay the reveal of LaTeX for, in milliseconds, when the cursor moves over LaTeX. Defaults to 0 (LaTeX under the cursor is revealed immediately).",
+      "translated": "How long to delay the reveal of LaTeX for, in milliseconds, when the cursor moves over LaTeX. Defaults to 0 (LaTeX under the cursor is revealed immediately).",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "00f16c0b00f16c0b00f16c0b",
+      "source": "Can be set to a positive number, e.g. 300, to delay the reveal of LaTeX, making it much easier to navigate equations using arrow keys.",
+      "translated": "Can be set to a positive number, e.g. 300, to delay the reveal of LaTeX, making it much easier to navigate equations using arrow keys.",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "1ccbb0321ccbb0321ccbb032",
+      "source": "Must be an integer ≥ 0.",
+      "translated": "Must be an integer ≥ 0.",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "84ae30a584ae30a584ae30a5",
+      "source": "Highlight and color brackets",
+      "translated": "Highlight and color brackets",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "133635d5133635d5133635d5",
+      "source": "Color paired brackets",
+      "translated": "Color paired brackets",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "dcdaa1ffdcdaa1ffdcdaa1ff",
+      "source": "Whether to colorize matching brackets.",
+      "translated": "Whether to colorize matching brackets.",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "054a8408054a8408054a8408",
+      "source": "Highlight matching bracket beneath cursor",
+      "translated": "Highlight matching bracket beneath cursor",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "ac4a1035ac4a1035ac4a1035",
+      "source": "When the cursor is adjacent to a bracket, highlight the matching bracket.",
+      "translated": "When the cursor is adjacent to a bracket, highlight the matching bracket.",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "d32a0b68d32a0b68d32a0b68",
+      "source": "Math popup preview",
+      "translated": "Math popup preview",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "e5bbb0c4e5bbb0c4e5bbb0c4",
+      "source": "When inside an equation, show a popup preview window of the rendered math.",
+      "translated": "When inside an equation, show a popup preview window of the rendered math.",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "155d6c7d155d6c7d155d6c7d",
+      "source": "The popup preview will be shown for all inline math equations, as well as for block math equations in Source mode.",
+      "translated": "The popup preview will be shown for all inline math equations, as well as for block math equations in Source mode.",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "0fc006610fc006610fc00661",
+      "source": "Position",
+      "translated": "Position",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "f5f58274f5f58274f5f58274",
+      "source": "Where to display the popup preview relative to the equation source.",
+      "translated": "Where to display the popup preview relative to the equation source.",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "258c6d67258c6d67258c6d67",
+      "source": "Above",
+      "translated": "Above",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "65ea8bab65ea8bab65ea8bab",
+      "source": "Below",
+      "translated": "Below",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "f299cbf0f299cbf0f299cbf0",
+      "source": "Auto-fraction",
+      "translated": "Auto-fraction",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "6262b2706262b2706262b270",
+      "source": "Whether auto-fraction is enabled.",
+      "translated": "Whether auto-fraction is enabled.",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "d6493c94d6493c94d6493c94",
+      "source": "Fraction symbol",
+      "translated": "Fraction symbol",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "c8900763c8900763c8900763",
+      "source": "The fraction symbol to use in the replacement. e.g. \\frac, \\dfrac, \\tfrac",
+      "translated": "The fraction symbol to use in the replacement. e.g. \\frac, \\dfrac, \\tfrac",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "83350fbc83350fbc83350fbc",
+      "source": "Excluded environments",
+      "translated": "Excluded environments",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "c9d79100c9d79100c9d79100",
+      "source": "A list of environments to exclude auto-fraction from running in. For example, to exclude auto-fraction from running while inside an exponent, such as e^{...}, use [\"^{\", \"}\"]",
+      "translated": "A list of environments to exclude auto-fraction from running in. For example, to exclude auto-fraction from running while inside an exponent, such as e^{...}, use [\"^{\", \"}\"]",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "3ce635ed3ce635ed3ce635ed",
+      "source": "Breaking characters",
+      "translated": "Breaking characters",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "cadd3d63cadd3d63cadd3d63",
+      "source": "A list of characters that denote the start/end of a fraction. e.g. if + is included in the list, \"a+b/c\" will expand to \"a+\\frac{b}{c}\". If + is not in the list, it will expand to \"\\frac{a+b}{c}\".",
+      "translated": "A list of characters that denote the start/end of a fraction. e.g. if + is included in the list, \"a+b/c\" will expand to \"a+\\frac{b}{c}\". If + is not in the list, it will expand to \"\\frac{a+b}{c}\".",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "2b54dbc02b54dbc02b54dbc0",
+      "source": "Matrix shortcuts",
+      "translated": "Matrix shortcuts",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "ff8423ecff8423ecff8423ec",
+      "source": "Whether matrix shortcuts are enabled.",
+      "translated": "Whether matrix shortcuts are enabled.",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "8c6d98fe8c6d98fe8c6d98fe",
+      "source": "Environments",
+      "translated": "Environments",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "b8423041b8423041b8423041",
+      "source": "A list of environment names to run the matrix shortcuts in, separated by commas.",
+      "translated": "A list of environment names to run the matrix shortcuts in, separated by commas.",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "df435b41df435b41df435b41",
+      "source": "Tabout",
+      "translated": "Tabout",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "d6eea6a1d6eea6a1d6eea6a1",
+      "source": "Whether tabout is enabled.",
+      "translated": "Whether tabout is enabled.",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "356f0cb7356f0cb7356f0cb7",
+      "source": "Auto-enlarge brackets",
+      "translated": "Auto-enlarge brackets",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "98f4cdc898f4cdc898f4cdc8",
+      "source": "Whether to automatically enlarge brackets containing e.g. sum, int, frac.",
+      "translated": "Whether to automatically enlarge brackets containing e.g. sum, int, frac.",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "143457b3143457b3143457b3",
+      "source": "Triggers",
+      "translated": "Triggers",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "5d0159165d0159165d015916",
+      "source": "A list of symbols that should trigger auto-enlarge brackets, separated by commas.",
+      "translated": "A list of symbols that should trigger auto-enlarge brackets, separated by commas.",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "d69504c6d69504c6d69504c6",
+      "source": "Advanced snippet settings",
+      "translated": "Advanced snippet settings",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "2663e8e82663e8e82663e8e8",
+      "source": "Snippet variables",
+      "translated": "Snippet variables",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "3ed6d6293ed6d6293ed6d629",
+      "source": "Assign snippet variables that can be used as shortcuts when writing snippets.",
+      "translated": "Assign snippet variables that can be used as shortcuts when writing snippets.",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "33603f9533603f9533603f95",
+      "source": "Load snippet variables from file or folder",
+      "translated": "Load snippet variables from file or folder",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "691bf4d3691bf4d3691bf4d3",
+      "source": "Whether to load snippet variables from a specified file, or from all files within a folder (instead of from the plugin settings).",
+      "translated": "Whether to load snippet variables from a specified file, or from all files within a folder (instead of from the plugin settings).",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "8852f3388852f3388852f338",
+      "source": "Snippet variables file or folder location",
+      "translated": "Snippet variables file or folder location",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "4c3a49264c3a49264c3a4926",
+      "source": "Word delimiters",
+      "translated": "Word delimiters",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "7f2183167f2183167f218316",
+      "source": "Symbols that will be treated as word delimiters, for use with the \"w\" snippet option.",
+      "translated": "Symbols that will be treated as word delimiters, for use with the \"w\" snippet option.",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "8b7777a38b7777a38b7777a3",
+      "source": "Remove trailing whitespaces in snippets in inline math",
+      "translated": "Remove trailing whitespaces in snippets in inline math",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "50b4866550b4866550b48665",
+      "source": "Whether to remove trailing whitespaces when expanding snippets at the end of inline math blocks.",
+      "translated": "Whether to remove trailing whitespaces when expanding snippets at the end of inline math blocks.",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "fa716f78fa716f78fa716f78",
+      "source": "Remove closing $ when backspacing inside blank inline math",
+      "translated": "Remove closing $ when backspacing inside blank inline math",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "2028242b2028242b2028242b",
+      "source": "Whether to also remove the closing $ when you delete the opening $ symbol inside blank inline math.",
+      "translated": "Whether to also remove the closing $ when you delete the opening $ symbol inside blank inline math.",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "61be1fa361be1fa361be1fa3",
+      "source": "Don't trigger snippets when IME is active",
+      "translated": "Don't trigger snippets when IME is active",
+      "updatedAt": 1765001260649
+    },
+    {
+      "key": "0cb414af0cb414af0cb414af",
+      "source": "Whether to suppress snippets triggering when an IME is active.",
+      "translated": "Whether to suppress snippets triggering when an IME is active.",
+      "updatedAt": 1765001260650
+    },
+    {
+      "key": "65598db965598db965598db9",
+      "source": "Code languages to interpret as math mode",
+      "translated": "Code languages to interpret as math mode",
+      "updatedAt": 1765001260650
+    },
+    {
+      "key": "ed4d6f98ed4d6f98ed4d6f98",
+      "source": "Codeblock languages where the whole code block should be treated like a math block, separated by commas.",
+      "translated": "Codeblock languages where the whole code block should be treated like a math block, separated by commas.",
+      "updatedAt": 1765001260650
+    }
+  ]
+}
