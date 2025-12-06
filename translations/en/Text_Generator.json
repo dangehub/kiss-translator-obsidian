@@ -1,0 +1,1152 @@
+{
+  "version": 1,
+  "scope": "Text Generator",
+  "entries": [
+    {
+      "key": "03fb915603fb915603fb9156",
+      "source": "Text Generator",
+      "translated": "Text Generator",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "a38a6090a38a6090a38a6090",
+      "source": "LLM Settings",
+      "translated": "LLM Settings",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "1c227c321c227c321c227c32",
+      "source": "Provider Profile",
+      "translated": "Provider Profile",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "f311da51f311da51f311da51",
+      "source": "Langchain",
+      "translated": "Langchain",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "f9378ffaf9378ffaf9378ffa",
+      "source": "OpenAI Chat",
+      "translated": "OpenAI Chat",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "6042d4546042d4546042d454",
+      "source": "OpenAI Instruct",
+      "translated": "OpenAI Instruct",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "68ad7c1d68ad7c1d68ad7c1d",
+      "source": "OpenAI Agent",
+      "translated": "OpenAI Agent",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "8aeb002d8aeb002d8aeb002d",
+      "source": "Google GenerativeAI",
+      "translated": "Google GenerativeAI",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "3b4ae0a13b4ae0a13b4ae0a1",
+      "source": "Google Palm",
+      "translated": "Google Palm",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "454e9ffa454e9ffa454e9ffa",
+      "source": "Ollama",
+      "translated": "Ollama",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "24f27dc424f27dc424f27dc4",
+      "source": "Huggingface",
+      "translated": "Huggingface",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "10cd0b7210cd0b7210cd0b72",
+      "source": "MistralAI Chat",
+      "translated": "MistralAI Chat",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "7c87d5d27c87d5d27c87d5d2",
+      "source": "Chat Anthropic",
+      "translated": "Chat Anthropic",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "3f11e0033f11e0033f11e003",
+      "source": "Azure OpenAI Chat",
+      "translated": "Azure OpenAI Chat",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "c94885adc94885adc94885ad",
+      "source": "Azure OpenAI Instruct",
+      "translated": "Azure OpenAI Instruct",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "908dd919908dd919908dd919",
+      "source": "Anthropic Legacy",
+      "translated": "Anthropic Legacy",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "1c6826cb1c6826cb1c6826cb",
+      "source": "Custom",
+      "translated": "Custom",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "bd663af7bd663af7bd663af7",
+      "source": "API Key",
+      "translated": "API Key",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "ecd89ac0ecd89ac0ecd89ac0",
+      "source": "Base Path",
+      "translated": "Base Path",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "46552ae746552ae746552ae7",
+      "source": "Make sure it supports CORS",
+      "translated": "Make sure it supports CORS",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "33ead63733ead63733ead637",
+      "source": "Model",
+      "translated": "Model",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "c54e1196c54e1196c54e1196",
+      "source": "computer-use-preview",
+      "translated": "computer-use-preview",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "430507ed430507ed430507ed",
+      "source": "gpt-3.5-turbo",
+      "translated": "gpt-3.5-turbo",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "f831684cf831684cf831684c",
+      "source": "gpt-3.5-turbo-16k",
+      "translated": "gpt-3.5-turbo-16k",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "9d2af6a29d2af6a29d2af6a2",
+      "source": "gpt-4",
+      "translated": "gpt-4",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "c968e745c968e745c968e745",
+      "source": "gpt-4-32k",
+      "translated": "gpt-4-32k",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "6699b56c6699b56c6699b56c",
+      "source": "gpt-4-vision-preview",
+      "translated": "gpt-4-vision-preview",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "399458de399458de399458de",
+      "source": "gpt-4.1-nano",
+      "translated": "gpt-4.1-nano",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "75fa033e75fa033e75fa033e",
+      "source": "gpt-4.5-preview",
+      "translated": "gpt-4.5-preview",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "166e92ed166e92ed166e92ed",
+      "source": "gpt-4o",
+      "translated": "gpt-4o",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "f5e2ced1f5e2ced1f5e2ced1",
+      "source": "gpt-4o-audio-preview",
+      "translated": "gpt-4o-audio-preview",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "eac17aa3eac17aa3eac17aa3",
+      "source": "gpt-4o-mini",
+      "translated": "gpt-4o-mini",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "dee7419fdee7419fdee7419f",
+      "source": "gpt-4o-mini-audio-preview",
+      "translated": "gpt-4o-mini-audio-preview",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "458246864582468645824686",
+      "source": "gpt-4o-mini-realtime-preview",
+      "translated": "gpt-4o-mini-realtime-preview",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "63fa5da763fa5da763fa5da7",
+      "source": "gpt-4o-mini-search-preview",
+      "translated": "gpt-4o-mini-search-preview",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "b92efb08b92efb08b92efb08",
+      "source": "gpt-4o-realtime-preview",
+      "translated": "gpt-4o-realtime-preview",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "fe407ba9fe407ba9fe407ba9",
+      "source": "gpt-4o-search-preview",
+      "translated": "gpt-4o-search-preview",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "123ebdfd123ebdfd123ebdfd",
+      "source": "computer-use-preview-2025-03-11",
+      "translated": "computer-use-preview-2025-03-11",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "c8b91049c8b91049c8b91049",
+      "source": "gpt-4-0314",
+      "translated": "gpt-4-0314",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "7aa0050b7aa0050b7aa0050b",
+      "source": "gpt-4-0613",
+      "translated": "gpt-4-0613",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "b4a45a4eb4a45a4eb4a45a4e",
+      "source": "gpt-4-32k-0314",
+      "translated": "gpt-4-32k-0314",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "0884e48c0884e48c0884e48c",
+      "source": "gpt-4-32k-0613",
+      "translated": "gpt-4-32k-0613",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "38f31b1438f31b1438f31b14",
+      "source": "gpt-4.1-2025-04-14",
+      "translated": "gpt-4.1-2025-04-14",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "4197f71a4197f71a4197f71a",
+      "source": "gpt-4.1-mini-2025-04-14",
+      "translated": "gpt-4.1-mini-2025-04-14",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "ffcc0057ffcc0057ffcc0057",
+      "source": "gpt-4.1-nano-2025-04-14",
+      "translated": "gpt-4.1-nano-2025-04-14",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "c8c57bd1c8c57bd1c8c57bd1",
+      "source": "gpt-4.5-preview-2025-02-27",
+      "translated": "gpt-4.5-preview-2025-02-27",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "e945b36ae945b36ae945b36a",
+      "source": "gpt-4o-2024-08-06",
+      "translated": "gpt-4o-2024-08-06",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "c6c3bfbdc6c3bfbdc6c3bfbd",
+      "source": "gpt-4o-audio-preview-2024-12-17",
+      "translated": "gpt-4o-audio-preview-2024-12-17",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "4ec702e44ec702e44ec702e4",
+      "source": "gpt-4o-mini-2024-07-18",
+      "translated": "gpt-4o-mini-2024-07-18",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "cb2aa333cb2aa333cb2aa333",
+      "source": "gpt-4o-mini-audio-preview-2024-12-17",
+      "translated": "gpt-4o-mini-audio-preview-2024-12-17",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "66aa770a66aa770a66aa770a",
+      "source": "gpt-4o-mini-realtime-preview-2024-12-17",
+      "translated": "gpt-4o-mini-realtime-preview-2024-12-17",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "2c9f452c2c9f452c2c9f452c",
+      "source": "gpt-4o-mini-search-preview-2025-03-11",
+      "translated": "gpt-4o-mini-search-preview-2025-03-11",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "0733b0c40733b0c40733b0c4",
+      "source": "gpt-4o-realtime-preview-2024-12-17",
+      "translated": "gpt-4o-realtime-preview-2024-12-17",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "b57bdc62b57bdc62b57bdc62",
+      "source": "gpt-4o-search-preview-2025-03-11",
+      "translated": "gpt-4o-search-preview-2025-03-11",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "f640ce46f640ce46f640ce46",
+      "source": "Enable Custom Headers",
+      "translated": "Enable Custom Headers",
+      "updatedAt": 1765000585474
+    },
+    {
+      "key": "c9d39f97c9d39f97c9d39f97",
+      "source": "Useful links",
+      "translated": "Useful links",
+      "updatedAt": 1765000585475
+    },
+    {
+      "key": "d21bb1c1d21bb1c1d21bb1c1",
+      "source": "Create account OpenAI",
+      "translated": "Create account OpenAI",
+      "updatedAt": 1765000585475
+    },
+    {
+      "key": "ca2a15f2ca2a15f2ca2a15f2",
+      "source": "API documentation",
+      "translated": "API documentation",
+      "updatedAt": 1765000585475
+    },
+    {
+      "key": "4f55fb654f55fb654f55fb65",
+      "source": "You can use LM Studio",
+      "translated": "You can use LM Studio",
+      "updatedAt": 1765000585475
+    },
+    {
+      "key": "411d9c01411d9c01411d9c01",
+      "source": "more information",
+      "translated": "more information",
+      "updatedAt": 1765000585475
+    },
+    {
+      "key": "d6dc7d05d6dc7d05d6dc7d05",
+      "source": "ID: OpenAI Chat (Langchain)",
+      "translated": "ID: OpenAI Chat (Langchain)",
+      "updatedAt": 1765000585475
+    },
+    {
+      "key": "e46d7e23e46d7e23e46d7e23",
+      "source": "Advanced Settings",
+      "translated": "Advanced Settings",
+      "updatedAt": 1765000585475
+    },
+    {
+      "key": "248f8046248f8046248f8046",
+      "source": "Default model parameters",
+      "translated": "Default model parameters",
+      "updatedAt": 1765000585475
+    },
+    {
+      "key": "561fcb6e561fcb6e561fcb6e",
+      "source": "Auto-Suggest Options",
+      "translated": "Auto-Suggest Options",
+      "updatedAt": 1765000585475
+    },
+    {
+      "key": "57b9162457b9162457b91624",
+      "source": "Slash-Suggest Options",
+      "translated": "Slash-Suggest Options",
+      "updatedAt": 1765000585475
+    },
+    {
+      "key": "ec25f080ec25f080ec25f080",
+      "source": "Custom Instructions",
+      "translated": "Custom Instructions",
+      "updatedAt": 1765000585475
+    },
+    {
+      "key": "ce39b54dce39b54dce39b54d",
+      "source": "Template Settings",
+      "translated": "Template Settings",
+      "updatedAt": 1765000585475
+    },
+    {
+      "key": "c08aa6abc08aa6abc08aa6ab",
+      "source": "Extractors Options",
+      "translated": "Extractors Options",
+      "updatedAt": 1765000585475
+    },
+    {
+      "key": "efe57bffefe57bffefe57bff",
+      "source": "Whisper Settings",
+      "translated": "Whisper Settings",
+      "updatedAt": 1765000585475
+    },
+    {
+      "key": "0af029460af029460af02946",
+      "source": "Text Generator Options",
+      "translated": "Text Generator Options",
+      "updatedAt": 1765000585475
+    },
+    {
+      "key": "c6aa0de4c6aa0de4c6aa0de4",
+      "source": "Streaming",
+      "translated": "Streaming",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "482a15c7482a15c7482a15c7",
+      "source": "Enable streaming if supported by the provider",
+      "translated": "Enable streaming if supported by the provider",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "3c3d8f163c3d8f163c3d8f16",
+      "source": "Display errors in the editor",
+      "translated": "Display errors in the editor",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "cd42e8bdcd42e8bdcd42e8bd",
+      "source": "If you want to see the errors in the editor",
+      "translated": "If you want to see the errors in the editor",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "1ff14e4d1ff14e4d1ff14e4d",
+      "source": "Show Status in StatusBar",
+      "translated": "Show Status in StatusBar",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "7dade52c7dade52c7dade52c",
+      "source": "Show information in the Status Bar",
+      "translated": "Show information in the Status Bar",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "31544b3d31544b3d31544b3d",
+      "source": "Output generated text to blockquote",
+      "translated": "Output generated text to blockquote",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "5eff523b5eff523b5eff523b",
+      "source": "Distinguish between AI generated text and typed text using a blockquote",
+      "translated": "Distinguish between AI generated text and typed text using a blockquote",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "3135617b3135617b3135617b",
+      "source": "Free cursor on streaming",
+      "translated": "Free cursor on streaming",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "a818d5f2a818d5f2a818d5f2",
+      "source": "Note that it might result in weird bugs, the auto-scrolling might not work",
+      "translated": "Note that it might result in weird bugs, the auto-scrolling might not work",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "5e2d9b235e2d9b235e2d9b23",
+      "source": "Experimentation Features",
+      "translated": "Experimentation Features",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "35f00d9335f00d9335f00d93",
+      "source": "This adds experiment features, which might not be stable yet",
+      "translated": "This adds experiment features, which might not be stable yet",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "903c086e903c086e903c086e",
+      "source": "include Attachments",
+      "translated": "include Attachments",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "630d2d1b630d2d1b630d2d1b",
+      "source": "EXPERIMENTAL: adds the images that are referenced in the request, IT MIGHT CONSUME ALOT OF TOKENS",
+      "translated": "EXPERIMENTAL: adds the images that are referenced in the request, IT MIGHT CONSUME ALOT OF TOKENS",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "576d5ad6576d5ad6576d5ad6",
+      "source": "Templates Path",
+      "translated": "Templates Path",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "41cbd8c441cbd8c441cbd8c4",
+      "source": "Path for Templates directory",
+      "translated": "Path for Templates directory",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "f7e98d9bf7e98d9bf7e98d9b",
+      "source": "TextGenerator Path",
+      "translated": "TextGenerator Path",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "512efe66512efe66512efe66",
+      "source": "Path To Folder that Text Generator can put Backups,generations...etc into",
+      "translated": "Path To Folder that Text Generator can put Backups,generations...etc into",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "ef9fabd9ef9fabd9ef9fabd9",
+      "source": "Reload the plugin",
+      "translated": "Reload the plugin",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "eeeac5a1eeeac5a1eeeac5a1",
+      "source": "Some changes might require you to reload the plugins",
+      "translated": "Some changes might require you to reload the plugins",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "8bb586c98bb586c98bb586c9",
+      "source": "Reload",
+      "translated": "Reload",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "587085ca587085ca587085ca",
+      "source": "Resets all settings to default",
+      "translated": "Resets all settings to default",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "12441f3112441f3112441f31",
+      "source": "It will delete all your configurations",
+      "translated": "It will delete all your configurations",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "674c7c76674c7c76674c7c76",
+      "source": "You can specify more parameters in the Frontmatter YAML",
+      "translated": "You can specify more parameters in the Frontmatter YAML",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "adfac824adfac824adfac824",
+      "source": "Max tokens",
+      "translated": "Max tokens",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "6c7177ce6c7177ce6c7177ce",
+      "source": "The maximum number of tokens to generate in the chat completion. The total length of input tokens and generated tokens is limited by the model's context length. (1000 tokens ~ 750 words)",
+      "translated": "The maximum number of tokens to generate in the chat completion. The total length of input tokens and generated tokens is limited by the model's context length. (1000 tokens ~ 750 words)",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "dc3e0094dc3e0094dc3e0094",
+      "source": "Temperature",
+      "translated": "Temperature",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "2f6d89632f6d89632f6d8963",
+      "source": "What sampling temperature to use, between 0 and 2. Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic.",
+      "translated": "What sampling temperature to use, between 0 and 2. Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic.",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "f9d7d827f9d7d827f9d7d827",
+      "source": "Frequency Penalty",
+      "translated": "Frequency Penalty",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "8255856b8255856b8255856b",
+      "source": "Number between -2.0 and 2.0. Positive values penalize new tokens based on whether they appear in the text so far, increasing the model's likelihood to talk about new topics.",
+      "translated": "Number between -2.0 and 2.0. Positive values penalize new tokens based on whether they appear in the text so far, increasing the model's likelihood to talk about new topics.",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "887d62c3887d62c3887d62c3",
+      "source": "Timeout",
+      "translated": "Timeout",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "f9aa1614f9aa1614f9aa1614",
+      "source": "Timeout in milliseconds. If the request takes longer than the timeout, the request will be aborted. (default: 5000ms)",
+      "translated": "Timeout in milliseconds. If the request takes longer than the timeout, the request will be aborted. (default: 5000ms)",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "54bb81e854bb81e854bb81e8",
+      "source": "Prefix",
+      "translated": "Prefix",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "271568bd271568bd271568bd",
+      "source": "Prefix to add to the beginning of the completion (default: '\\n\\n')",
+      "translated": "Prefix to add to the beginning of the completion (default: '\\n\\n')",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "289a3e22289a3e22289a3e22",
+      "source": "Enable/Disable",
+      "translated": "Enable/Disable",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "978da0d8978da0d8978da0d8",
+      "source": "Enable or disable auto-suggest.",
+      "translated": "Enable or disable auto-suggest.",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "373a8322373a8322373a8322",
+      "source": "Custom default generation prompt",
+      "translated": "Custom default generation prompt",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "cf340c4bcf340c4bcf340c4b",
+      "source": "You can customize {{context}} variable",
+      "translated": "You can customize {{context}} variable",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "d0814ea2d0814ea2d0814ea2",
+      "source": "Enable generate title instruct",
+      "translated": "Enable generate title instruct",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "851e40fd851e40fd851e40fd",
+      "source": "You can customize generate title prompt",
+      "translated": "You can customize generate title prompt",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "acb11845acb11845acb11845",
+      "source": "TG Selection Limiter(regex)",
+      "translated": "TG Selection Limiter(regex)",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "77a8e22d77a8e22d77a8e22d",
+      "source": "tg_selection stopping character. Empty means disabled. Default: ^\\*\\*\\*",
+      "translated": "tg_selection stopping character. Empty means disabled. Default: ^\\*\\*\\*",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "6b555eb16b555eb16b555eb1",
+      "source": "{{context}} Variable Template",
+      "translated": "{{context}} Variable Template",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "de2ec1aade2ec1aade2ec1aa",
+      "source": "Template for {{context}} variable",
+      "translated": "Template for {{context}} variable",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "0cc94e080cc94e080cc94e08",
+      "source": "includeClipboard",
+      "translated": "includeClipboard",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "1fa745971fa745971fa74597",
+      "source": "Make clipboard available for templates",
+      "translated": "Make clipboard available for templates",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "b538ae1db538ae1db538ae1d",
+      "source": "Allow scripts",
+      "translated": "Allow scripts",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "98ad658f98ad658f98ad658f",
+      "source": "Only enable this if you trust the authors of the templates, or know what you're doing.",
+      "translated": "Only enable this if you trust the authors of the templates, or know what you're doing.",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "5351d51a5351d51a5351d51a",
+      "source": "PDF Extractor",
+      "translated": "PDF Extractor",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "4d7bd61c4d7bd61c4d7bd61c",
+      "source": "Enable or disable PDF extractor.",
+      "translated": "Enable or disable PDF extractor.",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "9c50e06b9c50e06b9c50e06b",
+      "source": "Web Page Extractor",
+      "translated": "Web Page Extractor",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "8b794f4d8b794f4d8b794f4d",
+      "source": "Enable or disable web page extractor.",
+      "translated": "Enable or disable web page extractor.",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "43481f6d43481f6d43481f6d",
+      "source": "Youtube Extractor",
+      "translated": "Youtube Extractor",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "eafbd1cbeafbd1cbeafbd1cb",
+      "source": "Enable or disable Youtube extractor.",
+      "translated": "Enable or disable Youtube extractor.",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "c99848fdc99848fdc99848fd",
+      "source": "Audio Extractor (Whisper)",
+      "translated": "Audio Extractor (Whisper)",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "8bd24a368bd24a368bd24a36",
+      "source": "Enable or disable audio extractor using Whisper OpenAI ($0.006 / minute) supports multi-languages and accepts a variety of formats (m4a, mp3, mp4, mpeg, mpga, wav, webm).",
+      "translated": "Enable or disable audio extractor using Whisper OpenAI ($0.006 / minute) supports multi-languages and accepts a variety of formats (m4a, mp3, mp4, mpeg, mpga, wav, webm).",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "a400e1e1a400e1e1a400e1e1",
+      "source": "Embedded Image Extractor",
+      "translated": "Embedded Image Extractor",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "6e7b4a676e7b4a676e7b4a67",
+      "source": "Enable or disable Embedded Image Extractor.",
+      "translated": "Enable or disable Embedded Image Extractor.",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "9b9989cf9b9989cf9b9989cf",
+      "source": "Image Extractor",
+      "translated": "Image Extractor",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "a77ead5aa77ead5aa77ead5a",
+      "source": "Enable or disable Image Extractor from URL",
+      "translated": "Enable or disable Image Extractor from URL",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "7e7a5ae07e7a5ae07e7a5ae0",
+      "source": "BasePath",
+      "translated": "BasePath",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "cd9de454cd9de454cd9de454",
+      "source": "default to openai",
+      "translated": "default to openai",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "a5ac464ea5ac464ea5ac464e",
+      "source": "default to openai provider's apikey",
+      "translated": "default to openai provider's apikey",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "a5fc4b56a5fc4b56a5fc4b56",
+      "source": "default to whisper-1",
+      "translated": "default to whisper-1",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "b923fe7ab923fe7ab923fe7a",
+      "source": "API Version",
+      "translated": "API Version",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "1a7199961a7199961a719996",
+      "source": "Api version (Azure only)",
+      "translated": "Api version (Azure only)",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "2975d52a2975d52a2975d52a",
+      "source": "Language",
+      "translated": "Language",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "5b7549a35b7549a35b7549a3",
+      "source": "default to (none)",
+      "translated": "default to (none)",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "5286cff35286cff35286cff3",
+      "source": "Keys encryption",
+      "translated": "Keys encryption",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "cda17f20cda17f20cda17f20",
+      "source": "Enable encrypting keys, this could cause incompatibility with mobile devices",
+      "translated": "Enable encrypting keys, this could cause incompatibility with mobile devices",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "1c3139031c3139031c313903",
+      "source": "generate-text",
+      "translated": "generate-text",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "5581784f5581784f5581784f",
+      "source": "Generate Text!",
+      "translated": "Generate Text!",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "2d90612c2d90612c2d90612c",
+      "source": "generate-text-with-metadata",
+      "translated": "generate-text-with-metadata",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "76af436976af436976af4369",
+      "source": "Generate Text (use Metadata))!",
+      "translated": "Generate Text (use Metadata))!",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "ba4df31bba4df31bba4df31b",
+      "source": "insert-generated-text-From-template",
+      "translated": "insert-generated-text-From-template",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "0a3dca7b0a3dca7b0a3dca7b",
+      "source": "Templates: Generate & Insert",
+      "translated": "Templates: Generate & Insert",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "fa2666a8fa2666a8fa2666a8",
+      "source": "create-generated-text-From-template",
+      "translated": "create-generated-text-From-template",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "efab0cd8efab0cd8efab0cd8",
+      "source": "Templates: Generate & Create Note",
+      "translated": "Templates: Generate & Create Note",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "a47037f0a47037f0a47037f0",
+      "source": "search-results-batch-generate-from-template",
+      "translated": "search-results-batch-generate-from-template",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "d50f9eded50f9eded50f9ede",
+      "source": "Templates (Batch): From Search Results",
+      "translated": "Templates (Batch): From Search Results",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "119f3639119f3639119f3639",
+      "source": "insert-text-From-template",
+      "translated": "insert-text-From-template",
+      "updatedAt": 1765000598697
+    },
+    {
+      "key": "6981fb666981fb666981fb66",
+      "source": "Templates: Insert Template",
+      "translated": "Templates: Insert Template",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "412a548a412a548a412a548a",
+      "source": "create-text-From-template",
+      "translated": "create-text-From-template",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "e34cf724e34cf724e34cf724",
+      "source": "Templates: Insert & Create Note",
+      "translated": "Templates: Insert & Create Note",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "a11626bba11626bba11626bb",
+      "source": "show-modal-From-template",
+      "translated": "show-modal-From-template",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "7a1096f67a1096f67a1096f6",
+      "source": "Show modal From Template",
+      "translated": "Show modal From Template",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "f62c395bf62c395bf62c395b",
+      "source": "open-template-as-tool",
+      "translated": "open-template-as-tool",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "32250a9632250a9632250a96",
+      "source": "Open Template as Tool",
+      "translated": "Open Template as Tool",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "5714c0605714c0605714c060",
+      "source": "open-playground",
+      "translated": "open-playground",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "51328c3d51328c3d51328c3d",
+      "source": "Open Template Playground",
+      "translated": "Open Template Playground",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "8eb459e68eb459e68eb459e6",
+      "source": "set_max_tokens",
+      "translated": "set_max_tokens",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "88a9543988a9543988a95439",
+      "source": "Set max_tokens",
+      "translated": "Set max_tokens",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "4d3795674d3795674d379567",
+      "source": "Chose LLM",
+      "translated": "Chose LLM",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "2c7b201a2c7b201a2c7b201a",
+      "source": "set-llm",
+      "translated": "set-llm",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "3e6189d83e6189d83e6189d8",
+      "source": "set-model",
+      "translated": "set-model",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "1a266aeb1a266aeb1a266aeb",
+      "source": "Choose a Model",
+      "translated": "Choose a Model",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "0c3dcff10c3dcff10c3dcff1",
+      "source": "packageManager",
+      "translated": "packageManager",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "518721525187215251872152",
+      "source": "Template Packages Manager",
+      "translated": "Template Packages Manager",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "5ead9b615ead9b615ead9b61",
+      "source": "create-template",
+      "translated": "create-template",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "6c847d0d6c847d0d6c847d0d",
+      "source": "Create a Template",
+      "translated": "Create a Template",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "6f33a1e36f33a1e36f33a1e3",
+      "source": "get-title",
+      "translated": "get-title",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "08e8d09208e8d09208e8d092",
+      "source": "Generate a Title",
+      "translated": "Generate a Title",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "ebf00556ebf00556ebf00556",
+      "source": "generated-text-to-clipboard-From-template",
+      "translated": "generated-text-to-clipboard-From-template",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "84d5b6de84d5b6de84d5b6de",
+      "source": "Templates: Generate & Copy To Clipboard",
+      "translated": "Templates: Generate & Copy To Clipboard",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "2c5560b92c5560b92c5560b9",
+      "source": "calculate-tokens",
+      "translated": "calculate-tokens",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "84414ba284414ba284414ba2",
+      "source": "Estimate tokens for the current document",
+      "translated": "Estimate tokens for the current document",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "17dc173217dc173217dc1732",
+      "source": "calculate-tokens-for-template",
+      "translated": "calculate-tokens-for-template",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "88591b6c88591b6c88591b6c",
+      "source": "Estimate tokens for a Template",
+      "translated": "Estimate tokens for a Template",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "506b510d506b510d506b510d",
+      "source": "text-extractor-tool",
+      "translated": "text-extractor-tool",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "39b63a2d39b63a2d39b63a2d",
+      "source": "Text Extractor Tool",
+      "translated": "Text Extractor Tool",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "e114b751e114b751e114b751",
+      "source": "stop-stream",
+      "translated": "stop-stream",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "886feb1c886feb1c886feb1c",
+      "source": "Stop Stream",
+      "translated": "Stop Stream",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "2a9a21362a9a21362a9a2136",
+      "source": "custom-instruct",
+      "translated": "custom-instruct",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "35e94a6935e94a6935e94a69",
+      "source": "generate-in-right-click-menu",
+      "translated": "generate-in-right-click-menu",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "c6fa7d40c6fa7d40c6fa7d40",
+      "source": "batch-generate-in-right-click-files-menu",
+      "translated": "batch-generate-in-right-click-files-menu",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "bb222b94bb222b94bb222b94",
+      "source": "tg-block-processor",
+      "translated": "tg-block-processor",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "066c85e9066c85e9066c85e9",
+      "source": "reload",
+      "translated": "reload",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "894b26a0894b26a0894b26a0",
+      "source": "reload Plugin",
+      "translated": "reload Plugin",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "20d5e56e20d5e56e20d5e56e",
+      "source": "disable-ribbon-icons",
+      "translated": "disable-ribbon-icons",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "ae58c546ae58c546ae58c546",
+      "source": "overlay-toolbar",
+      "translated": "overlay-toolbar",
+      "updatedAt": 1765000598698
+    },
+    {
+      "key": "2a7f655f2a7f655f2a7f655f",
+      "source": "log-slowest-operations",
+      "translated": "log-slowest-operations",
+      "updatedAt": 1765000598698
+    }
+  ]
+}
