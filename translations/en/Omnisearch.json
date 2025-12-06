@@ -1,0 +1,528 @@
+{
+  "version": 1,
+  "scope": "Omnisearch",
+  "entries": [
+    {
+      "key": "b39676f3b39676f3b39676f3",
+      "source": "Omnisearch",
+      "translated": "Omnisearch",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "039c72c6039c72c6039c72c6",
+      "source": "Indexing",
+      "translated": "Indexing",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "4941b16f4941b16f4941b16f",
+      "source": "Changing indexing settings will clear the cache, and requires a restart of Obsidian.",
+      "translated": "Changing indexing settings will clear the cache, and requires a restart of Obsidian.",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "1251ced11251ced11251ced1",
+      "source": "PDFs content indexing ⚠️ Disabled",
+      "translated": "PDFs content indexing ⚠️ Disabled",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "2d7478212d7478212d747821",
+      "source": "Omnisearch will use Text Extractor to index the content of your PDFs.",
+      "translated": "Omnisearch will use Text Extractor to index the content of your PDFs.",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "fcf950d3fcf950d3fcf950d3",
+      "source": "Images OCR indexing ⚠️ Disabled",
+      "translated": "Images OCR indexing ⚠️ Disabled",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "1e83f2731e83f2731e83f273",
+      "source": "Omnisearch will use Text Extractor to OCR your images and index their content.",
+      "translated": "Omnisearch will use Text Extractor to OCR your images and index their content.",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "1e2f248c1e2f248c1e2f248c",
+      "source": "Documents content indexing ⚠️ Disabled",
+      "translated": "Documents content indexing ⚠️ Disabled",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "4cb751264cb751264cb75126",
+      "source": ".docx",
+      "translated": ".docx",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "cc5ccc69cc5ccc69cc5ccc69",
+      "source": ".xlsx",
+      "translated": ".xlsx",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "ee18fc25ee18fc25ee18fc25",
+      "source": "Images AI indexing ⚠️ Disabled",
+      "translated": "Images AI indexing ⚠️ Disabled",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "d4240a90d4240a90d4240a90",
+      "source": "If both AI Image Analyzer and Text Extractor are enabled, Text Extractor will only be used as a fallback.",
+      "translated": "If both AI Image Analyzer and Text Extractor are enabled, Text Extractor will only be used as a fallback.",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "d0553c51d0553c51d0553c51",
+      "source": "Index paths of unsupported files",
+      "translated": "Index paths of unsupported files",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "5671525f5671525f5671525f",
+      "source": ".mp4",
+      "translated": ".mp4",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "240d8ad7240d8ad7240d8ad7",
+      "source": "Yes",
+      "translated": "Yes",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "d6c194b9d6c194b9d6c194b9",
+      "source": "No",
+      "translated": "No",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "d0ad3b3bd0ad3b3bd0ad3b3b",
+      "source": "Obsidian setting",
+      "translated": "Obsidian setting",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "48dcf6a248dcf6a248dcf6a2",
+      "source": "Set frontmatter property key as title",
+      "translated": "Set frontmatter property key as title",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "218a24ac218a24ac218a24ac",
+      "source": "Additional TEXT files to index",
+      "translated": "Additional TEXT files to index",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "221744272217442722174427",
+      "source": "Using extensions of non-plaintext files (like .pptx) WILL cause crashes, because Omnisearch will try to index their content.",
+      "translated": "Using extensions of non-plaintext files (like .pptx) WILL cause crashes, because Omnisearch will try to index their content.",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "53e8601453e8601453e86014",
+      "source": "Behavior",
+      "translated": "Behavior",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "46b2a87046b2a87046b2a870",
+      "source": "Save index to cache",
+      "translated": "Save index to cache",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "a338e30da338e30da338e30d",
+      "source": "Enable caching to speed up indexing time. In rare cases, the cache write may cause a crash in Obsidian. This option will disable itself if it happens.",
+      "translated": "Enable caching to speed up indexing time. In rare cases, the cache write may cause a crash in Obsidian. This option will disable itself if it happens.",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "bbec259abbec259abbec259a",
+      "source": "Show previous query results",
+      "translated": "Show previous query results",
+      "updatedAt": 1764997155744
+    },
+    {
+      "key": "199f92e9199f92e9199f92e9",
+      "source": "Re-executes the previous query when opening Omnisearch.",
+      "translated": "Re-executes the previous query when opening Omnisearch.",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "86c6d88886c6d88886c6d888",
+      "source": "Respect Obsidian's \"Excluded Files\"",
+      "translated": "Respect Obsidian's \"Excluded Files\"",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "755c5474755c5474755c5474",
+      "source": "By default, files that are in Obsidian's \"Options > Files & Links > Excluded Files\" list are downranked in results. Enable this option to completely hide them.",
+      "translated": "By default, files that are in Obsidian's \"Options > Files & Links > Excluded Files\" list are downranked in results. Enable this option to completely hide them.",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "a39e4b71a39e4b71a39e4b71",
+      "source": "Folders to downrank in search results",
+      "translated": "Folders to downrank in search results",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "56fff2e256fff2e256fff2e2",
+      "source": "Folders to downrank in search results. Files in these folders will be downranked in results. They will still be indexed for tags, unlike excluded files. Folders should be comma delimited.",
+      "translated": "Folders to downrank in search results. Files in these folders will be downranked in results. They will still be indexed for tags, unlike excluded files. Folders should be comma delimited.",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "c2e3f1c5c2e3f1c5c2e3f1c5",
+      "source": "Split CamelCaseWords",
+      "translated": "Split CamelCaseWords",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "8a0cbf178a0cbf178a0cbf17",
+      "source": "Changing this setting will clear the cache.",
+      "translated": "Changing this setting will clear the cache.",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "8dfb678a8dfb678a8dfb678a",
+      "source": "Simpler search",
+      "translated": "Simpler search",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "c6383aecc6383aecc6383aec",
+      "source": "Enable this if Obsidian often freezes while making searches. Words shorter than 3 characters won't be used as prefixes; this can reduce search delay but will return fewer results.",
+      "translated": "Enable this if Obsidian often freezes while making searches. Words shorter than 3 characters won't be used as prefixes; this can reduce search delay but will return fewer results.",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "fe78c02dfe78c02dfe78c02d",
+      "source": "Tokenize URLs",
+      "translated": "Tokenize URLs",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "5278db535278db535278db53",
+      "source": "Enable this if you want to be able to search for URLs as separate words. This setting has a strong impact on indexing performance, and can crash Obsidian under certain conditions.",
+      "translated": "Enable this if you want to be able to search for URLs as separate words. This setting has a strong impact on indexing performance, and can crash Obsidian under certain conditions.",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "afbb688dafbb688dafbb688d",
+      "source": "Open in new pane",
+      "translated": "Open in new pane",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "d82091bbd82091bbd82091bb",
+      "source": "Open and create files in a new pane instead of the current pane.",
+      "translated": "Open and create files in a new pane instead of the current pane.",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "f88f632df88f632df88f632d",
+      "source": "Set Vim like navigation keys",
+      "translated": "Set Vim like navigation keys",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "7aefd94c7aefd94c7aefd94c",
+      "source": "Navigate down the results with Ctrl + J/N, or navigate up with Ctrl + K/P.",
+      "translated": "Navigate down the results with Ctrl + J/N, or navigate up with Ctrl + K/P.",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "ba76ac29ba76ac29ba76ac29",
+      "source": "Fuzziness",
+      "translated": "Fuzziness",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "c188eea6c188eea6c188eea6",
+      "source": "Define the level of fuzziness for the search. The higher the fuzziness, the more results you'll get.",
+      "translated": "Define the level of fuzziness for the search. The higher the fuzziness, the more results you'll get.",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "e52cf6c0e52cf6c0e52cf6c0",
+      "source": "Exact match",
+      "translated": "Exact match",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "77aa949377aa949377aa9493",
+      "source": "Not too fuzzy",
+      "translated": "Not too fuzzy",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "2e3d8dec2e3d8dec2e3d8dec",
+      "source": "Fuzzy enough",
+      "translated": "Fuzzy enough",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "4d989f4c4d989f4c4d989f4c",
+      "source": "User Interface",
+      "translated": "User Interface",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "7293fa777293fa777293fa77",
+      "source": "Show ribbon button",
+      "translated": "Show ribbon button",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "49c35cfb49c35cfb49c35cfb",
+      "source": "Add a button on the sidebar to open the Vault search modal.",
+      "translated": "Add a button on the sidebar to open the Vault search modal.",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "d6186585d6186585d6186585",
+      "source": "Show excerpts",
+      "translated": "Show excerpts",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "e6b97a8be6b97a8be6b97a8b",
+      "source": "Shows the contextual part of the note that matches the search. Disable this to only show filenames in results.",
+      "translated": "Shows the contextual part of the note that matches the search. Disable this to only show filenames in results.",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "ef855d88ef855d88ef855d88",
+      "source": "Show embed references",
+      "translated": "Show embed references",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "e909748fe909748fe909748f",
+      "source": "Render line return in excerpts",
+      "translated": "Render line return in excerpts",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "679827bc679827bc679827bc",
+      "source": "Activate this option to render line returns in result excerpts.",
+      "translated": "Activate this option to render line returns in result excerpts.",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "49a2c65949a2c65949a2c659",
+      "source": "Show \"Create note\" button",
+      "translated": "Show \"Create note\" button",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "36dd419b36dd419b36dd419b",
+      "source": "Highlight matching words in results",
+      "translated": "Highlight matching words in results",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "1875eb041875eb041875eb04",
+      "source": "Will highlight matching results when enabled. See README for more customization options.",
+      "translated": "Will highlight matching results when enabled. See README for more customization options.",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "70a10c2270a10c2270a10c22",
+      "source": "Results weighting",
+      "translated": "Results weighting",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "f988cf72f988cf72f988cf72",
+      "source": "File name & declared aliases (default: 10)",
+      "translated": "File name & declared aliases (default: 10)",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "497b06b0497b06b0497b06b0",
+      "source": "File directory (default: 7)",
+      "translated": "File directory (default: 7)",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "55027a8255027a8255027a82",
+      "source": "Headings level 1 (default: 6)",
+      "translated": "Headings level 1 (default: 6)",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "8fc238c28fc238c28fc238c2",
+      "source": "Headings level 2 (default: 5)",
+      "translated": "Headings level 2 (default: 5)",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "d80b9d02d80b9d02d80b9d02",
+      "source": "Headings level 3 (default: 4)",
+      "translated": "Headings level 3 (default: 4)",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "1491087b1491087b1491087b",
+      "source": "Tags (default: 2)",
+      "translated": "Tags (default: 2)",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "fa396517fa396517fa396517",
+      "source": "Header properties fields",
+      "translated": "Header properties fields",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "f209c9e5f209c9e5f209c9e5",
+      "source": "You can set custom weights for values of header properties (e.g. \"keywords\"). Weights under 1.0 will downrank the results.",
+      "translated": "You can set custom weights for values of header properties (e.g. \"keywords\"). Weights under 1.0 will downrank the results.",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "3bfd0dc33bfd0dc33bfd0dc3",
+      "source": "Add a new property",
+      "translated": "Add a new property",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "e7b6ddf5e7b6ddf5e7b6ddf5",
+      "source": "Recency boost (experimental)",
+      "translated": "Recency boost (experimental)",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "93d1090c93d1090c93d1090c",
+      "source": "Files that have been modified more recently than [selected cutoff] are given a higher rank.",
+      "translated": "Files that have been modified more recently than [selected cutoff] are given a higher rank.",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "1d5a8a281d5a8a281d5a8a28",
+      "source": "Disabled",
+      "translated": "Disabled",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "49a26bad49a26bad49a26bad",
+      "source": "24 hours",
+      "translated": "24 hours",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "188942001889420018894200",
+      "source": "7 days",
+      "translated": "7 days",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "b545ad34b545ad34b545ad34",
+      "source": "30 days",
+      "translated": "30 days",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "cda48d67cda48d67cda48d67",
+      "source": "API Access Through HTTP",
+      "translated": "API Access Through HTTP",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "e179957de179957de179957d",
+      "source": "Enable the HTTP server",
+      "translated": "Enable the HTTP server",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "523b3139523b3139523b3139",
+      "source": "HTTP Port",
+      "translated": "HTTP Port",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "004333ec004333ec004333ec",
+      "source": "Show a notification when the server starts",
+      "translated": "Show a notification when the server starts",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "731be4fb731be4fb731be4fb",
+      "source": "Will display a notification if the server is enabled, at Obsidian startup.",
+      "translated": "Will display a notification if the server is enabled, at Obsidian startup.",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "ba42d69dba42d69dba42d69d",
+      "source": "Danger Zone",
+      "translated": "Danger Zone",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "289d64d9289d64d9289d64d9",
+      "source": "Ignore diacritics",
+      "translated": "Ignore diacritics",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "86ee797086ee797086ee7970",
+      "source": "Ignore Arabic diacritics (beta)",
+      "translated": "Ignore Arabic diacritics (beta)",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "d8215513d8215513d8215513",
+      "source": "Disable on this device",
+      "translated": "Disable on this device",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "51797a5151797a5151797a51",
+      "source": "Force save the cache",
+      "translated": "Force save the cache",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "b9596f6eb9596f6eb9596f6e",
+      "source": "Enabling this setting could lead to crash loops",
+      "translated": "Enabling this setting could lead to crash loops",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "feae3c5dfeae3c5dfeae3c5d",
+      "source": "Clear cache data",
+      "translated": "Clear cache data",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "f260116df260116df260116d",
+      "source": "Clear cache",
+      "translated": "Clear cache",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "10bed04e10bed04e10bed04e",
+      "source": "Debugging",
+      "translated": "Debugging",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "a65820a0a65820a0a65820a0",
+      "source": "Enable verbose logging",
+      "translated": "Enable verbose logging",
+      "updatedAt": 1764997155745
+    },
+    {
+      "key": "ec2b9480ec2b9480ec2b9480",
+      "source": "Adds a LOT of logs for debugging purposes. You also need to enable \"Verbose\" logging in the console to see these logs.",
+      "translated": "Adds a LOT of logs for debugging purposes. You also need to enable \"Verbose\" logging in the console to see these logs.",
+      "updatedAt": 1764997155745
+    }
+  ]
+}
