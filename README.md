@@ -7,7 +7,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'Y8Y51PPQXN');kofiwidget2.draw();</script> 
 
 ---
 
@@ -85,12 +84,21 @@
 
 ## 赞助与打赏
 
-如果您想支持我的话
 ![](docs/奶茶表情包.jpg)
+
+---
+
+如果您想支持我的话，可以使用Ko-fi
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y51PPQXN)
+
+---
+
+
+如果您是中国大陆用户，也可以使用微信或支付宝
 
 <table>
   <tr>
-    <td align="center"><img src="docs/kofi.jpg" alt="Ko-fi" width="220"></td>
     <td align="center"><img src="docs/支付宝收款码.png" alt="Alipay" width="220"></td>
     <td align="center"><img src="docs/微信收款码.png" alt="WeChat" width="220"></td>
   </tr>
