@@ -1,0 +1,3030 @@
+{
+  "version": 1,
+  "scope": "PDF++",
+  "entries": [
+    {
+      "key": "ac0496c3ac0496c3ac0496c3",
+      "source": "Editing PDF files",
+      "translated": "Editing PDF files",
+      "updatedAt": 1765000840820
+    },
+    {
+      "key": "6396dd636396dd636396dd63",
+      "source": "Backlink highlighting",
+      "translated": "Backlink highlighting",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "d2935802d2935802d2935802",
+      "source": "Rectangular selection embeds",
+      "translated": "Rectangular selection embeds",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "4b35e5154b35e5154b35e515",
+      "source": "PDF++ callouts",
+      "translated": "PDF++ callouts",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "e5a368e3e5a368e3e5a368e3",
+      "source": "PDF toolbar",
+      "translated": "PDF toolbar",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "1fe398d21fe398d21fe398d2",
+      "source": "Viewer options",
+      "translated": "Viewer options",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "5585db7b5585db7b5585db7b",
+      "source": "Context menu in PDF viewer",
+      "translated": "Context menu in PDF viewer",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "348a421c348a421c348a421c",
+      "source": "Copying on mobile",
+      "translated": "Copying on mobile",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "5d1ccf675d1ccf675d1ccf67",
+      "source": "Copying links via hotkeys",
+      "translated": "Copying links via hotkeys",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "b8d0e118b8d0e118b8d0e118",
+      "source": "Other shortcut commands",
+      "translated": "Other shortcut commands",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "9d36b1fe9d36b1fe9d36b1fe",
+      "source": "Copy templates",
+      "translated": "Copy templates",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "0133a0400133a0400133a040",
+      "source": "Auto-copy / auto-focus / auto-paste",
+      "translated": "Auto-copy / auto-focus / auto-paste",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "7ab14a7e7ab14a7e7ab14a7e",
+      "source": "PDF Annotations",
+      "translated": "PDF Annotations",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "53c2563e53c2563e53c2563e",
+      "source": "PDF internal links",
+      "translated": "PDF internal links",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "3f95d7503f95d7503f95d750",
+      "source": "Citations in PDF (experimental)",
+      "translated": "Citations in PDF (experimental)",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "1be595e31be595e31be595e3",
+      "source": "External links in PDF",
+      "translated": "External links in PDF",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "ac2cd7c0ac2cd7c0ac2cd7c0",
+      "source": "PDF sidebar",
+      "translated": "PDF sidebar",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "9cd67ac69cd67ac69cd67ac6",
+      "source": "PDF outline (table of contents)",
+      "translated": "PDF outline (table of contents)",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "a1597135a1597135a1597135",
+      "source": "PDF thumbnails",
+      "translated": "PDF thumbnails",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "7f87f2ee7f87f2ee7f87f2ee",
+      "source": "PDF page composer (experimental)",
+      "translated": "PDF page composer (experimental)",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "61dc246361dc246361dc2463",
+      "source": "Opening links to PDF files",
+      "translated": "Opening links to PDF files",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "ed6b2210ed6b2210ed6b2210",
+      "source": "Embedding PDF files",
+      "translated": "Embedding PDF files",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "e551cc66e551cc66e551cc66",
+      "source": "Backlinks pane for PDF files",
+      "translated": "Backlinks pane for PDF files",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "457a3f73457a3f73457a3f73",
+      "source": "Search from links",
+      "translated": "Search from links",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "96685ac196685ac196685ac1",
+      "source": "Integration with external apps (desktop-only)",
+      "translated": "Integration with external apps (desktop-only)",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "26bd1b7226bd1b7226bd1b72",
+      "source": "View Sync",
+      "translated": "View Sync",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "55954a2255954a2255954a22",
+      "source": "Dummy PDFs for external files",
+      "translated": "Dummy PDFs for external files",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "917997ef917997ef917997ef",
+      "source": "Vim keybindings",
+      "translated": "Vim keybindings",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "3852fbec3852fbec3852fbec",
+      "source": "Misc",
+      "translated": "Misc",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "e4b824eae4b824eae4b824ea",
+      "source": "Style settings",
+      "translated": "Style settings",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "3a97d6c43a97d6c43a97d6c4",
+      "source": "Support development",
+      "translated": "Support development",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "608d0395608d0395608d0395",
+      "source": "Tip",
+      "translated": "Tip",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "5a0688785a0688785a068878",
+      "source": "You can easily navigate through the settings by clicking the icons in the header above.",
+      "translated": "You can easily navigate through the settings by clicking the icons in the header above.",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "b0a23115b0a23115b0a23115",
+      "source": "Some settings below require reopening tabs or reloading the plugin to take effect.",
+      "translated": "Some settings below require reopening tabs or reloading the plugin to take effect.",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "fa5fe825fa5fe825fa5fe825",
+      "source": "By allowing PDF++ to modify PDF files directly, you can:",
+      "translated": "By allowing PDF++ to modify PDF files directly, you can:",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "53dc79ce53dc79ce53dc79ce",
+      "source": "Add, edit and delete highlights and links in PDF files.",
+      "translated": "Add, edit and delete highlights and links in PDF files.",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "f8ed8490f8ed8490f8ed8490",
+      "source": "Add, insert, delete or extract PDF pages and auto-update links.",
+      "translated": "Add, insert, delete or extract PDF pages and auto-update links.",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "edf4fb42edf4fb42edf4fb42",
+      "source": "Add, rename, move and delete outline items.",
+      "translated": "Add, rename, move and delete outline items.",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "db9c1717db9c1717db9c1717",
+      "source": "Enable PDF editing",
+      "translated": "Enable PDF editing",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "99cf087899cf087899cf0878",
+      "source": "The author assumes no responsibility for any data corruption. Please make sure you have a backup of your files.",
+      "translated": "The author assumes no responsibility for any data corruption. Please make sure you have a backup of your files.",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "945f2b37945f2b37945f2b37",
+      "source": "Annotate PDF files with highlights just by linking to text selection. You can easily copy links to selections using color palette in the toolbar. See the \"Color palette\" section for the details.",
+      "translated": "Annotate PDF files with highlights just by linking to text selection. You can easily copy links to selections using color palette in the toolbar. See the \"Color palette\" section for the details.",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "767c4cdf767c4cdf767c4cdf",
+      "source": "Highlight backlinks in PDF viewer",
+      "translated": "Highlight backlinks in PDF viewer",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "9a1ed13f9a1ed13f9a1ed13f",
+      "source": "In the PDF viewer, any referenced text will be highlighted for easy identification.",
+      "translated": "In the PDF viewer, any referenced text will be highlighted for easy identification.",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "a219edc3a219edc3a219edc3",
+      "source": "Try turning off the following options if you experience performance issues.",
+      "translated": "Try turning off the following options if you experience performance issues.",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "902d16fd902d16fd902d16fd",
+      "source": "Highlight backlinks in PDF embeds",
+      "translated": "Highlight backlinks in PDF embeds",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "7218889f7218889f7218889f",
+      "source": "Highlight backlinks in Canvas",
+      "translated": "Highlight backlinks in Canvas",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "8f6825098f6825098f682509",
+      "source": "Highlight backlinks in hover popover previews",
+      "translated": "Highlight backlinks in hover popover previews",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "1d755f7f1d755f7f1d755f7f",
+      "source": "Highlight style",
+      "translated": "Highlight style",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "9551e3119551e3119551e311",
+      "source": "How backlinks to a text selection should be visualized.",
+      "translated": "How backlinks to a text selection should be visualized.",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "36bec9a836bec9a836bec9a8",
+      "source": "Highlight",
+      "translated": "Highlight",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "be44cddebe44cddebe44cdde",
+      "source": "Underline",
+      "translated": "Underline",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "2d53e9b62d53e9b62d53e9b6",
+      "source": "Action when hovering over highlighted text",
+      "translated": "Action when hovering over highlighted text",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "f4bd7ed9f4bd7ed9f4bd7ed9",
+      "source": "Easily open backlinks or display a popover preview of it by pressing ctrl (by default) while hovering over a highlighted text in PDF viewer.",
+      "translated": "Easily open backlinks or display a popover preview of it by pressing ctrl (by default) while hovering over a highlighted text in PDF viewer.",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "09b8f58709b8f58709b8f587",
+      "source": "Open backlink",
+      "translated": "Open backlink",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "b9189711b9189711b9189711",
+      "source": "Popover preview of backlink",
+      "translated": "Popover preview of backlink",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "d3215ad2d3215ad2d3215ad2",
+      "source": "Require ctrl key while hovering",
+      "translated": "Require ctrl key while hovering",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "6aac95dd6aac95dd6aac95dd",
+      "source": "Currently required. You can toggle this on and off in the core Page Preview plugin settings > PDF++: backlink highlights.",
+      "translated": "Currently required. You can toggle this on and off in the core Page Preview plugin settings > PDF++: backlink highlights.",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "4f856c704f856c704f856c70",
+      "source": "Open page preview settings",
+      "translated": "Open page preview settings",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "50ea347d50ea347d50ea347d",
+      "source": "Double click highlighted text to open the corresponding backlink",
+      "translated": "Double click highlighted text to open the corresponding backlink",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "8bf886f38bf886f38bf886f3",
+      "source": "How backlinks are opened",
+      "translated": "How backlinks are opened",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "9f504a769f504a769f504a76",
+      "source": "Customize how backlinks are opened when double-clicking highlighted text.",
+      "translated": "Customize how backlinks are opened when double-clicking highlighted text.",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "6297cde46297cde46297cde4",
+      "source": "How to open the markdown file when no markdown file is opened",
+      "translated": "How to open the markdown file when no markdown file is opened",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "af2b58e6af2b58e6af2b58e6",
+      "source": "Current tab",
+      "translated": "Current tab",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "7f6b8a737f6b8a737f6b8a73",
+      "source": "New tab",
+      "translated": "New tab",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "166c0aaa166c0aaa166c0aaa",
+      "source": "Split right",
+      "translated": "Split right",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "49713d5149713d5149713d51",
+      "source": "Split left",
+      "translated": "Split left",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "642b05b8642b05b8642b05b8",
+      "source": "Split down",
+      "translated": "Split down",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "38dbb1af38dbb1af38dbb1af",
+      "source": "Split up",
+      "translated": "Split up",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "2ab702882ab702882ab70288",
+      "source": "New window",
+      "translated": "New window",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "5ce59f325ce59f325ce59f32",
+      "source": "Right sidebar",
+      "translated": "Right sidebar",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "2c774b892c774b892c774b89",
+      "source": "Left sidebar",
+      "translated": "Left sidebar",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "29ae097929ae097929ae0979",
+      "source": "Ignore existing markdown tabs in...",
+      "translated": "Ignore existing markdown tabs in...",
+      "updatedAt": 1765000840821
+    },
+    {
+      "key": "50a5f18250a5f18250a5f182",
+      "source": "If some notes are opened in the ignored splits, PDF++ will still open the backlink in the way specified in the previous setting. For example, you might want to ignore the left sidebar if you are pinning a certain note (e.g. daily note) in it.",
+      "translated": "If some notes are opened in the ignored splits, PDF++ will still open the backlink in the way specified in the previous setting. For example, you might want to ignore the left sidebar if you are pinning a certain note (e.g. daily note) in it.",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "28caf7c628caf7c628caf7c6",
+      "source": "Popout windows",
+      "translated": "Popout windows",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "5a6721d85a6721d85a6721d8",
+      "source": "Don't move focus to markdown view after opening a backlink",
+      "translated": "Don't move focus to markdown view after opening a backlink",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "c7fbf946c7fbf946c7fbf946",
+      "source": "This option will be ignored when you open a link in a tab in the same split as the current tab.",
+      "translated": "This option will be ignored when you open a link in a tab in the same split as the current tab.",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "1d5735161d5735161d573516",
+      "source": "Colors",
+      "translated": "Colors",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "cebf1306cebf1306cebf1306",
+      "source": "Highlight colors",
+      "translated": "Highlight colors",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "b06ef107b06ef107b06ef107",
+      "source": "You can ues the color palette in PDF toolbars to easily copy links with \"&color=...\" appended automatically. See the \"Color palette\" section for the details.",
+      "translated": "You can ues the color palette in PDF toolbars to easily copy links with \"&color=...\" appended automatically. See the \"Color palette\" section for the details.",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "0424afed0424afed0424afed",
+      "source": "You can also opt not to use this plugin-dependent notation and apply a single color (the \"default highlight color\" setting) to all highlights.",
+      "translated": "You can also opt not to use this plugin-dependent notation and apply a single color (the \"default highlight color\" setting) to all highlights.",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "6407cefd6407cefd6407cefd",
+      "source": "Highlight a backlink only if a color is specified",
+      "translated": "Highlight a backlink only if a color is specified",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "758e38c6758e38c6758e38c6",
+      "source": "By default, all backlinks are highlighted. If this option is enabled, a backlink will be highlighted only when a color is specified in the link text.",
+      "translated": "By default, all backlinks are highlighted. If this option is enabled, a backlink will be highlighted only when a color is specified in the link text.",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "d45371bed45371bed45371be",
+      "source": "Default highlight color",
+      "translated": "Default highlight color",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "ba324b0eba324b0eba324b0e",
+      "source": "If no color is specified in link text, this color will be used.",
+      "translated": "If no color is specified in link text, this color will be used.",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "1efc74461efc74461efc7446",
+      "source": "Obsidian default",
+      "translated": "Obsidian default",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "bead6f28bead6f28bead6f28",
+      "source": "Note",
+      "translated": "Note",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "4f76a3fe4f76a3fe4f76a3fe",
+      "source": "Important",
+      "translated": "Important",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "7afec6127afec6127afec612",
+      "source": "Backlink indicator bounding rectangles",
+      "translated": "Backlink indicator bounding rectangles",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "f0cf275ef0cf275ef0cf275e",
+      "source": "Show bounding rectangles for backlinked annotations",
+      "translated": "Show bounding rectangles for backlinked annotations",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "8c1958b78c1958b78c1958b7",
+      "source": "Bounding rectangles will be shown for annotations with backlinks.",
+      "translated": "Bounding rectangles will be shown for annotations with backlinks.",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "b9ee2c8ab9ee2c8ab9ee2c8a",
+      "source": "Backlink indicator icons",
+      "translated": "Backlink indicator icons",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "16b632b216b632b216b632b2",
+      "source": "Show icons for text selections, annotations, offsets and rectangular selections with backlinks.",
+      "translated": "Show icons for text selections, annotations, offsets and rectangular selections with backlinks.",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "8ff22e0c8ff22e0c8ff22e0c",
+      "source": "Show icon for text selection with backlinks",
+      "translated": "Show icon for text selection with backlinks",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "0be18df60be18df60be18df6",
+      "source": "Show icon for annotation with backlinks",
+      "translated": "Show icon for annotation with backlinks",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "0004bf9e0004bf9e0004bf9e",
+      "source": "Show icon for offset backlinks",
+      "translated": "Show icon for offset backlinks",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "9b3138319b3138319b313831",
+      "source": "Show icon for rectangular selection backlinks",
+      "translated": "Show icon for rectangular selection backlinks",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "dc280ef6dc280ef6dc280ef6",
+      "source": "Icon size",
+      "translated": "Icon size",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "15374b9e15374b9e15374b9e",
+      "source": "Paste as image",
+      "translated": "Paste as image",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "cf05f558cf05f558cf05f558",
+      "source": "By default, rectangular selection embeds are re-rendered every time you open the markdown file, which can slow down the loading time. Turn on this option to replace them with static images and improve the performance.",
+      "translated": "By default, rectangular selection embeds are re-rendered every time you open the markdown file, which can slow down the loading time. Turn on this option to replace them with static images and improve the performance.",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "0d92c6350d92c6350d92c635",
+      "source": "Follow \"adapt to theme\" setting",
+      "translated": "Follow \"adapt to theme\" setting",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "61e0c62761e0c62761e0c627",
+      "source": "If enabled, rectangular selection embeds will be inverted in color when the \"Adapt to theme\" setting is enabled in the PDF toolbar. This will help you reduce eye strain in dark mode.",
+      "translated": "If enabled, rectangular selection embeds will be inverted in color when the \"Adapt to theme\" setting is enabled in the PDF toolbar. This will help you reduce eye strain in dark mode.",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "db5901dcdb5901dcdb5901dc",
+      "source": "Rendering resolution",
+      "translated": "Rendering resolution",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "dbacbf79dbacbf79dbacbf79",
+      "source": "The higher the value, the better the rendering quality, but the longer time it takes to render. The default value is 100.",
+      "translated": "The higher the value, the better the rendering quality, but the longer time it takes to render. The default value is 100.",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "e75a8ed2e75a8ed2e75a8ed2",
+      "source": "Include the selected color's name when copying a link to a rectangular selection",
+      "translated": "Include the selected color's name when copying a link to a rectangular selection",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "94741dd494741dd494741dd4",
+      "source": "When enabled, the name of the color selected in the color palette will be included in the link text. As a result, the rectangular selection will be highlighted with the specified color in the PDF viewer.",
+      "translated": "When enabled, the name of the color selected in the color palette will be included in the link text. As a result, the rectangular selection will be highlighted with the specified color in the PDF viewer.",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "d032dacdd032dacdd032dacd",
+      "source": "Zoom to fit rectangular selection when opening link",
+      "translated": "Zoom to fit rectangular selection when opening link",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "25cad57625cad57625cad576",
+      "source": "Use PDF++ callouts",
+      "translated": "Use PDF++ callouts",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "ee3346cbee3346cbee3346cb",
+      "source": "Callout type name",
+      "translated": "Callout type name",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "3eb494d13eb494d13eb494d1",
+      "source": "For example, if this is set to \"PDF\", use the following syntax to insert a callout with color \"yellow\":",
+      "translated": "For example, if this is set to \"PDF\", use the following syntax to insert a callout with color \"yellow\":",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "3fd9127f3fd9127f3fd9127f",
+      "source": "Callout icon",
+      "translated": "Callout icon",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "745f114f745f114f745f114f",
+      "source": "Hoverable dropdown menus",
+      "translated": "Hoverable dropdown menus",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "2f5d56d92f5d56d92f5d56d9",
+      "source": "(Not supported on smartphones) When enabled, the dropdown menus (⌄) in the PDF toolbar will be opened by hovering over the icon, and you don't need to click it.",
+      "translated": "(Not supported on smartphones) When enabled, the dropdown menus (⌄) in the PDF toolbar will be opened by hovering over the icon, and you don't need to click it.",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "5e51458f5e51458f5e51458f",
+      "source": "Show zoom level box",
+      "translated": "Show zoom level box",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "e32fb5cee32fb5cee32fb5ce",
+      "source": "A input box will be added to the PDF toolbar, which indicated the current zoom level and allows you to set the zoom level by typing a number.",
+      "translated": "A input box will be added to the PDF toolbar, which indicated the current zoom level and allows you to set the zoom level by typing a number.",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "c53b2638c53b2638c53b2638",
+      "source": "Color palette",
+      "translated": "Color palette",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "3e8776843e8776843e877684",
+      "source": "Clicking a color while selecting a range of text will copy a link to the selection with \"&color=...\" appended.",
+      "translated": "Clicking a color while selecting a range of text will copy a link to the selection with \"&color=...\" appended.",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "a1246feca1246feca1246fec",
+      "source": "Show color palette in the toolbar",
+      "translated": "Show color palette in the toolbar",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "96cec21d96cec21d96cec21d",
+      "source": "A color palette will be added to the toolbar of the PDF viewer.",
+      "translated": "A color palette will be added to the toolbar of the PDF viewer.",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "b018f991b018f991b018f991",
+      "source": "Show \"without specifying color\" button in the color palette",
+      "translated": "Show \"without specifying color\" button in the color palette",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "bb567876bb567876bb567876",
+      "source": "Show color palette in PDF embeds as well",
+      "translated": "Show color palette in PDF embeds as well",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "4184ba804184ba804184ba80",
+      "source": "Default color selected in color palette",
+      "translated": "Default color selected in color palette",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "23631ab123631ab123631ab1",
+      "source": "This color will be selected in the color palette in a newly opened PDF viewer.",
+      "translated": "This color will be selected in the color palette in a newly opened PDF viewer.",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "30ac579d30ac579d30ac579d",
+      "source": "Don't specify",
+      "translated": "Don't specify",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "4053816b4053816b4053816b",
+      "source": "Share a single color among all color palettes",
+      "translated": "Share a single color among all color palettes",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "6c1e72d46c1e72d46c1e72d4",
+      "source": "If disabled, you can specify a different color for each color palette.",
+      "translated": "If disabled, you can specify a different color for each color palette.",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "fd02f25cfd02f25cfd02f25c",
+      "source": "Share the color with newly opened color palettes as well",
+      "translated": "Share the color with newly opened color palettes as well",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "eb043265eb043265eb043265",
+      "source": "Quiet tooltips in color palette",
+      "translated": "Quiet tooltips in color palette",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "6b0244a66b0244a66b0244a6",
+      "source": "When disabled (default), the tooltip will show the color name as well as the selected copy format and display text format. If enabled, only the color name will be shown.",
+      "translated": "When disabled (default), the tooltip will show the color name as well as the selected copy format and display text format. If enabled, only the color name will be shown.",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "0b8653f20b8653f20b8653f2",
+      "source": "Default zoom level",
+      "translated": "Default zoom level",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "7886b3bb7886b3bb7886b3bb",
+      "source": "This option will be ignored in PDF embeds.",
+      "translated": "This option will be ignored in PDF embeds.",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "415d9fe5415d9fe5415d9fe5",
+      "source": "Fit width",
+      "translated": "Fit width",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "2c339c9c2c339c9c2c339c9c",
+      "source": "Fit height",
+      "translated": "Fit height",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "ea186650ea186650ea186650",
+      "source": "Fit page",
+      "translated": "Fit page",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "5f42c9655f42c9655f42c965",
+      "source": "Custom...",
+      "translated": "Custom...",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "6313ec2e6313ec2e6313ec2e",
+      "source": "Custom zoom level (%)",
+      "translated": "Custom zoom level (%)",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "e8f4c99de8f4c99de8f4c99d",
+      "source": "Default scroll mode",
+      "translated": "Default scroll mode",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "c0bb105dc0bb105dc0bb105d",
+      "source": "Wrapped",
+      "translated": "Wrapped",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "7b2f9f817b2f9f817b2f9f81",
+      "source": "In-page",
+      "translated": "In-page",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "6efc38a16efc38a16efc38a1",
+      "source": "Default spread mode",
+      "translated": "Default spread mode",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "1f8115f11f8115f11f8115f1",
+      "source": "Single page",
+      "translated": "Single page",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "01d780c901d780c901d780c9",
+      "source": "Two page (odd)",
+      "translated": "Two page (odd)",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "6b194d9e6b194d9e6b194d9e",
+      "source": "Two page (even)",
+      "translated": "Two page (even)",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "bddb4256bddb4256bddb4256",
+      "source": "Use PageUp/PageDown key to go to previous/next page",
+      "translated": "Use PageUp/PageDown key to go to previous/next page",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "90a0194d90a0194d90a0194d",
+      "source": "(Desktop & tablet only) Customize the behavior of the context menu that pops up when you right-click in the PDF viewer. For mobile users, see also the next section.",
+      "translated": "(Desktop & tablet only) Customize the behavior of the context menu that pops up when you right-click in the PDF viewer. For mobile users, see also the next section.",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "3aa33cc93aa33cc93aa33cc9",
+      "source": "Replace the built-in context menu with PDF++'s custom menu",
+      "translated": "Replace the built-in context menu with PDF++'s custom menu",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "3b115a773b115a773b115a77",
+      "source": "Show context menu on tablet devices as well",
+      "translated": "Show context menu on tablet devices as well",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "e8a9a3ede8a9a3ede8a9a3ed",
+      "source": "By default, Obsidian does not show the context menu after text selection on mobile devices, including tablets (iPad, etc.). If you want to show the context menu on tablets, turn this option on. Even if this option is turned off, you copy select the OS-native \"Copy\" option to run the \"Copy link to selection or annotation\" command.",
+      "translated": "By default, Obsidian does not show the context menu after text selection on mobile devices, including tablets (iPad, etc.). If you want to show the context menu on tablets, turn this option on. Even if this option is turned off, you copy select the OS-native \"Copy\" option to run the \"Copy link to selection or annotation\" command.",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "787261c5787261c5787261c5",
+      "source": "Show the context menu right after selecting text when...",
+      "translated": "Show the context menu right after selecting text when...",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "38612d9a38612d9a38612d9a",
+      "source": "Ctrl key is pressed",
+      "translated": "Ctrl key is pressed",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "d69fa5e3d69fa5e3d69fa5e3",
+      "source": "Win key is pressed",
+      "translated": "Win key is pressed",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "7be18e937be18e937be18e93",
+      "source": "Shift key is pressed",
+      "translated": "Shift key is pressed",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "ef2debaaef2debaaef2debaa",
+      "source": "Alt key is pressed",
+      "translated": "Alt key is pressed",
+      "updatedAt": 1765000840822
+    },
+    {
+      "key": "9b06c86d9b06c86d9b06c86d",
+      "source": "Menu items",
+      "translated": "Menu items",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "1badcf831badcf831badcf83",
+      "source": "Customize which menu items to show.",
+      "translated": "Customize which menu items to show.",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "574b2a5b574b2a5b574b2a5b",
+      "source": "Look up \"(selection)\"",
+      "translated": "Look up \"(selection)\"",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "a86cf0c9a86cf0c9a86cf0c9",
+      "source": "Available only on macOS.",
+      "translated": "Available only on macOS.",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "f2b81366f2b81366f2b81366",
+      "source": "Copy link to selection",
+      "translated": "Copy link to selection",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "1e54d4541e54d4541e54d454",
+      "source": "Add highlight to file",
+      "translated": "Add highlight to file",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "6be34e816be34e816be34e81",
+      "source": "Copy link to annotation",
+      "translated": "Copy link to annotation",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "91cac37591cac37591cac375",
+      "source": "Edit/delete annotation",
+      "translated": "Edit/delete annotation",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "fc48230efc48230efc48230e",
+      "source": "Copy PDF link / Search on Google Scholar / Paste copied PDF link to selection / Copy URL",
+      "translated": "Copy PDF link / Search on Google Scholar / Paste copied PDF link to selection / Copy URL",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "46328b7a46328b7a46328b7a",
+      "source": "\"Search on Google Scholar\": Available when right-clicking citation links in PDFs.",
+      "translated": "\"Search on Google Scholar\": Available when right-clicking citation links in PDFs.",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "a02b9310a02b9310a02b9310",
+      "source": "Copy selected text / Copy annotated text",
+      "translated": "Copy selected text / Copy annotated text",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "4740bd684740bd684740bd68",
+      "source": "Copy link to search",
+      "translated": "Copy link to search",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "60be3d6d60be3d6d60be3d6d",
+      "source": "Read aloud selected text",
+      "translated": "Read aloud selected text",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "929e9275929e9275929e9275",
+      "source": "Copy link to page",
+      "translated": "Copy link to page",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "1286b62f1286b62f1286b62f",
+      "source": "Available when right-clicking with no text selected.",
+      "translated": "Available when right-clicking with no text selected.",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "e52c4e60e52c4e60e52c4e60",
+      "source": "Customize menu...",
+      "translated": "Customize menu...",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "4ffb0ede4ffb0ede4ffb0ede",
+      "source": "Customize nested menus.",
+      "translated": "Customize nested menus.",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "fa4e931bfa4e931bfa4e931b",
+      "source": "Top-level menu",
+      "translated": "Top-level menu",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "ca80be5eca80be5eca80be5e",
+      "source": "Copy format",
+      "translated": "Copy format",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "346faa3c346faa3c346faa3c",
+      "source": "Display text format",
+      "translated": "Display text format",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "10ddd1af10ddd1af10ddd1af",
+      "source": "Submenu",
+      "translated": "Submenu",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "671f3fcb671f3fcb671f3fcb",
+      "source": "Subsubmenu",
+      "translated": "Subsubmenu",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "5aa76c535aa76c535aa76c53",
+      "source": "Update color palette from context menu",
+      "translated": "Update color palette from context menu",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "2c2099432c2099432c209943",
+      "source": "In the context menu, the items (color, copy format and display text format) set in the color palette are selected by default. If this option is enabled, selecting a menu item will also update the color palette state and hence the default-selected items in the context menu as well. Even if this option is enabled, you can prevent the color palette from being updated by holding down the Ctrl key while selecting the menu item.",
+      "translated": "In the context menu, the items (color, copy format and display text format) set in the color palette are selected by default. If this option is enabled, selecting a menu item will also update the color palette state and hence the default-selected items in the context menu as well. Even if this option is enabled, you can prevent the color palette from being updated by holding down the Ctrl key while selecting the menu item.",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "e556ee20e556ee20e556ee20",
+      "source": "Action triggered by selecting \"Copy\" option on mobile devices",
+      "translated": "Action triggered by selecting \"Copy\" option on mobile devices",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "aaa6ece0aaa6ece0aaa6ece0",
+      "source": "Copy text",
+      "translated": "Copy text",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "6175d6ea6175d6ea6175d6ea",
+      "source": "Obsidian default (copy as quote)",
+      "translated": "Obsidian default (copy as quote)",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "14f1dc3514f1dc3514f1dc35",
+      "source": "Run PDF++'s copy command",
+      "translated": "Run PDF++'s copy command",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "29922ae529922ae529922ae5",
+      "source": "Set up hotkeys for copying links",
+      "translated": "Set up hotkeys for copying links",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "f5d0e143f5d0e143f5d0e143",
+      "source": "PDF++ offers two commands for quickly copying links via hotkeys.",
+      "translated": "PDF++ offers two commands for quickly copying links via hotkeys.",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "87e8427987e8427987e84279",
+      "source": "After running this command, you can add the copied link to the PDF file itself: select a range of text, right-click, and then click \"Paste copied link to selection\".",
+      "translated": "After running this command, you can add the copied link to the PDF file itself: select a range of text, right-click, and then click \"Paste copied link to selection\".",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "737afe9e737afe9e737afe9e",
+      "source": "Open hotkeys settings",
+      "translated": "Open hotkeys settings",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "684dbf2a684dbf2a684dbf2a",
+      "source": "Further workflow enhancements",
+      "translated": "Further workflow enhancements",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "0d411c610d411c610d411c61",
+      "source": "PDF++ also offers the following commands for reducing mouse clicks on the PDF toolbar by assigning hotkeys to them.",
+      "translated": "PDF++ also offers the following commands for reducing mouse clicks on the PDF toolbar by assigning hotkeys to them.",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "8187c4288187c4288187c428",
+      "source": "And more...",
+      "translated": "And more...",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "98f63e2598f63e2598f63e25",
+      "source": "Show outline: when the active file is not PDF, run the core Outline plugin's \"Show outline\" command",
+      "translated": "Show outline: when the active file is not PDF, run the core Outline plugin's \"Show outline\" command",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "9a47334b9a47334b9a47334b",
+      "source": "By turning this on, you can use the same hotkey to show the outline of a markdown file and a PDF file without key conflict.",
+      "translated": "By turning this on, you can use the same hotkey to show the outline of a markdown file and a PDF file without key conflict.",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "9888e21e9888e21e9888e21e",
+      "source": "Show outline / show thumbnail: close the sidebar if it is already open",
+      "translated": "Show outline / show thumbnail: close the sidebar if it is already open",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "ac38d30bac38d30bac38d30b",
+      "source": "Enabling this will allow you to use the same hotkey to close the sidebar if it is already open.",
+      "translated": "Enabling this will allow you to use the same hotkey to close the sidebar if it is already open.",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "27937bcf27937bcf27937bcf",
+      "source": "Zoom in / zoom out: when the active file is not PDF, run the built-in \"Zoom in\" / \"Zoom out\" command",
+      "translated": "Zoom in / zoom out: when the active file is not PDF, run the built-in \"Zoom in\" / \"Zoom out\" command",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "c963ec6dc963ec6dc963ec6d",
+      "source": "By turning this on, you can use the same hotkey to zoom in/out a PDF viewer or any other type of view without key conflict.",
+      "translated": "By turning this on, you can use the same hotkey to zoom in/out a PDF viewer or any other type of view without key conflict.",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "7a3ee95d7a3ee95d7a3ee95d",
+      "source": "Zoom in / zoom out: when the active file is not PDF, run Font Size Adjuster's \"Increment font size\" / \"Decrement font size\" command",
+      "translated": "Zoom in / zoom out: when the active file is not PDF, run Font Size Adjuster's \"Increment font size\" / \"Decrement font size\" command",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "8e5ec3bb8e5ec3bb8e5ec3bb",
+      "source": "The template format that will be used when copying a link to a selection or an annotation in PDF viewer.",
+      "translated": "The template format that will be used when copying a link to a selection or an annotation in PDF viewer.",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "304206183042061830420618",
+      "source": "Available variables are:",
+      "translated": "Available variables are:",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "4e995b2d4e995b2d4e995b2d",
+      "source": "Additionally, you have access to the following variables when the PDF file has a corresponding markdown file specified via the \"PDF\" property(see the \"Property to associate a markdown file to a PDF file\" setting below):",
+      "translated": "Additionally, you have access to the following variables when the PDF file has a corresponding markdown file specified via the \"PDF\" property(see the \"Property to associate a markdown file to a PDF file\" setting below):",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "5a0a40115a0a40115a0a4011",
+      "source": "The following variables are deprecated and will be removed in the near future",
+      "translated": "The following variables are deprecated and will be removed in the near future",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "065965fe065965fe065965fe",
+      "source": "Property to associate a markdown file to a PDF file",
+      "translated": "Property to associate a markdown file to a PDF file",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "c5859b73c5859b73c5859b73",
+      "source": "Remarks:",
+      "translated": "Remarks:",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "04607eeb04607eeb04607eeb",
+      "source": "If you are in Source Mode, be sure to enclose the link in double quotes.",
+      "translated": "If you are in Source Mode, be sure to enclose the link in double quotes.",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "1bf6d1c01bf6d1c01bf6d1c0",
+      "source": "This format will be also used when copying a link to a selection or an annotation from the context menu.",
+      "translated": "This format will be also used when copying a link to a selection or an annotation from the context menu.",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "77dcb47777dcb47777dcb477",
+      "source": "Default display text format",
+      "translated": "Default display text format",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "bca80dedbca80dedbca80ded",
+      "source": "Title & page",
+      "translated": "Title & page",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "6533418b6533418b6533418b",
+      "source": "Page",
+      "translated": "Page",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "031bb1e5031bb1e5031bb1e5",
+      "source": "Text",
+      "translated": "Text",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "7856cc1c7856cc1c7856cc1c",
+      "source": "Emoji",
+      "translated": "Emoji",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "2b12a31a2b12a31a2b12a31a",
+      "source": "Share a single display text format among all PDF viewers",
+      "translated": "Share a single display text format among all PDF viewers",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "872d6587872d6587872d6587",
+      "source": "If disabled, you can specify a different display text format for each PDF viewer from the dropdown menu in the PDF toolbar.",
+      "translated": "If disabled, you can specify a different display text format for each PDF viewer from the dropdown menu in the PDF toolbar.",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "f7ac4b8df7ac4b8df7ac4b8d",
+      "source": "Share the display text format with newly opened PDF viewers as well",
+      "translated": "Share the display text format with newly opened PDF viewers as well",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "ae2e9f5eae2e9f5eae2e9f5e",
+      "source": "Custom copy formats",
+      "translated": "Custom copy formats",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "3601fac63601fac63601fac6",
+      "source": "Customize the format to use when you copy a link by clicking a color palette item or running the commands while selecting a range of text in PDF viewer.",
+      "translated": "Customize the format to use when you copy a link by clicking a color palette item or running the commands while selecting a range of text in PDF viewer.",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "75bf7b9a75bf7b9a75bf7b9a",
+      "source": "In addition to the variables listed above, here you can use",
+      "translated": "In addition to the variables listed above, here you can use",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "0dbc6bb60dbc6bb60dbc6bb6",
+      "source": "Default action when clicking on color palette",
+      "translated": "Default action when clicking on color palette",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "fa851b42fa851b42fa851b42",
+      "source": "Quote",
+      "translated": "Quote",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "e43e6238e43e6238e43e6238",
+      "source": "Link",
+      "translated": "Link",
+      "updatedAt": 1765000840823
+    },
+    {
+      "key": "722307737223077372230773",
+      "source": "Embed",
+      "translated": "Embed",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "48661f3448661f3448661f34",
+      "source": "Callout",
+      "translated": "Callout",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "e60f41a9e60f41a9e60f41a9",
+      "source": "Quote in callout",
+      "translated": "Quote in callout",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "b1d04b00b1d04b00b1d04b00",
+      "source": "Share a single action among all PDF viewers",
+      "translated": "Share a single action among all PDF viewers",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "26433f3d26433f3d26433f3d",
+      "source": "If disabled, you can specify a different action for each PDF viewer from the dropdown menu in the PDF toolbar.",
+      "translated": "If disabled, you can specify a different action for each PDF viewer from the dropdown menu in the PDF toolbar.",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "afe17d97afe17d97afe17d97",
+      "source": "Share the action with newly opened PDF viewers as well",
+      "translated": "Share the action with newly opened PDF viewers as well",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "641b6dfb641b6dfb641b6dfb",
+      "source": "Use another template when no text is selected",
+      "translated": "Use another template when no text is selected",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "bc31506cbc31506cbc31506c",
+      "source": "For example, you can use this to copy a link to the page when there is no selection.",
+      "translated": "For example, you can use this to copy a link to the page when there is no selection.",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "822d78c6822d78c6822d78c6",
+      "source": "Speed up the process of copying & pasting PDF links to your notes with some automation. Note that you can't activate both of auto-focus and auto-paste at the same time.",
+      "translated": "Speed up the process of copying & pasting PDF links to your notes with some automation. Note that you can't activate both of auto-focus and auto-paste at the same time.",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "646898df646898df646898df",
+      "source": "Auto-copy",
+      "translated": "Auto-copy",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "1327eeb21327eeb21327eeb2",
+      "source": "If enabled, the \"Copy link to selection or annotation\" command will be triggered automatically every time you select a range of text in a PDF viewer, meaning you don't even have to press a hotkey to copy a link.",
+      "translated": "If enabled, the \"Copy link to selection or annotation\" command will be triggered automatically every time you select a range of text in a PDF viewer, meaning you don't even have to press a hotkey to copy a link.",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "751126797511267975112679",
+      "source": "Enable",
+      "translated": "Enable",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "109cdada109cdada109cdada",
+      "source": "You can also toggle auto-focus via an icon in the left ribbon menu if the next setting is enabled.",
+      "translated": "You can also toggle auto-focus via an icon in the left ribbon menu if the next setting is enabled.",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "7c6f35fd7c6f35fd7c6f35fd",
+      "source": "Show an icon to toggle auto-copy in the left ribbon menu",
+      "translated": "Show an icon to toggle auto-copy in the left ribbon menu",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "6a5a8ea86a5a8ea86a5a8ea8",
+      "source": "You can also toggle this mode via a command. Reload the plugin after changing this setting to take effect.",
+      "translated": "You can also toggle this mode via a command. Reload the plugin after changing this setting to take effect.",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "12e0027412e0027412e00274",
+      "source": "Icon name",
+      "translated": "Icon name",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "e8ca0136e8ca0136e8ca0136",
+      "source": "Auto-focus",
+      "translated": "Auto-focus",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "0af0bd6f0af0bd6f0af0bd6f",
+      "source": "If enabled, a markdown file will be focused automatically after copying a link to PDF text selection or annotation.",
+      "translated": "If enabled, a markdown file will be focused automatically after copying a link to PDF text selection or annotation.",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "25cda0b325cda0b325cda0b3",
+      "source": "Recommended if you prefer something less agressive than auto-paste. You can also toggle auto-focus via an icon in the left ribbon menu if the next setting is enabled.",
+      "translated": "Recommended if you prefer something less agressive than auto-paste. You can also toggle auto-focus via an icon in the left ribbon menu if the next setting is enabled.",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "9d1538d49d1538d49d1538d4",
+      "source": "Show an icon to toggle auto-focus in the left ribbon menu",
+      "translated": "Show an icon to toggle auto-focus in the left ribbon menu",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "3aff70433aff70433aff7043",
+      "source": "You can also toggle auto-focus via a command. Reload the plugin after changing this setting to take effect.",
+      "translated": "You can also toggle auto-focus via a command. Reload the plugin after changing this setting to take effect.",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "d6963f3ed6963f3ed6963f3e",
+      "source": "Target markdown file to focus on",
+      "translated": "Target markdown file to focus on",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "7623f5627623f5627623f562",
+      "source": "Last pasted .md",
+      "translated": "Last pasted .md",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "7301b7d97301b7d97301b7d9",
+      "source": "Last active .md",
+      "translated": "Last active .md",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "ed03f2cbed03f2cbed03f2cb",
+      "source": "Last active & open .md",
+      "translated": "Last active & open .md",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "355a117a355a117a355a117a",
+      "source": "Last pasted .md if any, otherwise last active .md",
+      "translated": "Last pasted .md if any, otherwise last active .md",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "da5fcd08da5fcd08da5fcd08",
+      "source": "Last pasted .md if any, otherwise last active & open .md",
+      "translated": "Last pasted .md if any, otherwise last active & open .md",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "0ae460e80ae460e80ae460e8",
+      "source": "Last active & open .md if any, otherwise last pasted .md",
+      "translated": "Last active & open .md if any, otherwise last pasted .md",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "3a5537c93a5537c93a5537c9",
+      "source": "Auto-paste",
+      "translated": "Auto-paste",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "c4003585c4003585c4003585",
+      "source": "If enabled, the copied link to PDF text selection or annotation will be automatically pasted into a markdown file right after copying.",
+      "translated": "If enabled, the copied link to PDF text selection or annotation will be automatically pasted into a markdown file right after copying.",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "701fc125701fc125701fc125",
+      "source": "You can also toggle auto-paste via an icon in the left ribbon menu if the next setting is enabled.",
+      "translated": "You can also toggle auto-paste via an icon in the left ribbon menu if the next setting is enabled.",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "c7b371abc7b371abc7b371ab",
+      "source": "Show an icon to toggle auto-paste in the left ribbon menu",
+      "translated": "Show an icon to toggle auto-paste in the left ribbon menu",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "51dbaa9c51dbaa9c51dbaa9c",
+      "source": "You can also toggle auto-paste via a command. Reload the plugin after changing this setting to take effect.",
+      "translated": "You can also toggle auto-paste via a command. Reload the plugin after changing this setting to take effect.",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "c4f0d8a8c4f0d8a8c4f0d8a8",
+      "source": "Target markdown file to paste links to",
+      "translated": "Target markdown file to paste links to",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "2128bee52128bee52128bee5",
+      "source": "Focus editor after auto-pasting",
+      "translated": "Focus editor after auto-pasting",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "c8efb1d8c8efb1d8c8efb1d8",
+      "source": "If enabled, auto-paste will focus on the editor after pasting.",
+      "translated": "If enabled, auto-paste will focus on the editor after pasting.",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "5882504c5882504c5882504c",
+      "source": "Clear text selection after auto-pasting",
+      "translated": "Clear text selection after auto-pasting",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "68594d2768594d2768594d27",
+      "source": "If enabled, the text selection in the PDF viewer will be automatically cleared after performing auto-pasting.",
+      "translated": "If enabled, the text selection in the PDF viewer will be automatically cleared after performing auto-pasting.",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "298979442989794429897944",
+      "source": "Respect current cursor position",
+      "translated": "Respect current cursor position",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "67c6300167c6300167c63001",
+      "source": "When enabled, triggering auto-pasting will paste the copied text at the current cursor position if the target note is already opened. If disabled, the text will be always appended to the end of the note.",
+      "translated": "When enabled, triggering auto-pasting will paste the copied text at the current cursor position if the target note is already opened. If disabled, the text will be always appended to the end of the note.",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "41e1a95c41e1a95c41e1a95c",
+      "source": "Blank line above the appended content",
+      "translated": "Blank line above the appended content",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "4312c3c84312c3c84312c3c8",
+      "source": "Because you disabled the option above, auto-pasted content will be added at the end of your note. Enable this option to make sure that you have a blank line between the existing content and the newly added content.",
+      "translated": "Because you disabled the option above, auto-pasted content will be added at the end of your note. Enable this option to make sure that you have a blank line between the existing content and the newly added content.",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "fad9524efad9524efad9524e",
+      "source": "General",
+      "translated": "General",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "f6e09b86f6e09b86f6e09b86",
+      "source": "General settings that apply to both auto-focus and auto-paste.",
+      "translated": "General settings that apply to both auto-focus and auto-paste.",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "06904a1306904a1306904a13",
+      "source": "Open target markdown file if not opened",
+      "translated": "Open target markdown file if not opened",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "b3d0cb23b3d0cb23b3d0cb23",
+      "source": "How to open target markdown file when not opened",
+      "translated": "How to open target markdown file when not opened",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "5861d33f5861d33f5861d33f",
+      "source": "Hover Editor",
+      "translated": "Hover Editor",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "bc7a26cabc7a26cabc7a26ca",
+      "source": "Close Hover Editor when it loses focus",
+      "translated": "Close Hover Editor when it loses focus",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "a4a410fea4a410fea4a410fe",
+      "source": "This option will not affect the behavior of Hover Editor outside of PDF++.",
+      "translated": "This option will not affect the behavior of Hover Editor outside of PDF++.",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "6982ecc36982ecc36982ecc3",
+      "source": "Auto-hide sidebar when it loses focus after auto-pasting",
+      "translated": "Auto-hide sidebar when it loses focus after auto-pasting",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "e7301c21e7301c21e7301c21",
+      "source": "After auto-pasting into a markdown file opened in the left or right sidebar, the sidebar will be automatically collapsed once it loses focus.",
+      "translated": "After auto-pasting into a markdown file opened in the left or right sidebar, the sidebar will be automatically collapsed once it loses focus.",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "b560444bb560444bb560444b",
+      "source": "Always open in editing view",
+      "translated": "Always open in editing view",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "67f544f767f544f767f544f7",
+      "source": "This option can be useful especially when you set the previous option to \"Hover Editor\".",
+      "translated": "This option can be useful especially when you set the previous option to \"Hover Editor\".",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "6d739f546d739f546d739f54",
+      "source": "Execute command when target file cannot be determined",
+      "translated": "Execute command when target file cannot be determined",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "37b24f2f37b24f2f37b24f2f",
+      "source": "When PDF++ cannot determine which markdown file to focus on or paste to, it will execute the command specified in the next option to let you pick a target file.",
+      "translated": "When PDF++ cannot determine which markdown file to focus on or paste to, it will execute the command specified in the next option to let you pick a target file.",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "2d11477b2d11477b2d11477b",
+      "source": "Command to execute",
+      "translated": "Command to execute",
+      "updatedAt": 1765000840824
+    },
+    {
+      "key": "d73517e2d73517e2d73517e2",
+      "source": "Here's some examples of useful commands:",
+      "translated": "Here's some examples of useful commands:",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "0e832fb60e832fb60e832fb6",
+      "source": "新建笔记",
+      "translated": "新建笔记",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "6ef1fbc16ef1fbc16ef1fbc1",
+      "source": "在右侧创建笔记",
+      "translated": "在右侧创建笔记",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "8ce3a7718ce3a7718ce3a771",
+      "source": "快速切换: 打开快速切换",
+      "translated": "快速切换: 打开快速切换",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "61b64e3261b64e3261b64e32",
+      "source": "[Auto-paste] Maximum time to wait for the command to open the target file (sec)",
+      "translated": "[Auto-paste] Maximum time to wait for the command to open the target file (sec)",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "f1b6be6df1b6be6df1b6be6d",
+      "source": "The link will be auto-pasted into the first markdown file that you open within this time frame after the command is executed. If you don't open any markdown file during this time, the auto-paste will not occur. This option is not related to auto-focus.",
+      "translated": "The link will be auto-pasted into the first markdown file that you open within this time frame after the command is executed. If you don't open any markdown file during this time, the auto-paste will not occur. This option is not related to auto-focus.",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "ca72497fca72497fca72497f",
+      "source": "The \"PDF++: Create new note for auto-focus or auto-paste\" command",
+      "translated": "The \"PDF++: Create new note for auto-focus or auto-paste\" command",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "c0051439c0051439c0051439",
+      "source": "Creates a new note and opens it in a new pane specified in the \"How to open target markdown file when not opened\" option.",
+      "translated": "Creates a new note and opens it in a new pane specified in the \"How to open target markdown file when not opened\" option.",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "24961d9724961d9724961d97",
+      "source": "New note title format",
+      "translated": "New note title format",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "6e349ecb6e349ecb6e349ecb",
+      "source": "See",
+      "translated": "See",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "c9c4d121c9c4d121c9c4d121",
+      "source": "for the details about these variables.",
+      "translated": "for the details about these variables.",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "d78a3843d78a3843d78a3843",
+      "source": "Template file path",
+      "translated": "Template file path",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "9c685f0a9c685f0a9c685f0a",
+      "source": "Example:",
+      "translated": "Example:",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "f64da0c2f64da0c2f64da0c2",
+      "source": "Drag & drop annotation popup to insert a link to the annotation",
+      "translated": "Drag & drop annotation popup to insert a link to the annotation",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "17ff906e17ff906e17ff906e",
+      "source": "Note that turning on this option disables text selection in the annotation popup (e.g. modified date, author, etc).",
+      "translated": "Note that turning on this option disables text selection in the annotation popup (e.g. modified date, author, etc).",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "caf6c1abcaf6c1abcaf6c1ab",
+      "source": "If an annotation has a comment, show the annotation popup on hover",
+      "translated": "If an annotation has a comment, show the annotation popup on hover",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "3e4f26e93e4f26e93e4f26e9",
+      "source": "This is the same behavior as the PDF viewers of some web browsers (e.g. Chrome/Firefox). You may have to reopen the PDF file after changing this option.",
+      "translated": "This is the same behavior as the PDF viewers of some web browsers (e.g. Chrome/Firefox). You may have to reopen the PDF file after changing this option.",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "d530999bd530999bd530999b",
+      "source": "Render markdown in annotation popups when the annotation has text contents",
+      "translated": "Render markdown in annotation popups when the annotation has text contents",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "1faa83e21faa83e21faa83e2",
+      "source": "Make it easier to work with internal links embedded in PDF files.",
+      "translated": "Make it easier to work with internal links embedded in PDF files.",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "a42a6a11a42a6a11a42a6a11",
+      "source": "You may want to turn this off to avoid conflicts with hover+ctrl.Reopen tabs or reload the app after changing this option.",
+      "translated": "You may want to turn this off to avoid conflicts with hover+ctrl.Reopen tabs or reload the app after changing this option.",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "44caec4044caec4044caec40",
+      "source": "Show a popover preview of PDF internal links by hover(+ctrl)",
+      "translated": "Show a popover preview of PDF internal links by hover(+ctrl)",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "f61c99c1f61c99c1f61c99c1",
+      "source": "Currently required. You can toggle this on and off in the core Page Preview plugin settings > PDF++: internal links in PDF (except for citations).",
+      "translated": "Currently required. You can toggle this on and off in the core Page Preview plugin settings > PDF++: internal links in PDF (except for citations).",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "605684ec605684ec605684ec",
+      "source": "Enable history navigation for PDF internal links",
+      "translated": "Enable history navigation for PDF internal links",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "ad0ef40aad0ef40aad0ef40a",
+      "source": "When enabled, clicking the \"navigate back\" (left arrow) button will take you back to the page you were originally viewing before clicking on an internal link in the PDF file.",
+      "translated": "When enabled, clicking the \"navigate back\" (left arrow) button will take you back to the page you were originally viewing before clicking on an internal link in the PDF file.",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "0633a5280633a5280633a528",
+      "source": "Copy PDF link as Obsidian link",
+      "translated": "Copy PDF link as Obsidian link",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "b02ebee4b02ebee4b02ebee4",
+      "source": "(Requires custom context menu enabled) In the PDF viewer, right-click a PDF-embedded link and then click \"Copy PDF link as Obsidian link\". It will copy the PDF link as an Obsidian link that you can paste into markdown files. Clicking the pasted link will take you to the same destination as the original PDF link.",
+      "translated": "(Requires custom context menu enabled) In the PDF viewer, right-click a PDF-embedded link and then click \"Copy PDF link as Obsidian link\". It will copy the PDF link as an Obsidian link that you can paste into markdown files. Clicking the pasted link will take you to the same destination as the original PDF link.",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "b6dae5f6b6dae5f6b6dae5f6",
+      "source": "\"Copy link to current page view\" command",
+      "translated": "\"Copy link to current page view\" command",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "1ed5a0ae1ed5a0ae1ed5a0ae",
+      "source": "Running this command while viewing a PDF file will copy a link, clicking which will open the PDF file at the current scroll position and zoom level.",
+      "translated": "Running this command while viewing a PDF file will copy a link, clicking which will open the PDF file at the current scroll position and zoom level.",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "0ab5db2a0ab5db2a0ab5db2a",
+      "source": "Paste copied link to a text selection in a PDF file",
+      "translated": "Paste copied link to a text selection in a PDF file",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "86e16d5586e16d5586e16d55",
+      "source": "(Requires custom context menu & PDF editing enabled) After copying a link by the above actions, you can \"paste\" it to a selection in PDF to create a PDF internal link. To do this, right-click the selection and click \"Paste copied link to selection\".",
+      "translated": "(Requires custom context menu & PDF editing enabled) After copying a link by the above actions, you can \"paste\" it to a selection in PDF to create a PDF internal link. To do this, right-click the selection and click \"Paste copied link to selection\".",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "e08f410ee08f410ee08f410e",
+      "source": "The current implementation is based on some pretty primitive hand-crafted rules, and there is a lot of room for improvement. Code contribution is much appreciated!",
+      "translated": "The current implementation is based on some pretty primitive hand-crafted rules, and there is a lot of room for improvement. Code contribution is much appreciated!",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "c2ebc988c2ebc988c2ebc988",
+      "source": "Hover(+ctrl) on a citation link to show...",
+      "translated": "Hover(+ctrl) on a citation link to show...",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "f4cbe060f4cbe060f4cbe060",
+      "source": "Same as other internal links",
+      "translated": "Same as other internal links",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "0a193fba0a193fba0a193fba",
+      "source": "PDF++'s custom bibliography popover",
+      "translated": "PDF++'s custom bibliography popover",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "a19ebf98a19ebf98a19ebf98",
+      "source": "Google Scholar popover",
+      "translated": "Google Scholar popover",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "c30c8145c30c8145c30c8145",
+      "source": "Currently not required. You can toggle this on and off in the core Page Preview plugin settings > PDF++: citation links in PDF.",
+      "translated": "Currently not required. You can toggle this on and off in the core Page Preview plugin settings > PDF++: citation links in PDF.",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "ea4d7574ea4d7574ea4d7574",
+      "source": "AnyStyle path",
+      "translated": "AnyStyle path",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "d0c4ca8dd0c4ca8dd0c4ca8d",
+      "source": "Citation ID patterns",
+      "translated": "Citation ID patterns",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "714958657149586571495865",
+      "source": "You don't need to care about this option in most use cases - just leave it to the default value. For advanced users: most internal links in PDF files use so-called destination names to specify the target location. This option allows you to specify the regular expressions (separated by line breaks) that determine whether a given internal link is a citation link based on the dsetination name.",
+      "translated": "You don't need to care about this option in most use cases - just leave it to the default value. For advanced users: most internal links in PDF files use so-called destination names to specify the target location. This option allows you to specify the regular expressions (separated by line breaks) that determine whether a given internal link is a citation link based on the dsetination name.",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "f8098327f8098327f8098327",
+      "source": "Enable bibliography extraction in PDF embeds",
+      "translated": "Enable bibliography extraction in PDF embeds",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "746bdc45746bdc45746bdc45",
+      "source": "Enable bibliography extraction in Canvas",
+      "translated": "Enable bibliography extraction in Canvas",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "11bff85311bff85311bff853",
+      "source": "Enable bibliography extraction in hover popover previews",
+      "translated": "Enable bibliography extraction in hover popover previews",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "b31b9db8b31b9db8b31b9db8",
+      "source": "Make it easier to work with external links embedded in PDF files.",
+      "translated": "Make it easier to work with external links embedded in PDF files.",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "2ca98fe82ca98fe82ca98fe8",
+      "source": "Show a popover preview of external links by hover(+ctrl)",
+      "translated": "Show a popover preview of external links by hover(+ctrl)",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "6a899cae6a899cae6a899cae",
+      "source": "Currently required. You can toggle this on and off in the core Page Preview plugin settings > PDF++: external links in PDF.",
+      "translated": "Currently required. You can toggle this on and off in the core Page Preview plugin settings > PDF++: external links in PDF.",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "bebf9454bebf9454bebf9454",
+      "source": "General settings for the PDF sidebar. The options specific to the outline and thumbnails are located in the corresponding sections below.",
+      "translated": "General settings for the PDF sidebar. The options specific to the outline and thumbnails are located in the corresponding sections below.",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "bd01a1bdbd01a1bdbd01a1bd",
+      "source": "Click on PDF content to hide sidebar",
+      "translated": "Click on PDF content to hide sidebar",
+      "updatedAt": 1765000840825
+    },
+    {
+      "key": "ca51e154ca51e154ca51e154",
+      "source": "Requires reopening the tabs after changing this option.",
+      "translated": "Requires reopening the tabs after changing this option.",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "8fdbafd48fdbafd48fdbafd4",
+      "source": "Default sidebar view",
+      "translated": "Default sidebar view",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "e54bf116e54bf116e54bf116",
+      "source": "Reopen PDFs after changing this option.",
+      "translated": "Reopen PDFs after changing this option.",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "25882ce725882ce725882ce7",
+      "source": "Thumbnails",
+      "translated": "Thumbnails",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "c7b4ba18c7b4ba18c7b4ba18",
+      "source": "Outline",
+      "translated": "Outline",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "0f48bf7e0f48bf7e0f48bf7e",
+      "source": "Power up the outline view of the built-in PDF viewer: add, rename, or delete items via the right-click menu and the \"Add to outline\" command, drag & drop items to insert a section link, and more.",
+      "translated": "Power up the outline view of the built-in PDF viewer: add, rename, or delete items via the right-click menu and the \"Add to outline\" command, drag & drop items to insert a section link, and more.",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "d59569eed59569eed59569ee",
+      "source": "Show popover preview by hover(+ctrl)",
+      "translated": "Show popover preview by hover(+ctrl)",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "ff7edfc7ff7edfc7ff7edfc7",
+      "source": "Reopen tabs or reload the app after changing this option.",
+      "translated": "Reopen tabs or reload the app after changing this option.",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "b9f900c8b9f900c8b9f900c8",
+      "source": "Currently required. You can toggle this on and off in the core Page Preview plugin settings > PDF++: outlines (bookmarks).",
+      "translated": "Currently required. You can toggle this on and off in the core Page Preview plugin settings > PDF++: outlines (bookmarks).",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "1ad19bcc1ad19bcc1ad19bcc",
+      "source": "Record to history when clicking an outline item",
+      "translated": "Record to history when clicking an outline item",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "5db181c75db181c75db181c7",
+      "source": "Replace the built-in context menu in the outline with a custom one",
+      "translated": "Replace the built-in context menu in the outline with a custom one",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "2a49cff72a49cff72a49cff7",
+      "source": "This enables you to insert a section link with a custom format by right-clicking an item in the outline. Moreover, you will be able to add, rename, or delete outline items if PDF modification is enabled.",
+      "translated": "This enables you to insert a section link with a custom format by right-clicking an item in the outline. Moreover, you will be able to add, rename, or delete outline items if PDF modification is enabled.",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "9213354c9213354c9213354c",
+      "source": "Drag & drop outline item to insert link to section",
+      "translated": "Drag & drop outline item to insert link to section",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "b7562278b7562278b7562278",
+      "source": "Grab an item in the outline and drop it to a markdown file to insert a section link. Changing this option requires reopening the tabs or reloading the app.",
+      "translated": "Grab an item in the outline and drop it to a markdown file to insert a section link. Changing this option requires reopening the tabs or reloading the app.",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "85c3710885c3710885c37108",
+      "source": "Copy outline as markdown",
+      "translated": "Copy outline as markdown",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "869ae187869ae187869ae187",
+      "source": "You can copy PDF outline as a markdown list or headings using the commands \"Copy outline as markdown list\" and \"Copy outline as markdown headings\".",
+      "translated": "You can copy PDF outline as a markdown list or headings using the commands \"Copy outline as markdown list\" and \"Copy outline as markdown headings\".",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "7f73dfc47f73dfc47f73dfc4",
+      "source": "List: display text format",
+      "translated": "List: display text format",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "7dd210667dd210667dd21066",
+      "source": "List: copy format",
+      "translated": "List: copy format",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "d216fd1dd216fd1dd216fd1d",
+      "source": "You don't need to include leading hyphens in the template.",
+      "translated": "You don't need to include leading hyphens in the template.",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "e26c5bfde26c5bfde26c5bfd",
+      "source": "Headings: display text format",
+      "translated": "Headings: display text format",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "6378205f6378205f6378205f",
+      "source": "Headings: copy format",
+      "translated": "Headings: copy format",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "a8f54748a8f54748a8f54748",
+      "source": "You don't need to include leading hashes in the template.",
+      "translated": "You don't need to include leading hashes in the template.",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "2b022ad92b022ad92b022ad9",
+      "source": "Headings: minimum level",
+      "translated": "Headings: minimum level",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "e42c587be42c587be42c587b",
+      "source": "The copied headings will start at this level.",
+      "translated": "The copied headings will start at this level.",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "07c5ee5f07c5ee5f07c5ee5f",
+      "source": "You may want to turn this off to avoid conflicts with hover+ctrlReopen tabs or reload the app after changing this option.",
+      "translated": "You may want to turn this off to avoid conflicts with hover+ctrlReopen tabs or reload the app after changing this option.",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "cae3444acae3444acae3444a",
+      "source": "Currently required. You can toggle this on and off in the core Page Preview plugin settings > PDF++: thumbnails.",
+      "translated": "Currently required. You can toggle this on and off in the core Page Preview plugin settings > PDF++: thumbnails.",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "1027633b1027633b1027633b",
+      "source": "Record to history when clicking a thumbnail",
+      "translated": "Record to history when clicking a thumbnail",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "6ace36216ace36216ace3621",
+      "source": "Replace the built-in context menu in thumbnails with a custom one",
+      "translated": "Replace the built-in context menu in thumbnails with a custom one",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "44ee7ec644ee7ec644ee7ec6",
+      "source": "This enables you to copy a page link with a custom display text format specified in the PDF toolbar by right-clicking a thumbnail. Moreover, you will be able to insert, delete, extract pages if PDF modification is enabled.",
+      "translated": "This enables you to copy a page link with a custom display text format specified in the PDF toolbar by right-clicking a thumbnail. Moreover, you will be able to insert, delete, extract pages if PDF modification is enabled.",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "7bf66a1d7bf66a1d7bf66a1d",
+      "source": "Drag & drop PDF thumbnail to insert link to page",
+      "translated": "Drag & drop PDF thumbnail to insert link to page",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "7fe80dec7fe80dec7fe80dec",
+      "source": "Grab a thumbnail image and drop it to a markdown file to insert a page link. Changing this option requires reopening the tabs or reloading the app.",
+      "translated": "Grab a thumbnail image and drop it to a markdown file to insert a page link. Changing this option requires reopening the tabs or reloading the app.",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "c96990ddc96990ddc96990dd",
+      "source": "Note: When disabled, drag-and-drop will cause the thumbnail image to be paste as a data url, which is seemingly Obsidian's bug.",
+      "translated": "Note: When disabled, drag-and-drop will cause the thumbnail image to be paste as a data url, which is seemingly Obsidian's bug.",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "2e956a392e956a392e956a39",
+      "source": "Always warn when deleting a page",
+      "translated": "Always warn when deleting a page",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "ad1ac7f2ad1ac7f2ad1ac7f2",
+      "source": "Warn when deleting a page with backlinks",
+      "translated": "Warn when deleting a page with backlinks",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "b29f4f9fb29f4f9fb29f4f9f",
+      "source": "Remove the extracted pages from the original PDF by default",
+      "translated": "Remove the extracted pages from the original PDF by default",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "8202a5e88202a5e88202a5e8",
+      "source": "Ask whether to remove the extracted pages from the original PDF before extracting",
+      "translated": "Ask whether to remove the extracted pages from the original PDF before extracting",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "bddf68d4bddf68d4bddf68d4",
+      "source": "Open extracted PDF file",
+      "translated": "Open extracted PDF file",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "fd5a9091fd5a9091fd5a9091",
+      "source": "If enabled, the newly created PDF file will be opened after running the commands \"Extract this page to a new file\" or \"Divide this PDF into two files at this page\".",
+      "translated": "If enabled, the newly created PDF file will be opened after running the commands \"Extract this page to a new file\" or \"Divide this PDF into two files at this page\".",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "33a26ee733a26ee733a26ee7",
+      "source": "How to open",
+      "translated": "How to open",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "3c096cbe3c096cbe3c096cbe",
+      "source": "Page labels",
+      "translated": "Page labels",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "52e4f58452e4f58452e4f584",
+      "source": "You can also modify page labels directly using the command \"Edit page labels\".",
+      "translated": "You can also modify page labels directly using the command \"Edit page labels\".",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "c8ef8ce0c8ef8ce0c8ef8ce0",
+      "source": "Insert: default page label processing",
+      "translated": "Insert: default page label processing",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "a51336d1a51336d1a51336d1",
+      "source": "Applies to the commands \"Insert page before/after this page\".",
+      "translated": "Applies to the commands \"Insert page before/after this page\".",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "9748bf2f9748bf2f9748bf2f",
+      "source": "Keep labels unchanged",
+      "translated": "Keep labels unchanged",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "190118091901180919011809",
+      "source": "Update",
+      "translated": "Update",
+      "updatedAt": 1765000840826
+    },
+    {
+      "key": "d424ae57d424ae57d424ae57",
+      "source": "Insert: ask whether to update",
+      "translated": "Insert: ask whether to update",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "df11a9aedf11a9aedf11a9ae",
+      "source": "Delete: default page label processing",
+      "translated": "Delete: default page label processing",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "c934b4adc934b4adc934b4ad",
+      "source": "Applies to the command \"Delete this page\".",
+      "translated": "Applies to the command \"Delete this page\".",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "75bbd39975bbd39975bbd399",
+      "source": "Delete: ask whether to update",
+      "translated": "Delete: ask whether to update",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "ebda7b9aebda7b9aebda7b9a",
+      "source": "Extract: default page label processing",
+      "translated": "Extract: default page label processing",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "427a01e3427a01e3427a01e3",
+      "source": "Applies to the commands \"Extract this page to a new file\" and \"Divide this PDF into two files at this page\".",
+      "translated": "Applies to the commands \"Extract this page to a new file\" and \"Divide this PDF into two files at this page\".",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "bd82ed6dbd82ed6dbd82ed6d",
+      "source": "Extract: ask whether to update",
+      "translated": "Extract: ask whether to update",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "0d1cac3c0d1cac3c0d1cac3c",
+      "source": "Always record to history when opening PDF links",
+      "translated": "Always record to history when opening PDF links",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "118af082118af082118af082",
+      "source": "By default, the history is recorded only when you open a link to a different PDF file. If enabled, the history will be recorded even when you open a link to the same PDF file as the current one, and you will be able to go back and forth the history by clicking the left/right arrow buttons even within a single PDF file.",
+      "translated": "By default, the history is recorded only when you open a link to a different PDF file. If enabled, the history will be recorded even when you open a link to the same PDF file as the current one, and you will be able to go back and forth the history by clicking the left/right arrow buttons even within a single PDF file.",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "0692e5a60692e5a60692e5a6",
+      "source": "Don't open a single PDF file in multiple tabs",
+      "translated": "Don't open a single PDF file in multiple tabs",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "3f475be33f475be33f475be3",
+      "source": "Don't move focus to PDF viewer after opening a PDF link",
+      "translated": "Don't move focus to PDF viewer after opening a PDF link",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "74f6b6c274f6b6c274f6b6c2",
+      "source": "This option will be ignored when you open a PDF link in a tab in the same split as the PDF viewer.",
+      "translated": "This option will be ignored when you open a PDF link in a tab in the same split as the PDF viewer.",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "42cf767842cf767842cf7678",
+      "source": "When opening a link to an already opened PDF file, highlight the tab",
+      "translated": "When opening a link to an already opened PDF file, highlight the tab",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "915ba34b915ba34b915ba34b",
+      "source": "Preserve the current zoom level when opening a link to an already opened PDF file",
+      "translated": "Preserve the current zoom level when opening a link to an already opened PDF file",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "585c8f29585c8f29585c8f29",
+      "source": "When you open a link to a PDF file that's already opened, Obsidian's default behavior causes the zoom level to be reset to fit the width of the PDF file to the viewer. If enabled, the current zoom level will be preserved. This option will be ignored in PDF embeds.",
+      "translated": "When you open a link to a PDF file that's already opened, Obsidian's default behavior causes the zoom level to be reset to fit the width of the PDF file to the viewer. If enabled, the current zoom level will be preserved. This option will be ignored in PDF embeds.",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "9cd3fd329cd3fd329cd3fd32",
+      "source": "Preserve the current horizontal scroll position",
+      "translated": "Preserve the current horizontal scroll position",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "eb847f47eb847f47eb847f47",
+      "source": "How to open PDF links when there is no open PDF file",
+      "translated": "How to open PDF links when there is no open PDF file",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "255bb128255bb128255bb128",
+      "source": "Open PDF links next to an existing PDF tab",
+      "translated": "Open PDF links next to an existing PDF tab",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "56112d0156112d0156112d01",
+      "source": "Open PDF link instead of showing popover preview when target PDF is already opened",
+      "translated": "Open PDF link instead of showing popover preview when target PDF is already opened",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "fc38ab5cfc38ab5cfc38ab5c",
+      "source": "Press ctrl while hovering a PDF link to actually open it if the target PDF is already opened in another tab.",
+      "translated": "Press ctrl while hovering a PDF link to actually open it if the target PDF is already opened in another tab.",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "3630db5c3630db5c3630db5c",
+      "source": "Open PDF links with an external app",
+      "translated": "Open PDF links with an external app",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "1fbc40911fbc40911fbc4091",
+      "source": "Clear highlights after a certain amount of time",
+      "translated": "Clear highlights after a certain amount of time",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "8509cfc28509cfc28509cfc2",
+      "source": "Highlight duration (sec)",
+      "translated": "Highlight duration (sec)",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "ed7e7d7aed7e7d7aed7e7d7a",
+      "source": "Ignore \"height\" parameter in popover preview",
+      "translated": "Ignore \"height\" parameter in popover preview",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "f44f4eb7f44f4eb7f44f4eb7",
+      "source": "Obsidian lets you specify the height of a PDF embed by appending \"&height=...\" to a link, and this also applies to popover previews. Enable this option if you want to ignore the height parameter in popover previews.",
+      "translated": "Obsidian lets you specify the height of a PDF embed by appending \"&height=...\" to a link, and this also applies to popover previews. Enable this option if you want to ignore the height parameter in popover previews.",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "58ba1f7558ba1f7558ba1f75",
+      "source": "Double click PDF embeds to open links",
+      "translated": "Double click PDF embeds to open links",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "f08762a3f08762a3f08762a3",
+      "source": "Double-clicking a PDF embed will open the embedded file.",
+      "translated": "Double-clicking a PDF embed will open the embedded file.",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "ecbf5a8aecbf5a8aecbf5a8a",
+      "source": "Trim selection/annotation embeds",
+      "translated": "Trim selection/annotation embeds",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "1147b8181147b8181147b818",
+      "source": "Hide sidebar in PDF embeds or PDF popover previews by default",
+      "translated": "Hide sidebar in PDF embeds or PDF popover previews by default",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "887c54eb887c54eb887c54eb",
+      "source": "Don't display PDF embeds or PDF popover previews in \"two page\" layout",
+      "translated": "Don't display PDF embeds or PDF popover previews in \"two page\" layout",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "65eed84a65eed84a65eed84a",
+      "source": "Regardless of the \"two page\" layout setting in existing PDF viewer, PDF embeds and PDF popover previews will be always displayed in \"single page\" layout. You can still turn it on for each embed by clicking the \"two page\" button in the toolbar, if shown.",
+      "translated": "Regardless of the \"two page\" layout setting in existing PDF viewer, PDF embeds and PDF popover previews will be always displayed in \"single page\" layout. You can still turn it on for each embed by clicking the \"two page\" button in the toolbar, if shown.",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "8b1b19418b1b19418b1b1941",
+      "source": "Don't highlight text in text selection embeds",
+      "translated": "Don't highlight text in text selection embeds",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "2afff8b22afff8b22afff8b2",
+      "source": "Don't highlight annotations in annotation embeds",
+      "translated": "Don't highlight annotations in annotation embeds",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "670297766702977667029776",
+      "source": "Don't clear highlights in text selection embeds",
+      "translated": "Don't clear highlights in text selection embeds",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "5fb07ecc5fb07ecc5fb07ecc",
+      "source": "Don't clear highlights in annotation embeds",
+      "translated": "Don't clear highlights in annotation embeds",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "92bc397e92bc397e92bc397e",
+      "source": "Make PDF embeds with a page specified unscrollable",
+      "translated": "Make PDF embeds with a page specified unscrollable",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "e89c0539e89c0539e89c0539",
+      "source": "After changing this option, you need to reopen tabs or reload the app.",
+      "translated": "After changing this option, you need to reopen tabs or reload the app.",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "3c4077183c4077183c407718",
+      "source": "Filter backlinks by page by default",
+      "translated": "Filter backlinks by page by default",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "7130925b7130925b7130925b",
+      "source": "You can toggle this on and off with the \"Show only backlinks in the current page\" button at the top right of the backlinks pane.",
+      "translated": "You can toggle this on and off with the \"Show only backlinks in the current page\" button at the top right of the backlinks pane.",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "e7e24133e7e24133e7e24133",
+      "source": "Show backlinks to the entire page",
+      "translated": "Show backlinks to the entire page",
+      "updatedAt": 1765000840827
+    },
+    {
+      "key": "3ec4f90e3ec4f90e3ec4f90e",
+      "source": "If turned off, only backlinks to specific text selections, annotations or locations will be shown when filtering the backlinks page by page.",
+      "translated": "If turned off, only backlinks to specific text selections, annotations or locations will be shown when filtering the backlinks page by page.",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "cd3116e0cd3116e0cd3116e0",
+      "source": "Hover sync (PDF viewer → Backlinks pane)",
+      "translated": "Hover sync (PDF viewer → Backlinks pane)",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "410eb8cb410eb8cb410eb8cb",
+      "source": "Hovering your mouse over highlighted text or annotation will also highlight the corresponding item in the backlink pane.",
+      "translated": "Hovering your mouse over highlighted text or annotation will also highlight the corresponding item in the backlink pane.",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "c76678a0c76678a0c76678a0",
+      "source": "Hover sync (Backlinks pane → PDF viewer)",
+      "translated": "Hover sync (Backlinks pane → PDF viewer)",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "f65d3ac9f65d3ac9f65d3ac9",
+      "source": "In the backlinks pane, hover your mouse over an backlink item to highlight the corresponding text or annotation in the PDF viewer. This option requires reopening or switching tabs to take effect.",
+      "translated": "In the backlinks pane, hover your mouse over an backlink item to highlight the corresponding text or annotation in the PDF viewer. This option requires reopening or switching tabs to take effect.",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "392183163921831639218316",
+      "source": "Highlight color for hover sync (Backlinks pane → PDF viewer)",
+      "translated": "Highlight color for hover sync (Backlinks pane → PDF viewer)",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "a27b12a3a27b12a3a27b12a3",
+      "source": "To add a new color, click the \"+\" button in the \"highlight colors\" setting above.",
+      "translated": "To add a new color, click the \"+\" button in the \"highlight colors\" setting above.",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "d3694841d3694841d3694841",
+      "source": "PDF++ default",
+      "translated": "PDF++ default",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "0c99e0660c99e0660c99e066",
+      "source": "Search options",
+      "translated": "Search options",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "95adda4e95adda4e95adda4e",
+      "source": "Case sensitive search",
+      "translated": "Case sensitive search",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "d6c194b9d6c194b9d6c194b9",
+      "source": "No",
+      "translated": "No",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "357b46f4357b46f4357b46f4",
+      "source": "Follow default setting",
+      "translated": "Follow default setting",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "373c62bd373c62bd373c62bd",
+      "source": "Highlight all search results",
+      "translated": "Highlight all search results",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "c378d412c378d412c378d412",
+      "source": "Match diacritics",
+      "translated": "Match diacritics",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "efc1ae9cefc1ae9cefc1ae9c",
+      "source": "Match whole word",
+      "translated": "Match whole word",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "278ccac5278ccac5278ccac5",
+      "source": "Open PDF links with the OS-defined default application for PDF files.",
+      "translated": "Open PDF links with the OS-defined default application for PDF files.",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "48929bed48929bed48929bed",
+      "source": "Sync the external app with Obsidian",
+      "translated": "Sync the external app with Obsidian",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "26fb6d2526fb6d2526fb6d25",
+      "source": "When you focus on a PDF file in Obsidian, the external app will also focus on the same file.",
+      "translated": "When you focus on a PDF file in Obsidian, the external app will also focus on the same file.",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "8f3525158f3525158f352515",
+      "source": "Focus Obsidian after opening a PDF file with an external app",
+      "translated": "Focus Obsidian after opening a PDF file with an external app",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "906c2ad1906c2ad1906c2ad1",
+      "source": "Otherwise, the focus will be moved to the external app.",
+      "translated": "Otherwise, the focus will be moved to the external app.",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "d57f568fd57f568fd57f568f",
+      "source": "Sync page number",
+      "translated": "Sync page number",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "d1449f88d1449f88d1449f88",
+      "source": "Minimum update interval of the View Sync file (sec)",
+      "translated": "Minimum update interval of the View Sync file (sec)",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "a3e8ba66a3e8ba66a3e8ba66",
+      "source": "Default location for new dummy PDF files",
+      "translated": "Default location for new dummy PDF files",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "358d33e7358d33e7358d33e7",
+      "source": "Where newly created dummy PDF files are placed. If set to \"Same as Obsidian's attachment location\", dummy files will be saved in the folder specified in Obsidian settings > Files and links > Default location for new attachments.",
+      "translated": "Where newly created dummy PDF files are placed. If set to \"Same as Obsidian's attachment location\", dummy files will be saved in the folder specified in Obsidian settings > Files and links > Default location for new attachments.",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "ea7dab74ea7dab74ea7dab74",
+      "source": "Vault folder",
+      "translated": "Vault folder",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "017794690177946901779469",
+      "source": "Same folder as current file",
+      "translated": "Same folder as current file",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "6689a3616689a3616689a361",
+      "source": "In the folder specified below",
+      "translated": "In the folder specified below",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "1b52e77a1b52e77a1b52e77a",
+      "source": "In subfolder under current folder",
+      "translated": "In subfolder under current folder",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "f1b60275f1b60275f1b60275",
+      "source": "Same as Obsidian's attachment location",
+      "translated": "Same as Obsidian's attachment location",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "feb0324dfeb0324dfeb0324d",
+      "source": "Dummy file folder path",
+      "translated": "Dummy file folder path",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "2e1378dc2e1378dc2e1378dc",
+      "source": "Place newly created dummy PDF files in this folder.",
+      "translated": "Place newly created dummy PDF files in this folder.",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "20b7650d20b7650d20b7650d",
+      "source": "Subfolder name",
+      "translated": "Subfolder name",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "06dba93f06dba93f06dba93f",
+      "source": "If your file is under \"vault/folder\", and you set subfolder name to \"attachments\", dummy PDF files will be saved to \"vault/folder/attachments\".",
+      "translated": "If your file is under \"vault/folder\", and you set subfolder name to \"attachments\", dummy PDF files will be saved to \"vault/folder/attachments\".",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "a8df2de4a8df2de4a8df2de4",
+      "source": "Modifier key to create a dummy PDF file on drag & drop",
+      "translated": "Modifier key to create a dummy PDF file on drag & drop",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "fe8bb592fe8bb592fe8bb592",
+      "source": "After dragging an external PDF file, drop it on the editor while pressing this modifier key to create a dummy file and insert a link to it. You can drag a URL to a PDF file on the web from within your browser (link, URL bar, bookmark, etc.) or a PDF file on your desktop machine from your file manager (File Explorer etc.). Note that on mobile, you might need to start pressing the modifier key before starting the drag operation.",
+      "translated": "After dragging an external PDF file, drop it on the editor while pressing this modifier key to create a dummy file and insert a link to it. You can drag a URL to a PDF file on the web from within your browser (link, URL bar, bookmark, etc.) or a PDF file on your desktop machine from your file manager (File Explorer etc.). Note that on mobile, you might need to start pressing the modifier key before starting the drag operation.",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "1a1fc7381a1fc7381a1fc738",
+      "source": "Shift",
+      "translated": "Shift",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "989c5891989c5891989c5891",
+      "source": "Ctrl",
+      "translated": "Ctrl",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "676b3f9a676b3f9a676b3f9a",
+      "source": "Ctrl+Shift",
+      "translated": "Ctrl+Shift",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "2274ee512274ee512274ee51",
+      "source": "URI patterns for PDF files",
+      "translated": "URI patterns for PDF files",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "739b6b67739b6b67739b6b67",
+      "source": "Specify the URI pattens for PDFs in regular expressions. When dragging and dropping a URI/URL from your browser to Obsidian's editor, it will be used to check if the destination file is a PDF file. If you need multiple patterns, separate them with a new line.",
+      "translated": "Specify the URI pattens for PDFs in regular expressions. When dragging and dropping a URI/URL from your browser to Obsidian's editor, it will be used to check if the destination file is a PDF file. If you need multiple patterns, separate them with a new line.",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "5c988f705c988f705c988f70",
+      "source": "The default keybindings are as follows. You can customize them be creating a \"vimrc\" file and providing its path in the setting below.",
+      "translated": "The default keybindings are as follows. You can customize them be creating a \"vimrc\" file and providing its path in the setting below.",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "9310ed239310ed239310ed23",
+      "source": "Many of the commands above can be combined with counts. For example:",
+      "translated": "Many of the commands above can be combined with counts. For example:",
+      "updatedAt": 1765000840828
+    },
+    {
+      "key": "880273f5880273f5880273f5",
+      "source": "Reopen the PDF viewers after changing this option.",
+      "translated": "Reopen the PDF viewers after changing this option.",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "be55287fbe55287fbe55287f",
+      "source": "Vimrc file path (optional)",
+      "translated": "Vimrc file path (optional)",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "d6566106d6566106d6566106",
+      "source": "Example (not necessarily recommendations):",
+      "translated": "Example (not necessarily recommendations):",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "3c8f66c23c8f66c23c8f66c2",
+      "source": "After changing the path or the file content, you need to reopen the PDF viewer. If the vimrc file is a hidden file or is under a hidden folder, you need to reload PDF++ or the app.",
+      "translated": "After changing the path or the file content, you need to reopen the PDF viewer. If the vimrc file is a hidden file or is under a hidden folder, you need to reload PDF++ or the app.",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "2f9f650f2f9f650f2f9f650f",
+      "source": "Visual mode",
+      "translated": "Visual mode",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "14fbb87a14fbb87a14fbb87a",
+      "source": "Use motion keys to adjust text selection",
+      "translated": "Use motion keys to adjust text selection",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "da27567cda27567cda27567c",
+      "source": "Tips:",
+      "translated": "Tips:",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "c0cfa6bbc0cfa6bbc0cfa6bb",
+      "source": "Outline mode",
+      "translated": "Outline mode",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "bb181b2cbb181b2cbb181b2c",
+      "source": "Enter outline mode when opening PDF outline view",
+      "translated": "Enter outline mode when opening PDF outline view",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "619e1660619e1660619e1660",
+      "source": "Smooth motion in outline mode",
+      "translated": "Smooth motion in outline mode",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "d520a232d520a232d520a232",
+      "source": "Command-line mode (experimental)",
+      "translated": "Command-line mode (experimental)",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "583d1438583d1438583d1438",
+      "source": "Use arrow down/up keys to go back and forth the command history.",
+      "translated": "Use arrow down/up keys to go back and forth the command history.",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "1cbce50d1cbce50d1cbce50d",
+      "source": "Hint mode (experimental)",
+      "translated": "Hint mode (experimental)",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "ef3dc79eef3dc79eef3dc79e",
+      "source": "Also check out Style Settings > PDF++ > Vim keybindings > Hint mode.",
+      "translated": "Also check out Style Settings > PDF++ > Vim keybindings > Hint mode.",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "a8643415a8643415a8643415",
+      "source": "Characters to use in hint mode",
+      "translated": "Characters to use in hint mode",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "1566a1271566a1271566a127",
+      "source": "They are used preferentially from left to right, so you might want to put the easier-to-reach keys first. This is the same as Tridactyl's \"hintchars\" option.",
+      "translated": "They are used preferentially from left to right, so you might want to put the easier-to-reach keys first. This is the same as Tridactyl's \"hintchars\" option.",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "ac62166aac62166aac62166a",
+      "source": "Default arguments for the \":hint\" Ex command",
+      "translated": "Default arguments for the \":hint\" Ex command",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "453a62d5453a62d5453a62d5",
+      "source": "Space-separated list of \"link\"/\"annot\"/\"backlink\" or \"all\". Run \":help :hint\" for the details.",
+      "translated": "Space-separated list of \"link\"/\"annot\"/\"backlink\" or \"all\". Run \":help :hint\" for the details.",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "ff54ef14ff54ef14ff54ef14",
+      "source": "Context menu",
+      "translated": "Context menu",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "4023ed854023ed854023ed85",
+      "source": "Enable Vim keys in PDF context menus",
+      "translated": "Enable Vim keys in PDF context menus",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "9402d9c49402d9c49402d9c4",
+      "source": "If enabled, you can use j/k/h/l keys, instead of the arrow keys, to navigate through context menu items in the PDF viewer.",
+      "translated": "If enabled, you can use j/k/h/l keys, instead of the arrow keys, to navigate through context menu items in the PDF viewer.",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "5d9949355d9949355d994935",
+      "source": "Scrolling",
+      "translated": "Scrolling",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "af9d5528af9d5528af9d5528",
+      "source": "Scroll size (px) of the jkhl keys",
+      "translated": "Scroll size (px) of the jkhl keys",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "0ea18f340ea18f340ea18f34",
+      "source": "The size of scroll when one of the jkhl keys is pressed once.",
+      "translated": "The size of scroll when one of the jkhl keys is pressed once.",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "d25f5971d25f5971d25f5971",
+      "source": "Increase scroll size when zoomed in",
+      "translated": "Increase scroll size when zoomed in",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "0a07a7c60a07a7c60a07a7c6",
+      "source": "Speed of continuous scroll (px per ms)",
+      "translated": "Speed of continuous scroll (px per ms)",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "614baad1614baad1614baad1",
+      "source": "The speed of scroll when pressing and holding down the jkhl keys.",
+      "translated": "The speed of scroll when pressing and holding down the jkhl keys.",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "a9a3c4d7a9a3c4d7a9a3c4d7",
+      "source": "Smooth scroll",
+      "translated": "Smooth scroll",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "b7569616b7569616b7569616",
+      "source": "Search",
+      "translated": "Search",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "bb435c32bb435c32bb435c32",
+      "source": "hlsearch",
+      "translated": "hlsearch",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "909eb0dc909eb0dc909eb0dc",
+      "source": "If enabled, all matches will be highlighted.",
+      "translated": "If enabled, all matches will be highlighted.",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "eef04032eef04032eef04032",
+      "source": "incsearch",
+      "translated": "incsearch",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "4b1e1fee4b1e1fee4b1e1fee",
+      "source": "Incremental search: while typing the search query, update the search results after every keystroke. If disabled, the results will be shown only after pressing Enter.",
+      "translated": "Incremental search: while typing the search query, update the search results after every keystroke. If disabled, the results will be shown only after pressing Enter.",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "36c7438236c7438236c74382",
+      "source": "Automatically check for updates",
+      "translated": "Automatically check for updates",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "c519dbeec519dbeec519dbee",
+      "source": "If enabled, PDF++ will automatically check for updates every 24 hours and notify you if a new version is available.",
+      "translated": "If enabled, PDF++ will automatically check for updates every 24 hours and notify you if a new version is available.",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "9e39b7459e39b7459e39b745",
+      "source": "Fix Obsidian 1.9's text selection bug",
+      "translated": "Fix Obsidian 1.9's text selection bug",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "62e5b25362e5b25362e5b253",
+      "source": "Show status in PDF toolbar",
+      "translated": "Show status in PDF toolbar",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "5a9ac81d5a9ac81d5a9ac81d",
+      "source": "For example, when you copy a link to a text selection in a PDF file, the status \"Link copied\" will be displayed in the PDF toolbar.",
+      "translated": "For example, when you copy a link to a text selection in a PDF file, the status \"Link copied\" will be displayed in the PDF toolbar.",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "99d9fe0899d9fe0899d9fe08",
+      "source": "Default location for new PDFs",
+      "translated": "Default location for new PDFs",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "2aa92dca2aa92dca2aa92dca",
+      "source": "The \"Create new PDF\" command will create a new PDF file in the location specified here.",
+      "translated": "The \"Create new PDF\" command will create a new PDF file in the location specified here.",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "f6f62b2bf6f62b2bf6f62b2b",
+      "source": "Folder to create new PDFs in",
+      "translated": "Folder to create new PDFs in",
+      "updatedAt": 1765000840829
+    },
+    {
+      "key": "f6dca8eff6dca8eff6dca8ef",
+      "source": "Newly created PDFs will appear under this folder.",
+      "translated": "Newly created PDFs will appear under this folder.",
+      "updatedAt": 1765000840830
+    },
+    {
+      "key": "bf1af8bebf1af8bebf1af8be",
+      "source": "Hide reply annotations",
+      "translated": "Hide reply annotations",
+      "updatedAt": 1765000840830
+    },
+    {
+      "key": "35c6509435c6509435c65094",
+      "source": "Hide annotations that are replies to other annotations in the PDF viewer.",
+      "translated": "Hide annotations that are replies to other annotations in the PDF viewer.",
+      "updatedAt": 1765000840830
+    },
+    {
+      "key": "c161f0c8c161f0c8c161f0c8",
+      "source": "This is a temporary fix for the issue that PDF.js (the library Obsidian's PDF viewer is based on) does not fulfill the PDF specification in that it renders reply annotations as if a standalone annotation.",
+      "translated": "This is a temporary fix for the issue that PDF.js (the library Obsidian's PDF viewer is based on) does not fulfill the PDF specification in that it renders reply annotations as if a standalone annotation.",
+      "updatedAt": 1765000840830
+    },
+    {
+      "key": "ad881ff1ad881ff1ad881ff1",
+      "source": "Disable popups for rubber stamp annotations",
+      "translated": "Disable popups for rubber stamp annotations",
+      "updatedAt": 1765000840830
+    },
+    {
+      "key": "4114a93a4114a93a4114a93a",
+      "source": "A rubber stamp annotation is a type of annotation that displays text or graphics intended to look like a rubber stamp. However, some applications, including iOS/iPadOS's \"Markup\", use this type of annotation also for handwriting. Often, all pieces of handwriting in a single page are grouped into a single rubber stamp annotation, which tends to be so large that it covers the entire page. In this case, annotation popups can be annoying, so you can disable them here.",
+      "translated": "A rubber stamp annotation is a type of annotation that displays text or graphics intended to look like a rubber stamp. However, some applications, including iOS/iPadOS's \"Markup\", use this type of annotation also for handwriting. Often, all pieces of handwriting in a single page are grouped into a single rubber stamp annotation, which tends to be so large that it covers the entire page. In this case, annotation popups can be annoying, so you can disable them here.",
+      "updatedAt": 1765000840830
+    },
+    {
+      "key": "598497025984970259849702",
+      "source": "Remove half-width whitespace between two Chinese/Japanese characters when copying text",
+      "translated": "Remove half-width whitespace between two Chinese/Japanese characters when copying text",
+      "updatedAt": 1765000840830
+    },
+    {
+      "key": "0ed966980ed966980ed96698",
+      "source": "Such whitespace can be introduced as a result of poor post-processing of OCR (optical character recognition). Enable this option to remove it when copying links to text selections.",
+      "translated": "Such whitespace can be introduced as a result of poor post-processing of OCR (optical character recognition). Enable this option to remove it when copying links to text selections.",
+      "updatedAt": 1765000840830
+    },
+    {
+      "key": "724ecb01724ecb01724ecb01",
+      "source": "Override the default copy behavior in the PDF viewer",
+      "translated": "Override the default copy behavior in the PDF viewer",
+      "updatedAt": 1765000840830
+    },
+    {
+      "key": "efc0d7e6efc0d7e6efc0d7e6",
+      "source": "\"PATH\" environment variable",
+      "translated": "\"PATH\" environment variable",
+      "updatedAt": 1765000840830
+    },
+    {
+      "key": "41dba6a641dba6a641dba6a6",
+      "source": "Provide the \"PATH\" environment variable for PDF++ to run shell commands without the full paths specified. In MacOS and Linux, you can run \"echo $PATH\" in Terminal and then copy & paste the result here. Currently, it will be used only when you run \":!<command>\" in Vim mode.",
+      "translated": "Provide the \"PATH\" environment variable for PDF++ to run shell commands without the full paths specified. In MacOS and Linux, you can run \"echo $PATH\" in Terminal and then copy & paste the result here. Currently, it will be used only when you run \":!<command>\" in Vim mode.",
+      "updatedAt": 1765000840830
+    },
+    {
+      "key": "7ea597c07ea597c07ea597c0",
+      "source": "You can find more options in Style Settings > PDF++.",
+      "translated": "You can find more options in Style Settings > PDF++.",
+      "updatedAt": 1765000840830
+    },
+    {
+      "key": "2c3c39fe2c3c39fe2c3c39fe",
+      "source": "Open style settings",
+      "translated": "Open style settings",
+      "updatedAt": 1765000840830
+    },
+    {
+      "key": "28327ea628327ea628327ea6",
+      "source": "If you find PDF++ helpful, please consider supporting the development to help me keep this plugin alive. If you prefer PayPal, please make donations via Ko-fi. Thank you!",
+      "translated": "If you find PDF++ helpful, please consider supporting the development to help me keep this plugin alive. If you prefer PayPal, please make donations via Ko-fi. Thank you!",
+      "updatedAt": 1765000840830
+    },
+    {
+      "key": "d36abbe2d36abbe2d36abbe2",
+      "source": "GitHub Sponsors",
+      "translated": "GitHub Sponsors",
+      "updatedAt": 1765000840830
+    },
+    {
+      "key": "f2a40d93f2a40d93f2a40d93",
+      "source": "Buy Me a Coffee",
+      "translated": "Buy Me a Coffee",
+      "updatedAt": 1765000840830
+    },
+    {
+      "key": "fde67c9efde67c9efde67c9e",
+      "source": "Ko-fi",
+      "translated": "Ko-fi",
+      "updatedAt": 1765000840830
+    }
+  ]
+}
