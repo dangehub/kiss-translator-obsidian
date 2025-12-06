@@ -1,0 +1,180 @@
+{
+  "version": 1,
+  "scope": "Pandoc",
+  "entries": [
+    {
+      "key": "15a91dc615a91dc615a91dc6",
+      "source": "Pandoc Plugin",
+      "translated": "Pandoc Plugin",
+      "updatedAt": 1765000744229
+    },
+    {
+      "key": "f56c0fb7f56c0fb7f56c0fb7",
+      "source": "Custom CSS file for HTML output",
+      "translated": "Custom CSS file for HTML output",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "e9c1ebf5e9c1ebf5e9c1ebf5",
+      "source": "This local CSS file will be read and injected into HTML exports. Use an absolute path or a path relative to the vault.",
+      "translated": "This local CSS file will be read and injected into HTML exports. Use an absolute path or a path relative to the vault.",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "07282c7207282c7207282c72",
+      "source": "Inject app CSS (HTML output only)",
+      "translated": "Inject app CSS (HTML output only)",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "6bfd488f6bfd488f6bfd488f",
+      "source": "This applies app & plugin CSS to HTML exports, but the files become a little bigger.",
+      "translated": "This applies app & plugin CSS to HTML exports, but the files become a little bigger.",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "26c841a026c841a026c841a0",
+      "source": "Current theme",
+      "translated": "Current theme",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "e6ac9400e6ac9400e6ac9400",
+      "source": "Neither theme",
+      "translated": "Neither theme",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "74172bb774172bb774172bb7",
+      "source": "Light theme",
+      "translated": "Light theme",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "173e9ed5173e9ed5173e9ed5",
+      "source": "Dark theme",
+      "translated": "Dark theme",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "99be551499be551499be5514",
+      "source": "Internal link processing",
+      "translated": "Internal link processing",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "ed41af69ed41af69ed41af69",
+      "source": "This controls how [[wiki-links]] are formatted. Doesn't affect HTML output.",
+      "translated": "This controls how [[wiki-links]] are formatted. Doesn't affect HTML output.",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "aa1d23c4aa1d23c4aa1d23c4",
+      "source": "Turn into text",
+      "translated": "Turn into text",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "87fc768287fc768287fc7682",
+      "source": "Leave as links",
+      "translated": "Leave as links",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "e79ca2cde79ca2cde79ca2cd",
+      "source": "Remove links",
+      "translated": "Remove links",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "76c6247a76c6247a76c6247a",
+      "source": "Leave unchanged",
+      "translated": "Leave unchanged",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "c802f387c802f387c802f387",
+      "source": "Export files from HTML or markdown?",
+      "translated": "Export files from HTML or markdown?",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "199f9c83199f9c83199f9c83",
+      "source": "Export from markdown, or from the HTML visible in Obsidian? HTML supports fancy plugin features, markdown supports Pandoc features like citations.",
+      "translated": "Export from markdown, or from the HTML visible in Obsidian? HTML supports fancy plugin features, markdown supports Pandoc features like citations.",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "9dfa22e59dfa22e59dfa22e5",
+      "source": "HTML",
+      "translated": "HTML",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "2b59493f2b59493f2b59493f",
+      "source": "Markdown",
+      "translated": "Markdown",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "f0279f6af0279f6af0279f6a",
+      "source": "Export folder",
+      "translated": "Export folder",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "f0d0e123f0d0e123f0d0e123",
+      "source": "Absolute path to an export folder, like 'C:UsersExampleDocuments' or '/home/user/zettelkasten'. If left blank, files are saved next to where they were exported from.",
+      "translated": "Absolute path to an export folder, like 'C:UsersExampleDocuments' or '/home/user/zettelkasten'. If left blank, files are saved next to where they were exported from.",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "0894e2140894e2140894e214",
+      "source": "Show Pandoc command line interface commands",
+      "translated": "Show Pandoc command line interface commands",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "eb2d7405eb2d7405eb2d7405",
+      "source": "Doesn't apply to HTML exports. Using the CLI will have slightly different results due to how this plugin works.",
+      "translated": "Doesn't apply to HTML exports. Using the CLI will have slightly different results due to how this plugin works.",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "5bb0bf225bb0bf225bb0bf22",
+      "source": "Pandoc path",
+      "translated": "Pandoc path",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "439100c8439100c8439100c8",
+      "source": "Optional override for Pandoc's path if you have command not found issues. On Mac/Linux use the output of 'which pandoc' in a terminal; on Windows use the output of 'Get-Command pandoc' in powershell.",
+      "translated": "Optional override for Pandoc's path if you have command not found issues. On Mac/Linux use the output of 'which pandoc' in a terminal; on Windows use the output of 'Get-Command pandoc' in powershell.",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "d328de43d328de43d328de43",
+      "source": "PDFLaTeX path",
+      "translated": "PDFLaTeX path",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "b0c74ec5b0c74ec5b0c74ec5",
+      "source": "Optional override for pdflatex's path. Same as above but with 'which pdflatex'",
+      "translated": "Optional override for pdflatex's path. Same as above but with 'which pdflatex'",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "03a34b7503a34b7503a34b75",
+      "source": "Extra Pandoc arguments",
+      "translated": "Extra Pandoc arguments",
+      "updatedAt": 1765000744230
+    },
+    {
+      "key": "50725a5a50725a5a50725a5a",
+      "source": "Add extra command line arguments so you can use templates or bibliographies. Newlines are turned into spaces",
+      "translated": "Add extra command line arguments so you can use templates or bibliographies. Newlines are turned into spaces",
+      "updatedAt": 1765000744230
+    }
+  ]
+}
