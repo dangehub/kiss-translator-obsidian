@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "scope": "Advanced Tables",
+  "entries": [
+    {
+      "key": "bc887b1ebc887b1ebc887b1e",
+      "source": "Bind enter to table navigation",
+      "translated": "将回车键绑定到表格导航",
+      "updatedAt": 1764998015830
+    },
+    {
+      "key": "9c8e72769c8e72769c8e7276",
+      "source": "Requires restart of Obsidian. If enabled, when the cursor is in a table, enter advances to the next row. Disabling this can help avoid conflicting with tag or CJK autocompletion. If disabling, bind \"Go to ...\" in the Obsidian Hotkeys settings.",
+      "translated": "需要重启 Obsidian。如果启用，当光标在表格中时，按回车键会跳转到下一行。禁用此功能可避免与标签或中日韩文自动补全冲突。如果禁用，请在 Obsidian 热键设置中绑定“Go to ...”。",
+      "updatedAt": 1764998015830
+    },
+    {
+      "key": "51f6138151f6138151f61381",
+      "source": "Bind tab to table navigation",
+      "translated": "将 Tab 键绑定到表格导航",
+      "updatedAt": 1764998015830
+    },
+    {
+      "key": "9375f5449375f5449375f544",
+      "source": "Requires restart of Obsidian. If enabled, when the cursor is in a table, tab/shift+tab navigate between cells. Disabling this can help avoid conflicting with tag or CJK autocompletion. If disabling, bind \"Go to ...\" in the Obsidian Hotkeys settings.",
+      "translated": "需要重启 Obsidian。如果启用，当光标在表格中时，按 Tab/Shift+Tab 可在单元格之间导航。禁用此功能可避免与标签或中日韩文自动补全冲突。如果禁用，请在 Obsidian 热键设置中绑定“Go to ...”。",
+      "updatedAt": 1764998015830
+    },
+    {
+      "key": "09ac035c09ac035c09ac035c",
+      "source": "Pad cell width using spaces",
+      "translated": "使用空格填充单元格宽度",
+      "updatedAt": 1764998015830
+    },
+    {
+      "key": "819338a9819338a9819338a9",
+      "source": "If enabled, table cells will have spaces added to match the width of the longest cell in the column.",
+      "translated": "如果启用，表格单元格将添加空格以匹配该列中最长单元格的宽度。",
+      "updatedAt": 1764998015830
+    },
+    {
+      "key": "e824cf9de824cf9de824cf9d",
+      "source": "Show icon in sidebar",
+      "translated": "在侧边栏中显示图标",
+      "updatedAt": 1764998015830
+    },
+    {
+      "key": "7127f6c67127f6c67127f6c6",
+      "source": "If enabled, a button which opens the table controls toolbar will be added to the Obsidian sidebar. The toolbar can also be opened with a Hotkey. Changes only take effect on reload.",
+      "translated": "如果启用，将在 Obsidian 侧边栏中添加一个打开表格控制工具栏的按钮。该工具栏也可以通过热键打开。更改仅在重新加载后生效。",
+      "updatedAt": 1764998015830
+    },
+    {
+      "key": "3aaf8c383aaf8c383aaf8c38",
+      "source": "If this plugin adds value for you and you would like to help support continued development, please use the buttons below:",
+      "translated": "如果此插件对您有价值，并且您想帮助支持持续开发，请使用下面的按钮：",
+      "updatedAt": 1764998015830
+    }
+  ]
+}
