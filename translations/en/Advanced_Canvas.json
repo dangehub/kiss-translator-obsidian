@@ -6,841 +6,841 @@
       "key": "f6cbc740f6cbc740f6cbc740",
       "source": "Enjoying the plugin?",
       "translated": "Enjoying the plugin?",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161597
     },
     {
       "key": "126507191265071912650719",
       "source": "1.785£/h",
       "translated": "1.785£/h",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161597
     },
     {
       "key": "fad9524efad9524efad9524e",
       "source": "General",
       "translated": "General",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161597
     },
     {
       "key": "5c768bca5c768bca5c768bca",
       "source": "General settings of the Advanced Canvas plugin.",
       "translated": "General settings of the Advanced Canvas plugin.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161597
     },
     {
       "key": "84f4127a84f4127a84f4127a",
       "source": "Node type on double click",
       "translated": "Node type on double click",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161597
     },
     {
       "key": "a7026ff1a7026ff1a7026ff1",
       "source": "The type of node that will be created when double clicking on the canvas.",
       "translated": "The type of node that will be created when double clicking on the canvas.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161597
     },
     {
       "key": "678a8ea8678a8ea8678a8ea8",
       "source": "Always align new nodes to grid",
       "translated": "Always align new nodes to grid",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161597
     },
     {
       "key": "3216e58b3216e58b3216e58b",
       "source": "When enabled, new nodes will be aligned to the grid.",
       "translated": "When enabled, new nodes will be aligned to the grid.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161597
     },
     {
       "key": "109b9d4d109b9d4d109b9d4d",
       "source": "Default text node dimensions",
       "translated": "Default text node dimensions",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "dd9ea012dd9ea012dd9ea012",
       "source": "The default dimensions of a text node.",
       "translated": "The default dimensions of a text node.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "46aa3f1646aa3f1646aa3f16",
       "source": "Default file node dimensions",
       "translated": "Default file node dimensions",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "1abf06491abf06491abf0649",
       "source": "The default dimensions of a file node.",
       "translated": "The default dimensions of a file node.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "bd9a39ebbd9a39ebbd9a39eb",
       "source": "Minimum node size",
       "translated": "Minimum node size",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "313284d6313284d6313284d6",
       "source": "The minimum size (either width or height) of a node.",
       "translated": "The minimum size (either width or height) of a node.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "b8b18876b8b18876b8b18876",
       "source": "Maximum node width",
       "translated": "Maximum node width",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "6bf5da8d6bf5da8d6bf5da8d",
       "source": "The maximum width of a node. Set to -1 for no limit.",
       "translated": "The maximum width of a node. Set to -1 for no limit.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "6e4825626e4825626e482562",
       "source": "Disable font size relative to zoom",
       "translated": "Disable font size relative to zoom",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "89a9493c89a9493c89a9493c",
       "source": "When enabled, the font size of e.g. group node titles and edge labels will not increase when zooming out.",
       "translated": "When enabled, the font size of e.g. group node titles and edge labels will not increase when zooming out.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "3ec0936b3ec0936b3ec0936b",
       "source": "Extended commands",
       "translated": "Extended commands",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "844fdddc844fdddc844fdddc",
       "source": "Add more commands to the canvas.",
       "translated": "Add more commands to the canvas.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "b5010bbbb5010bbbb5010bbb",
       "source": "Zoom to cloned node",
       "translated": "Zoom to cloned node",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "0da09dde0da09dde0da09dde",
       "source": "When enabled, the canvas will zoom to the cloned node.",
       "translated": "When enabled, the canvas will zoom to the cloned node.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "c882e7adc882e7adc882e7ad",
       "source": "Clone node margin",
       "translated": "Clone node margin",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "5c9c1c225c9c1c225c9c1c22",
       "source": "The margin between the cloned node and the source node.",
       "translated": "The margin between the cloned node and the source node.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "1b4e68e91b4e68e91b4e68e9",
       "source": "Expand node step size",
       "translated": "Expand node step size",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "b1dba61cb1dba61cb1dba61c",
       "source": "The step size for expanding the node.",
       "translated": "The step size for expanding the node.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "7064b1f07064b1f07064b1f0",
       "source": "Enable .canvas metadata cache compatibility",
       "translated": "Enable .canvas metadata cache compatibility",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "e57ab4a3e57ab4a3e57ab4a3",
       "source": "Make .canvas files compatible with the backlinks and outgoing links feature and show the connections in the graph view.",
       "translated": "Make .canvas files compatible with the backlinks and outgoing links feature and show the connections in the graph view.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "4d26a5004d26a5004d26a500",
       "source": "Treat edges between file nodes as links",
       "translated": "Treat edges between file nodes as links",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "bdc8041abdc8041abdc8041a",
       "source": "When enabled, edges between file nodes will be treated as links. This means that if file node A.md has an edge to file node B.md in the canvas, file A.md will have a link to file B.md in the outgoing links section and show a connection in the graph view.",
       "translated": "When enabled, edges between file nodes will be treated as links. This means that if file node A.md has an edge to file node B.md in the canvas, file A.md will have a link to file B.md in the outgoing links section and show a connection in the graph view.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "dfe107ccdfe107ccdfe107cc",
       "source": "Enable support for linking to a node using a [[wikilink]]",
       "translated": "Enable support for linking to a node using a [[wikilink]]",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "b695a643b695a643b695a643",
       "source": "When enabled, you can link and embed a node using [[canvas-file#node-id]].",
       "translated": "When enabled, you can link and embed a node using [[canvas-file#node-id]].",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "257a49d7257a49d7257a49d7",
       "source": "Native-like file search",
       "translated": "Native-like file search",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "324d47a0324d47a0324d47a0",
       "source": "When enabled, the file search will be done using the native Obsidian file search.",
       "translated": "When enabled, the file search will be done using the native Obsidian file search.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "d6bba161d6bba161d6bba161",
       "source": "Auto file node edges",
       "translated": "Auto file node edges",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "7ad3cba27ad3cba27ad3cba2",
       "source": "Automatically create edges between file nodes based their frontmatter links.",
       "translated": "Automatically create edges between file nodes based their frontmatter links.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "55b9c95255b9c95255b9c952",
       "source": "Frontmatter key name",
       "translated": "Frontmatter key name",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "702c3bd5702c3bd5702c3bd5",
       "source": "The frontmatter key to fetch the outgoing edges from. (Keep the default to ensure best compatibility.)",
       "translated": "The frontmatter key to fetch the outgoing edges from. (Keep the default to ensure best compatibility.)",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "c26396dfc26396dfc26396df",
       "source": "Portals",
       "translated": "Portals",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "018e26b4018e26b4018e26b4",
       "source": "Create portals to other canvases.",
       "translated": "Create portals to other canvases.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "db8937c0db8937c0db8937c0",
       "source": "Show edges into disabled portals",
       "translated": "Show edges into disabled portals",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "c79abfc4c79abfc4c79abfc4",
       "source": "When enabled, edges into disabled portals will be shown.",
       "translated": "When enabled, edges into disabled portals will be shown.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "71ee7ff871ee7ff871ee7ff8",
       "source": "Collapsible groups",
       "translated": "Collapsible groups",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "e92150a4e92150a4e92150a4",
       "source": "Group nodes can be collapsed and expanded to keep the canvas organized.",
       "translated": "Group nodes can be collapsed and expanded to keep the canvas organized.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "5deeec935deeec935deeec93",
       "source": "Collapsed group preview on drag",
       "translated": "Collapsed group preview on drag",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "31c4dd0131c4dd0131c4dd01",
       "source": "When enabled, a group that is collapsed show its border while dragging a node.",
       "translated": "When enabled, a group that is collapsed show its border while dragging a node.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "dddd04eedddd04eedddd04ee",
       "source": "Combine custom styles",
       "translated": "Combine custom styles",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "df109df6df109df6df109df6",
       "source": "Combine all style attributes of Advanced Canvas in a single dropdown.",
       "translated": "Combine all style attributes of Advanced Canvas in a single dropdown.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "897036aa897036aa897036aa",
       "source": "Node styling",
       "translated": "Node styling",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "c06426ecc06426ecc06426ec",
       "source": "Style your nodes with different shapes and borders.",
       "translated": "Style your nodes with different shapes and borders.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "4fa1a6194fa1a6194fa1a619",
       "source": "Custom node style settings",
       "translated": "Custom node style settings",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "70282e6b70282e6b70282e6b",
       "source": "Add custom style settings for nodes. (Go to GitHub for more information)",
       "translated": "Add custom style settings for nodes. (Go to GitHub for more information)",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "714b7d2c714b7d2c714b7d2c",
       "source": "Open",
       "translated": "Open",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "65708ed365708ed365708ed3",
       "source": "Default text node color",
       "translated": "Default text node color",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "414cd67f414cd67f414cd67f",
       "source": "The default color of a text node. The default range is from 0 to 6, where 0 is no color. The range can be extended by using the Custom Colors feature of Advanced Canvas.",
       "translated": "The default color of a text node. The default range is from 0 to 6, where 0 is no color. The range can be extended by using the Custom Colors feature of Advanced Canvas.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "be39599abe39599abe39599a",
       "source": "Edges styling",
       "translated": "Edges styling",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "01ca0dae01ca0dae01ca0dae",
       "source": "Style your edges with different path styles.",
       "translated": "Style your edges with different path styles.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "911cefba911cefba911cefba",
       "source": "Custom edge style settings",
       "translated": "Custom edge style settings",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "57401da857401da857401da8",
       "source": "Add custom style settings for edges. (Go to GitHub for more information)",
       "translated": "Add custom style settings for edges. (Go to GitHub for more information)",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "eff37035eff37035eff37035",
       "source": "Inherit edge color from node",
       "translated": "Inherit edge color from node",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "d285c598d285c598d285c598",
       "source": "When creating a new edge by dragging from a node, the edge will inherit the color of the node it is dragged from.",
       "translated": "When creating a new edge by dragging from a node, the edge will inherit the color of the node it is dragged from.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "a620560da620560da620560d",
       "source": "Default edge color",
       "translated": "Default edge color",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "2ea294cf2ea294cf2ea294cf",
       "source": "The default color of an edge. The default range is from 0 to 6, where 0 is no color. The range can be extended by using the Custom Colors feature of Advanced Canvas.",
       "translated": "The default color of an edge. The default range is from 0 to 6, where 0 is no color. The range can be extended by using the Custom Colors feature of Advanced Canvas.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "5255b33b5255b33b5255b33b",
       "source": "Default edge line direction",
       "translated": "Default edge line direction",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "231a9fca231a9fca231a9fca",
       "source": "The default line direction of an edge.",
       "translated": "The default line direction of an edge.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "677de5bf677de5bf677de5bf",
       "source": "Nondirectional",
       "translated": "Nondirectional",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "d31df6a2d31df6a2d31df6a2",
       "source": "Unidirectional",
       "translated": "Unidirectional",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "d771095bd771095bd771095b",
       "source": "Bidirectional",
       "translated": "Bidirectional",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "31d4fbc031d4fbc031d4fbc0",
       "source": "Update edge style while dragging (Can be very slow)",
       "translated": "Update edge style while dragging (Can be very slow)",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "0ab41cae0ab41cae0ab41cae",
       "source": "When enabled, the edge style will be updated while dragging an edge.",
       "translated": "When enabled, the edge style will be updated while dragging an edge.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "dbdb5d17dbdb5d17dbdb5d17",
       "source": "Square path rounded",
       "translated": "Square path rounded",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "f3e178e4f3e178e4f3e178e4",
       "source": "When enabled, the square path's corners will be rounded.",
       "translated": "When enabled, the square path's corners will be rounded.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "473a640d473a640d473a640d",
       "source": "A* allow diagonal",
       "translated": "A* allow diagonal",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "0ccd71dd0ccd71dd0ccd71dd",
       "source": "When enabled, the A* path style will allow diagonal paths.",
       "translated": "When enabled, the A* path style will allow diagonal paths.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "dc5c905ddc5c905ddc5c905d",
       "source": "A* rounded path",
       "translated": "A* rounded path",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "35a77b1935a77b1935a77b19",
       "source": "When enabled, the A* path style will be rounded.",
       "translated": "When enabled, the A* path style will be rounded.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "2ebb01ee2ebb01ee2ebb01ee",
       "source": "Floating edges (auto edge side)",
       "translated": "Floating edges (auto edge side)",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "dc372f7ddc372f7ddc372f7d",
       "source": "Floating edges are automatically placed on the most suitable side of the node.",
       "translated": "Floating edges are automatically placed on the most suitable side of the node.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "d1063e28d1063e28d1063e28",
       "source": "Allow floating edges creation",
       "translated": "Allow floating edges creation",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "da88f696da88f696da88f696",
       "source": "Allow floating edges creation by dragging the edge over the target node without placing it over a specific side connection point. (If disabled, floating edges can only be created and used by other Advanced Canvas features.)",
       "translated": "Allow floating edges creation by dragging the edge over the target node without placing it over a specific side connection point. (If disabled, floating edges can only be created and used by other Advanced Canvas features.)",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "1e3caf7a1e3caf7a1e3caf7a",
       "source": "New edge from side floating",
       "translated": "New edge from side floating",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "611adf14611adf14611adf14",
       "source": "When enabled, the \"from\" side of the edge will always be floating.",
       "translated": "When enabled, the \"from\" side of the edge will always be floating.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "f5b47efbf5b47efbf5b47efb",
       "source": "Flip edges",
       "translated": "Flip edges",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "524b6fa6524b6fa6524b6fa6",
       "source": "Flip the direction of edges using the popup menu.",
       "translated": "Flip the direction of edges using the popup menu.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "cdd7d5ddcdd7d5ddcdd7d5dd",
       "source": "Presentations",
       "translated": "Presentations",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "7122864a7122864a7122864a",
       "source": "Create a presentation from your canvas.",
       "translated": "Create a presentation from your canvas.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "4da1e7944da1e7944da1e794",
       "source": "Show \"Set Start Node\" in node popup",
       "translated": "Show \"Set Start Node\" in node popup",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "bdd9318bbdd9318bbdd9318b",
       "source": "If turned off, you can still set the start node using the corresponding command.",
       "translated": "If turned off, you can still set the start node using the corresponding command.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "20797fe720797fe720797fe7",
       "source": "Default slide dimensions",
       "translated": "Default slide dimensions",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "a3f531b8a3f531b8a3f531b8",
       "source": "The default dimensions of a slide.",
       "translated": "The default dimensions of a slide.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "3cf7a56d3cf7a56d3cf7a56d",
       "source": "Wrap in slide padding",
       "translated": "Wrap in slide padding",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "6b590c696b590c696b590c69",
       "source": "The padding of the slide when wrapping the canvas in a slide.",
       "translated": "The padding of the slide when wrapping the canvas in a slide.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "6ac6c8c16ac6c8c16ac6c8c1",
       "source": "Reset viewport on presentation end",
       "translated": "Reset viewport on presentation end",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "18ccbd1f18ccbd1f18ccbd1f",
       "source": "When enabled, the viewport will be reset to the original position after the presentation ends.",
       "translated": "When enabled, the viewport will be reset to the original position after the presentation ends.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "6cd8f37f6cd8f37f6cd8f37f",
       "source": "Use arrow keys to change slides",
       "translated": "Use arrow keys to change slides",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "163f74c8163f74c8163f74c8",
       "source": "When enabled, you can use the arrow keys to change slides in presentation mode.",
       "translated": "When enabled, you can use the arrow keys to change slides in presentation mode.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161598
     },
     {
       "key": "e048be1ee048be1ee048be1e",
       "source": "Use PgUp/PgDown keys to change slides",
       "translated": "Use PgUp/PgDown keys to change slides",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "c5991ef5c5991ef5c5991ef5",
       "source": "When enabled, you can use the PgUp/PgDown keys to change slides in presentation mode (Makes the presentation mode compatible with most presentation remotes).",
       "translated": "When enabled, you can use the PgUp/PgDown keys to change slides in presentation mode (Makes the presentation mode compatible with most presentation remotes).",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "19c46e5e19c46e5e19c46e5e",
       "source": "Zoom to slide without padding",
       "translated": "Zoom to slide without padding",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "6b411c9b6b411c9b6b411c9b",
       "source": "When enabled, the canvas will zoom to the slide without padding.",
       "translated": "When enabled, the canvas will zoom to the slide without padding.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "cc0cd971cc0cd971cc0cd971",
       "source": "Use unclamped zoom while presenting",
       "translated": "Use unclamped zoom while presenting",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "3048b34f3048b34f3048b34f",
       "source": "When enabled, the zoom will not be clamped while presenting.",
       "translated": "When enabled, the zoom will not be clamped while presenting.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "418ba81b418ba81b418ba81b",
       "source": "Enter fullscreen while presenting",
       "translated": "Enter fullscreen while presenting",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "e8dfc641e8dfc641e8dfc641",
       "source": "When enabled, presentations automatically request fullscreen. Disable to keep Obsidian windowed during presentations.",
       "translated": "When enabled, presentations automatically request fullscreen. Disable to keep Obsidian windowed during presentations.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "9f0df3089f0df3089f0df308",
       "source": "Slide transition animation duration",
       "translated": "Slide transition animation duration",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "318d574c318d574c318d574c",
       "source": "The duration of the slide transition animation in seconds. Set to 0 to disable the animation.",
       "translated": "The duration of the slide transition animation in seconds. Set to 0 to disable the animation.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "c1572a79c1572a79c1572a79",
       "source": "Slide transition animation intensity",
       "translated": "Slide transition animation intensity",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "a1dfe035a1dfe035a1dfe035",
       "source": "The intensity of the slide transition animation. The higher the value, the more the canvas will zoom out before zooming in on the next slide.",
       "translated": "The intensity of the slide transition animation. The higher the value, the more the canvas will zoom out before zooming in on the next slide.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "b4524838b4524838b4524838",
       "source": "Z ordering controls",
       "translated": "Z ordering controls",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "8264eb8c8264eb8c8264eb8c",
       "source": "Change the persistent z-index of nodes using the context menu.",
       "translated": "Change the persistent z-index of nodes using the context menu.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "2c79dc4c2c79dc4c2c79dc4c",
       "source": "Show one layer shift options",
       "translated": "Show one layer shift options",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "6c76498c6c76498c6c76498c",
       "source": "When enabled, you can move nodes one layer forward or backward.",
       "translated": "When enabled, you can move nodes one layer forward or backward.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "1a657fae1a657fae1a657fae",
       "source": "Aspect ratio control",
       "translated": "Aspect ratio control",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "ca6a2191ca6a2191ca6a2191",
       "source": "Change the aspect ratio of nodes using the context menu.",
       "translated": "Change the aspect ratio of nodes using the context menu.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "bde608edbde608edbde608ed",
       "source": "Variable breakpoint",
       "translated": "Variable breakpoint",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "a52025d3a52025d3a52025d3",
       "source": "Change the zoom breakpoint (the zoom level at which the nodes won't render their content anymore) on a per-node basis using the --variable-breakpoint CSS variable.",
       "translated": "Change the zoom breakpoint (the zoom level at which the nodes won't render their content anymore) on a per-node basis using the --variable-breakpoint CSS variable.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "3dfc6ea53dfc6ea53dfc6ea5",
       "source": "Auto resize node",
       "translated": "Auto resize node",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "7122df9f7122df9f7122df9f",
       "source": "Automatically resize the height of a node to fit the content.",
       "translated": "Automatically resize the height of a node to fit the content.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "e7e04054e7e04054e7e04054",
       "source": "Enable auto resize by default",
       "translated": "Enable auto resize by default",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "14aa057e14aa057e14aa057e",
       "source": "When enabled, the auto resize feature will be enabled by default for all nodes.",
       "translated": "When enabled, the auto resize feature will be enabled by default for all nodes.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "9c1b27339c1b27339c1b2733",
       "source": "Max height",
       "translated": "Max height",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "2c5c7a0d2c5c7a0d2c5c7a0d",
       "source": "The maximum height of the node when auto resizing (-1 for unlimited).",
       "translated": "The maximum height of the node when auto resizing (-1 for unlimited).",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "36b805d736b805d736b805d7",
       "source": "Snap to grid",
       "translated": "Snap to grid",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "bb3a26f5bb3a26f5bb3a26f5",
       "source": "When enabled, the height of the node will snap to the grid.",
       "translated": "When enabled, the height of the node will snap to the grid.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "cda5dd9ecda5dd9ecda5dd9e",
       "source": "Canvas encapsulation",
       "translated": "Canvas encapsulation",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "e31f9fefe31f9fefe31f9fef",
       "source": "Encapsulate a selection of nodes and edges into a new canvas using the context menu.",
       "translated": "Encapsulate a selection of nodes and edges into a new canvas using the context menu.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "edf0668eedf0668eedf0668e",
       "source": "Better readonly",
       "translated": "Better readonly",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "22a2253022a2253022a22530",
       "source": "Improve the readonly mode.",
       "translated": "Improve the readonly mode.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "a228689ba228689ba228689b",
       "source": "Hide background grid when in readonly",
       "translated": "Hide background grid when in readonly",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "2f62d0412f62d0412f62d041",
       "source": "When enabled, the background grid will be hidden when in readonly mode.",
       "translated": "When enabled, the background grid will be hidden when in readonly mode.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "d2c402abd2c402abd2c402ab",
       "source": "Edge highlight",
       "translated": "Edge highlight",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "f85d6ea6f85d6ea6f85d6ea6",
       "source": "Highlight outgoing (and optionally incoming) edges of a selected node.",
       "translated": "Highlight outgoing (and optionally incoming) edges of a selected node.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "65ea603e65ea603e65ea603e",
       "source": "Highlight incoming edges",
       "translated": "Highlight incoming edges",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "2dfa69442dfa69442dfa6944",
       "source": "When enabled, incoming edges will also be highlighted.",
       "translated": "When enabled, incoming edges will also be highlighted.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "240e1b5b240e1b5b240e1b5b",
       "source": "Edge selection",
       "translated": "Edge selection",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "3fdfc24e3fdfc24e3fdfc24e",
       "source": "Select edges connected to the selected node(s) using the popup menu.",
       "translated": "Select edges connected to the selected node(s) using the popup menu.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "3c08c96d3c08c96d3c08c96d",
       "source": "Select edge by direction",
       "translated": "Select edge by direction",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "d241b4efd241b4efd241b4ef",
       "source": "Select incoming or outgoing edges using separate popup menu items.",
       "translated": "Select incoming or outgoing edges using separate popup menu items.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "f5eb1a57f5eb1a57f5eb1a57",
       "source": "Focus mode",
       "translated": "Focus mode",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     },
     {
       "key": "5ba003945ba003945ba00394",
       "source": "Focus on a single node and blur all other nodes.",
       "translated": "Focus on a single node and blur all other nodes.",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765001161599
     }
   ]
 }
