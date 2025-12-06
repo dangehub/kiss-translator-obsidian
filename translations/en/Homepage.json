@@ -1,0 +1,300 @@
+{
+  "version": 1,
+  "scope": "Homepage",
+  "entries": [
+    {
+      "key": "d85606a4d85606a4d85606a4",
+      "source": "Homepage",
+      "translated": "Homepage",
+      "updatedAt": 1764999837551
+    },
+    {
+      "key": "1e26ea3e1e26ea3e1e26ea3e",
+      "source": "File",
+      "translated": "File",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "3ab1bd9d3ab1bd9d3ab1bd9d",
+      "source": "Workspace",
+      "translated": "Workspace",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "5aa288255aa288255aa28825",
+      "source": "Random file",
+      "translated": "Random file",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "62166df262166df262166df2",
+      "source": "Random in folder",
+      "translated": "Random in folder",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "8d55f2998d55f2998d55f299",
+      "source": "Graph view",
+      "translated": "Graph view",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "15f9728515f9728515f97285",
+      "source": "Nothing",
+      "translated": "Nothing",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "b9fd8e39b9fd8e39b9fd8e39",
+      "source": "Journal",
+      "translated": "Journal",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "5764fc515764fc515764fc51",
+      "source": "Daily Note",
+      "translated": "Daily Note",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "c0c8d721c0c8d721c0c8d721",
+      "source": "Weekly Note",
+      "translated": "Weekly Note",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "3cdca74d3cdca74d3cdca74d",
+      "source": "Monthly Note",
+      "translated": "Monthly Note",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "002ffa92002ffa92002ffa92",
+      "source": "Yearly Note",
+      "translated": "Yearly Note",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "6b1fc0a86b1fc0a86b1fc0a8",
+      "source": "Open on startup",
+      "translated": "Open on startup",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "a0a160b7a0a160b7a0a160b7",
+      "source": "When launching Obsidian, open the homepage.",
+      "translated": "When launching Obsidian, open the homepage.",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "de7060cdde7060cdde7060cd",
+      "source": "Open when empty",
+      "translated": "Open when empty",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "3f86cd763f86cd763f86cd76",
+      "source": "When there are no tabs open, open the homepage.",
+      "translated": "When there are no tabs open, open the homepage.",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "7d50d2fd7d50d2fd7d50d2fd",
+      "source": "Use when opening normally",
+      "translated": "Use when opening normally",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "afabeffdafabeffdafabeffd",
+      "source": "Use homepage settings when opening it normally, such as from a link or the file browser.",
+      "translated": "Use homepage settings when opening it normally, such as from a link or the file browser.",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "f2a075a1f2a075a1f2a075a1",
+      "source": "Separate mobile homepage",
+      "translated": "Separate mobile homepage",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "e9907000e9907000e9907000",
+      "source": "For mobile devices, store the homepage and its settings separately.",
+      "translated": "For mobile devices, store the homepage and its settings separately.",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "7af07a8c7af07a8c7af07a8c",
+      "source": "Commands",
+      "translated": "Commands",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "687c82a4687c82a4687c82a4",
+      "source": "Select commands that will be executed when opening the homepage.",
+      "translated": "Select commands that will be executed when opening the homepage.",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "b0310c17b0310c17b0310c17",
+      "source": "Add...",
+      "translated": "Add...",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "c180be77c180be77c180be77",
+      "source": "Vault environment",
+      "translated": "Vault environment",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "3c7eaa333c7eaa333c7eaa33",
+      "source": "Opening method",
+      "translated": "Opening method",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "493f6da8493f6da8493f6da8",
+      "source": "Determine how extant tabs and views are affected on startup.",
+      "translated": "Determine how extant tabs and views are affected on startup.",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "159948421599484215994842",
+      "source": "Replace all open notes",
+      "translated": "Replace all open notes",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "3e10abce3e10abce3e10abce",
+      "source": "Replace last note",
+      "translated": "Replace last note",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "da2d1cd4da2d1cd4da2d1cd4",
+      "source": "Keep open notes",
+      "translated": "Keep open notes",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "5b0799e95b0799e95b0799e9",
+      "source": "Manual opening method",
+      "translated": "Manual opening method",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "26dcfcd226dcfcd226dcfcd2",
+      "source": "Determine how extant tabs and views are affected when opening with commands or the ribbon button.",
+      "translated": "Determine how extant tabs and views are affected when opening with commands or the ribbon button.",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "6960018f6960018f6960018f",
+      "source": "Pin",
+      "translated": "Pin",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "0a5a6c440a5a6c440a5a6c44",
+      "source": "Pin the homepage when opening.",
+      "translated": "Pin the homepage when opening.",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "31f4a75231f4a75231f4a752",
+      "source": "Hide release notes",
+      "translated": "Hide release notes",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "79f6da6f79f6da6f79f6da6f",
+      "source": "Never display release notes when Obsidian updates.",
+      "translated": "Never display release notes when Obsidian updates.",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "f7e6d1bef7e6d1bef7e6d1be",
+      "source": "Auto-create",
+      "translated": "Auto-create",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "779e5884779e5884779e5884",
+      "source": "If this vault is synced using unofficial services, this may lead to content being overwritten.",
+      "translated": "If this vault is synced using unofficial services, this may lead to content being overwritten.",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "524af1c0524af1c0524af1c0",
+      "source": "Opened view",
+      "translated": "Opened view",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "d2def089d2def089d2def089",
+      "source": "Homepage view",
+      "translated": "Homepage view",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "43ab0ac143ab0ac143ab0ac1",
+      "source": "Choose what view to open the homepage in.",
+      "translated": "Choose what view to open the homepage in.",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "3b45757e3b45757e3b45757e",
+      "source": "Default view",
+      "translated": "Default view",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "298e7327298e7327298e7327",
+      "source": "Reading view",
+      "translated": "Reading view",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "507021155070211550702115",
+      "source": "Editing view (Source)",
+      "translated": "Editing view (Source)",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "a4a3a554a4a3a554a4a3a554",
+      "source": "Editing view (Live Preview)",
+      "translated": "Editing view (Live Preview)",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "f039a7e0f039a7e0f039a7e0",
+      "source": "Revert view on close",
+      "translated": "Revert view on close",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "873a5b86873a5b86873a5b86",
+      "source": "When navigating away from the homepage, restore the default view.",
+      "translated": "When navigating away from the homepage, restore the default view.",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "5cc389975cc389975cc38997",
+      "source": "Auto-scroll",
+      "translated": "Auto-scroll",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "915d7344915d7344915d7344",
+      "source": "When opening the homepage, scroll to the bottom and focus on the last line.",
+      "translated": "When opening the homepage, scroll to the bottom and focus on the last line.",
+      "updatedAt": 1764999837552
+    },
+    {
+      "key": "420077e2420077e2420077e2",
+      "source": "Copy debug info",
+      "translated": "Copy debug info",
+      "updatedAt": 1764999837552
+    }
+  ]
+}
