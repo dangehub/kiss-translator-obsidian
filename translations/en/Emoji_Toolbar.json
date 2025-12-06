@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "scope": "Emoji Toolbar",
+  "entries": [
+    {
+      "key": "5b0f6d755b0f6d755b0f6d75",
+      "source": "Emoji Toolbar",
+      "translated": "Emoji Toolbar",
+      "updatedAt": 1765001204632
+    },
+    {
+      "key": "d2b4811dd2b4811dd2b4811d",
+      "source": "Settings",
+      "translated": "Settings",
+      "updatedAt": 1765001204633
+    },
+    {
+      "key": "32faad3132faad3132faad31",
+      "source": "Twitter Emoji (v16)",
+      "translated": "Twitter Emoji (v16)",
+      "updatedAt": 1765001204633
+    },
+    {
+      "key": "9ffbc9119ffbc9119ffbc911",
+      "source": "Improved emoji support, but may cause unexpected behavior.",
+      "translated": "Improved emoji support, but may cause unexpected behavior.",
+      "updatedAt": 1765001204633
+    }
+  ]
+}
