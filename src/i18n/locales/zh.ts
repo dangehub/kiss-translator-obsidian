@@ -6,7 +6,7 @@ export const zh: LocaleDict = {
 	"section.api": "API 设置",
 	"section.skip": "不翻译的选择器预设",
 
-	"cloud.registry": "清单地址",
+	"cloud.registry": "注册表地址",
 	"cloud.registry.desc": "提供云端词典清单 JSON（可用 GitHub/Gitea/raw 静态文件）。",
 	"cloud.refresh": "刷新",
 	"cloud.loading": "正在拉取云端清单…",
