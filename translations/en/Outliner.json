@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "scope": "Outliner",
+  "entries": [
+    {
+      "key": "b17f60a6b17f60a6b17f60a6",
+      "source": "Stick the cursor to the content",
+      "translated": "Stick the cursor to the content",
+      "updatedAt": 1764999793703
+    },
+    {
+      "key": "fac98462fac98462fac98462",
+      "source": "Don't let the cursor move to the bullet position.",
+      "translated": "Don't let the cursor move to the bullet position.",
+      "updatedAt": 1764999793704
+    },
+    {
+      "key": "9e203d729e203d729e203d72",
+      "source": "Never",
+      "translated": "Never",
+      "updatedAt": 1764999793704
+    },
+    {
+      "key": "87e68c6687e68c6687e68c66",
+      "source": "Stick cursor out of bullets",
+      "translated": "Stick cursor out of bullets",
+      "updatedAt": 1764999793704
+    },
+    {
+      "key": "fcc919a8fcc919a8fcc919a8",
+      "source": "Stick cursor out of bullets and checkboxes",
+      "translated": "Stick cursor out of bullets and checkboxes",
+      "updatedAt": 1764999793704
+    },
+    {
+      "key": "be4772cbbe4772cbbe4772cb",
+      "source": "Enhance the Tab key",
+      "translated": "Enhance the Tab key",
+      "updatedAt": 1764999793704
+    },
+    {
+      "key": "7a5949fb7a5949fb7a5949fb",
+      "source": "Make Tab and Shift-Tab behave the same as other outliners.",
+      "translated": "Make Tab and Shift-Tab behave the same as other outliners.",
+      "updatedAt": 1764999793704
+    },
+    {
+      "key": "2023f8942023f8942023f894",
+      "source": "Enhance the Enter key",
+      "translated": "Enhance the Enter key",
+      "updatedAt": 1764999793704
+    },
+    {
+      "key": "4c825d5b4c825d5b4c825d5b",
+      "source": "Make the Enter key behave the same as other outliners.",
+      "translated": "Make the Enter key behave the same as other outliners.",
+      "updatedAt": 1764999793704
+    },
+    {
+      "key": "2f17677a2f17677a2f17677a",
+      "source": "Vim-mode o/O inserts bullets",
+      "translated": "Vim-mode o/O inserts bullets",
+      "updatedAt": 1764999793704
+    },
+    {
+      "key": "c90f080dc90f080dc90f080d",
+      "source": "Create a bullet when pressing o or O in Vim mode.",
+      "translated": "Create a bullet when pressing o or O in Vim mode.",
+      "updatedAt": 1764999793704
+    },
+    {
+      "key": "650e8a39650e8a39650e8a39",
+      "source": "Enhance the Ctrl+A or Cmd+A behavior",
+      "translated": "Enhance the Ctrl+A or Cmd+A behavior",
+      "updatedAt": 1764999793704
+    },
+    {
+      "key": "4226602e4226602e4226602e",
+      "source": "Press the hotkey once to select the current list item. Press the hotkey twice to select the entire list.",
+      "translated": "Press the hotkey once to select the current list item. Press the hotkey twice to select the entire list.",
+      "updatedAt": 1764999793704
+    },
+    {
+      "key": "2c20cda52c20cda52c20cda5",
+      "source": "Improve the style of your lists",
+      "translated": "Improve the style of your lists",
+      "updatedAt": 1764999793704
+    },
+    {
+      "key": "81ffb1e181ffb1e181ffb1e1",
+      "source": "Styles are only compatible with built-in Obsidian themes and may not be compatible with other themes.",
+      "translated": "Styles are only compatible with built-in Obsidian themes and may not be compatible with other themes.",
+      "updatedAt": 1764999793704
+    },
+    {
+      "key": "8b4fce568b4fce568b4fce56",
+      "source": "Draw vertical indentation lines",
+      "translated": "Draw vertical indentation lines",
+      "updatedAt": 1764999793704
+    },
+    {
+      "key": "407143954071439540714395",
+      "source": "Vertical indentation line click action",
+      "translated": "Vertical indentation line click action",
+      "updatedAt": 1764999793704
+    },
+    {
+      "key": "e69022f2e69022f2e69022f2",
+      "source": "None",
+      "translated": "None",
+      "updatedAt": 1764999793704
+    },
+    {
+      "key": "7d312d687d312d687d312d68",
+      "source": "Zoom In",
+      "translated": "Zoom In",
+      "updatedAt": 1764999793704
+    },
+    {
+      "key": "c50a208bc50a208bc50a208b",
+      "source": "Toggle Folding",
+      "translated": "Toggle Folding",
+      "updatedAt": 1764999793704
+    },
+    {
+      "key": "a598ab2aa598ab2aa598ab2a",
+      "source": "Drag-and-Drop",
+      "translated": "Drag-and-Drop",
+      "updatedAt": 1764999793704
+    },
+    {
+      "key": "83207baa83207baa83207baa",
+      "source": "Debug mode",
+      "translated": "Debug mode",
+      "updatedAt": 1764999793704
+    },
+    {
+      "key": "1fc964801fc964801fc96480",
+      "source": "Open DevTools (Command+Option+I or Control+Shift+I) to copy the debug logs.",
+      "translated": "Open DevTools (Command+Option+I or Control+Shift+I) to copy the debug logs.",
+      "updatedAt": 1764999793704
+    }
+  ]
+}
