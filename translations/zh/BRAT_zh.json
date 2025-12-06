@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "scope": "BRAT",
+  "entries": [
+    {
+      "key": "538664595386645953866459",
+      "source": "Auto-enable plugins after installation",
+      "translated": "安装后自动启用插件",
+      "updatedAt": 1764949323374
+    },
+    {
+      "key": "fecdc003fecdc003fecdc003",
+      "source": "If enabled beta plugins will be automatically enabled after installtion by default. Note: you can toggle this on and off for each plugin in the \"Add Plugin\" form.",
+      "translated": "如果启用测试版插件将在安装后自动启用。 注意：您可以在“添加插件”表单中为每个插件开关。",
+      "updatedAt": 1764949323374
+    },
+    {
+      "key": "8a19adc18a19adc18a19adc1",
+      "source": "Auto-update plugins at startup",
+      "translated": "启动时自动更新插件",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "5f0af4bf5f0af4bf5f0af4bf",
+      "source": "If enabled all beta plugins will be checked for updates each time Obsidian starts. Note: this does not update frozen version plugins.",
+      "translated": "如果启用，每次Obsidian启动时都会检查所有测试版插件的更新情况。注意：这不会更新冻结版本的插件。",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "75644e1975644e1975644e19",
+      "source": "Auto-update themes at startup",
+      "translated": "启动时自动更新主题",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "7f85d6967f85d6967f85d696",
+      "source": "If enabled all beta themes will be checked for updates each time Obsidian starts.",
+      "translated": "如果启用，每次Obsidian启动时都会检查所有测试版主题是否有更新。",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "10f281c810f281c810f281c8",
+      "source": "Select latest plugin version by default",
+      "translated": "默认选择最新版本",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "5c876a055c876a055c876a05",
+      "source": "If enabled the latest version will be selected by default when adding a new plugin.",
+      "translated": "如果启用，添加新插件时将默认选择最新版本。",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "c87c8dbac87c8dbac87c8dba",
+      "source": "Allow incompatible plugins",
+      "translated": "允许不兼容的插件",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "0b4cd40b0b4cd40b0b4cd40b",
+      "source": "If enabled, plugins with higher app versions will be allowed to be installed. Also it allows desktop-only plugins to be installed on mobile devices.",
+      "translated": "如果启用，将允许安装更高应用版本的插件。同时允许在移动设备上安装仅限桌面的插件。",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "3b4c180e3b4c180e3b4c180e",
+      "source": "Learn more about my work at:",
+      "translated": "了解更多关于我的工作：",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "7428e0e17428e0e17428e0e1",
+      "source": "Beta plugin list",
+      "translated": "Beta 插件列表",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "4afa0b244afa0b244afa0b24",
+      "source": "The following is a list of beta plugins added via the command \"Add a beta plugin for testing\". You can chose to add the latest version or a frozen version. A frozen version is a specific release of a plugin based on its release tag.",
+      "translated": "以下是测试版插件列表，可通过命令面板的“添加测试插件”或“添加一个基于发布标签的冻结版本测试插件”的命令快捷添加，其中冻结版本指是基于其发布标签的插件的特定版本。",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "4cea48244cea48244cea4824",
+      "source": "Click the 'Edit' button next to a plugin to change the installed version and the x button next to a plugin to remove it from the list.",
+      "translated": "点击插件旁边的“编辑”按钮可更改已安装版本，点击插件旁边的x按钮可将其从列表中移除。",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "6728420e6728420e6728420e",
+      "source": "Removing from the list does not delete the plugin, this should be done from the Community Plugins tab in Settings.",
+      "translated": "从列表中移除不会删除插件，您应该从“设置”中的“社区插件”选项卡中删除它。",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "6072bea26072bea26072bea2",
+      "source": "Add beta plugin",
+      "translated": "添加测试版插件",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "8265b60f8265b60f8265b60f",
+      "source": "Tracked version: 0.7.5 (frozen)",
+      "translated": "跟踪版本：0.7.5（冻结）",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "671e146c671e146c671e146c",
+      "source": "Tracked version: 0.0.1 (frozen)",
+      "translated": "跟踪版本：0.0.1（冻结）",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "6a3f334a6a3f334a6a3f334a",
+      "source": "Beta themes list",
+      "translated": "Beta主题列表",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "9142cbfa9142cbfa9142cbfa",
+      "source": "Add beta theme",
+      "translated": "添加测试版主题",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "df07e4d4df07e4d4df07e4d4",
+      "source": "Monitoring",
+      "translated": "监控",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "2b4a1d872b4a1d872b4a1d87",
+      "source": "Enable notifications",
+      "translated": "启用通知",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "0bad6c930bad6c930bad6c93",
+      "source": "BRAT will provide popup notifications for its various activities. Turn this off means no notifications from BRAT.",
+      "translated": "BRAT将为其各种活动提供弹出通知。关闭此选项意味着BRAT不会发出通知。",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "5d250b3a5d250b3a5d250b3a",
+      "source": "Enable logging",
+      "translated": "启用日志记录",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "399bc446399bc446399bc446",
+      "source": "Plugin updates will be logged to a file in the log file.",
+      "translated": "插件更新将被记录到日志文件中。",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "1a72b8821a72b8821a72b882",
+      "source": "BRAT log file location",
+      "translated": "BRAT日志文件位置",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "83213e7b83213e7b83213e7b",
+      "source": "Logs will be saved to this file. Don't add .md to the file name.",
+      "translated": "日志将被保存到这个文件中。不要在文件名中添加.md后缀。",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "a65820a0a65820a0a65820a0",
+      "source": "Enable verbose logging",
+      "translated": "启用详细日志记录",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "565bda75565bda75565bda75",
+      "source": "Get a lot more information in the log.",
+      "translated": "在日志中获取更多信息。",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "24864aad24864aad24864aad",
+      "source": "Debugging mode",
+      "translated": "调试模式",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "821274b2821274b2821274b2",
+      "source": "Atomic Bomb level console logging. Can be used for troubleshooting and development.",
+      "translated": "极其详尽的控制台日志记录。可用于故障排除和开发。",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "512f21df512f21df512f21df",
+      "source": "Personal access token",
+      "translated": "个人访问令牌",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "18096c3e18096c3e18096c3e",
+      "source": "Validate",
+      "translated": "确认",
+      "updatedAt": 1764949323375
+    },
+    {
+      "key": "457bb755457bb755457bb755",
+      "source": "No token provided",
+      "translated": "未提供令牌",
+      "updatedAt": 1764949323375
+    }
+  ]
+}
