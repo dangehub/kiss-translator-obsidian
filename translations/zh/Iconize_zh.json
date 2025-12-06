@@ -5,386 +5,386 @@
     {
       "key": "fad9524efad9524efad9524e",
       "source": "General",
-      "translated": "General",
-      "updatedAt": 1764998642865
+      "translated": "常规",
+      "updatedAt": 1764998015830
     },
     {
       "key": "53b4806c53b4806c53b4806c",
       "source": "Recently used icons limit",
-      "translated": "Recently used icons limit",
-      "updatedAt": 1764998642865
+      "translated": "最近使用的图标限制",
+      "updatedAt": 1764998015830
     },
     {
       "key": "a1582c5aa1582c5aa1582c5a",
       "source": "Change the limit for the recently used icons displayed in the icon selection modal.",
-      "translated": "Change the limit for the recently used icons displayed in the icon selection modal.",
-      "updatedAt": 1764998642865
+      "translated": "更改在图标选择框中显示的最近使用的图标的数量限制。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "1537d7821537d7821537d782",
       "source": "Icon packs folder path",
-      "translated": "Icon packs folder path",
-      "updatedAt": 1764998642865
+      "translated": "图标包文件夹路径",
+      "updatedAt": 1764998015830
     },
     {
       "key": "e5bbf438e5bbf438e5bbf438",
       "source": "Change the default icon packs folder path.",
-      "translated": "Change the default icon packs folder path.",
-      "updatedAt": 1764998642865
+      "translated": "更改默认图标包文件夹路径。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "85bca91985bca91985bca919",
       "source": "Save",
-      "translated": "Save",
-      "updatedAt": 1764998642865
+      "translated": "保存",
+      "updatedAt": 1764998015830
     },
     {
       "key": "4d6fbc084d6fbc084d6fbc08",
       "source": "Icons background check",
-      "translated": "Icons background check",
-      "updatedAt": 1764998642865
+      "translated": "图标背景检查",
+      "updatedAt": 1764998015830
     },
     {
       "key": "25b1238625b1238625b12386",
       "source": "Check in the background on every load of Obsidian, if icons are missing and it will try to add them to the specific icon pack.",
-      "translated": "Check in the background on every load of Obsidian, if icons are missing and it will try to add them to the specific icon pack.",
-      "updatedAt": 1764998642865
+      "translated": "在每次加载 Obsidian 时检查缺失的图标，并尝试将它们添加到相应的图标包中。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "b2c8d64bb2c8d64bb2c8d64b",
       "source": "Emoji style",
-      "translated": "Emoji style",
-      "updatedAt": 1764998642865
+      "translated": "表情符号样式",
+      "updatedAt": 1764998015830
     },
     {
       "key": "37d7379137d7379137d73791",
       "source": "Change the style of your emojis.",
-      "translated": "Change the style of your emojis.",
-      "updatedAt": 1764998642865
+      "translated": "更改你的表情符号样式。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "25a931f925a931f925a931f9",
       "source": "Native",
-      "translated": "Native",
-      "updatedAt": 1764998642865
+      "translated": "原生",
+      "updatedAt": 1764998015830
     },
     {
       "key": "d5d7823fd5d7823fd5d7823f",
       "source": "Twemoji",
       "translated": "Twemoji",
-      "updatedAt": 1764998642865
+      "updatedAt": 1764998015830
     },
     {
       "key": "ea3eb2b0ea3eb2b0ea3eb2b0",
       "source": "Icon identifier",
-      "translated": "Icon identifier",
-      "updatedAt": 1764998642865
+      "translated": "图标标识符",
+      "updatedAt": 1764998015830
     },
     {
       "key": "e33c6d42e33c6d42e33c6d42",
       "source": "Change the icon identifier used in notes.",
-      "translated": "Change the icon identifier used in notes.",
-      "updatedAt": 1764998642865
+      "translated": "更改笔记中使用的图标标识符。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "fe279db0fe279db0fe279db0",
       "source": "EXPERIMENTAL: Use internal plugins",
-      "translated": "EXPERIMENTAL: Use internal plugins",
-      "updatedAt": 1764998642865
+      "translated": "实验性：使用内部插件",
+      "updatedAt": 1764998015830
     },
     {
       "key": "f2887268f2887268f2887268",
       "source": "Toggles whether to try to add icons to the bookmark and outline internal plugins.",
-      "translated": "Toggles whether to try to add icons to the bookmark and outline internal plugins.",
-      "updatedAt": 1764998642865
+      "translated": "切换是否尝试为书签和大纲内部插件添加图标。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "7ee4c7987ee4c7987ee4c798",
       "source": "Toggle Debug Mode",
-      "translated": "Toggle Debug Mode",
-      "updatedAt": 1764998642865
+      "translated": "切换调试模式",
+      "updatedAt": 1764998015830
     },
     {
       "key": "7f5a20ee7f5a20ee7f5a20ee",
       "source": "Toggle debug mode to see more detailed logs in the console. Do not touch this unless you know what you are doing.",
-      "translated": "Toggle debug mode to see more detailed logs in the console. Do not touch this unless you know what you are doing.",
-      "updatedAt": 1764998642865
+      "translated": "切换调试模式以在控制台查看更详细的日志。除非你知道自己在做什么，否则不要更改此设置。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "6604f28f6604f28f6604f28f",
       "source": "Visibility of icons",
-      "translated": "Visibility of icons",
-      "updatedAt": 1764998642865
+      "translated": "图标的可见性",
+      "updatedAt": 1764998015830
     },
     {
       "key": "a04462c2a04462c2a04462c2",
       "source": "Toggle icon in tabs",
-      "translated": "Toggle icon in tabs",
-      "updatedAt": 1764998642865
+      "translated": "在标签中切换图标",
+      "updatedAt": 1764998015830
     },
     {
       "key": "acae4821acae4821acae4821",
       "source": "Toggles the visibility of an icon for a file in the tab bar.",
-      "translated": "Toggles the visibility of an icon for a file in the tab bar.",
-      "updatedAt": 1764998642865
+      "translated": "切换标签栏中文件图标的状态。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "a15314a6a15314a6a15314a6",
       "source": "Toggle icon in title",
-      "translated": "Toggle icon in title",
-      "updatedAt": 1764998642865
+      "translated": "在标题中切换图标",
+      "updatedAt": 1764998015830
     },
     {
       "key": "202b2aed202b2aed202b2aed",
       "source": "Toggles the visibility of an icon above the title of a file.",
-      "translated": "Toggles the visibility of an icon above the title of a file.",
-      "updatedAt": 1764998642865
+      "translated": "切换文件标题上方图标的可见性。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "19be890719be890719be8907",
       "source": "Above title",
-      "translated": "Above title",
-      "updatedAt": 1764998642865
+      "translated": "标题上方",
+      "updatedAt": 1764998015830
     },
     {
       "key": "13bc14a413bc14a413bc14a4",
       "source": "Next to title",
-      "translated": "Next to title",
-      "updatedAt": 1764998642865
+      "translated": "标题旁边",
+      "updatedAt": 1764998015830
     },
     {
       "key": "d0e0e2cdd0e0e2cdd0e0e2cd",
       "source": "Use icon in frontmatter",
-      "translated": "Use icon in frontmatter",
-      "updatedAt": 1764998642865
+      "translated": "在 frontmatter 中使用图标",
+      "updatedAt": 1764998015830
     },
     {
       "key": "375aed72375aed72375aed72",
       "source": "Toggles whether to set the icon based on the frontmatter property `icon`.",
-      "translated": "Toggles whether to set the icon based on the frontmatter property `icon`.",
-      "updatedAt": 1764998642865
+      "translated": "切换是否根据 frontmatter 属性 `icon` 设置图标。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "ab58fa0cab58fa0cab58fa0c",
       "source": "Frontmatter icon field name",
-      "translated": "Frontmatter icon field name",
-      "updatedAt": 1764998642865
+      "translated": "Frontmatter 图标字段名称",
+      "updatedAt": 1764998015830
     },
     {
       "key": "1fb1355d1fb1355d1fb1355d",
       "source": "Sets the name of the frontmatter field which contains the icon.",
-      "translated": "Sets the name of the frontmatter field which contains the icon.",
-      "updatedAt": 1764998642865
+      "translated": "设置包含图标的 frontmatter 字段的名称。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "6a048bb16a048bb16a048bb1",
       "source": "Frontmatter icon color field name",
-      "translated": "Frontmatter icon color field name",
-      "updatedAt": 1764998642865
+      "translated": "Frontmatter 图标颜色字段名称",
+      "updatedAt": 1764998015830
     },
     {
       "key": "734118e0734118e0734118e0",
       "source": "Sets the name of the frontmatter field which contains the icon color.",
-      "translated": "Sets the name of the frontmatter field which contains the icon color.",
-      "updatedAt": 1764998642865
+      "translated": "设置包含图标颜色的 frontmatter 字段的名称。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "bd2f7b91bd2f7b91bd2f7b91",
       "source": "Refresh icons from frontmatter",
-      "translated": "Refresh icons from frontmatter",
-      "updatedAt": 1764998642865
+      "translated": "从 frontmatter 刷新图标",
+      "updatedAt": 1764998015830
     },
     {
       "key": "fd992b32fd992b32fd992b32",
       "source": "Sets the icon and color for each note in the vault based on the frontmatter properties. WARNING: This will change any manually set icons to the one defined in the frontmatter. IF A NOTE HAS NO FRONTMATTER, THE CURRENT ICON WILL BE REMOVED. Please restart Obsidian after this completes to see the changes.",
-      "translated": "Sets the icon and color for each note in the vault based on the frontmatter properties. WARNING: This will change any manually set icons to the one defined in the frontmatter. IF A NOTE HAS NO FRONTMATTER, THE CURRENT ICON WILL BE REMOVED. Please restart Obsidian after this completes to see the changes.",
-      "updatedAt": 1764998642865
+      "translated": "根据 frontmatter 属性设置库中每个笔记的图标和颜色。警告：这将把任何手动设置的图标更改为 frontmatter 中定义的图标。如果笔记没有 frontmatter，则当前图标将被删除。完成此操作后，请重新启动 Obsidian 以查看更改。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "55a8292555a8292555a82925",
       "source": "Refresh",
-      "translated": "Refresh",
-      "updatedAt": 1764998642865
+      "translated": "刷新",
+      "updatedAt": 1764998015830
     },
     {
       "key": "cd684372cd684372cd684372",
       "source": "Toggle icons while editing notes",
-      "translated": "Toggle icons while editing notes",
-      "updatedAt": 1764998642865
+      "translated": "在编辑笔记时切换图标",
+      "updatedAt": 1764998015830
     },
     {
       "key": "6957206d6957206d6957206d",
       "source": "Toggles whether you are able to add and see icons in your notes and editor (e.g., ability to have :LiSofa: as an icon in your notes).",
-      "translated": "Toggles whether you are able to add and see icons in your notes and editor (e.g., ability to have :LiSofa: as an icon in your notes).",
-      "updatedAt": 1764998642865
+      "translated": "切换是否能够在笔记和编辑器中添加和显示图标（例如，能够在笔记中使用 :LiSofa: 作为图标）。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "05dd69c605dd69c605dd69c6",
       "source": "Toggle icons in links",
-      "translated": "Toggle icons in links",
-      "updatedAt": 1764998642865
+      "translated": "在链接中切换图标",
+      "updatedAt": 1764998015830
     },
     {
       "key": "5fbd25965fbd25965fbd2596",
       "source": "Toggles whether you are able to see icons in the links to other notes",
-      "translated": "Toggles whether you are able to see icons in the links to other notes",
-      "updatedAt": 1764998642865
+      "translated": "切换是否在链接到其他笔记时显示图标",
+      "updatedAt": 1764998015830
     },
     {
       "key": "429b866a429b866a429b866a",
       "source": "Icon customization for files/folders",
-      "translated": "Icon customization for files/folders",
-      "updatedAt": 1764998642865
+      "translated": "文件/文件夹的图标自定义",
+      "updatedAt": 1764998015830
     },
     {
       "key": "ee1a5cf8ee1a5cf8ee1a5cf8",
       "source": "Icon font size (in pixels)",
-      "translated": "Icon font size (in pixels)",
-      "updatedAt": 1764998642865
+      "translated": "图标字体大小（以像素为单位）",
+      "updatedAt": 1764998015830
     },
     {
       "key": "b284bbccb284bbccb284bbcc",
       "source": "Change the font size of the displayed icons.",
-      "translated": "Change the font size of the displayed icons.",
-      "updatedAt": 1764998642865
+      "translated": "更改显示图标的字体大小。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "69f971ae69f971ae69f971ae",
       "source": "Icon color",
-      "translated": "Icon color",
-      "updatedAt": 1764998642865
+      "translated": "图标颜色",
+      "updatedAt": 1764998015830
     },
     {
       "key": "b8e50847b8e50847b8e50847",
       "source": "Change the color of the displayed icons.",
-      "translated": "Change the color of the displayed icons.",
-      "updatedAt": 1764998642865
+      "translated": "更改显示图标的颜色。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "d72a98a1d72a98a1d72a98a1",
       "source": "Extra margin (in pixels)",
-      "translated": "Extra margin (in pixels)",
-      "updatedAt": 1764998642865
+      "translated": "额外边距（以像素为单位）",
+      "updatedAt": 1764998015830
     },
     {
       "key": "bf7e483fbf7e483fbf7e483f",
       "source": "Change the margin of the icons.",
-      "translated": "Change the margin of the icons.",
-      "updatedAt": 1764998642865
+      "translated": "更改图标的间距。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "ed3955d3ed3955d3ed3955d3",
       "source": "Top",
-      "translated": "Top",
-      "updatedAt": 1764998642865
+      "translated": "顶部",
+      "updatedAt": 1764998015830
     },
     {
       "key": "513d1b98513d1b98513d1b98",
       "source": "Right",
-      "translated": "Right",
-      "updatedAt": 1764998642865
+      "translated": "右",
+      "updatedAt": 1764998015830
     },
     {
       "key": "b54ca3d7b54ca3d7b54ca3d7",
       "source": "Bottom",
-      "translated": "Bottom",
-      "updatedAt": 1764998642865
+      "translated": "底部",
+      "updatedAt": 1764998015830
     },
     {
       "key": "35671f2335671f2335671f23",
       "source": "Left",
-      "translated": "Left",
-      "updatedAt": 1764998642865
+      "translated": "左",
+      "updatedAt": 1764998015830
     },
     {
       "key": "4e27377d4e27377d4e27377d",
       "source": "Custom icon rules",
-      "translated": "Custom icon rules",
-      "updatedAt": 1764998642865
+      "translated": "自定义图标规则",
+      "updatedAt": 1764998015830
     },
     {
       "key": "33b4005c33b4005c33b4005c",
       "source": "Add icon rule",
-      "translated": "Add icon rule",
-      "updatedAt": 1764998642865
+      "translated": "添加图标规则",
+      "updatedAt": 1764998015830
     },
     {
       "key": "1fe07b341fe07b341fe07b34",
       "source": "Will add the icon based on the defined rule (as a plain string or in regex format).",
-      "translated": "Will add the icon based on the defined rule (as a plain string or in regex format).",
-      "updatedAt": 1764998642865
+      "translated": "将根据定义的规则添加图标（作为纯文本字符串或正则表达式格式）。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "ae69deaeae69deaeae69deae",
       "source": "Choose icon",
-      "translated": "Choose icon",
-      "updatedAt": 1764998642865
+      "translated": "选择图标",
+      "updatedAt": 1764998015830
     },
     {
       "key": "504433395044333950443339",
       "source": "Icon packs",
-      "translated": "Icon packs",
-      "updatedAt": 1764998642865
+      "translated": "图标包",
+      "updatedAt": 1764998015830
     },
     {
       "key": "9e5ff20d9e5ff20d9e5ff20d",
       "source": "Add predefined icon pack",
-      "translated": "Add predefined icon pack",
-      "updatedAt": 1764998642865
+      "translated": "添加预定义的图标包",
+      "updatedAt": 1764998015830
     },
     {
       "key": "372cc32b372cc32b372cc32b",
       "source": "Add a predefined icon pack that is officially supported.",
-      "translated": "Add a predefined icon pack that is officially supported.",
-      "updatedAt": 1764998642865
+      "translated": "添加一个官方支持的预定义图标包。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "053e3827053e3827053e3827",
       "source": "Browse icon packs",
-      "translated": "Browse icon packs",
-      "updatedAt": 1764998642865
+      "translated": "浏览图标包",
+      "updatedAt": 1764998015830
     },
     {
       "key": "63d7813863d7813863d78138",
       "source": "Add custom icon pack",
-      "translated": "Add custom icon pack",
-      "updatedAt": 1764998642865
+      "translated": "添加自定义图标包",
+      "updatedAt": 1764998015830
     },
     {
       "key": "25a9e8b725a9e8b725a9e8b7",
       "source": "Add a custom icon pack.",
-      "translated": "Add a custom icon pack.",
-      "updatedAt": 1764998642865
+      "translated": "添加一个自定义图标包。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "63e3bbab63e3bbab63e3bbab",
       "source": "Add icon pack",
-      "translated": "Add icon pack",
-      "updatedAt": 1764998642865
+      "translated": "添加图标包",
+      "updatedAt": 1764998015830
     },
     {
       "key": "b9b74ddbb9b74ddbb9b74ddb",
       "source": "lucide-icons (Li)",
       "translated": "lucide-icons (Li)",
-      "updatedAt": 1764998642865
+      "updatedAt": 1764998015830
     },
     {
       "key": "d4825ea7d4825ea7d4825ea7",
       "source": "Total icons: 1783 (Native Pack has fewer icons but 100% Obsidian Sync support)",
-      "translated": "Total icons: 1783 (Native Pack has fewer icons but 100% Obsidian Sync support)",
-      "updatedAt": 1764998642865
+      "translated": "总图标数：1783（Native Pack 图标较少，但支持 100% Obsidian 同步）",
+      "updatedAt": 1764998015830
     },
     {
       "key": "1c6826cb1c6826cb1c6826cb",
       "source": "Custom",
-      "translated": "Custom",
-      "updatedAt": 1764998642865
+      "translated": "自定义",
+      "updatedAt": 1764998015830
     },
     {
       "key": "e69022f2e69022f2e69022f2",
       "source": "None",
-      "translated": "None",
-      "updatedAt": 1764998642865
+      "translated": "无",
+      "updatedAt": 1764998015830
     }
   ]
 }
