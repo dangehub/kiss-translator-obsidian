@@ -88,7 +88,7 @@
         "scope": "Advanced Tables",
         "name": "Advanced Tables",
         "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/zh/Advanced_Tables_zh.json",
-        "updatedAt": 1764998405000,
+        "updatedAt": 1764999119000,
         "entryCount": 9,
         "version": 1,
         "lang": "zh"
@@ -106,7 +106,7 @@
         "scope": "Dataview",
         "name": "Dataview",
         "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/zh/Dataview_zh.json",
-        "updatedAt": 1764998406000,
+        "updatedAt": 1764999120000,
         "entryCount": 48,
         "version": 1,
         "lang": "zh"
@@ -115,7 +115,7 @@
         "scope": "Git",
         "name": "Git",
         "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/zh/Git_zh.json",
-        "updatedAt": 1764998407000,
+        "updatedAt": 1764999121000,
         "entryCount": 55,
         "version": 1,
         "lang": "zh"
@@ -124,7 +124,7 @@
         "scope": "Iconize",
         "name": "Iconize",
         "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/zh/Iconize_zh.json",
-        "updatedAt": 1764998408000,
+        "updatedAt": 1764999123000,
         "entryCount": 64,
         "version": 1,
         "lang": "zh"
@@ -133,7 +133,7 @@
         "scope": "Minimal Theme Settings",
         "name": "Minimal Theme Settings",
         "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/zh/Minimal_Theme_Settings_zh.json",
-        "updatedAt": 1764998409000,
+        "updatedAt": 1764999124000,
         "entryCount": 83,
         "version": 1,
         "lang": "zh"
@@ -142,7 +142,7 @@
         "scope": "Omnisearch",
         "name": "Omnisearch",
         "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/zh/Omnisearch_zh.json",
-        "updatedAt": 1764998410000,
+        "updatedAt": 1764999125000,
         "entryCount": 87,
         "version": 1,
         "lang": "zh"
@@ -160,7 +160,7 @@
         "scope": "QuickAdd",
         "name": "QuickAdd",
         "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/zh/QuickAdd_zh.json",
-        "updatedAt": 1764998411000,
+        "updatedAt": 1764999126000,
         "entryCount": 36,
         "version": 1,
         "lang": "zh"
@@ -169,7 +169,7 @@
         "scope": "Templater",
         "name": "Templater",
         "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/zh/Templater_zh.json",
-        "updatedAt": 1764998412000,
+        "updatedAt": 1764999127000,
         "entryCount": 28,
         "version": 1,
         "lang": "zh"
