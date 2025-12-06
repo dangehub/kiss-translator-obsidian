@@ -1,10 +1,10 @@
-# KISS Translator
+# Translay Translator
 
 > [README in English (Updates may not be timely)](docs/README_en.md)
 
 ---
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/dangehub/kiss-translator-obsidian/total)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/dangehub/obsidian-translay-translator/total)
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -12,9 +12,9 @@
 
 ---
 
-KISS Translator 是一个用来翻译 Obsidian 内任何文本的插件，能一键翻译 UI 和笔记。
+Translay Translator 是一个用来翻译 Obsidian 内任何文本的插件，能一键翻译 UI 和笔记。
 
-> 注：请在[Issues](https://github.com/dangehub/kiss-translator-obsidian/issues "Issues · dangehub/kiss-translator-obsidian")中反馈bug，在[Discussions](https://github.com/dangehub/kiss-translator-obsidian/discussions "dangehub/kiss-translator-obsidian · Discussions · GitHub")中提出建议
+> 注：请在[Issues](https://github.com/dangehub/obsidian-translay-translator/issues "Issues · dangehub/obsidian-translay-translator")中反馈bug，在[Discussions](https://github.com/dangehub/obsidian-translay-translator/discussions "dangehub/obsidian-translay-translator · Discussions · GitHub")中提出建议
 > 
 > 如有即时通讯需求，可以加本插件的QQ交流群 `1034829731`
 
@@ -37,14 +37,14 @@ KISS Translator 是一个用来翻译 Obsidian 内任何文本的插件，能一
 
 本插件暂未上架官方 Obsidian 市场，请使用 BRAT 插件或手动安装。
 
-**手动安装方法**：前往 `release` 下载并复制 `main.js`、`manifest.json`、`styles.css` 到 `<Vault>/.obsidian/plugins/aqu-kiss-translator/`。
+**手动安装方法**：前往 `release` 下载并复制 `main.js`、`manifest.json`、`styles.css` 到 `<Vault>/.obsidian/plugins/aqu-translay-translator/`。
 
 #### 初学者：只使用云端词典
 
 ![](docs/快速上手说明.webp)
 
 1. 打开 Obsidian 设置页面
-2. 找到 **KISS Translator** 菜单
+2. 找到 **Translay Translator** 菜单
 3. 点击**注册表地址**右侧的刷新按钮，若网络通畅则会获取到云端词库
 4. 通过搜索或拖动列表找到自己想要的插件词典
 5. 点击下载
@@ -86,7 +86,7 @@ KISS Translator 是一个用来翻译 Obsidian 内任何文本的插件，能一
 
 有两种方式：
 
-- （需要 Github PR 审批）在 Github 中 fork 本项目，在本地 `<Vault>/.obsidian/plugins/aqu-kiss-translator/translation` 中找到原文词典（如 `Admonition.json`）并放到项目的 ` translations/en ` 目录下，发起 PR 申请
+- （需要 Github PR 审批）在 Github 中 fork 本项目，在本地 `<Vault>/.obsidian/plugins/aqu-translay-translator/translation` 中找到原文词典（如 `Admonition.json`）并放到项目的 ` translations/en ` 目录下，发起 PR 申请
 - （需要 Crowdin 账号具有权限）在 Crowdin 中上传原文到对应目录
 
 #### 在 Crowdin 中翻译
@@ -242,12 +242,12 @@ Crowdin 每隔一个小时（高权限用户可以手动同步）会自动获取
 </table>
 
 <!-- links -->
-[your-project-path]:dangehub/kiss-translator-obsidian
-[contributors-shield]: https://img.shields.io/github/contributors/dangehub/kiss-translator-obsidian.svg?style=flat-square
-[contributors-url]: https://github.com/dangehub/kiss-translator-obsidian/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dangehub/kiss-translator-obsidian.svg?style=flat-square
-[forks-url]: https://github.com/dangehub/kiss-translator-obsidian/network/members
-[stars-shield]: https://img.shields.io/github/stars/dangehub/kiss-translator-obsidian.svg?style=flat-square
-[stars-url]: https://github.com/dangehub/kiss-translator-obsidian/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dangehub/kiss-translator-obsidian.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/dangehub/kiss-translator-obsidian.svg
+[your-project-path]:dangehub/obsidian-translay-translator
+[contributors-shield]: https://img.shields.io/github/contributors/dangehub/obsidian-translay-translator.svg?style=flat-square
+[contributors-url]: https://github.com/dangehub/obsidian-translay-translator/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dangehub/obsidian-translay-translator.svg?style=flat-square
+[forks-url]: https://github.com/dangehub/obsidian-translay-translator/network/members
+[stars-shield]: https://img.shields.io/github/stars/dangehub/obsidian-translay-translator.svg?style=flat-square
+[stars-url]: https://github.com/dangehub/obsidian-translay-translator/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dangehub/obsidian-translay-translator.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/dangehub/obsidian-translay-translator.svg

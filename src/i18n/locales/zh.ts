@@ -24,13 +24,13 @@ export const zh: LocaleDict = {
 	"cloud.downloading": "下载中…",
 	"cloud.noMatches": "没有匹配的词典。",
 
-	"notice.error": "KISS Translator: {msg}",
+	"notice.error": "Translay Translator: {msg}",
 	"notice.download.start": "正在下载词典：{name}",
 	"notice.download.success": "已导入词典：{name}",
 	"notice.download.fail": "下载词典失败：{msg}",
-	"notice.translate.busy": "KISS Translator: 正在翻译，请稍候…",
-	"notice.translate.none": "KISS Translator: 未找到可翻译的界面。",
-	"notice.readingRequired": "KISS Translator: 请在阅读模式下打开一个 Markdown 窗口再试。",
+	"notice.translate.busy": "Translay Translator: 正在翻译，请稍候…",
+	"notice.translate.none": "Translay Translator: 未找到可翻译的界面。",
+	"notice.readingRequired": "Translay Translator: 请在阅读模式下打开一个 Markdown 窗口再试。",
 
 	"mode.extractOnly.name": "仅提取词典（不调用在线翻译）",
 	"mode.extractOnly.desc":
@@ -59,7 +59,7 @@ export const zh: LocaleDict = {
 	"skip.enable": "启用",
 	"skip.delete": "删除",
 
-	"ui.menu.conflict": "KISS Translator: 隐藏原文、悬停原文与编辑模式不能同时开启。",
+	"ui.menu.conflict": "Translay Translator: 隐藏原文、悬停原文与编辑模式不能同时开启。",
 	"ui.menu.title": "选择 UI 词典",
 	"ui.menu.translate": "翻译当前页面",
 	"ui.menu.extract": "提取当前页面",
@@ -74,8 +74,8 @@ export const zh: LocaleDict = {
 	"ui.menu.cancel": "取消",
 	"ui.menu.remove": "删除",
 
-	"notice.extracting": "KISS Translator: 正在提取，请稍候…",
-	"notice.extract.none": "KISS Translator: 未找到可提取的界面。",
+	"notice.extracting": "Translay Translator: 正在提取，请稍候…",
+	"notice.extract.none": "Translay Translator: 未找到可提取的界面。",
 
 	"prompt.system": "System prompt/系统提示词",
 	"prompt.system.desc": "【可选】。可使用占位符 {from} {to}",

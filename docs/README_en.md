@@ -1,9 +1,9 @@
-# KISS Translator
+# Translay Translator
 
 
 ---
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/dangehub/kiss-translator-obsidian/total)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/dangehub/obsidian-translay-translator/total)
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -11,9 +11,9 @@
 
 ---
 
-KISS Translator is a plugin designed to translate any text inside Obsidian. It supports one-click translation for both UI and notes.
+Translay Translator is a plugin designed to translate any text inside Obsidian. It supports one-click translation for both UI and notes.
 
-> Please report bugs in [Issues](https://github.com/dangehub/kiss-translator-obsidian/issues) and submit feature requests in [Discussions](https://github.com/dangehub/kiss-translator-obsidian/discussions).  
+> Please report bugs in [Issues](https://github.com/dangehub/obsidian-translay-translator/issues) and submit feature requests in [Discussions](https://github.com/dangehub/obsidian-translay-translator/discussions).  
 > For instant communication, you may join the QQ group: `1034829731`.
 
 ## Features
@@ -35,14 +35,14 @@ KISS Translator is a plugin designed to translate any text inside Obsidian. It s
 This plugin is not yet on the official Obsidian marketplace. Install via BRAT or manually.
 
 **Manual installation:** Download `main.js`, `manifest.json`, and `styles.css` from the `release` page and copy them to:  
-`<Vault>/.obsidian/plugins/aqu-kiss-translator/`.
+`<Vault>/.obsidian/plugins/aqu-translay-translator/`.
 
 #### Beginners: Using cloud dictionaries only
 
 ![](docs/快速上手说明.webp)
 
 1. Open Obsidian Settings  
-2. Navigate to **KISS Translator**  
+2. Navigate to **Translay Translator**  
 3. Click the refresh button beside **Registry URL** to load cloud dictionaries  
 4. Search or browse for the dictionary you want  
 5. Click **Download**  
@@ -88,7 +88,7 @@ Two methods:
 
 - **Via GitHub PR (requires review):**  
   Fork this repo → find extracted dictionary in  
-  `<Vault>/.obsidian/plugins/aqu-kiss-translator/translation`  
+  `<Vault>/.obsidian/plugins/aqu-translay-translator/translation`  
   (e.g. `Admonition.json`) → place it into the repo’s `translations/en` → submit PR
 
 - **Via Crowdin (requires permissions):**  
@@ -234,12 +234,12 @@ For users in Mainland China, you may use WeChat or Alipay:
 </table>
 
 <!-- links -->
-[your-project-path]: dangehub/kiss-translator-obsidian
-[contributors-shield]: https://img.shields.io/github/contributors/dangehub/kiss-translator-obsidian.svg?style=flat-square
-[contributors-url]: https://github.com/dangehub/kiss-translator-obsidian/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dangehub/kiss-translator-obsidian.svg?style=flat-square
-[forks-url]: https://github.com/dangehub/kiss-translator-obsidian/network/members
-[stars-shield]: https://img.shields.io/github/stars/dangehub/kiss-translator-obsidian.svg?style=flat-square
-[stars-url]: https://github.com/dangehub/kiss-translator-obsidian/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dangehub/kiss-translator-obsidian.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/dangehub/kiss-translator-obsidian.svg
+[your-project-path]: dangehub/obsidian-translay-translator
+[contributors-shield]: https://img.shields.io/github/contributors/dangehub/obsidian-translay-translator.svg?style=flat-square
+[contributors-url]: https://github.com/dangehub/obsidian-translay-translator/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dangehub/obsidian-translay-translator.svg?style=flat-square
+[forks-url]: https://github.com/dangehub/obsidian-translay-translator/network/members
+[stars-shield]: https://img.shields.io/github/stars/dangehub/obsidian-translay-translator.svg?style=flat-square
+[stars-url]: https://github.com/dangehub/obsidian-translay-translator/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dangehub/obsidian-translay-translator.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/dangehub/obsidian-translay-translator.svg

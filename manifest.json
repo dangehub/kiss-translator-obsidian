@@ -1,9 +1,9 @@
 {
-	"id": "aqu-kiss-translator",
-	"name": "KISS Translator",
+	"id": "aqu-translay-translator",
+	"name": "Translay Translator",
 	"version": "0.8.1",
 	"minAppVersion": "0.15.0",
-	"description": "Translate UI and notes with an inline bilingual view using your OpenAI-compatible endpoint.",
+	"description": "Translate UI text through a floating overlay with instant translation, editable dictionaries, and local or cloud language resources.",
 	"author": "dangehub",
 	"authorUrl": "https://blog.qudange.top",
 	"isDesktopOnly": false

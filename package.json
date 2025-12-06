@@ -1,7 +1,7 @@
 {
-	"name": "kiss-translator-obsidian",
+	"name": "obsidian-translay-translator",
 	"version": "0.1.0",
-	"description": "Inline translation for Obsidian notes inspired by KISS Translator.",
+	"description": "Inline translation for Obsidian notes powered by Translay Translator.",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",

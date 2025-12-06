@@ -25,14 +25,14 @@ export const en: LocaleDict = {
 	"cloud.downloading": "Downloading…",
 	"cloud.noMatches": "No matching dictionaries.",
 
-	"notice.error": "KISS Translator: {msg}",
+	"notice.error": "Translay Translator: {msg}",
 	"notice.download.start": "Downloading dictionary: {name}",
 	"notice.download.success": "Imported dictionary: {name}",
 	"notice.download.fail": "Failed to download: {msg}",
-	"notice.translate.busy": "KISS Translator: Translating, please wait…",
-	"notice.translate.none": "KISS Translator: No translatable UI found.",
+	"notice.translate.busy": "Translay Translator: Translating, please wait…",
+	"notice.translate.none": "Translay Translator: No translatable UI found.",
 	"notice.readingRequired":
-		"KISS Translator: Please open a Markdown pane in reading mode and try again.",
+		"Translay Translator: Please open a Markdown pane in reading mode and try again.",
 
 	"mode.extractOnly.name": "Extract only (no online translation)",
 	"mode.extractOnly.desc":
@@ -65,7 +65,7 @@ export const en: LocaleDict = {
 	"skip.delete": "Delete",
 
 	"ui.menu.conflict":
-		"KISS Translator: Hide Original, Show Original on Hover, and Edit mode cannot be enabled at the same time.",
+		"Translay Translator: Hide Original, Show Original on Hover, and Edit mode cannot be enabled at the same time.",
 	"ui.menu.title": "Select UI dictionary",
 	"ui.menu.translate": "Translate current page",
 	"ui.menu.extract": "Extract current page",
@@ -80,8 +80,8 @@ export const en: LocaleDict = {
 	"ui.menu.cancel": "Cancel",
 	"ui.menu.remove": "Delete",
 
-	"notice.extracting": "KISS Translator: Extracting, please wait…",
-	"notice.extract.none": "KISS Translator: No extractable UI found.",
+	"notice.extracting": "Translay Translator: Extracting, please wait…",
+	"notice.extract.none": "Translay Translator: No extractable UI found.",
 
 	"prompt.system": "System prompt",
 	"prompt.system.desc": "Optional. Placeholders: {from} {to}",
