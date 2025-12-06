@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "scope": "Paste URL into selection",
+  "entries": [
+    {
+      "key": "ffd9f8caffd9f8caffd9f8ca",
+      "source": "URL-into-selection Settings",
+      "translated": "URL-转-选择设置",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "531bc4dc531bc4dc531bc4dc",
+      "source": "Fallback Regular expression",
+      "translated": "备用正则表达式",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "3510f0d43510f0d43510f0d4",
+      "source": "Regular expression used to match URLs when default match fails.",
+      "translated": "默认匹配失败时用于匹配URL的正则表达式。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "cabec5d2cabec5d2cabec5d2",
+      "source": "Behavior on pasting URL when nothing is selected",
+      "translated": "未选择任何内容时粘贴URL的行为",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "61a3808d61a3808d61a3808d",
+      "source": "Auto Select: Automatically select word surrounding the cursor.",
+      "translated": "自动选择：自动选择光标周围的单词。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "efbfee0eefbfee0eefbfee0e",
+      "source": "Do nothing",
+      "translated": "不执行任何操作",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "808d4edf808d4edf808d4edf",
+      "source": "Auto Select",
+      "translated": "自动选择",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "58fbfc6358fbfc6358fbfc63",
+      "source": "Insert [](url)",
+      "translated": "插入 [](url)",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "021768860217688602176886",
+      "source": "Insert <url>",
+      "translated": "插入 <url>",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "04dd24e304dd24e304dd24e3",
+      "source": "Whitelist for image embed syntax",
+      "translated": "图像嵌入语法白名单",
+      "updatedAt": 1765007348788
+    }
+  ]
+}
