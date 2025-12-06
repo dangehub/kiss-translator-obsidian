@@ -1,0 +1,276 @@
+{
+  "version": 1,
+  "scope": "Admonition",
+  "entries": [
+    {
+      "key": "685272d4685272d4685272d4",
+      "source": "Admonition 设置",
+      "translated": "Admonition 设置",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "d081a715d081a715d081a715",
+      "source": "Export Custom Types as CSS",
+      "translated": "导出自定义类型为 CSS",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "d635aabad635aabad635aaba",
+      "source": "Export a CSS snippet for custom callout types.",
+      "translated": "导出一个 CSS 代码片段以自定义提示类型。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "f0e02c6ef0e02c6ef0e02c6e",
+      "source": "Export Custom Types as JSON",
+      "translated": "导出自定义类型为 JSON",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "f1de2c79f1de2c79f1de2c79",
+      "source": "Choose custom types to export as a JSON file that you can then share with other users.",
+      "translated": "选择自定义类型导出为JSON文件，然后可以与其他用户共享。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "00d1f68d00d1f68d00d1f68d",
+      "source": "Download All",
+      "translated": "下载全部",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "2e5028022e5028022e502802",
+      "source": "Select & Download",
+      "translated": "选择并下载",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "f9b26aaaf9b26aaaf9b26aaa",
+      "source": "Use CSS Snippet for Custom Callouts",
+      "translated": "使用 CSS 代码片段自定义提示框",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "fc63a380fc63a380fc63a380",
+      "source": "Instead of managing it internally, Admonitions will maintain a CSS snippet to enable your custom types for callouts.",
+      "translated": "Admonitions 将维护一个 CSS 代码片段，以便启用您的自定义类型呼叫提示。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "efde1ab6efde1ab6efde1ab6",
+      "source": "新增",
+      "translated": "新增",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "85d4ee5485d4ee5485d4ee54",
+      "source": "Add a new Admonition type. All custom Admonitions will also be usable as callouts.",
+      "translated": "添加一个新的提示类型。所有自定义提示也将可用作注目。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "986692ab986692ab986692ab",
+      "source": "Import Admonition(s)",
+      "translated": "导入提示（复数）",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "18bcaede18bcaede18bcaede",
+      "source": "Import admonitions from a JSON definition.",
+      "translated": "从 JSON 定义导入提示信息。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "14e53b4e14e53b4e14e53b4e",
+      "source": "Admonitions & Callouts",
+      "translated": "提示与提醒",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "df337496df337496df337496",
+      "source": "Add Drop Shadow",
+      "translated": "添加阴影效果",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "d78617f5d78617f5d78617f5",
+      "source": "A drop shadow will be added to admonitions.",
+      "translated": "将在提示信息框添加阴影。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "ee81021cee81021cee81021c",
+      "source": "默认折叠",
+      "translated": "默认折叠",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "40160b6740160b6740160b67",
+      "source": "All admonitions & callouts will be collapsible by default. Use",
+      "translated": "所有的 admonitions 和 callouts 将默认可折叠。使用",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "b0039cc6b0039cc6b0039cc6",
+      "source": "来阻止。",
+      "translated": "来阻止。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "82f3123f82f3123f82f3123f",
+      "source": "添加复制按钮",
+      "translated": "添加复制按钮",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "fefe1aa1fefe1aa1fefe1aa1",
+      "source": "Add a 'copy content' button to admonitions & callouts.",
+      "translated": "为提示和侧边栏添加一个“复制内容”按钮。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "5370cd2a5370cd2a5370cd2a",
+      "source": "将名称转变为 Markdown",
+      "translated": "将名称转变为 Markdown",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "0e11986a0e11986a0e11986a",
+      "source": "Admonition 名称将以 markdown 形式呈现。",
+      "translated": "Admonition 名称将以 markdown 形式呈现。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "38acd70838acd70838acd708",
+      "source": "Set Admonition Colors",
+      "translated": "设置警告颜色",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "0fc56d860fc56d860fc56d86",
+      "source": "Disable this setting to turn off admonition coloring by default. Can be overridden in the admonition definition.",
+      "translated": "禁用此设置可默认关闭警告框着色。可以在警告框定义中覆盖此设置。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "ac1401e2ac1401e2ac1401e2",
+      "source": "Hide Empty Admonitions",
+      "translated": "隐藏空提示信息",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "3dad377c3dad377c3dad377c",
+      "source": "Any admonition that does not have content inside it will be hidden.",
+      "translated": "任何没有内容的提示都将被隐藏。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "e2855319e2855319e2855319",
+      "source": "Icon Packs",
+      "translated": "图标包",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "89cd145789cd145789cd1457",
+      "source": "Use Font Awesome Icons",
+      "translated": "使用 Font Awesome 图标",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "7a69c5bf7a69c5bf7a69c5bf",
+      "source": "Font Awesome Free icons will be available in the item picker. Existing Admonitions defined using Font Awesome icons will continue to work.",
+      "translated": "Font Awesome 免费图标将在项目选择器中可用。已使用 Font Awesome 图标定义的警告框将继续生效。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "3d656f5f3d656f5f3d656f5f",
+      "source": "Load Additional Icons",
+      "translated": "加载额外图标",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "3a42e4203a42e4203a42e420",
+      "source": "Load an additional icon pack. This requires an internet connection.",
+      "translated": "加载额外的图标包。这需要互联网连接。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "a8b57438a8b57438a8b57438",
+      "source": "Octicons",
+      "translated": "Octicons",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "17eeb93a17eeb93a17eeb93a",
+      "source": "RPG Awesome",
+      "translated": "RPG Awesome",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "0fe2f23e0fe2f23e0fe2f23e",
+      "source": "Additional Syntaxes",
+      "translated": "附加语法",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "86c2d17686c2d17686c2d176",
+      "source": "Obsidian 0.14 has introduced Callout boxes to its core functionality using the same syntax as the Microsoft Document callouts.",
+      "translated": "Obsidian 0.14使用与Microsoft文档标注相同的语法将标注框引入其核心功能。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "fad5e8c5fad5e8c5fad5e8c5",
+      "source": "This has rendered the Microsoft Document syntax for Admonitions obsolete, but Admonitions can still be used to create and manage your custom callout types.",
+      "translated": "这使得用于Admonitions的Microsoft Document语法过时，但Admonitions仍然可以用于创建和管理自定义标注类型。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "8a096d9e8a096d9e8a096d9e",
+      "source": "Your existing code block Admonitions will always work!",
+      "translated": "您现有的代码块Admonitions将始终有效！",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "e79c2d32e79c2d32e79c2d32",
+      "source": "Convert MSDoc Admonitions to Callouts",
+      "translated": "将 MSDoc Admonitions转换为Callouts",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "79fc741e79fc741e79fc741e",
+      "source": "This",
+      "translated": "此",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "6ceb11a36ceb11a36ceb11a3",
+      "source": "modify notes. Use at your own risk and please make backups.",
+      "translated": "修改笔记。使用风险自负，请进行备份。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "cfa045b1cfa045b1cfa045b1",
+      "source": "With large vaults, this could take awhile!",
+      "translated": "对于大型库，这可能需要一段时间！",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "09228a8f09228a8f09228a8f",
+      "source": "Convert",
+      "translated": "转换",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "10f7e38010f7e38010f7e380",
+      "source": "Convert Codeblock Admonitions to Callouts",
+      "translated": "将代码块Admonitions转换为Callouts",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "e46d7e23e46d7e23e46d7e23",
+      "source": "Advanced Settings",
+      "translated": "高级设置",
+      "updatedAt": 1765007348788
+    }
+  ]
+}
