@@ -1,0 +1,708 @@
+{
+  "version": 1,
+  "scope": "Various Complements",
+  "entries": [
+    {
+      "key": "aaeeac2caaeeac2caaeeac2c",
+      "source": "Various Complements - Settings",
+      "translated": "Various Complements - Settings",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "621e6d33621e6d33621e6d33",
+      "source": "Main",
+      "translated": "Main",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "4bc060234bc060234bc06023",
+      "source": "Strategy",
+      "translated": "Strategy",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "6056d6d36056d6d36056d6d3",
+      "source": "english-only",
+      "translated": "english-only",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "c267f3bfc267f3bfc267f3bf",
+      "source": "japanese",
+      "translated": "japanese",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "339750a2339750a2339750a2",
+      "source": "arabic",
+      "translated": "arabic",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "1b394ea71b394ea71b394ea7",
+      "source": "chinese",
+      "translated": "chinese",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "9d7071049d7071049d707104",
+      "source": "korean",
+      "translated": "korean",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "af044810af044810af044810",
+      "source": "Match strategy",
+      "translated": "Match strategy",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "18765d0818765d0818765d08",
+      "source": "prefix",
+      "translated": "prefix",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "62d89d0b62d89d0b62d89d0b",
+      "source": "partial",
+      "translated": "partial",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "f48e1941f48e1941f48e1941",
+      "source": "Fuzzy match",
+      "translated": "Fuzzy match",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "3e7d36433e7d36433e7d3643",
+      "source": "Min fuzzy match score",
+      "translated": "Min fuzzy match score",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "c01a3808c01a3808c01a3808",
+      "source": "It only shows suggestions whose fuzzy matched score is more than the specific value.",
+      "translated": "It only shows suggestions whose fuzzy matched score is more than the specific value.",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "9f76ff529f76ff529f76ff52",
+      "source": "Treat accent diacritics as alphabetic characters.",
+      "translated": "Treat accent diacritics as alphabetic characters.",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "31e4429b31e4429b31e4429b",
+      "source": "Ex: If enabled, 'aaa' matches with 'áäā'",
+      "translated": "Ex: If enabled, 'aaa' matches with 'áäā'",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "f7703d2df7703d2df7703d2d",
+      "source": "Treat an underscore as a part of a word.",
+      "translated": "Treat an underscore as a part of a word.",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "d4887a9ed4887a9ed4887a9e",
+      "source": "If this setting is enabled, aaa_bbb will be tokenized as a single token aaa_bbb, rather than being split into aaa and bbb.",
+      "translated": "If this setting is enabled, aaa_bbb will be tokenized as a single token aaa_bbb, rather than being split into aaa and bbb.",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "dc9813e3dc9813e3dc9813e3",
+      "source": "Matching without emoji",
+      "translated": "Matching without emoji",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "80b4baa380b4baa380b4baa3",
+      "source": "Ex: If enabled, 'aaa' matches with '😀aaa'",
+      "translated": "Ex: If enabled, 'aaa' matches with '😀aaa'",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "fa5b3559fa5b3559fa5b3559",
+      "source": "Max number of suggestions",
+      "translated": "Max number of suggestions",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "aee0c4d5aee0c4d5aee0c4d5",
+      "source": "Max number of words as a phrase",
+      "translated": "Max number of words as a phrase",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "71dea7da71dea7da71dea7da",
+      "source": "[⚠Warning] It makes slower more than N times (N is set value)",
+      "translated": "[⚠Warning] It makes slower more than N times (N is set value)",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "408699514086995140869951",
+      "source": "Min number of characters for trigger",
+      "translated": "Min number of characters for trigger",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "51a481d051a481d051a481d0",
+      "source": "Setting the value to 0 does not mean the suggestion will be triggered without any inputted character. Instead, a designated value will be used depending on the Strategy you choose.",
+      "translated": "Setting the value to 0 does not mean the suggestion will be triggered without any inputted character. Instead, a designated value will be used depending on the Strategy you choose.",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "cf505846cf505846cf505846",
+      "source": "Min number of words for trigger",
+      "translated": "Min number of words for trigger",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "2a664e372a664e372a664e37",
+      "source": "Complement automatically",
+      "translated": "Complement automatically",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "c4a8a4cdc4a8a4cdc4a8a4cd",
+      "source": "Delay milli-seconds for trigger",
+      "translated": "Delay milli-seconds for trigger",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "08ed485008ed485008ed4850",
+      "source": "Disable suggestions during IME on",
+      "translated": "Disable suggestions during IME on",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "f1415ab4f1415ab4f1415ab4",
+      "source": "Disable suggestions in the Math block",
+      "translated": "Disable suggestions in the Math block",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "367a504b367a504b367a504b",
+      "source": "Disables suggestions within math blocks. This setting does not apply to inline blocks.",
+      "translated": "Disables suggestions within math blocks. This setting does not apply to inline blocks.",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "8c8e06298c8e06298c8e0629",
+      "source": "Disable suggestions in the Code block",
+      "translated": "Disable suggestions in the Code block",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "6b947a966b947a966b947a96",
+      "source": "Disables suggestions within code blocks. This setting does not apply to inline blocks.",
+      "translated": "Disables suggestions within code blocks. This setting does not apply to inline blocks.",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "4404506b4404506b4404506b",
+      "source": "Insert space after completion",
+      "translated": "Insert space after completion",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "609ee618609ee618609ee618",
+      "source": "First characters to disable suggestions",
+      "translated": "First characters to disable suggestions",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "d4d65e3fd4d65e3fd4d65e3f",
+      "source": "Line patterns to suppress trigger",
+      "translated": "Line patterns to suppress trigger",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "372533dc372533dc372533dc",
+      "source": "Regular expression line patterns (partial match) until the cursor, that suppresses the activation of autocomplete. Multiple patterns can be defined with line breaks.",
+      "translated": "Regular expression line patterns (partial match) until the cursor, that suppresses the activation of autocomplete. Multiple patterns can be defined with line breaks.",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "00dc2fec00dc2fec00dc2fec",
+      "source": "Phrase patterns to suppress trigger",
+      "translated": "Phrase patterns to suppress trigger",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "de0b6789de0b6789de0b6789",
+      "source": "Regular expression patterns (exact match) that suppress the activation of autocomplete. Multiple patterns can be defined with line breaks.",
+      "translated": "Regular expression patterns (exact match) that suppress the activation of autocomplete. Multiple patterns can be defined with line breaks.",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "8cc94c548cc94c548cc94c54",
+      "source": "No auto-focus until the cycle",
+      "translated": "No auto-focus until the cycle",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "37837a3437837a3437837a34",
+      "source": "No focus on the suggestions until the cycle key is pressed.",
+      "translated": "No focus on the suggestions until the cycle key is pressed.",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "70a24f6670a24f6670a24f66",
+      "source": "Appearance",
+      "translated": "Appearance",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "3a70ff933a70ff933a70ff93",
+      "source": "Show Match strategy",
+      "translated": "Show Match strategy",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "733902637339026373390263",
+      "source": "Show Match strategy at the status bar. Changing this option requires a restart to take effect.",
+      "translated": "Show Match strategy at the status bar. Changing this option requires a restart to take effect.",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "9a6aaaf49a6aaaf49a6aaaf4",
+      "source": "Show Complement automatically",
+      "translated": "Show Complement automatically",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "abdf2cc4abdf2cc4abdf2cc4",
+      "source": "Show complement automatically at the status bar. Changing this option requires a restart to take effect.",
+      "translated": "Show complement automatically at the status bar. Changing this option requires a restart to take effect.",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "031a1d91031a1d91031a1d91",
+      "source": "Show Indexing status",
+      "translated": "Show Indexing status",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "7b9f6c417b9f6c417b9f6c41",
+      "source": "Show indexing status at the status bar. Changing this option requires a restart to take effect.",
+      "translated": "Show indexing status at the status bar. Changing this option requires a restart to take effect.",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "72390fd272390fd272390fd2",
+      "source": "Description on a suggestion",
+      "translated": "Description on a suggestion",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "24ab492a24ab492a24ab492a",
+      "source": "Short",
+      "translated": "Short",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "a7cd3b2ba7cd3b2ba7cd3b2b",
+      "source": "Full",
+      "translated": "Full",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "7f99e4727f99e4727f99e472",
+      "source": "Key customization",
+      "translated": "Key customization",
+      "updatedAt": 1765001084055
+    },
+    {
+      "key": "13d5cacf13d5cacf13d5cacf",
+      "source": "Hotkeys",
+      "translated": "Hotkeys",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "1a978f2e1a978f2e1a978f2e",
+      "source": "'Ctrl a' means pressing the Ctrl key and the A key.",
+      "translated": "'Ctrl a' means pressing the Ctrl key and the A key.",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "4d9253044d9253044d925304",
+      "source": "'Enter|Tab' means pressing the Enter key or the Tab key.",
+      "translated": "'Enter|Tab' means pressing the Enter key or the Tab key.",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "4688c3e84688c3e84688c3e8",
+      "source": "Use 'Mod' instead of 'Ctrl' on Windows or 'Cmd' on macOS.",
+      "translated": "Use 'Mod' instead of 'Ctrl' on Windows or 'Cmd' on macOS.",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "038622100386221003862210",
+      "source": "select",
+      "translated": "select",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "5ea297775ea297775ea29777",
+      "source": "select with custom alias",
+      "translated": "select with custom alias",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "b5e9562eb5e9562eb5e9562e",
+      "source": "select with query alias",
+      "translated": "select with query alias",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "a136323da136323da136323d",
+      "source": "up",
+      "translated": "up",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "8ac8b3aa8ac8b3aa8ac8b3aa",
+      "source": "down",
+      "translated": "down",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "baf002a6baf002a6baf002a6",
+      "source": "select 1st",
+      "translated": "select 1st",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "d58c46c8d58c46c8d58c46c8",
+      "source": "select 2nd",
+      "translated": "select 2nd",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "83daad5583daad5583daad55",
+      "source": "select 3rd",
+      "translated": "select 3rd",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "263d0398263d0398263d0398",
+      "source": "select 4th",
+      "translated": "select 4th",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "aacb8699aacb8699aacb8699",
+      "source": "select 5th",
+      "translated": "select 5th",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "dfe6aa9adfe6aa9adfe6aa9a",
+      "source": "select 6th",
+      "translated": "select 6th",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "64752d9b64752d9b64752d9b",
+      "source": "select 7th",
+      "translated": "select 7th",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "c419d094c419d094c419d094",
+      "source": "select 8th",
+      "translated": "select 8th",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "48a8539548a8539548a85395",
+      "source": "select 9th",
+      "translated": "select 9th",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "63b4b84c63b4b84c63b4b84c",
+      "source": "open",
+      "translated": "open",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "fef6c73cfef6c73cfef6c73c",
+      "source": "completion",
+      "translated": "completion",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "54b0bd6054b0bd6054b0bd60",
+      "source": "insert as text",
+      "translated": "insert as text",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "ee62f346ee62f346ee62f346",
+      "source": "Propagate ESC",
+      "translated": "Propagate ESC",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "9bb8aae89bb8aae89bb8aae8",
+      "source": "It is handy if you use Vim mode because you can switch to Normal mode by one ESC, whether it shows suggestions or not.",
+      "translated": "It is handy if you use Vim mode because you can switch to Normal mode by one ESC, whether it shows suggestions or not.",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "6278ebfd6278ebfd6278ebfd",
+      "source": "Current file complement",
+      "translated": "Current file complement",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "d617c91cd617c91cd617c91c",
+      "source": "Enable Current file complement",
+      "translated": "Enable Current file complement",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "fe401017fe401017fe401017",
+      "source": "Min number of characters for indexing",
+      "translated": "Min number of characters for indexing",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "bd9bb435bd9bb435bd9bb435",
+      "source": "It uses a default value of Strategy if set 0.",
+      "translated": "It uses a default value of Strategy if set 0.",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "a94f1d10a94f1d10a94f1d10",
+      "source": "Only complement English on current file complement",
+      "translated": "Only complement English on current file complement",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "93fa8bc993fa8bc993fa8bc9",
+      "source": "Override the main trigger setting for this provider. Set 0 to use the main setting value.",
+      "translated": "Override the main trigger setting for this provider. Set 0 to use the main setting value.",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "f87bcbeef87bcbeef87bcbee",
+      "source": "Exclude word patterns for indexing",
+      "translated": "Exclude word patterns for indexing",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "efabe8acefabe8acefabe8ac",
+      "source": "Regexp patterns for words to be excluded from the suggestions, separated by line breaks.",
+      "translated": "Regexp patterns for words to be excluded from the suggestions, separated by line breaks.",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "e22cb321e22cb321e22cb321",
+      "source": "Current vault complement",
+      "translated": "Current vault complement",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "e8481020e8481020e8481020",
+      "source": "Enable Current vault complement",
+      "translated": "Enable Current vault complement",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "d1b8b6b9d1b8b6b9d1b8b6b9",
+      "source": "Custom dictionary complement",
+      "translated": "Custom dictionary complement",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "bcf97ab8bcf97ab8bcf97ab8",
+      "source": "Enable Custom dictionary complement",
+      "translated": "Enable Custom dictionary complement",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "5d00ff555d00ff555d00ff55",
+      "source": "Internal link complement",
+      "translated": "Internal link complement",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "6c5fae946c5fae946c5fae94",
+      "source": "Enable Internal link complement",
+      "translated": "Enable Internal link complement",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "d67d0c27d67d0c27d67d0c27",
+      "source": "Suggest with an alias",
+      "translated": "Suggest with an alias",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "b56e5f1db56e5f1db56e5f1d",
+      "source": "Update internal links on save",
+      "translated": "Update internal links on save",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "151729e5151729e5151729e5",
+      "source": "Exclude self internal link",
+      "translated": "Exclude self internal link",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "cc5428d4cc5428d4cc5428d4",
+      "source": "Exclude existing in active file internal links",
+      "translated": "Exclude existing in active file internal links",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "03ad46fa03ad46fa03ad46fa",
+      "source": "Exclude internal links present in the current file from the suggestions. Note that the number of excluded suggestions will reduce the total suggestions by the value set in the 'Max number of suggestions' option.",
+      "translated": "Exclude internal links present in the current file from the suggestions. Note that the number of excluded suggestions will reduce the total suggestions by the value set in the 'Max number of suggestions' option.",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "e45dee3be45dee3be45dee3b",
+      "source": "Insert an alias that is transformed from the displayed internal link",
+      "translated": "Insert an alias that is transformed from the displayed internal link",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "9f74fb789f74fb789f74fb78",
+      "source": "Exclude prefix path patterns",
+      "translated": "Exclude prefix path patterns",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "5ee3c3eb5ee3c3eb5ee3c3eb",
+      "source": "Prefix match path patterns to exclude files.",
+      "translated": "Prefix match path patterns to exclude files.",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "370c260e370c260e370c260e",
+      "source": "Exclude path glob patterns",
+      "translated": "Exclude path glob patterns",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "dc8396cedc8396cedc8396ce",
+      "source": "Glob patterns to exclude files. Supports wildcards like **/attachments, **/*.png, etc.",
+      "translated": "Glob patterns to exclude files. Supports wildcards like **/attachments, **/*.png, etc.",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "3f115dc93f115dc93f115dc9",
+      "source": "⚠ Glob patterns add processing overhead. Use prefix path patterns above for better performance when possible.",
+      "translated": "⚠ Glob patterns add processing overhead. Use prefix path patterns above for better performance when possible.",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "11274a9211274a9211274a92",
+      "source": "Front matter key for exclusion",
+      "translated": "Front matter key for exclusion",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "8ed780948ed780948ed78094",
+      "source": "Exclude internal links from the suggestions if whose front matters have the key whose name is same as this setting, and the value is 'true'",
+      "translated": "Exclude internal links from the suggestions if whose front matters have the key whose name is same as this setting, and the value is 'true'",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "48dbfc7e48dbfc7e48dbfc7e",
+      "source": "Tags for exclusion",
+      "translated": "Tags for exclusion",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "ae2e8524ae2e8524ae2e8524",
+      "source": "Tags to exclude suggestions for internal links. If specifying multiple tags, separate them with line breaks.",
+      "translated": "Tags to exclude suggestions for internal links. If specifying multiple tags, separate them with line breaks.",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "b470d4a8b470d4a8b470d4a8",
+      "source": "Front matter complement",
+      "translated": "Front matter complement",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "5f2421495f2421495f242149",
+      "source": "Enable Front matter complement",
+      "translated": "Enable Front matter complement",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "d38c6bf6d38c6bf6d38c6bf6",
+      "source": "Intelligent suggestion prioritization",
+      "translated": "Intelligent suggestion prioritization",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "8f39b5578f39b5578f39b557",
+      "source": "Enable Intelligent Suggestion Prioritization",
+      "translated": "Enable Intelligent Suggestion Prioritization",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "18176cb118176cb118176cb1",
+      "source": "history file path",
+      "translated": "history file path",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "ce247a64ce247a64ce247a64",
+      "source": "Default: .obsidian/plugins/various-complements/histories.json",
+      "translated": "Default: .obsidian/plugins/various-complements/histories.json",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "f8980ea1f8980ea1f8980ea1",
+      "source": "Max days to keep history",
+      "translated": "Max days to keep history",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "5781c2865781c2865781c286",
+      "source": "If set 0, it will never remove",
+      "translated": "If set 0, it will never remove",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "5547b0845547b0845547b084",
+      "source": "Max number of history to keep",
+      "translated": "Max number of history to keep",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "fc4921d8fc4921d8fc4921d8",
+      "source": "Mobile",
+      "translated": "Mobile",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "c76e6b0dc76e6b0dc76e6b0d",
+      "source": "Disable on mobile",
+      "translated": "Disable on mobile",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "56ff746956ff746956ff7469",
+      "source": "Debug",
+      "translated": "Debug",
+      "updatedAt": 1765001084056
+    },
+    {
+      "key": "16eecc3b16eecc3b16eecc3b",
+      "source": "Show log about performance in a console",
+      "translated": "Show log about performance in a console",
+      "updatedAt": 1765001084056
+    }
+  ]
+}
