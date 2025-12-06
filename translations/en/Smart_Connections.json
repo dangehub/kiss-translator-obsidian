@@ -1,0 +1,672 @@
+{
+  "version": 1,
+  "scope": "Smart Connections",
+  "entries": [
+    {
+      "key": "72aa654672aa654672aa6546",
+      "source": "By using Smart Connections you agree to share how it helps you with at least one other person 😊🌴",
+      "translated": "By using Smart Connections you agree to share how it helps you with at least one other person 😊🌴",
+      "updatedAt": 1765000110203
+    },
+    {
+      "key": "b51d2981b51d2981b51d2981",
+      "source": "Getting started guide",
+      "translated": "Getting started guide",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "970a70c7970a70c7970a70c7",
+      "source": "Report a bug",
+      "translated": "Report a bug",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "46873f7c46873f7c46873f7c",
+      "source": "Request a feature",
+      "translated": "Request a feature",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "c2d4e076c2d4e076c2d4e076",
+      "source": "Share workflow ⭐",
+      "translated": "Share workflow ⭐",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "490e4cd0490e4cd0490e4cd0",
+      "source": "Connections view",
+      "translated": "Connections view",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "d0ecadc5d0ecadc5d0ecadc5",
+      "source": "Show full path",
+      "translated": "Show full path",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "9149f3eb9149f3eb9149f3eb",
+      "source": "Turning on will include the folder path in the connections results.",
+      "translated": "Turning on will include the folder path in the connections results.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "d0cd75d5d0cd75d5d0cd75d5",
+      "source": "Render markdown",
+      "translated": "Render markdown",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "a01f53b4a01f53b4a01f53b4",
+      "source": "Turn off to prevent rendering markdown and display connection results as plain text.",
+      "translated": "Turn off to prevent rendering markdown and display connection results as plain text.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "ae4383b7ae4383b7ae4383b7",
+      "source": "Results limit",
+      "translated": "Results limit",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "164549b8164549b8164549b8",
+      "source": "Adjust the number of connections displayed in the connections view (default 20).",
+      "translated": "Adjust the number of connections displayed in the connections view (default 20).",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "ed74c833ed74c833ed74c833",
+      "source": "Exclude inlinks (backlinks)",
+      "translated": "Exclude inlinks (backlinks)",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "c65472d7c65472d7c65472d7",
+      "source": "Exclude notes that already link to the current note from the connections results.",
+      "translated": "Exclude notes that already link to the current note from the connections results.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "fc45a583fc45a583fc45a583",
+      "source": "Exclude outlinks",
+      "translated": "Exclude outlinks",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "b4340e98b4340e98b4340e98",
+      "source": "Exclude notes that are already linked from within the current note from appearing in the connections results.",
+      "translated": "Exclude notes that are already linked from within the current note from appearing in the connections results.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "b6915304b6915304b6915304",
+      "source": "Include filter",
+      "translated": "Include filter",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "282811622828116228281162",
+      "source": "Notes must match this value in their file/folder path. Matching notes will be included in the connections results. Separate multiple values with commas.",
+      "translated": "Notes must match this value in their file/folder path. Matching notes will be included in the connections results. Separate multiple values with commas.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "32589e9e32589e9e32589e9e",
+      "source": "Exclude filter",
+      "translated": "Exclude filter",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "8a6bcf9c8a6bcf9c8a6bcf9c",
+      "source": "Notes must *not* match this value in their file/folder path. Matching notes will be *excluded* from the connections results. Separate multiple values with commas.",
+      "translated": "Notes must *not* match this value in their file/folder path. Matching notes will be *excluded* from the connections results. Separate multiple values with commas.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "c75a5adfc75a5adfc75a5adf",
+      "source": "Hide blocks in results",
+      "translated": "Hide blocks in results",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "d6f98f94d6f98f94d6f98f94",
+      "source": "Show only sources in the connections results (no blocks).",
+      "translated": "Show only sources in the connections results (no blocks).",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "291c7c45291c7c45291c7c45",
+      "source": "Hide frontmatter blocks in results",
+      "translated": "Hide frontmatter blocks in results",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "1002f2ce1002f2ce1002f2ce",
+      "source": "Show only sources in the connections results (no frontmatter blocks).",
+      "translated": "Show only sources in the connections results (no frontmatter blocks).",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "05729eba05729eba05729eba",
+      "source": "Ribbon icons",
+      "translated": "Ribbon icons",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "63e3c9c463e3c9c463e3c9c4",
+      "source": "Open connections view",
+      "translated": "Open connections view",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "2b00ee1b2b00ee1b2b00ee1b",
+      "source": "Show the \"Open connections view\" icon.",
+      "translated": "Show the \"Open connections view\" icon.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "74c61c8174c61c8174c61c81",
+      "source": "Open random connection",
+      "translated": "Open random connection",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "cba4befecba4befecba4befe",
+      "source": "Show the \"Open random connection\" icon.",
+      "translated": "Show the \"Open random connection\" icon.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "8596c0d48596c0d48596c0d4",
+      "source": "Smart Environment",
+      "translated": "Smart Environment",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "7e0842eb7e0842eb7e0842eb",
+      "source": "Show environment settings",
+      "translated": "Show environment settings",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "7c06173a7c06173a7c06173a",
+      "source": "Show stats",
+      "translated": "Show stats",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "1e02ac871e02ac871e02ac87",
+      "source": "Reload sources",
+      "translated": "Reload sources",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "f3d4bee5f3d4bee5f3d4bee5",
+      "source": "Clean-up data",
+      "translated": "Clean-up data",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "9abb8fbf9abb8fbf9abb8fbf",
+      "source": "Clear sources data",
+      "translated": "Clear sources data",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "2aaaa37c2aaaa37c2aaaa37c",
+      "source": "Are you sure you want to clear all sources data? This cannot be undone.",
+      "translated": "Are you sure you want to clear all sources data? This cannot be undone.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "240d8ad7240d8ad7240d8ad7",
+      "source": "Yes",
+      "translated": "Yes",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "2375c07e2375c07e2375c07e",
+      "source": "Cancel",
+      "translated": "Cancel",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "50c735a150c735a150c735a1",
+      "source": "Re-import wait time",
+      "translated": "Re-import wait time",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "44cd6af444cd6af444cd6af4",
+      "source": "Time in seconds to wait before re-importing a file after modification.",
+      "translated": "Time in seconds to wait before re-importing a file after modification.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "455b7b1f455b7b1f455b7b1f",
+      "source": "Excluded folders",
+      "translated": "Excluded folders",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "aceac84daceac84daceac84d",
+      "source": "Add excluded folder",
+      "translated": "Add excluded folder",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "5ea6aab85ea6aab85ea6aab8",
+      "source": "No folders excluded yet.",
+      "translated": "No folders excluded yet.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "95658d6f95658d6f95658d6f",
+      "source": "Excluded files",
+      "translated": "Excluded files",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "ff5072bdff5072bdff5072bd",
+      "source": "Add excluded file",
+      "translated": "Add excluded file",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "8aa06c418aa06c418aa06c41",
+      "source": "(x)",
+      "translated": "(x)",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "be262f59be262f59be262f59",
+      "source": "Show excluded",
+      "translated": "Show excluded",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "8f2a8d6f8f2a8d6f8f2a8d6f",
+      "source": "Smart Sources",
+      "translated": "Smart Sources",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "4c310f124c310f124c310f12",
+      "source": "Minimum length",
+      "translated": "Minimum length",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "73f90df273f90df273f90df2",
+      "source": "Minimum length of entity to embed (in characters).",
+      "translated": "Minimum length of entity to embed (in characters).",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "fce2d391fce2d391fce2d391",
+      "source": "File Exclusions",
+      "translated": "File Exclusions",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "f1f3f1f4f1f3f1f4f1f3f1f4",
+      "source": "Comma-separated list of files to exclude.",
+      "translated": "Comma-separated list of files to exclude.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "6f3073616f3073616f307361",
+      "source": "Folder Exclusions",
+      "translated": "Folder Exclusions",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "f71d5f84f71d5f84f71d5f84",
+      "source": "Comma-separated list of folders to exclude.",
+      "translated": "Comma-separated list of folders to exclude.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "45e7a6e145e7a6e145e7a6e1",
+      "source": "Excluded Headings",
+      "translated": "Excluded Headings",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "ffe7281affe7281affe7281a",
+      "source": "Comma-separated list of headings to exclude.",
+      "translated": "Comma-separated list of headings to exclude.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "51a0e38751a0e38751a0e387",
+      "source": "Embedding model platform",
+      "translated": "Embedding model platform",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "69b3a88669b3a88669b3a886",
+      "source": "Select an embedding model platform. The default 'transformers' utilizes built-in local models.",
+      "translated": "Select an embedding model platform. The default 'transformers' utilizes built-in local models.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "f756dd7cf756dd7cf756dd7c",
+      "source": "Transformers (Local, built-in)",
+      "translated": "Transformers (Local, built-in)",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "477b817d477b817d477b817d",
+      "source": "OpenAI (API)",
+      "translated": "OpenAI (API)",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "c9235bf6c9235bf6c9235bf6",
+      "source": "Ollama (Local)",
+      "translated": "Ollama (Local)",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "c5c50549c5c50549c5c50549",
+      "source": "Google Gemini (API)",
+      "translated": "Google Gemini (API)",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "e9408a69e9408a69e9408a69",
+      "source": "LM Studio",
+      "translated": "LM Studio",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "bfb4d0b8bfb4d0b8bfb4d0b8",
+      "source": "Embedding model",
+      "translated": "Embedding model",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "80f540b180f540b180f540b1",
+      "source": "Select an embedding model.",
+      "translated": "Select an embedding model.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "63d3c96663d3c96663d3c966",
+      "source": "BGE-micro-v2",
+      "translated": "BGE-micro-v2",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "f03f30caf03f30caf03f30ca",
+      "source": "BGE-small",
+      "translated": "BGE-small",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "3b9efef83b9efef83b9efef8",
+      "source": "BGE-small-4K",
+      "translated": "BGE-small-4K",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "794a07a7794a07a7794a07a7",
+      "source": "EmbeddingGemma-300M",
+      "translated": "EmbeddingGemma-300M",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "a20ae8a9a20ae8a9a20ae8a9",
+      "source": "GTE-tiny",
+      "translated": "GTE-tiny",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "316452ab316452ab316452ab",
+      "source": "Ivysaur",
+      "translated": "Ivysaur",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "23ea26a423ea26a423ea26a4",
+      "source": "Jina-v2-base-zh-8K",
+      "translated": "Jina-v2-base-zh-8K",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "96227b6996227b6996227b69",
+      "source": "Jina-v2-small-en",
+      "translated": "Jina-v2-small-en",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "ac8bcac8ac8bcac8ac8bcac8",
+      "source": "Nomic-embed-text",
+      "translated": "Nomic-embed-text",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "1dc038991dc038991dc03899",
+      "source": "Nomic-embed-text-v1.5",
+      "translated": "Nomic-embed-text-v1.5",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "17aa24c017aa24c017aa24c0",
+      "source": "Snowflake Arctic Embed Medium",
+      "translated": "Snowflake Arctic Embed Medium",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "953756429537564295375642",
+      "source": "Snowflake Arctic Embed Small",
+      "translated": "Snowflake Arctic Embed Small",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "e6fa1576e6fa1576e6fa1576",
+      "source": "Snowflake Arctic Embed XS",
+      "translated": "Snowflake Arctic Embed XS",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "924b0d83924b0d83924b0d83",
+      "source": "GPU batch size",
+      "translated": "GPU batch size",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "a9f52f18a9f52f18a9f52f18",
+      "source": "Number of embeddings to process per batch on GPU. Use 0 to disable GPU.",
+      "translated": "Number of embeddings to process per batch on GPU. Use 0 to disable GPU.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "cc6af2e7cc6af2e7cc6af2e7",
+      "source": "Legacy transformers (no GPU)",
+      "translated": "Legacy transformers (no GPU)",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "d72d7fb0d72d7fb0d72d7fb0",
+      "source": "Use legacy transformers (v2) instead of v3. This may resolve issues if the local embedding isn't working.",
+      "translated": "Use legacy transformers (v2) instead of v3. This may resolve issues if the local embedding isn't working.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "d8f7e91bd8f7e91bd8f7e91b",
+      "source": "Smart Blocks",
+      "translated": "Smart Blocks",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "b0b9a429b0b9a429b0b9a429",
+      "source": "Utilize Smart Blocks",
+      "translated": "Utilize Smart Blocks",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "4923acf84923acf84923acf8",
+      "source": "Creates more granular embeddings by splitting sources into smaller chunks. This may improve search results especially for large documents that have well-defined sections.",
+      "translated": "Creates more granular embeddings by splitting sources into smaller chunks. This may improve search results especially for large documents that have well-defined sections.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "85762abf85762abf85762abf",
+      "source": "Notes about embedding models:",
+      "translated": "Notes about embedding models:",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "0fbebda70fbebda70fbebda7",
+      "source": "API models require an API key and send your notes to third-party servers for processing.",
+      "translated": "API models require an API key and send your notes to third-party servers for processing.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "2db98bbf2db98bbf2db98bbf",
+      "source": "If notes persistently re-embed after switching models, use \"Clear sources data\" then \"Reload sources\" to reset.",
+      "translated": "If notes persistently re-embed after switching models, use \"Clear sources data\" then \"Reload sources\" to reset.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "2aef329c2aef329c2aef329c",
+      "source": "Muted notices",
+      "translated": "Muted notices",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "1cde5d731cde5d731cde5d73",
+      "source": "No muted notices.",
+      "translated": "No muted notices.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "5d7515715d7515715d751571",
+      "source": "Smart Plugins - Early Access",
+      "translated": "Smart Plugins - Early Access",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "71ab3cb071ab3cb071ab3cb0",
+      "source": "Supporters can sign in to access early-release Smart Plugins",
+      "translated": "Supporters can sign in to access early-release Smart Plugins",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "4a3fdbac4a3fdbac4a3fdbac",
+      "source": "Sign in",
+      "translated": "Sign in",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "498472fd498472fd498472fd",
+      "source": "Ask questions. Bring challenges. Request features. Show workflows. Be ready to share.",
+      "translated": "Ask questions. Bring challenges. Request features. Show workflows. Be ready to share.",
+      "updatedAt": 1765000110204
+    },
+    {
+      "key": "e3e638cee3e638cee3e638ce",
+      "source": "More Smart Plugins",
+      "translated": "More Smart Plugins",
+      "updatedAt": 1765000110205
+    },
+    {
+      "key": "f13ace41f13ace41f13ace41",
+      "source": "Quickly copy notes many notes to clipboard",
+      "translated": "Quickly copy notes many notes to clipboard",
+      "updatedAt": 1765000110205
+    },
+    {
+      "key": "599451125994511259945112",
+      "source": "Embed & bookmark chat threads to notes",
+      "translated": "Embed & bookmark chat threads to notes",
+      "updatedAt": 1765000110205
+    },
+    {
+      "key": "15d4480215d4480215d44802",
+      "source": "Smart note generation with context + templates",
+      "translated": "Smart note generation with context + templates",
+      "updatedAt": 1765000110205
+    },
+    {
+      "key": "c4e67273c4e67273c4e67273",
+      "source": "Try early & experimental features:",
+      "translated": "Try early & experimental features:",
+      "updatedAt": 1765000110205
+    },
+    {
+      "key": "a079209da079209da079209d",
+      "source": "Inline block connections",
+      "translated": "Inline block connections",
+      "updatedAt": 1765000110205
+    },
+    {
+      "key": "bb0006f5bb0006f5bb0006f5",
+      "source": "Footer connections view",
+      "translated": "Footer connections view",
+      "updatedAt": 1765000110205
+    },
+    {
+      "key": "6edf9e116edf9e116edf9e11",
+      "source": "Connections re-ranking",
+      "translated": "Connections re-ranking",
+      "updatedAt": 1765000110205
+    },
+    {
+      "key": "d9ef5597d9ef5597d9ef5597",
+      "source": "Named contexts",
+      "translated": "Named contexts",
+      "updatedAt": 1765000110205
+    },
+    {
+      "key": "3093a54f3093a54f3093a54f",
+      "source": "External sources: include code from external repositories",
+      "translated": "External sources: include code from external repositories",
+      "updatedAt": 1765000110205
+    },
+    {
+      "key": "a69ba12ea69ba12ea69ba12e",
+      "source": "Context codeblocks: embed context in notes (\"My most valuable workflow\" - 🌴 Brian)",
+      "translated": "Context codeblocks: embed context in notes (\"My most valuable workflow\" - 🌴 Brian)",
+      "updatedAt": 1765000110205
+    },
+    {
+      "key": "4148757a4148757a4148757a",
+      "source": "Generate & review changes",
+      "translated": "Generate & review changes",
+      "updatedAt": 1765000110205
+    },
+    {
+      "key": "90a421cd90a421cd90a421cd",
+      "source": "Access the Supporter Community Campfire Chat:",
+      "translated": "Access the Supporter Community Campfire Chat:",
+      "updatedAt": 1765000110205
+    },
+    {
+      "key": "914473879144738791447387",
+      "source": "Supporter-only private discussions",
+      "translated": "Supporter-only private discussions",
+      "updatedAt": 1765000110205
+    },
+    {
+      "key": "d2245b95d2245b95d2245b95",
+      "source": "Share workflows",
+      "translated": "Share workflows",
+      "updatedAt": 1765000110205
+    },
+    {
+      "key": "edd49f44edd49f44edd49f44",
+      "source": "Get priority help & support",
+      "translated": "Get priority help & support",
+      "updatedAt": 1765000110205
+    },
+    {
+      "key": "53b1d7e653b1d7e653b1d7e6",
+      "source": "Guaranteed seat in the Community Lean Coffee meetings.",
+      "translated": "Guaranteed seat in the Community Lean Coffee meetings.",
+      "updatedAt": 1765000110205
+    }
+  ]
+}
