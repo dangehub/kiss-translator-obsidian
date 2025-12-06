@@ -5,290 +5,290 @@
     {
       "key": "3cea43fc3cea43fc3cea43fc",
       "source": "Enable inline queries",
-      "translated": "Enable inline queries",
-      "updatedAt": 1764998642865
+      "translated": "启用内联查询",
+      "updatedAt": 1764998015830
     },
     {
       "key": "80fffb6680fffb6680fffb66",
       "source": "Enable or disable executing regular inline Dataview queries.",
-      "translated": "Enable or disable executing regular inline Dataview queries.",
-      "updatedAt": 1764998642865
+      "translated": "启用或禁用执行常规的内联 Dataview 查询。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "b6cbfb26b6cbfb26b6cbfb26",
       "source": "Enable JavaScript queries",
-      "translated": "Enable JavaScript queries",
-      "updatedAt": 1764998642865
+      "translated": "启用 JavaScript 查询",
+      "updatedAt": 1764998015830
     },
     {
       "key": "10088f8c10088f8c10088f8c",
       "source": "Enable or disable executing DataviewJS queries.",
-      "translated": "Enable or disable executing DataviewJS queries.",
-      "updatedAt": 1764998642865
+      "translated": "启用或禁用执行 DataviewJS 查询。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "77f59d4f77f59d4f77f59d4f",
       "source": "Enable inline JavaScript queries",
-      "translated": "Enable inline JavaScript queries",
-      "updatedAt": 1764998642865
+      "translated": "启用内联 JavaScript 查询",
+      "updatedAt": 1764998015830
     },
     {
       "key": "070e8547070e8547070e8547",
       "source": "Enable or disable executing inline DataviewJS queries. Requires that DataviewJS queries are enabled.",
-      "translated": "Enable or disable executing inline DataviewJS queries. Requires that DataviewJS queries are enabled.",
-      "updatedAt": 1764998642865
+      "translated": "启用或禁用执行内联 DataviewJS 查询。需要 DataviewJS 查询已启用。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "9726aa1a9726aa1a9726aa1a",
       "source": "Enable inline field highlighting in reading view",
-      "translated": "Enable inline field highlighting in reading view",
-      "updatedAt": 1764998642865
+      "translated": "在阅读视图中启用内联字段高亮显示",
+      "updatedAt": 1764998015830
     },
     {
       "key": "f2ff95faf2ff95faf2ff95fa",
       "source": "Enables or disables visual highlighting / pretty rendering for inline fields in reading view.",
-      "translated": "Enables or disables visual highlighting / pretty rendering for inline fields in reading view.",
-      "updatedAt": 1764998642865
+      "translated": "在阅读视图中启用或禁用内联字段的视觉高亮显示/美观渲染。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "6ceb7c396ceb7c396ceb7c39",
       "source": "Enable inline field highlighting in Live Preview",
-      "translated": "Enable inline field highlighting in Live Preview",
-      "updatedAt": 1764998642865
+      "translated": "在实时预览中启用内联字段高亮显示",
+      "updatedAt": 1764998015830
     },
     {
       "key": "d39a7e39d39a7e39d39a7e39",
       "source": "Enables or disables visual highlighting / pretty rendering for inline fields in Live Preview.",
-      "translated": "Enables or disables visual highlighting / pretty rendering for inline fields in Live Preview.",
-      "updatedAt": 1764998642865
+      "translated": "启用或禁用实时预览中内联字段的视觉高亮显示/美化渲染。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "f8ba764ff8ba764ff8ba764f",
       "source": "Codeblocks",
-      "translated": "Codeblocks",
-      "updatedAt": 1764998642865
+      "translated": "代码块",
+      "updatedAt": 1764998015830
     },
     {
       "key": "15b2b2c515b2b2c515b2b2c5",
       "source": "DataviewJS keyword",
-      "translated": "DataviewJS keyword",
-      "updatedAt": 1764998642865
+      "translated": "数据视图JS关键字",
+      "updatedAt": 1764998015830
     },
     {
       "key": "9efb70ac9efb70ac9efb70ac",
       "source": "Keyword for DataviewJS blocks. Defaults to 'dataviewjs'. Reload required for changes to take effect.",
-      "translated": "Keyword for DataviewJS blocks. Defaults to 'dataviewjs'. Reload required for changes to take effect.",
-      "updatedAt": 1764998642865
+      "translated": "数据视图JS块的关键字。默认为'dataviewjs'。更改后需要重新加载以生效。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "cf3f6b0bcf3f6b0bcf3f6b0b",
       "source": "Inline query prefix",
-      "translated": "Inline query prefix",
-      "updatedAt": 1764998642865
+      "translated": "内联查询前缀",
+      "updatedAt": 1764998015830
     },
     {
       "key": "4abe95e94abe95e94abe95e9",
       "source": "The prefix to inline queries (to mark them as Dataview queries). Defaults to '='.",
-      "translated": "The prefix to inline queries (to mark them as Dataview queries). Defaults to '='.",
-      "updatedAt": 1764998642865
+      "translated": "内联查询的前缀（用于标记为Dataview查询）。默认为'='。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "59f6985859f6985859f69858",
       "source": "JavaScript inline query prefix",
-      "translated": "JavaScript inline query prefix",
-      "updatedAt": 1764998642865
+      "translated": "JavaScript 内联查询前缀",
+      "updatedAt": 1764998015830
     },
     {
       "key": "379bc4c7379bc4c7379bc4c7",
       "source": "The prefix to JavaScript inline queries (to mark them as DataviewJS queries). Defaults to '$='.",
-      "translated": "The prefix to JavaScript inline queries (to mark them as DataviewJS queries). Defaults to '$='.",
-      "updatedAt": 1764998642865
+      "translated": "JavaScript 内联查询的前缀（用于将其标记为 DataviewJS 查询）。默认值为 '$='。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "87273a9987273a9987273a99",
       "source": "Code block inline queries",
-      "translated": "Code block inline queries",
-      "updatedAt": 1764998642865
+      "translated": "代码块内查询",
+      "updatedAt": 1764998015830
     },
     {
       "key": "fab6af7afab6af7afab6af7a",
       "source": "If enabled, inline queries will also be evaluated inside full code blocks.",
-      "translated": "If enabled, inline queries will also be evaluated inside full code blocks.",
-      "updatedAt": 1764998642865
+      "translated": "如果启用，内联查询也将在完整代码块中进行评估。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "daefdf15daefdf15daefdf15",
       "source": "View",
-      "translated": "View",
-      "updatedAt": 1764998642865
+      "translated": "视图",
+      "updatedAt": 1764998015830
     },
     {
       "key": "d1a546e8d1a546e8d1a546e8",
       "source": "Display result count",
-      "translated": "Display result count",
-      "updatedAt": 1764998642865
+      "translated": "显示结果数量",
+      "updatedAt": 1764998015830
     },
     {
       "key": "8016af2f8016af2f8016af2f",
       "source": "If toggled off, the small number in the result header of TASK and TABLE queries will be hidden.",
-      "translated": "If toggled off, the small number in the result header of TASK and TABLE queries will be hidden.",
-      "updatedAt": 1764998642865
+      "translated": "如果切换关闭，TASK 和 TABLE 查询结果头部的小数字将被隐藏。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "0369312f0369312f0369312f",
       "source": "Warn on empty result",
-      "translated": "Warn on empty result",
-      "updatedAt": 1764998642865
+      "translated": "在结果为空时警告",
+      "updatedAt": 1764998015830
     },
     {
       "key": "e6725932e6725932e6725932",
       "source": "If set, queries which return 0 results will render a warning message.",
-      "translated": "If set, queries which return 0 results will render a warning message.",
-      "updatedAt": 1764998642865
+      "translated": "如果设置了该选项，返回0结果的查询将显示警告信息。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "dedd4cdbdedd4cdbdedd4cdb",
       "source": "Render null as",
-      "translated": "Render null as",
-      "updatedAt": 1764998642865
+      "translated": "将 null 渲染为",
+      "updatedAt": 1764998015830
     },
     {
       "key": "a151f8b6a151f8b6a151f8b6",
       "source": "What null/non-existent should show up as in tables, by default. This supports Markdown notation.",
-      "translated": "What null/non-existent should show up as in tables, by default. This supports Markdown notation.",
-      "updatedAt": 1764998642865
+      "translated": "在表格中默认应显示什么为空/不存在。这支持Markdown语法。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "6f0361d56f0361d56f0361d5",
       "source": "Automatic view refreshing",
-      "translated": "Automatic view refreshing",
-      "updatedAt": 1764998642865
+      "translated": "自动视图刷新",
+      "updatedAt": 1764998015830
     },
     {
       "key": "d6139e7ad6139e7ad6139e7a",
       "source": "If enabled, views will automatically refresh when files in your vault change; this can negatively affect some functionality like embeds in views, so turn it off if such functionality is not working.",
-      "translated": "If enabled, views will automatically refresh when files in your vault change; this can negatively affect some functionality like embeds in views, so turn it off if such functionality is not working.",
-      "updatedAt": 1764998642865
+      "translated": "如果启用，当保险库中的文件更改时，视图将自动刷新；这可能会产生负面影响。 如果某些功能，比如视图中的嵌入功能无法正常工作，请关闭它们。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "3a955b9a3a955b9a3a955b9a",
       "source": "Refresh interval",
-      "translated": "Refresh interval",
-      "updatedAt": 1764998642865
+      "translated": "刷新间隔",
+      "updatedAt": 1764998015830
     },
     {
       "key": "3ada5be93ada5be93ada5be9",
       "source": "How long to wait (in milliseconds) for files to stop changing before updating views.",
-      "translated": "How long to wait (in milliseconds) for files to stop changing before updating views.",
-      "updatedAt": 1764998642865
+      "translated": "在更新视图之前，等待文件停止更改的时间（以毫秒为单位）。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "ce447ecfce447ecfce447ecf",
       "source": "Date format",
-      "translated": "Date format",
-      "updatedAt": 1764998642865
+      "translated": "日期格式",
+      "updatedAt": 1764998015830
     },
     {
       "key": "51c166cc51c166cc51c166cc",
       "source": "The default date format (see Luxon date format options). Currently: 12 06, 2025",
-      "translated": "The default date format (see Luxon date format options). Currently: 12 06, 2025",
-      "updatedAt": 1764998642865
+      "translated": "默认日期格式（参见 Luxon 日期格式选项）。当前：12 06, 2025",
+      "updatedAt": 1764998015830
     },
     {
       "key": "00b67c5100b67c5100b67c51",
       "source": "Date + time format",
-      "translated": "Date + time format",
-      "updatedAt": 1764998642865
+      "translated": "日期 + 时间格式",
+      "updatedAt": 1764998015830
     },
     {
       "key": "6c6a66236c6a66236c6a6623",
       "source": "The default date and time format (see Luxon date format options). Currently: 12:53 下午 - 12 06, 2025",
-      "translated": "The default date and time format (see Luxon date format options). Currently: 12:53 下午 - 12 06, 2025",
-      "updatedAt": 1764998642865
+      "translated": "默认日期和时间格式（参见 Luxon 日期格式选项）。当前：12:53 下午 - 12 06, 2025",
+      "updatedAt": 1764998015830
     },
     {
       "key": "02f2bf1502f2bf1502f2bf15",
       "source": "Tables",
-      "translated": "Tables",
-      "updatedAt": 1764998642865
+      "translated": "表格",
+      "updatedAt": 1764998015830
     },
     {
       "key": "957324659573246595732465",
       "source": "Primary column name",
-      "translated": "Primary column name",
-      "updatedAt": 1764998642865
+      "translated": "主列名称",
+      "updatedAt": 1764998015830
     },
     {
       "key": "d37d9c7ed37d9c7ed37d9c7e",
       "source": "The name of the default ID column in tables; this is the auto-generated first column that links to the source file.",
-      "translated": "The name of the default ID column in tables; this is the auto-generated first column that links to the source file.",
-      "updatedAt": 1764998642865
+      "translated": "表格中默认ID列的名称；这是自动生成的第一列，用于链接到源文件。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "d2e167d7d2e167d7d2e167d7",
       "source": "Grouped column name",
-      "translated": "Grouped column name",
-      "updatedAt": 1764998642865
+      "translated": "分组列名称",
+      "updatedAt": 1764998015830
     },
     {
       "key": "2d15c8242d15c8242d15c824",
       "source": "The name of the default ID column in tables, when the table is on grouped data; this is the auto-generated first columnthat links to the source file/group.",
-      "translated": "The name of the default ID column in tables, when the table is on grouped data; this is the auto-generated first columnthat links to the source file/group.",
-      "updatedAt": 1764998642865
+      "translated": "在表格对分组数据进行操作时，默认ID列的名称；这是自动生成的第一列链接到源文件/分组。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "411ef1e6411ef1e6411ef1e6",
       "source": "Tasks",
-      "translated": "Tasks",
-      "updatedAt": 1764998642865
+      "translated": "任务",
+      "updatedAt": 1764998015830
     },
     {
       "key": "07300e0307300e0307300e03",
       "source": "Automatic task completion tracking",
-      "translated": "Automatic task completion tracking",
-      "updatedAt": 1764998642865
+      "translated": "自动任务完成跟踪",
+      "updatedAt": 1764998015830
     },
     {
       "key": "a4f86b11a4f86b11a4f86b11",
       "source": "Use emoji shorthand for completion",
-      "translated": "Use emoji shorthand for completion",
-      "updatedAt": 1764998642865
+      "translated": "使用表情符号简写完成任务",
+      "updatedAt": 1764998015830
     },
     {
       "key": "744e11eb744e11eb744e11eb",
       "source": "Only available when \"automatic task completion tracking\" is enabled.",
-      "translated": "Only available when \"automatic task completion tracking\" is enabled.",
-      "updatedAt": 1764998642865
+      "translated": "仅在启用“自动任务完成跟踪”时可用。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "225f0b99225f0b99225f0b99",
       "source": "Completion field name",
-      "translated": "Completion field name",
-      "updatedAt": 1764998642865
+      "translated": "完成字段名称",
+      "updatedAt": 1764998015830
     },
     {
       "key": "bc3d75c3bc3d75c3bc3d75c3",
       "source": "Only available when \"automatic task completion tracking\" is enabled and \"use emoji shorthand for completion\" is disabled.",
-      "translated": "Only available when \"automatic task completion tracking\" is enabled and \"use emoji shorthand for completion\" is disabled.",
-      "updatedAt": 1764998642865
+      "translated": "仅在启用 \"自动任务完成跟踪\" 且禁用 \"使用表情符号简写表示完成\" 时可用。",
+      "updatedAt": 1764998015830
     },
     {
       "key": "3fd47fab3fd47fab3fd47fab",
       "source": "Completion date format",
-      "translated": "Completion date format",
-      "updatedAt": 1764998642865
+      "translated": "完成日期格式",
+      "updatedAt": 1764998015830
     },
     {
       "key": "cb204f62cb204f62cb204f62",
       "source": "Recursive sub-task completion",
-      "translated": "Recursive sub-task completion",
-      "updatedAt": 1764998642865
+      "translated": "递归子任务完成",
+      "updatedAt": 1764998015830
     },
     {
       "key": "dc5a62b9dc5a62b9dc5a62b9",
       "source": "If enabled, completing a task in a Dataview will automatically complete its subtasks too.",
-      "translated": "If enabled, completing a task in a Dataview will automatically complete its subtasks too.",
-      "updatedAt": 1764998642865
+      "translated": "如果启用，在数据视图中完成一个任务将自动完成其子任务。",
+      "updatedAt": 1764998015830
     }
   ]
 }
