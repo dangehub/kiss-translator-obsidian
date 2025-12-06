@@ -1,0 +1,228 @@
+{
+  "version": 1,
+  "scope": "Zotero Integration",
+  "entries": [
+    {
+      "key": "3c45080b3c45080b3c45080b",
+      "source": "General Settings",
+      "translated": "General Settings",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "770433ca770433ca770433ca",
+      "source": "PDF Utility",
+      "translated": "PDF Utility",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "8e2140ec8e2140ec8e2140ec",
+      "source": "Download",
+      "translated": "Download",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "9d5d78b39d5d78b39d5d78b3",
+      "source": "PDF Utility Path Override",
+      "translated": "PDF Utility Path Override",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "eca6975deca6975deca6975d",
+      "source": "Database",
+      "translated": "Database",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "97cdc75a97cdc75a97cdc75a",
+      "source": "Supports Zotero and Juris-M. Alternatively a custom port number can be specified.",
+      "translated": "Supports Zotero and Juris-M. Alternatively a custom port number can be specified.",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "338ceb61338ceb61338ceb61",
+      "source": "Zotero",
+      "translated": "Zotero",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "82b1aaaf82b1aaaf82b1aaaf",
+      "source": "Juris-M",
+      "translated": "Juris-M",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "9fa93ae89fa93ae89fa93ae8",
+      "source": "Note Import Location",
+      "translated": "Note Import Location",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "e069c996e069c996e069c996",
+      "source": "Notes imported from Zotero will be added to this folder in your vault",
+      "translated": "Notes imported from Zotero will be added to this folder in your vault",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "875303a6875303a6875303a6",
+      "source": "Open the created or updated note(s) after import",
+      "translated": "Open the created or updated note(s) after import",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "920573679205736792057367",
+      "source": "The created or updated markdown files resulting from the import will be automatically opened.",
+      "translated": "The created or updated markdown files resulting from the import will be automatically opened.",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "931063509310635093106350",
+      "source": "Which notes to open after import",
+      "translated": "Which notes to open after import",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "f8922195f8922195f8922195",
+      "source": "Open either the first note imported, the last note imported, or all notes in new tabs.",
+      "translated": "Open either the first note imported, the last note imported, or all notes in new tabs.",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "9e76932e9e76932e9e76932e",
+      "source": "First imported note",
+      "translated": "First imported note",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "3dbea51e3dbea51e3dbea51e",
+      "source": "Last imported note",
+      "translated": "Last imported note",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "3e995c863e995c863e995c86",
+      "source": "All imported notes",
+      "translated": "All imported notes",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "708c083c708c083c708c083c",
+      "source": "Enable Annotation Concatenation",
+      "translated": "Enable Annotation Concatenation",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "ac510cd3ac510cd3ac510cd3",
+      "source": "Annotations extracted from PDFs that begin with '+' will be appended to the previous annotation. Note: Annotation ordering is not always consistent and you may not always acheive the desire concatenation result",
+      "translated": "Annotations extracted from PDFs that begin with '+' will be appended to the previous annotation. Note: Annotation ordering is not always consistent and you may not always acheive the desire concatenation result",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "6cca040b6cca040b6cca040b",
+      "source": "Citation Formats",
+      "translated": "Citation Formats",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "f48263f9f48263f9f48263f9",
+      "source": "Add Citation Format",
+      "translated": "Add Citation Format",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "958223759582237595822375",
+      "source": "Import Formats",
+      "translated": "Import Formats",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "f256bf87f256bf87f256bf87",
+      "source": "Add Import Format",
+      "translated": "Add Import Format",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "5b13f0675b13f0675b13f067",
+      "source": "Import Image Settings",
+      "translated": "Import Image Settings",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "6c5449676c5449676c544967",
+      "source": "Rectangle annotations will be extracted from PDFs as images.",
+      "translated": "Rectangle annotations will be extracted from PDFs as images.",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "5082561c5082561c5082561c",
+      "source": "Image Format",
+      "translated": "Image Format",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "1d1ba7451d1ba7451d1ba745",
+      "source": "jpg",
+      "translated": "jpg",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "eaeb4e81eaeb4e81eaeb4e81",
+      "source": "png",
+      "translated": "png",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "2d2dcfda2d2dcfda2d2dcfda",
+      "source": "Image Quality (jpg only)",
+      "translated": "Image Quality (jpg only)",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "72b3fb0272b3fb0272b3fb02",
+      "source": "Image DPI",
+      "translated": "Image DPI",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "d3cfd8e1d3cfd8e1d3cfd8e1",
+      "source": "Image OCR",
+      "translated": "Image OCR",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "6f8d34456f8d34456f8d3445",
+      "source": "Tesseract path",
+      "translated": "Tesseract path",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "31426e9531426e9531426e95",
+      "source": "which tesseract",
+      "translated": "which tesseract",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "5b4b78b35b4b78b35b4b78b3",
+      "source": "Image OCR Language",
+      "translated": "Image OCR Language",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "ce41e50bce41e50bce41e50b",
+      "source": "eng+deu",
+      "translated": "eng+deu",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "d92470d1d92470d1d92470d1",
+      "source": "Tesseract data directory",
+      "translated": "Tesseract data directory",
+      "updatedAt": 1765000983232
+    },
+    {
+      "key": "5e53eb845e53eb845e53eb84",
+      "source": "Optional: supply an absolute path to the directory where tesseract's language files reside. This folder should include *.traineddata files for your selected languages.",
+      "translated": "Optional: supply an absolute path to the directory where tesseract's language files reside. This folder should include *.traineddata files for your selected languages.",
+      "updatedAt": 1765000983232
+    }
+  ]
+}
