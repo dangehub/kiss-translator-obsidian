@@ -14,6 +14,10 @@
 
 在 Obsidian 里一键翻译界面和笔记：悬浮球操作、本地词典优先、双语对照可编辑，支持 OpenAI 兼容接口与云端词典下载。
 
+> 注：请在[Issues](https://github.com/dangehub/kiss-translator-obsidian/issues "Issues · dangehub/kiss-translator-obsidian")中反馈bug，在[Discussions](https://github.com/dangehub/kiss-translator-obsidian/discussions "dangehub/kiss-translator-obsidian · Discussions · GitHub")中提出建议
+> 
+> 如有即时通讯需求，可以加本插件的QQ交流群 `1034829731`
+
 ## 功能亮点
 - 界面/笔记翻译：支持隐藏原文、悬停显示原文、编辑译文。
 - 悬浮球：双击开关词典注入（红=关，黄=开且未命中，绿=已注入）；长按/右键打开菜单，悬浮球位置可记忆。
@@ -21,7 +25,7 @@
 - 云端词典：可配置注册表地址并下载指定语言的词典，默认内置注册表。
 - 完全支持移动端：长按代替右键。
 
-注：有任何问题和建议欢迎在issue中反馈，也可以加本插件的QQ交流群 1034829731
+
 
 ## 配置
 
