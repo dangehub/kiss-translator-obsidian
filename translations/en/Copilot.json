@@ -1,0 +1,1254 @@
+{
+  "version": 1,
+  "scope": "Copilot",
+  "entries": [
+    {
+      "key": "25b76c9f25b76c9f25b76c9f",
+      "source": "Copilot Settings",
+      "translated": "Copilot Settings",
+      "updatedAt": 1764999893570
+    },
+    {
+      "key": "6caad51f6caad51f6caad51f",
+      "source": "v3.1.3",
+      "translated": "v3.1.3",
+      "updatedAt": 1764999893570
+    },
+    {
+      "key": "db005e13db005e13db005e13",
+      "source": "(up to date)",
+      "translated": "(up to date)",
+      "updatedAt": 1764999893570
+    },
+    {
+      "key": "9858d9089858d9089858d908",
+      "source": "Reset Settings",
+      "translated": "Reset Settings",
+      "updatedAt": 1764999893570
+    },
+    {
+      "key": "eb3150a2eb3150a2eb3150a2",
+      "source": "Basic",
+      "translated": "Basic",
+      "updatedAt": 1764999893570
+    },
+    {
+      "key": "33ead63733ead63733ead637",
+      "source": "Model",
+      "translated": "Model",
+      "updatedAt": 1764999893570
+    },
+    {
+      "key": "b63e91a8b63e91a8b63e91a8",
+      "source": "QA",
+      "translated": "QA",
+      "updatedAt": 1764999893570
+    },
+    {
+      "key": "5675ebbf5675ebbf5675ebbf",
+      "source": "Command",
+      "translated": "Command",
+      "updatedAt": 1764999893570
+    },
+    {
+      "key": "53dc2d0253dc2d0253dc2d02",
+      "source": "Plus",
+      "translated": "Plus",
+      "updatedAt": 1764999893570
+    },
+    {
+      "key": "f24b50e6f24b50e6f24b50e6",
+      "source": "Advanced",
+      "translated": "Advanced",
+      "updatedAt": 1764999893570
+    },
+    {
+      "key": "d6c3ac80d6c3ac80d6c3ac80",
+      "source": "Copilot Plus",
+      "translated": "Copilot Plus",
+      "updatedAt": 1764999893570
+    },
+    {
+      "key": "d373c5cad373c5cad373c5ca",
+      "source": "Copilot Plus is evolving fast, with new features and improvements rolling out regularly. Join now to secure the lowest price and get early access!",
+      "translated": "Copilot Plus is evolving fast, with new features and improvements rolling out regularly. Join now to secure the lowest price and get early access!",
+      "updatedAt": 1764999893570
+    },
+    {
+      "key": "61a050ec61a050ec61a050ec",
+      "source": "Apply",
+      "translated": "Apply",
+      "updatedAt": 1764999893570
+    },
+    {
+      "key": "fad9524efad9524efad9524e",
+      "source": "General",
+      "translated": "General",
+      "updatedAt": 1764999893570
+    },
+    {
+      "key": "faebb244faebb244faebb244",
+      "source": "API Keys",
+      "translated": "API Keys",
+      "updatedAt": 1764999893570
+    },
+    {
+      "key": "a1de0d28a1de0d28a1de0d28",
+      "source": "Configure API keys for different AI providers",
+      "translated": "Configure API keys for different AI providers",
+      "updatedAt": 1764999893570
+    },
+    {
+      "key": "431f64c2431f64c2431f64c2",
+      "source": "Default Chat Model",
+      "translated": "Default Chat Model",
+      "updatedAt": 1764999893570
+    },
+    {
+      "key": "debe0c40debe0c40debe0c40",
+      "source": "Select the Chat model to use",
+      "translated": "Select the Chat model to use",
+      "updatedAt": 1764999893570
+    },
+    {
+      "key": "c9096c4dc9096c4dc9096c4d",
+      "source": "copilot-plus-flash (Copilot Plus) Vision",
+      "translated": "copilot-plus-flash (Copilot Plus) Vision",
+      "updatedAt": 1764999893570
+    },
+    {
+      "key": "c813a3c5c813a3c5c813a3c5",
+      "source": "google/gemini-2.5-flash-lite (OpenRouter) Vision",
+      "translated": "google/gemini-2.5-flash-lite (OpenRouter) Vision",
+      "updatedAt": 1764999893570
+    },
+    {
+      "key": "4838c89c4838c89c4838c89c",
+      "source": "google/gemini-2.5-flash (OpenRouter) Vision",
+      "translated": "google/gemini-2.5-flash (OpenRouter) Vision",
+      "updatedAt": 1764999893570
+    },
+    {
+      "key": "176347e1176347e1176347e1",
+      "source": "google/gemini-2.5-pro (OpenRouter) Vision",
+      "translated": "google/gemini-2.5-pro (OpenRouter) Vision",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "893884ba893884ba893884ba",
+      "source": "gpt-5 (OpenAI) Vision",
+      "translated": "gpt-5 (OpenAI) Vision",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "7eca55b47eca55b47eca55b4",
+      "source": "gpt-5-mini (OpenAI) Vision",
+      "translated": "gpt-5-mini (OpenAI) Vision",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "cf6fc2e4cf6fc2e4cf6fc2e4",
+      "source": "gpt-4.1 (OpenAI) Vision",
+      "translated": "gpt-4.1 (OpenAI) Vision",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "1d85e6aa1d85e6aa1d85e6aa",
+      "source": "gpt-4.1-mini (OpenAI) Vision",
+      "translated": "gpt-4.1-mini (OpenAI) Vision",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "b45cf034b45cf034b45cf034",
+      "source": "openai/gpt-4.1 (OpenRouter) Vision",
+      "translated": "openai/gpt-4.1 (OpenRouter) Vision",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "8d41609a8d41609a8d41609a",
+      "source": "openai/gpt-4.1-mini (OpenRouter) Vision",
+      "translated": "openai/gpt-4.1-mini (OpenRouter) Vision",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "a4be9168a4be9168a4be9168",
+      "source": "grok-4-fast (XAI) Vision",
+      "translated": "grok-4-fast (XAI) Vision",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "5ccb3f155ccb3f155ccb3f15",
+      "source": "x-ai/grok-4-fast (OpenRouter) Vision",
+      "translated": "x-ai/grok-4-fast (OpenRouter) Vision",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "f2af15daf2af15daf2af15da",
+      "source": "claude-sonnet-4-20250514 (Anthropic) Vision|Reasoning",
+      "translated": "claude-sonnet-4-20250514 (Anthropic) Vision|Reasoning",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "d3cd5984d3cd5984d3cd5984",
+      "source": "gemini-2.5-flash (Gemini) Vision",
+      "translated": "gemini-2.5-flash (Gemini) Vision",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "a0d5e21da0d5e21da0d5e21d",
+      "source": "gemini-2.5-flash-lite (Gemini) Vision",
+      "translated": "gemini-2.5-flash-lite (Gemini) Vision",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "675c80f9675c80f9675c80f9",
+      "source": "gemini-2.5-pro (Gemini) Vision",
+      "translated": "gemini-2.5-pro (Gemini) Vision",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "94449e3494449e3494449e34",
+      "source": "azure-openai (Azure OpenAI)",
+      "translated": "azure-openai (Azure OpenAI)",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "537601aa537601aa537601aa",
+      "source": "deepseek-chat (DeepSeek)",
+      "translated": "deepseek-chat (DeepSeek)",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "9ce54c839ce54c839ce54c83",
+      "source": "deepseek-reasoner (DeepSeek) Reasoning",
+      "translated": "deepseek-reasoner (DeepSeek) Reasoning",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "2c0b4c102c0b4c102c0b4c10",
+      "source": "Default Mode",
+      "translated": "Default Mode",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "3591201f3591201f3591201f",
+      "source": "Select the default chat mode",
+      "translated": "Select the default chat mode",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "790a7726790a7726790a7726",
+      "source": "Chat",
+      "translated": "Chat",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "a05a1a49a05a1a49a05a1a49",
+      "source": "Vault QA (Basic)",
+      "translated": "Vault QA (Basic)",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "6581296b6581296b6581296b",
+      "source": "Projects (alpha)",
+      "translated": "Projects (alpha)",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "0f7daa220f7daa220f7daa22",
+      "source": "Open Plugin In",
+      "translated": "Open Plugin In",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "be26d1b7be26d1b7be26d1b7",
+      "source": "Choose where to open the plugin",
+      "translated": "Choose where to open the plugin",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "1095bf9f1095bf9f1095bf9f",
+      "source": "Sidebar View",
+      "translated": "Sidebar View",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "3df35f593df35f593df35f59",
+      "source": "Editor",
+      "translated": "Editor",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "aad26a54aad26a54aad26a54",
+      "source": "Send Shortcut",
+      "translated": "Send Shortcut",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "a2db3e47a2db3e47a2db3e47",
+      "source": "Choose keyboard shortcut to send messages",
+      "translated": "Choose keyboard shortcut to send messages",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "2c1a2e102c1a2e102c1a2e10",
+      "source": "Enter",
+      "translated": "Enter",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "2510e8bb2510e8bb2510e8bb",
+      "source": "Shift + Enter",
+      "translated": "Shift + Enter",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "db19cd16db19cd16db19cd16",
+      "source": "Include Current Note in Context Menu",
+      "translated": "Include Current Note in Context Menu",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "3a9b46e93a9b46e93a9b46e9",
+      "source": "Automatically include the current note in the chat context menu by default when sending messages to the AI.",
+      "translated": "Automatically include the current note in the chat context menu by default when sending messages to the AI.",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "346261c2346261c2346261c2",
+      "source": "Auto-Add Text Selection to Context",
+      "translated": "Auto-Add Text Selection to Context",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "b49d19a9b49d19a9b49d19a9",
+      "source": "Automatically add selected text to chat context when you make a text selection in markdown notes. Disable to use manual command instead.",
+      "translated": "Automatically add selected text to chat context when you make a text selection in markdown notes. Disable to use manual command instead.",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "bf61216cbf61216cbf61216c",
+      "source": "Images in Markdown",
+      "translated": "Images in Markdown",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "3559e28e3559e28e3559e28e",
+      "source": "Pass embedded images in markdown to the AI along with the text. Only works with multimodal models.",
+      "translated": "Pass embedded images in markdown to the AI along with the text. Only works with multimodal models.",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "6b99f1aa6b99f1aa6b99f1aa",
+      "source": "Suggested Prompts",
+      "translated": "Suggested Prompts",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "8caace648caace648caace64",
+      "source": "Show suggested prompts in the chat view",
+      "translated": "Show suggested prompts in the chat view",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "9c2194089c2194089c219408",
+      "source": "Relevant Notes",
+      "translated": "Relevant Notes",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "643d9826643d9826643d9826",
+      "source": "Show relevant notes in the chat view",
+      "translated": "Show relevant notes in the chat view",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "d84b9802d84b9802d84b9802",
+      "source": "Saving Conversations",
+      "translated": "Saving Conversations",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "31d91a4831d91a4831d91a48",
+      "source": "Autosave Chat",
+      "translated": "Autosave Chat",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "eae48885eae48885eae48885",
+      "source": "Automatically saves the chat after every user message and AI response.",
+      "translated": "Automatically saves the chat after every user message and AI response.",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "687783456877834568778345",
+      "source": "Generate AI Chat Title on Save",
+      "translated": "Generate AI Chat Title on Save",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "cfc8cec6cfc8cec6cfc8cec6",
+      "source": "When enabled, uses an AI model to generate a concise title for saved chat notes. When disabled, uses the first 10 words of the first user message.",
+      "translated": "When enabled, uses an AI model to generate a concise title for saved chat notes. When disabled, uses the first 10 words of the first user message.",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "a44a1b2fa44a1b2fa44a1b2f",
+      "source": "Default Conversation Folder Name",
+      "translated": "Default Conversation Folder Name",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "da0dd7a9da0dd7a9da0dd7a9",
+      "source": "The default folder name where chat conversations will be saved. Default is 'copilot/copilot-conversations'",
+      "translated": "The default folder name where chat conversations will be saved. Default is 'copilot/copilot-conversations'",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "0379962c0379962c0379962c",
+      "source": "Default Conversation Tag",
+      "translated": "Default Conversation Tag",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "276c939b276c939b276c939b",
+      "source": "The default tag to be used when saving a conversation. Default is 'ai-conversations'",
+      "translated": "The default tag to be used when saving a conversation. Default is 'ai-conversations'",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "6d227c046d227c046d227c04",
+      "source": "Conversation Filename Template",
+      "translated": "Conversation Filename Template",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "2e3736ec2e3736ec2e3736ec",
+      "source": "Customize the format of saved conversation note names.",
+      "translated": "Customize the format of saved conversation note names.",
+      "updatedAt": 1764999893571
+    },
+    {
+      "key": "2a87797a2a87797a2a87797a",
+      "source": "Chat Models",
+      "translated": "Chat Models",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "8158a7d98158a7d98158a7d9",
+      "source": "Provider",
+      "translated": "Provider",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "d7ee952ed7ee952ed7ee952e",
+      "source": "Capabilities",
+      "translated": "Capabilities",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "751126797511267975112679",
+      "source": "Enable",
+      "translated": "Enable",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "c1f5bd75c1f5bd75c1f5bd75",
+      "source": "CORS",
+      "translated": "CORS",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "da913775da913775da913775",
+      "source": "Actions",
+      "translated": "Actions",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "bfc2d4d0bfc2d4d0bfc2d4d0",
+      "source": "copilot-plus-flash",
+      "translated": "copilot-plus-flash",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "b57f00dfb57f00dfb57f00df",
+      "source": "google/gemini-2.5-flash-lite",
+      "translated": "google/gemini-2.5-flash-lite",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "bacdec07bacdec07bacdec07",
+      "source": "OpenRouter",
+      "translated": "OpenRouter",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "ec079786ec079786ec079786",
+      "source": "google/gemini-2.5-flash",
+      "translated": "google/gemini-2.5-flash",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "0ecababb0ecababb0ecababb",
+      "source": "google/gemini-2.5-pro",
+      "translated": "google/gemini-2.5-pro",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "55ee38a355ee38a355ee38a3",
+      "source": "gpt-5",
+      "translated": "gpt-5",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "85aa624485aa624485aa6244",
+      "source": "OpenAI",
+      "translated": "OpenAI",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "66fa6dad66fa6dad66fa6dad",
+      "source": "gpt-5-mini",
+      "translated": "gpt-5-mini",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "90e3fcfd90e3fcfd90e3fcfd",
+      "source": "gpt-4.1",
+      "translated": "gpt-4.1",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "05aa1ab305aa1ab305aa1ab3",
+      "source": "gpt-4.1-mini",
+      "translated": "gpt-4.1-mini",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "ac12126eac12126eac12126e",
+      "source": "openai/gpt-4.1",
+      "translated": "openai/gpt-4.1",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "5e4f41005e4f41005e4f4100",
+      "source": "openai/gpt-4.1-mini",
+      "translated": "openai/gpt-4.1-mini",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "3ea3a95d3ea3a95d3ea3a95d",
+      "source": "grok-4-fast",
+      "translated": "grok-4-fast",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "d430cf88d430cf88d430cf88",
+      "source": "XAI",
+      "translated": "XAI",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "8130d20f8130d20f8130d20f",
+      "source": "x-ai/grok-4-fast",
+      "translated": "x-ai/grok-4-fast",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "d4aeeb33d4aeeb33d4aeeb33",
+      "source": "claude-sonnet-4-20250514",
+      "translated": "claude-sonnet-4-20250514",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "dbd86fecdbd86fecdbd86fec",
+      "source": "Anthropic",
+      "translated": "Anthropic",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "5ef76f205ef76f205ef76f20",
+      "source": "gemini-2.5-flash",
+      "translated": "gemini-2.5-flash",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "f63f8839f63f8839f63f8839",
+      "source": "Gemini",
+      "translated": "Gemini",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "dae3baf9dae3baf9dae3baf9",
+      "source": "gemini-2.5-flash-lite",
+      "translated": "gemini-2.5-flash-lite",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "3206ba5d3206ba5d3206ba5d",
+      "source": "gemini-2.5-pro",
+      "translated": "gemini-2.5-pro",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "a03352d0a03352d0a03352d0",
+      "source": "azure-openai",
+      "translated": "azure-openai",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "ba174c5dba174c5dba174c5d",
+      "source": "Azure OpenAI",
+      "translated": "Azure OpenAI",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "537873e7537873e7537873e7",
+      "source": "deepseek-chat",
+      "translated": "deepseek-chat",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "f31dadb4f31dadb4f31dadb4",
+      "source": "DeepSeek",
+      "translated": "DeepSeek",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "e7c37ecae7c37ecae7c37eca",
+      "source": "deepseek-reasoner",
+      "translated": "deepseek-reasoner",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "69e4dc3a69e4dc3a69e4dc3a",
+      "source": "deepseek-ai/DeepSeek-V3",
+      "translated": "deepseek-ai/DeepSeek-V3",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "917e0fd7917e0fd7917e0fd7",
+      "source": "SiliconFlow",
+      "translated": "SiliconFlow",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "caa5ecbccaa5ecbccaa5ecbc",
+      "source": "deepseek-ai/DeepSeek-R1",
+      "translated": "deepseek-ai/DeepSeek-R1",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "c6ec9229c6ec9229c6ec9229",
+      "source": "To pick up a draggable item, press the space bar. While dragging, use the arrow keys to move the item. Press space again to drop the item in its new position, or press escape to cancel.",
+      "translated": "To pick up a draggable item, press the space bar. While dragging, use the arrow keys to move the item. Press space again to drop the item in its new position, or press escape to cancel.",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "66abe29d66abe29d66abe29d",
+      "source": "Enabled",
+      "translated": "Enabled",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "c1ce3923c1ce3923c1ce3923",
+      "source": "Conversation turns in context",
+      "translated": "Conversation turns in context",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "492a3cbf492a3cbf492a3cbf",
+      "source": "The number of previous conversation turns to include in the context. Default is 15 turns, i.e. 30 messages.",
+      "translated": "The number of previous conversation turns to include in the context. Default is 15 turns, i.e. 30 messages.",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "5703aabc5703aabc5703aabc",
+      "source": "15",
+      "translated": "15",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "d34d9f4bd34d9f4bd34d9f4b",
+      "source": "Embedding Models",
+      "translated": "Embedding Models",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "1ab5451f1ab5451f1ab5451f",
+      "source": "copilot-plus-small",
+      "translated": "copilot-plus-small",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "ec714dfdec714dfdec714dfd",
+      "source": "copilot-plus-large",
+      "translated": "copilot-plus-large",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "6e1035a76e1035a76e1035a7",
+      "source": "Copilot Plus(Believer)",
+      "translated": "Copilot Plus(Believer)",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "fcc8caddfcc8caddfcc8cadd",
+      "source": "copilot-plus-multilingual",
+      "translated": "copilot-plus-multilingual",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "129f7ecb129f7ecb129f7ecb",
+      "source": "text-embedding-3-small",
+      "translated": "text-embedding-3-small",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "958af407958af407958af407",
+      "source": "gemini-embedding-001",
+      "translated": "gemini-embedding-001",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "8e718aa18e718aa18e718aa1",
+      "source": "Qwen/Qwen3-Embedding-0.6B",
+      "translated": "Qwen/Qwen3-Embedding-0.6B",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "63c959a963c959a963c959a9",
+      "source": "text-embedding-3-large",
+      "translated": "text-embedding-3-large",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "d370a6c6d370a6c6d370a6c6",
+      "source": "embed-multilingual-light-v3.0",
+      "translated": "embed-multilingual-light-v3.0",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "6acb290e6acb290e6acb290e",
+      "source": "Cohere",
+      "translated": "Cohere",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "1061045e1061045e1061045e",
+      "source": "text-embedding-004",
+      "translated": "text-embedding-004",
+      "updatedAt": 1764999907104
+    },
+    {
+      "key": "38f3d3bd38f3d3bd38f3d3bd",
+      "source": "Enable Semantic Search",
+      "translated": "Enable Semantic Search",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "45e783a245e783a245e783a2",
+      "source": "Enable semantic search for meaning-based document retrieval. When disabled, uses fast lexical search only. Use 'Refresh Vault Index' or 'Force Reindex Vault' to build the embedding index.",
+      "translated": "Enable semantic search for meaning-based document retrieval. When disabled, uses fast lexical search only. Use 'Refresh Vault Index' or 'Force Reindex Vault' to build the embedding index.",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "11ea519811ea519811ea5198",
+      "source": "Embedding Model",
+      "translated": "Embedding Model",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "8eb1ec718eb1ec718eb1ec71",
+      "source": "Powers Semantic Vault Search and Relevant Notes. Enable Semantic Search to use it.",
+      "translated": "Powers Semantic Vault Search and Relevant Notes. Enable Semantic Search to use it.",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "cbe23c66cbe23c66cbe23c66",
+      "source": "copilot-plus-small (Copilot Plus)",
+      "translated": "copilot-plus-small (Copilot Plus)",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "34646f0334646f0334646f03",
+      "source": "copilot-plus-large (Copilot Plus(Believer))",
+      "translated": "copilot-plus-large (Copilot Plus(Believer))",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "68846f6468846f6468846f64",
+      "source": "copilot-plus-multilingual (Copilot Plus)",
+      "translated": "copilot-plus-multilingual (Copilot Plus)",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "635ab2b6635ab2b6635ab2b6",
+      "source": "text-embedding-3-small (OpenAI)",
+      "translated": "text-embedding-3-small (OpenAI)",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "9b558f679b558f679b558f67",
+      "source": "gemini-embedding-001 (Gemini)",
+      "translated": "gemini-embedding-001 (Gemini)",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "e4283acfe4283acfe4283acf",
+      "source": "Qwen/Qwen3-Embedding-0.6B (SiliconFlow)",
+      "translated": "Qwen/Qwen3-Embedding-0.6B (SiliconFlow)",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "d8e32254d8e32254d8e32254",
+      "source": "text-embedding-3-large (OpenAI)",
+      "translated": "text-embedding-3-large (OpenAI)",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "500202515002025150020251",
+      "source": "embed-multilingual-light-v3.0 (Cohere)",
+      "translated": "embed-multilingual-light-v3.0 (Cohere)",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "49c9a29e49c9a29e49c9a29e",
+      "source": "text-embedding-004 (Gemini)",
+      "translated": "text-embedding-004 (Gemini)",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "f7c74a5ff7c74a5ff7c74a5f",
+      "source": "Auto-Index Strategy",
+      "translated": "Auto-Index Strategy",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "039501c7039501c7039501c7",
+      "source": "Decide when you want the vault to be indexed.",
+      "translated": "Decide when you want the vault to be indexed.",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "4bc060234bc060234bc06023",
+      "source": "Strategy",
+      "translated": "Strategy",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "4c19d2b24c19d2b24c19d2b2",
+      "source": "NEVER",
+      "translated": "NEVER",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "4bbbcebc4bbbcebc4bbbcebc",
+      "source": "ON STARTUP",
+      "translated": "ON STARTUP",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "4450e1c84450e1c84450e1c8",
+      "source": "ON MODE SWITCH",
+      "translated": "ON MODE SWITCH",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "40ae632240ae632240ae6322",
+      "source": "Max Sources",
+      "translated": "Max Sources",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "7ee1a3f77ee1a3f77ee1a3f7",
+      "source": "Copilot goes through your vault to find relevant notes and passes the top N to the LLM. Default for N is 15. Increase if you want more notes included in the answer generation step.",
+      "translated": "Copilot goes through your vault to find relevant notes and passes the top N to the LLM. Default for N is 15. Increase if you want more notes included in the answer generation step.",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "797c942b797c942b797c942b",
+      "source": "Lexical Search RAM Limit",
+      "translated": "Lexical Search RAM Limit",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "7d208f127d208f127d208f12",
+      "source": "Maximum RAM usage for full-text search index. Lower values use less memory but may limit search performance on large vaults. Default is 100 MB.",
+      "translated": "Maximum RAM usage for full-text search index. Lower values use less memory but may limit search performance on large vaults. Default is 100 MB.",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "2f1f13c62f1f13c62f1f13c6",
+      "source": "100 MB",
+      "translated": "100 MB",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "e85178bee85178bee85178be",
+      "source": "Enable Folder and Graph Boosts",
+      "translated": "Enable Folder and Graph Boosts",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "e8eba378e8eba378e8eba378",
+      "source": "Enable folder and graph-based relevance boosts for lexical search results. When disabled, provides pure keyword-based relevance scoring without folder or connection-based adjustments.",
+      "translated": "Enable folder and graph-based relevance boosts for lexical search results. When disabled, provides pure keyword-based relevance scoring without folder or connection-based adjustments.",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "18e5cd3718e5cd3718e5cd37",
+      "source": "Exclusions",
+      "translated": "Exclusions",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "1e7e9e721e7e9e721e7e9e72",
+      "source": "Exclude folders, tags, note titles or file extensions from being indexed. Previously indexed files will remain until a force re-index is performed.",
+      "translated": "Exclude folders, tags, note titles or file extensions from being indexed. Previously indexed files will remain until a force re-index is performed.",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "3bb614f93bb614f93bb614f9",
+      "source": "Manage",
+      "translated": "Manage",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "7b1a4ead7b1a4ead7b1a4ead",
+      "source": "Inclusions",
+      "translated": "Inclusions",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "3ef415553ef415553ef41555",
+      "source": "Index only the specified paths, tags, or note titles. Exclusions take precedence over inclusions. Previously indexed files will remain until a force re-index is performed.",
+      "translated": "Index only the specified paths, tags, or note titles. Exclusions take precedence over inclusions. Previously indexed files will remain until a force re-index is performed.",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "2e0ee20c2e0ee20c2e0ee20c",
+      "source": "Enable Obsidian Sync for Copilot index",
+      "translated": "Enable Obsidian Sync for Copilot index",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "7961f41f7961f41f7961f41f",
+      "source": "If enabled, store the semantic index in .obsidian so it syncs with Obsidian Sync. If disabled, store it under .copilot/ at the vault root.",
+      "translated": "If enabled, store the semantic index in .obsidian so it syncs with Obsidian Sync. If disabled, store it under .copilot/ at the vault root.",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "ec759fd5ec759fd5ec759fd5",
+      "source": "Disable index loading on mobile",
+      "translated": "Disable index loading on mobile",
+      "updatedAt": 1764999914843
+    },
+    {
+      "key": "98c8646f98c8646f98c8646f",
+      "source": "When enabled, Copilot index won't be loaded on mobile devices to save resources. Only chat mode will be available. Any existing index from desktop sync will be preserved. Uncheck to enable QA modes on mobile.",
+      "translated": "When enabled, Copilot index won't be loaded on mobile devices to save resources. Only chat mode will be available. Any existing index from desktop sync will be preserved. Uncheck to enable QA modes on mobile.",
+      "updatedAt": 1764999914844
+    },
+    {
+      "key": "5fec847f5fec847f5fec847f",
+      "source": "Custom Commands",
+      "translated": "Custom Commands",
+      "updatedAt": 1764999920242
+    },
+    {
+      "key": "9b6b2f4d9b6b2f4d9b6b2f4d",
+      "source": "Custom Prompts Folder Name",
+      "translated": "Custom Prompts Folder Name",
+      "updatedAt": 1764999920242
+    },
+    {
+      "key": "41770f2a41770f2a41770f2a",
+      "source": "Folder where custom prompts are stored",
+      "translated": "Folder where custom prompts are stored",
+      "updatedAt": 1764999920242
+    },
+    {
+      "key": "c9f8c6dac9f8c6dac9f8c6da",
+      "source": "Custom Prompt Templating",
+      "translated": "Custom Prompt Templating",
+      "updatedAt": 1764999920242
+    },
+    {
+      "key": "f1247e06f1247e06f1247e06",
+      "source": "Process variables like {activenote}, {foldername}, or {#tag} in prompts. Disable for raw prompts.",
+      "translated": "Process variables like {activenote}, {foldername}, or {#tag} in prompts. Disable for raw prompts.",
+      "updatedAt": 1764999920242
+    },
+    {
+      "key": "66df997d66df997d66df997d",
+      "source": "Custom Prompts Sort Strategy",
+      "translated": "Custom Prompts Sort Strategy",
+      "updatedAt": 1764999920242
+    },
+    {
+      "key": "2969ea512969ea512969ea51",
+      "source": "Sort order for slash command menu prompts",
+      "translated": "Sort order for slash command menu prompts",
+      "updatedAt": 1764999920242
+    },
+    {
+      "key": "4243a2dd4243a2dd4243a2dd",
+      "source": "Recency",
+      "translated": "Recency",
+      "updatedAt": 1764999920242
+    },
+    {
+      "key": "5dbb2bd85dbb2bd85dbb2bd8",
+      "source": "Alphabetical",
+      "translated": "Alphabetical",
+      "updatedAt": 1764999920242
+    },
+    {
+      "key": "c936b122c936b122c936b122",
+      "source": "Manual",
+      "translated": "Manual",
+      "updatedAt": 1764999920242
+    },
+    {
+      "key": "73497a3873497a3873497a38",
+      "source": "Generate Default",
+      "translated": "Generate Default",
+      "updatedAt": 1764999920242
+    },
+    {
+      "key": "b1284a1fb1284a1fb1284a1f",
+      "source": "Name",
+      "translated": "Name",
+      "updatedAt": 1764999920242
+    },
+    {
+      "key": "e48cefc3e48cefc3e48cefc3",
+      "source": "No custom prompt files found.",
+      "translated": "No custom prompt files found.",
+      "updatedAt": 1764999920242
+    },
+    {
+      "key": "a84c624ba84c624ba84c624b",
+      "source": "Plus Required",
+      "translated": "Plus Required",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "ce22b1cbce22b1cbce22b1cb",
+      "source": "Autonomous Agent",
+      "translated": "Autonomous Agent",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "c8d06c4ac8d06c4ac8d06c4a",
+      "source": "Enable Autonomous Agent",
+      "translated": "Enable Autonomous Agent",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "be466a5abe466a5abe466a5a",
+      "source": "Enable autonomous agent mode in Plus chat. The AI will reason step-by-step and decide which tools to use automatically, improving response quality for complex queries.",
+      "translated": "Enable autonomous agent mode in Plus chat. The AI will reason step-by-step and decide which tools to use automatically, improving response quality for complex queries.",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "581296e8581296e8581296e8",
+      "source": "Max Iterations",
+      "translated": "Max Iterations",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "f7326f8ff7326f8ff7326f8f",
+      "source": "Maximum number of reasoning iterations the autonomous agent can perform. Higher values allow for more complex reasoning but may take longer.",
+      "translated": "Maximum number of reasoning iterations the autonomous agent can perform. Higher values allow for more complex reasoning but may take longer.",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "8e14f94c8e14f94c8e14f94c",
+      "source": "Agent Accessible Tools",
+      "translated": "Agent Accessible Tools",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "dfb8b4b9dfb8b4b9dfb8b4b9",
+      "source": "Toggle which tools the autonomous agent can use",
+      "translated": "Toggle which tools the autonomous agent can use",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "52fcaa4c52fcaa4c52fcaa4c",
+      "source": "Vault Search",
+      "translated": "Vault Search",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "b9e69845b9e69845b9e69845",
+      "source": "Search through your vault notes",
+      "translated": "Search through your vault notes",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "746d27c6746d27c6746d27c6",
+      "source": "Web Search",
+      "translated": "Web Search",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "fa0fdcd2fa0fdcd2fa0fdcd2",
+      "source": "Search the INTERNET (NOT vault notes) when user explicitly asks for web/online information",
+      "translated": "Search the INTERNET (NOT vault notes) when user explicitly asks for web/online information",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "a7a114f8a7a114f8a7a114f8",
+      "source": "Write to File",
+      "translated": "Write to File",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "3ef29fa83ef29fa83ef29fa8",
+      "source": "Create or modify files in your vault",
+      "translated": "Create or modify files in your vault",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "f560b755f560b755f560b755",
+      "source": "Replace in File",
+      "translated": "Replace in File",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "a4085a93a4085a93a4085a93",
+      "source": "Make targeted changes to existing files using SEARCH/REPLACE blocks",
+      "translated": "Make targeted changes to existing files using SEARCH/REPLACE blocks",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "855b1833855b1833855b1833",
+      "source": "YouTube Transcription",
+      "translated": "YouTube Transcription",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "1a126eca1a126eca1a126eca",
+      "source": "Get transcripts from YouTube videos",
+      "translated": "Get transcripts from YouTube videos",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "1da1b6b41da1b6b41da1b6b4",
+      "source": "Memory (experimental)",
+      "translated": "Memory (experimental)",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "79492c6879492c6879492c68",
+      "source": "Memory Folder Name",
+      "translated": "Memory Folder Name",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "ab400877ab400877ab400877",
+      "source": "Specify the folder where memory data is stored.",
+      "translated": "Specify the folder where memory data is stored.",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "158787751587877515878775",
+      "source": "Reference Recent Conversation",
+      "translated": "Reference Recent Conversation",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "50270ca050270ca050270ca0",
+      "source": "When enabled, Copilot references your recent conversation history to provide more contextually relevant responses. All history data is stored locally in your vault.",
+      "translated": "When enabled, Copilot references your recent conversation history to provide more contextually relevant responses. All history data is stored locally in your vault.",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "3fc0c0d93fc0c0d93fc0c0d9",
+      "source": "Max Recent Conversations",
+      "translated": "Max Recent Conversations",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "b4a46a94b4a46a94b4a46a94",
+      "source": "Number of recent conversations to remember for context. Higher values provide more context but may slow down responses.",
+      "translated": "Number of recent conversations to remember for context. Higher values provide more context but may slow down responses.",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "fa097afbfa097afbfa097afb",
+      "source": "30",
+      "translated": "30",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "3dbaa6513dbaa6513dbaa651",
+      "source": "Reference Saved Memories",
+      "translated": "Reference Saved Memories",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "b1bd7336b1bd7336b1bd7336",
+      "source": "When enabled, Copilot can access memories that you explicitly asked it to remember. Use this to store important facts, preferences, or context for future conversations.",
+      "translated": "When enabled, Copilot can access memories that you explicitly asked it to remember. Use this to store important facts, preferences, or context for future conversations.",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "e81b307be81b307be81b307b",
+      "source": "(service temporarily unavailable, will be back soon)",
+      "translated": "(service temporarily unavailable, will be back soon)",
+      "updatedAt": 1764999927770
+    },
+    {
+      "key": "ffb03c48ffb03c48ffb03c48",
+      "source": "User System Prompt",
+      "translated": "User System Prompt",
+      "updatedAt": 1764999933535
+    },
+    {
+      "key": "14c5a69814c5a69814c5a698",
+      "source": "Customize the system prompt for all messages, may result in unexpected behavior!",
+      "translated": "Customize the system prompt for all messages, may result in unexpected behavior!",
+      "updatedAt": 1764999933535
+    },
+    {
+      "key": "5b03ccb65b03ccb65b03ccb6",
+      "source": "Enable Encryption",
+      "translated": "Enable Encryption",
+      "updatedAt": 1764999933535
+    },
+    {
+      "key": "6d104d866d104d866d104d86",
+      "source": "Enable encryption for the API keys.",
+      "translated": "Enable encryption for the API keys.",
+      "updatedAt": 1764999933535
+    },
+    {
+      "key": "d5cffacad5cffacad5cffaca",
+      "source": "Debug Mode",
+      "translated": "Debug Mode",
+      "updatedAt": 1764999933535
+    },
+    {
+      "key": "be4707e5be4707e5be4707e5",
+      "source": "Debug mode will log some debug message to the console.",
+      "translated": "Debug mode will log some debug message to the console.",
+      "updatedAt": 1764999933535
+    },
+    {
+      "key": "a87b30dea87b30dea87b30de",
+      "source": "Create Log File",
+      "translated": "Create Log File",
+      "updatedAt": 1764999933535
+    },
+    {
+      "key": "74be467674be467674be4676",
+      "source": "Open the Copilot log file (copilot/copilot-log.md) for easy sharing when reporting issues.",
+      "translated": "Open the Copilot log file (copilot/copilot-log.md) for easy sharing when reporting issues.",
+      "updatedAt": 1764999933535
+    }
+  ]
+}
