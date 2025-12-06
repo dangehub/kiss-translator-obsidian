@@ -1,0 +1,504 @@
+{
+  "version": 1,
+  "scope": "Minimal Theme Settings",
+  "entries": [
+    {
+      "key": "e2be9c90e2be9c90e2be9c90",
+      "source": "Color scheme",
+      "translated": "Color scheme",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "0091abc70091abc70091abc7",
+      "source": "To create a custom color scheme use the",
+      "translated": "To create a custom color scheme use the",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "0064aaad0064aaad0064aaad",
+      "source": "Light mode color scheme",
+      "translated": "Light mode color scheme",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "be758758be758758be758758",
+      "source": "Preset color options for light mode.",
+      "translated": "Preset color options for light mode.",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "1ff46e731ff46e731ff46e73",
+      "source": "Default",
+      "translated": "Default",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "47fd54af47fd54af47fd54af",
+      "source": "Atom",
+      "translated": "Atom",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "0dd6f5550dd6f5550dd6f555",
+      "source": "Ayu",
+      "translated": "Ayu",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "afd6d7dcafd6d7dcafd6d7dc",
+      "source": "Catppuccin",
+      "translated": "Catppuccin",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "4df9df4f4df9df4f4df9df4f",
+      "source": "E-ink (beta)",
+      "translated": "E-ink (beta)",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "711815c5711815c5711815c5",
+      "source": "Everforest",
+      "translated": "Everforest",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "3e61ecc23e61ecc23e61ecc2",
+      "source": "Flexoki",
+      "translated": "Flexoki",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "e327195be327195be327195b",
+      "source": "Gruvbox",
+      "translated": "Gruvbox",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "d5e7998bd5e7998bd5e7998b",
+      "source": "macOS",
+      "translated": "macOS",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "da24826fda24826fda24826f",
+      "source": "Nord",
+      "translated": "Nord",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "22dc2b4d22dc2b4d22dc2b4d",
+      "source": "Rosé Pine",
+      "translated": "Rosé Pine",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "547b3199547b3199547b3199",
+      "source": "Sky",
+      "translated": "Sky",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "eabe1ca9eabe1ca9eabe1ca9",
+      "source": "Solarized",
+      "translated": "Solarized",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "afa62eb7afa62eb7afa62eb7",
+      "source": "Things",
+      "translated": "Things",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "0d20e6490d20e6490d20e649",
+      "source": "Light mode background contrast",
+      "translated": "Light mode background contrast",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "3c97c7c23c97c7c23c97c7c2",
+      "source": "Level of contrast between sidebar and main content.",
+      "translated": "Level of contrast between sidebar and main content.",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "8f66973e8f66973e8f66973e",
+      "source": "All white",
+      "translated": "All white",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "fd0757cefd0757cefd0757ce",
+      "source": "Low contrast",
+      "translated": "Low contrast",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "52a21cd452a21cd452a21cd4",
+      "source": "High contrast",
+      "translated": "High contrast",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "0f53b34f0f53b34f0f53b34f",
+      "source": "Dark mode color scheme",
+      "translated": "Dark mode color scheme",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "928952a9928952a9928952a9",
+      "source": "Preset colors options for dark mode.",
+      "translated": "Preset colors options for dark mode.",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "469ca5d4469ca5d4469ca5d4",
+      "source": "Dracula",
+      "translated": "Dracula",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "d0f7686bd0f7686bd0f7686b",
+      "source": "Dark mode background contrast",
+      "translated": "Dark mode background contrast",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "0a9913690a9913690a991369",
+      "source": "True black",
+      "translated": "True black",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "92c4bb9f92c4bb9f92c4bb9f",
+      "source": "Features",
+      "translated": "Features",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "6e349ecb6e349ecb6e349ecb",
+      "source": "See",
+      "translated": "See",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "fcd13dedfcd13dedfcd13ded",
+      "source": "Text labels for primary navigation",
+      "translated": "Text labels for primary navigation",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "82db5eed82db5eed82db5eed",
+      "source": "Navigation items in the left sidebar uses text labels.",
+      "translated": "Navigation items in the left sidebar uses text labels.",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "7cd7f34b7cd7f34b7cd7f34b",
+      "source": "Colorful window frame",
+      "translated": "Colorful window frame",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "696950606969506069695060",
+      "source": "The top area of the app uses your accent color.",
+      "translated": "The top area of the app uses your accent color.",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "f8cdf472f8cdf472f8cdf472",
+      "source": "Colorful active states",
+      "translated": "Colorful active states",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "c7e08813c7e08813c7e08813",
+      "source": "Active file and menu items use your accent color.",
+      "translated": "Active file and menu items use your accent color.",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "794f3181794f3181794f3181",
+      "source": "Colorful headings",
+      "translated": "Colorful headings",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "fe7641e6fe7641e6fe7641e6",
+      "source": "Headings use a different color for each size.",
+      "translated": "Headings use a different color for each size.",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "026769be026769be026769be",
+      "source": "Minimal status bar",
+      "translated": "Minimal status bar",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "564754a1564754a1564754a1",
+      "source": "Turn off to use full-width status bar.",
+      "translated": "Turn off to use full-width status bar.",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "92f24b7692f24b7692f24b76",
+      "source": "Trim file names in sidebars",
+      "translated": "Trim file names in sidebars",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "adcb370aadcb370aadcb370a",
+      "source": "Use ellipses to fit file names on a single line.",
+      "translated": "Use ellipses to fit file names on a single line.",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "6a2ee2226a2ee2226a2ee222",
+      "source": "Workspace borders",
+      "translated": "Workspace borders",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "fb775fd2fb775fd2fb775fd2",
+      "source": "Display divider lines between workspace elements.",
+      "translated": "Display divider lines between workspace elements.",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "f5eb1a57f5eb1a57f5eb1a57",
+      "source": "Focus mode",
+      "translated": "Focus mode",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "71db1dbc71db1dbc71db1dbc",
+      "source": "Hide tab bar and status bar, hover to display. Can be toggled via hotkey.",
+      "translated": "Hide tab bar and status bar, hover to display. Can be toggled via hotkey.",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "bb0ec90abb0ec90abb0ec90a",
+      "source": "Underline internal links",
+      "translated": "Underline internal links",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "ff54d095ff54d095ff54d095",
+      "source": "Show underlines on internal links.",
+      "translated": "Show underlines on internal links.",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "fddb4110fddb4110fddb4110",
+      "source": "Underline external links",
+      "translated": "Underline external links",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "3e1e694f3e1e694f3e1e694f",
+      "source": "Show underlines on external links.",
+      "translated": "Show underlines on external links.",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "5c5c46fa5c5c46fa5c5c46fa",
+      "source": "Maximize media",
+      "translated": "Maximize media",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "98e4908598e4908598e49085",
+      "source": "Images and videos fill the width of the line.",
+      "translated": "Images and videos fill the width of the line.",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "eb8fe722eb8fe722eb8fe722",
+      "source": "Layout",
+      "translated": "Layout",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "156170c5156170c5156170c5",
+      "source": "These options can also be defined on a per-file basis, see",
+      "translated": "These options can also be defined on a per-file basis, see",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "8b1634748b1634748b163474",
+      "source": "Image grids",
+      "translated": "Image grids",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "6f7ef1a76f7ef1a76f7ef1a7",
+      "source": "Turn consecutive images into columns — to make a new row, add an extra line break between images.",
+      "translated": "Turn consecutive images into columns — to make a new row, add an extra line break between images.",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "ce11c4d2ce11c4d2ce11c4d2",
+      "source": "Chart width",
+      "translated": "Chart width",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "fd0a32f6fd0a32f6fd0a32f6",
+      "source": "Default width for chart blocks.",
+      "translated": "Default width for chart blocks.",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "63c4ac4f63c4ac4f63c4ac4f",
+      "source": "Wide line width",
+      "translated": "Wide line width",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "46284ef846284ef846284ef8",
+      "source": "Maximum line width",
+      "translated": "Maximum line width",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "be7e63d0be7e63d0be7e63d0",
+      "source": "100% pane width",
+      "translated": "100% pane width",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "2912150a2912150a2912150a",
+      "source": "Iframe width",
+      "translated": "Iframe width",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "ac8ce6eeac8ce6eeac8ce6ee",
+      "source": "Default width for iframe blocks.",
+      "translated": "Default width for iframe blocks.",
+      "updatedAt": 1764997113840
+    },
+    {
+      "key": "d92d2bd9d92d2bd9d92d2bd9",
+      "source": "Image width",
+      "translated": "Image width",
+      "updatedAt": 1764997113841
+    },
+    {
+      "key": "7c9824bd7c9824bd7c9824bd",
+      "source": "Default width for image blocks.",
+      "translated": "Default width for image blocks.",
+      "updatedAt": 1764997113841
+    },
+    {
+      "key": "af792162af792162af792162",
+      "source": "Map width",
+      "translated": "Map width",
+      "updatedAt": 1764997113841
+    },
+    {
+      "key": "d5d35c86d5d35c86d5d35c86",
+      "source": "Default width for map blocks.",
+      "translated": "Default width for map blocks.",
+      "updatedAt": 1764997113841
+    },
+    {
+      "key": "bcb2be20bcb2be20bcb2be20",
+      "source": "Table width",
+      "translated": "Table width",
+      "updatedAt": 1764997113841
+    },
+    {
+      "key": "4b5b3f724b5b3f724b5b3f72",
+      "source": "Default width for table and Dataview blocks.",
+      "translated": "Default width for table and Dataview blocks.",
+      "updatedAt": 1764997113841
+    },
+    {
+      "key": "d416f8bfd416f8bfd416f8bf",
+      "source": "Typography",
+      "translated": "Typography",
+      "updatedAt": 1764997113841
+    },
+    {
+      "key": "f3d67eb3f3d67eb3f3d67eb3",
+      "source": "Text font size",
+      "translated": "Text font size",
+      "updatedAt": 1764997113841
+    },
+    {
+      "key": "173805081738050817380508",
+      "source": "Used for the main text (default 16).",
+      "translated": "Used for the main text (default 16).",
+      "updatedAt": 1764997113841
+    },
+    {
+      "key": "8f1a4b918f1a4b918f1a4b91",
+      "source": "Small font size",
+      "translated": "Small font size",
+      "updatedAt": 1764997113841
+    },
+    {
+      "key": "16443bd716443bd716443bd7",
+      "source": "Used for text in the sidebars and tabs (default 13).",
+      "translated": "Used for text in the sidebars and tabs (default 13).",
+      "updatedAt": 1764997113841
+    },
+    {
+      "key": "171178891711788917117889",
+      "source": "Line height",
+      "translated": "Line height",
+      "updatedAt": 1764997113841
+    },
+    {
+      "key": "321e9713321e9713321e9713",
+      "source": "Line height of text (default 1.5).",
+      "translated": "Line height of text (default 1.5).",
+      "updatedAt": 1764997113841
+    },
+    {
+      "key": "313dc983313dc983313dc983",
+      "source": "Normal line width",
+      "translated": "Normal line width",
+      "updatedAt": 1764997113841
+    },
+    {
+      "key": "7a5f31517a5f31517a5f3151",
+      "source": "Number of characters per line (default 40).",
+      "translated": "Number of characters per line (default 40).",
+      "updatedAt": 1764997113841
+    },
+    {
+      "key": "16869e7916869e7916869e79",
+      "source": "Number of characters per line for wide elements (default 50).",
+      "translated": "Number of characters per line for wide elements (default 50).",
+      "updatedAt": 1764997113841
+    },
+    {
+      "key": "aec5a27daec5a27daec5a27d",
+      "source": "Maximum line width %",
+      "translated": "Maximum line width %",
+      "updatedAt": 1764997113841
+    },
+    {
+      "key": "63f21a0b63f21a0b63f21a0b",
+      "source": "Percentage of space inside a pane that a line can fill (default 88).",
+      "translated": "Percentage of space inside a pane that a line can fill (default 88).",
+      "updatedAt": 1764997113841
+    },
+    {
+      "key": "250add6a250add6a250add6a",
+      "source": "Editor font",
+      "translated": "Editor font",
+      "updatedAt": 1764997113841
+    },
+    {
+      "key": "363329a2363329a2363329a2",
+      "source": "Overrides the text font defined in Obsidian Appearance settings when in edit mode.",
+      "translated": "Overrides the text font defined in Obsidian Appearance settings when in edit mode.",
+      "updatedAt": 1764997113841
+    }
+  ]
+}
