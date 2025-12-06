@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "scope": "Outliner",
+  "entries": [
+    {
+      "key": "b17f60a6b17f60a6b17f60a6",
+      "source": "Stick the cursor to the content",
+      "translated": "将光标固定到内容上",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "fac98462fac98462fac98462",
+      "source": "Don't let the cursor move to the bullet position.",
+      "translated": "不要让光标移动到项目符号的位置。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "9e203d729e203d729e203d72",
+      "source": "Never",
+      "translated": "永不",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "87e68c6687e68c6687e68c66",
+      "source": "Stick cursor out of bullets",
+      "translated": "将光标放在项目符号之外",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "fcc919a8fcc919a8fcc919a8",
+      "source": "Stick cursor out of bullets and checkboxes",
+      "translated": "将光标放在项目符号和复选框之外",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "be4772cbbe4772cbbe4772cb",
+      "source": "Enhance the Tab key",
+      "translated": "增强 Tab 键",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "7a5949fb7a5949fb7a5949fb",
+      "source": "Make Tab and Shift-Tab behave the same as other outliners.",
+      "translated": "使 Tab 和 Shift-Tab 的行为与其他大纲工具一致。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "2023f8942023f8942023f894",
+      "source": "Enhance the Enter key",
+      "translated": "增强 Enter 键",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "4c825d5b4c825d5b4c825d5b",
+      "source": "Make the Enter key behave the same as other outliners.",
+      "translated": "使 Enter 键的行为与其他大纲工具一致。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "2f17677a2f17677a2f17677a",
+      "source": "Vim-mode o/O inserts bullets",
+      "translated": "Vim 模式下的 o/O 键插入项目符号",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "c90f080dc90f080dc90f080d",
+      "source": "Create a bullet when pressing o or O in Vim mode.",
+      "translated": "在 Vim 模式下按 o 或 O 键创建项目符号。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "650e8a39650e8a39650e8a39",
+      "source": "Enhance the Ctrl+A or Cmd+A behavior",
+      "translated": "增强 Ctrl+A 或 Cmd+A 的行为",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "4226602e4226602e4226602e",
+      "source": "Press the hotkey once to select the current list item. Press the hotkey twice to select the entire list.",
+      "translated": "按下快捷键一次以选择当前列表项。按下快捷键两次以选择整个列表。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "2c20cda52c20cda52c20cda5",
+      "source": "Improve the style of your lists",
+      "translated": "改进你的列表样式",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "81ffb1e181ffb1e181ffb1e1",
+      "source": "Styles are only compatible with built-in Obsidian themes and may not be compatible with other themes.",
+      "translated": "样式仅与内置的 Obsidian 主题兼容，可能与其他主题不兼容。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "8b4fce568b4fce568b4fce56",
+      "source": "Draw vertical indentation lines",
+      "translated": "绘制垂直缩进线",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "407143954071439540714395",
+      "source": "Vertical indentation line click action",
+      "translated": "垂直缩进线单击操作",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "e69022f2e69022f2e69022f2",
+      "source": "None",
+      "translated": "无",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "7d312d687d312d687d312d68",
+      "source": "Zoom In",
+      "translated": "放大",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "c50a208bc50a208bc50a208b",
+      "source": "Toggle Folding",
+      "translated": "切换折叠",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "a598ab2aa598ab2aa598ab2a",
+      "source": "Drag-and-Drop",
+      "translated": "拖放",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "83207baa83207baa83207baa",
+      "source": "Debug mode",
+      "translated": "调试模式",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "1fc964801fc964801fc96480",
+      "source": "Open DevTools (Command+Option+I or Control+Shift+I) to copy the debug logs.",
+      "translated": "打开调试工具(DevTools)(Command+Option+I 或 Ctrl+Shift+I)复制调试日志。",
+      "updatedAt": 1765007348788
+    }
+  ]
+}
