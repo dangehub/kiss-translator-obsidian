@@ -1,0 +1,252 @@
+{
+  "version": 1,
+  "scope": "Better Word Count",
+  "entries": [
+    {
+      "key": "4aeab7a04aeab7a04aeab7a0",
+      "source": "Better Word Count Settings",
+      "translated": "Better Word Count Settings",
+      "updatedAt": 1765000414578
+    },
+    {
+      "key": "3c45080b3c45080b3c45080b",
+      "source": "General Settings",
+      "translated": "General Settings",
+      "updatedAt": 1765000414578
+    },
+    {
+      "key": "cc4f10c3cc4f10c3cc4f10c3",
+      "source": "Collect Statistics",
+      "translated": "Collect Statistics",
+      "updatedAt": 1765000414578
+    },
+    {
+      "key": "f7ce4784f7ce4784f7ce4784",
+      "source": "Reload required for change to take effect. Turn on to start collecting daily statistics of your writing. Stored in the path specified below. This is required for counts of the day as well as total counts.",
+      "translated": "Reload required for change to take effect. Turn on to start collecting daily statistics of your writing. Stored in the path specified below. This is required for counts of the day as well as total counts.",
+      "updatedAt": 1765000414578
+    },
+    {
+      "key": "053bf18d053bf18d053bf18d",
+      "source": "Don't Count Comments",
+      "translated": "Don't Count Comments",
+      "updatedAt": 1765000414578
+    },
+    {
+      "key": "b76c7ec5b76c7ec5b76c7ec5",
+      "source": "Turn on if you don't want markdown comments to be counted.",
+      "translated": "Turn on if you don't want markdown comments to be counted.",
+      "updatedAt": 1765000414578
+    },
+    {
+      "key": "447261664472616644726166",
+      "source": "Display Section Word Count",
+      "translated": "Display Section Word Count",
+      "updatedAt": 1765000414578
+    },
+    {
+      "key": "222a401b222a401b222a401b",
+      "source": "Turn on if you want to display section word counts next to headings.",
+      "translated": "Turn on if you want to display section word counts next to headings.",
+      "updatedAt": 1765000414578
+    },
+    {
+      "key": "b8fc5566b8fc5566b8fc5566",
+      "source": "Page Word Count",
+      "translated": "Page Word Count",
+      "updatedAt": 1765000414578
+    },
+    {
+      "key": "aaa43aeaaaa43aeaaaa43aea",
+      "source": "Set how many words count as one \"page\"",
+      "translated": "Set how many words count as one \"page\"",
+      "updatedAt": 1765000414578
+    },
+    {
+      "key": "e46d7e23e46d7e23e46d7e23",
+      "source": "Advanced Settings",
+      "translated": "Advanced Settings",
+      "updatedAt": 1765000414578
+    },
+    {
+      "key": "247fd468247fd468247fd468",
+      "source": "Vault Stats File Path",
+      "translated": "Vault Stats File Path",
+      "updatedAt": 1765000414578
+    },
+    {
+      "key": "bd0fc281bd0fc281bd0fc281",
+      "source": "Reload required for change to take effect. The location of the vault statistics file, relative to the vault root.",
+      "translated": "Reload required for change to take effect. The location of the vault statistics file, relative to the vault root.",
+      "updatedAt": 1765000414578
+    },
+    {
+      "key": "b05ba8dab05ba8dab05ba8da",
+      "source": "Markdown Status Bar",
+      "translated": "Markdown Status Bar",
+      "updatedAt": 1765000414578
+    },
+    {
+      "key": "f8bd5e47f8bd5e47f8bd5e47",
+      "source": "Here you can customize what statistics are displayed on the status bar when editing a markdown note.",
+      "translated": "Here you can customize what statistics are displayed on the status bar when editing a markdown note.",
+      "updatedAt": 1765000414578
+    },
+    {
+      "key": "856725ec856725ec856725ec",
+      "source": "Add Item",
+      "translated": "Add Item",
+      "updatedAt": 1765000414578
+    },
+    {
+      "key": "b14bf1adb14bf1adb14bf1ad",
+      "source": "Reset",
+      "translated": "Reset",
+      "updatedAt": 1765000414578
+    },
+    {
+      "key": "6d722f726d722f726d722f72",
+      "source": "Words in Note",
+      "translated": "Words in Note",
+      "updatedAt": 1765000414578
+    },
+    {
+      "key": "831ca644831ca644831ca644",
+      "source": "Chars in Note",
+      "translated": "Chars in Note",
+      "updatedAt": 1765000414578
+    },
+    {
+      "key": "5709ba325709ba325709ba32",
+      "source": "Alternative Status Bar",
+      "translated": "Alternative Status Bar",
+      "updatedAt": 1765000414578
+    },
+    {
+      "key": "0dd921440dd921440dd92144",
+      "source": "Here you can customize what statistics are displayed on the status bar when not editing a markdown file.",
+      "translated": "Here you can customize what statistics are displayed on the status bar when not editing a markdown file.",
+      "updatedAt": 1765000414578
+    },
+    {
+      "key": "0998a8990998a8990998a899",
+      "source": "Total Notes",
+      "translated": "Total Notes",
+      "updatedAt": 1765000414578
+    },
+    {
+      "key": "bfd4fb88bfd4fb88bfd4fb88",
+      "source": "Metric Counter",
+      "translated": "Metric Counter",
+      "updatedAt": 1765000423278
+    },
+    {
+      "key": "dce177a7dce177a7dce177a7",
+      "source": "Select the counter to display, e.g. words, characters.",
+      "translated": "Select the counter to display, e.g. words, characters.",
+      "updatedAt": 1765000423278
+    },
+    {
+      "key": "2bf050932bf050932bf05093",
+      "source": "Select Option",
+      "translated": "Select Option",
+      "updatedAt": 1765000423278
+    },
+    {
+      "key": "d3190e85d3190e85d3190e85",
+      "source": "Words",
+      "translated": "Words",
+      "updatedAt": 1765000423278
+    },
+    {
+      "key": "5b97a8125b97a8125b97a812",
+      "source": "Characters",
+      "translated": "Characters",
+      "updatedAt": 1765000423278
+    },
+    {
+      "key": "0fdadf2a0fdadf2a0fdadf2a",
+      "source": "Sentences",
+      "translated": "Sentences",
+      "updatedAt": 1765000423278
+    },
+    {
+      "key": "5d5caa895d5caa895d5caa89",
+      "source": "Footnotes",
+      "translated": "Footnotes",
+      "updatedAt": 1765000423278
+    },
+    {
+      "key": "f2109688f2109688f2109688",
+      "source": "Citations",
+      "translated": "Citations",
+      "updatedAt": 1765000423278
+    },
+    {
+      "key": "44fab93844fab93844fab938",
+      "source": "Pages",
+      "translated": "Pages",
+      "updatedAt": 1765000423278
+    },
+    {
+      "key": "a4ce2beda4ce2beda4ce2bed",
+      "source": "Files",
+      "translated": "Files",
+      "updatedAt": 1765000423278
+    },
+    {
+      "key": "2bca59842bca59842bca5984",
+      "source": "Metric Type",
+      "translated": "Metric Type",
+      "updatedAt": 1765000423278
+    },
+    {
+      "key": "6cb59cef6cb59cef6cb59cef",
+      "source": "Select the type of metric that you want displayed.",
+      "translated": "Select the type of metric that you want displayed.",
+      "updatedAt": 1765000423278
+    },
+    {
+      "key": "6aae83816aae83816aae8381",
+      "source": "Current Note",
+      "translated": "Current Note",
+      "updatedAt": 1765000423278
+    },
+    {
+      "key": "655045456550454565504545",
+      "source": "Daily Metric",
+      "translated": "Daily Metric",
+      "updatedAt": 1765000423278
+    },
+    {
+      "key": "192501071925010719250107",
+      "source": "Total in Vault",
+      "translated": "Total in Vault",
+      "updatedAt": 1765000423278
+    },
+    {
+      "key": "ebb0a955ebb0a955ebb0a955",
+      "source": "Prefix Text",
+      "translated": "Prefix Text",
+      "updatedAt": 1765000423278
+    },
+    {
+      "key": "9ef224019ef224019ef22401",
+      "source": "This is the text that is placed before the count.",
+      "translated": "This is the text that is placed before the count.",
+      "updatedAt": 1765000423278
+    },
+    {
+      "key": "411c65f2411c65f2411c65f2",
+      "source": "Suffix Text",
+      "translated": "Suffix Text",
+      "updatedAt": 1765000423278
+    },
+    {
+      "key": "55e8e11c55e8e11c55e8e11c",
+      "source": "This is the text that is placed after the count.",
+      "translated": "This is the text that is placed after the count.",
+      "updatedAt": 1765000423278
+    }
+  ]
+}
