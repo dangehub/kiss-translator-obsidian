@@ -6,217 +6,217 @@
       "key": "74932eb974932eb974932eb9",
       "source": "QuickAdd Settings",
       "translated": "QuickAdd 设置",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "7dbe1a487dbe1a487dbe1a48",
       "source": "Template",
       "translated": "模板",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "8ff69a1c8ff69a1c8ff69a1c",
       "source": "Capture",
       "translated": "捕获",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "e7ed398ae7ed398ae7ed398a",
       "source": "Macro",
       "translated": "宏",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "6f8caf516f8caf516f8caf51",
       "source": "Multi",
       "translated": "多选",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "b5fb25d2b5fb25d2b5fb25d2",
       "source": "Add Choice",
       "translated": "添加选项",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "05c8c35105c8c35105c8c351",
       "source": "Packages",
       "translated": "包",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "61ad338a61ad338a61ad338a",
       "source": "Bundle or import QuickAdd automations as reusable packages.",
       "translated": "将 QuickAdd 自动化捆绑或导入为可重用包。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "e7ecd060e7ecd060e7ecd060",
       "source": "Export package…",
       "translated": "导出包…",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "d82775d9d82775d9d82775d9",
       "source": "Import package…",
       "translated": "导入包…",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "770d1ca3770d1ca3770d1ca3",
       "source": "Use Multi-line Input Prompt",
       "translated": "使用多行输入提示",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "266959a1266959a1266959a1",
       "source": "Use multi-line input prompt instead of single-line input prompt",
       "translated": "使用多行输入提示而非单行输入提示",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "50e6a27350e6a27350e6a273",
       "source": "Template Folder Path",
       "translated": "模板文件夹路径",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "08192ba208192ba208192ba2",
       "source": "Path to the folder where templates are stored. Used to suggest template files when configuring QuickAdd.",
       "translated": "存储模板的文件夹路径。用于在配置 QuickAdd 时建议模板文件。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "2af5cae92af5cae92af5cae9",
       "source": "Announce Updates",
       "translated": "公告更新",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "5c6fa5a85c6fa5a85c6fa5a8",
       "source": "Display release notes when a new version is installed. This includes new features, demo videos, and bug fixes.",
       "translated": "安装新版本时显示发行说明。这包括新功能、演示视频和错误修复。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "23e91ea223e91ea223e91ea2",
       "source": "Show updates on each new release",
       "translated": "每次新发布时显示更新",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "aa3cb671aa3cb671aa3cb671",
       "source": "Show updates only on major releases (new features, breaking changes)",
       "translated": "仅主要发布时显示更新（新功能、重大变更）",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "f8692aadf8692aadf8692aad",
       "source": "Don't show",
       "translated": "不显示",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "e61372e1e61372e1e61372e1",
       "source": "Show Capture Notifications",
       "translated": "显示捕获通知",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "abea1186abea1186abea1186",
       "source": "Display a notification when content is captured successfully to confirm the operation completed.",
       "translated": "内容成功捕获时显示通知以确认操作完成。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "a65f3c84a65f3c84a65f3c84",
       "source": "Show Input Cancellation Notifications",
       "translated": "显示输入取消通知",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "a5c5292ca5c5292ca5c5292c",
       "source": "Display a notification when an input prompt is cancelled without submitting. Disable this to avoid extra notices when dismissing prompts.",
       "translated": "当输入提示被取消而未提交时显示通知。禁用此功能可避免在关闭提示时收到额外通知。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "764453397644533976445339",
       "source": "Format template variables as proper property types (Beta)",
       "translated": "将模板变量格式化为适当的属性类型（测试版）",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "1c6b11a71c6b11a71c6b11a7",
       "source": "When enabled, template variables in front matter will be formatted as proper Obsidian property types. Arrays become List properties, numbers become Number properties, booleans become Checkbox properties, etc. This is a beta feature that may have edge cases.",
       "translated": "启用后，前置事项中的模板变量将被格式化为适当的 Obsidian 属性类型。数组变为列表属性，数字变为数字属性，布尔值变为复选框属性等。这是一个测试版功能，可能存在边缘情况。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "918326469183264691832646",
       "source": "Global Variables",
       "translated": "全局变量",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "63acc43f63acc43f63acc43f",
       "source": "Add variable",
       "translated": "添加变量",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "b1284a1fb1284a1fb1284a1f",
       "source": "Name",
       "translated": "名称",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "bd48c3f3bd48c3f3bd48c3f3",
       "source": "Value",
       "translated": "值",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "da913775da913775da913775",
       "source": "Actions",
       "translated": "操作",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "03a9558403a9558403a95584",
       "source": "One-page input for choices (Beta)",
       "translated": "选项的单页输入（测试版）",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "d03bba33d03bba33d03bba33",
       "source": "Experimental. Resolve variables up front and show a single dynamic form before executing Template/Capture choices. See Advanced → One-page Inputs in docs.",
       "translated": "实验性功能。预先解析变量并在执行模板/捕获选项前显示单个动态表单。请参阅文档中的高级 → 单页输入。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "68e8f6ca68e8f6ca68e8f6ca",
       "source": "Disable AI & Online features",
       "translated": "禁用 AI 和在线功能",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "9cd0d78e9cd0d78e9cd0d78e",
       "source": "This prevents the plugin from making requests to external providers like OpenAI. You can still use User Scripts to execute arbitrary code, including contacting external providers. However, this setting disables plugin features like the AI Assistant from doing so. You need to disable this setting to use the AI Assistant.",
       "translated": "这将阻止插件向外部提供商（如 OpenAI）发出请求。您仍可使用用户脚本来执行任意代码，包括联系外部提供商。但是，此设置会禁用插件功能（如 AI 助手）执行此类操作。您需要禁用此设置才能使用 AI 助手。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "e824cf9de824cf9de824cf9d",
       "source": "Show icon in sidebar",
       "translated": "在侧边栏中显示图标",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "4e00774a4e00774a4e00774a",
       "source": "Add QuickAdd icon to the sidebar ribbon. Requires a reload.",
       "translated": "将 QuickAdd 图标添加到侧边栏功能区。需要重新加载。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     }
   ]
 }
