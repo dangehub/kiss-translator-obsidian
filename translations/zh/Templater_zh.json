@@ -6,169 +6,169 @@
       "key": "9f1dbae39f1dbae39f1dbae3",
       "source": "Template folder location",
       "translated": "模板文件夹位置",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "1b6c4ba51b6c4ba51b6c4ba5",
       "source": "Files in this folder will be available as templates.",
       "translated": "此文件夹中的文件将作为模板可用。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "0a98abb00a98abb00a98abb0",
       "source": "Internal variables and functions",
       "translated": "内部变量和函数",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "462896b2462896b2462896b2",
       "source": "Syntax highlighting on desktop",
       "translated": "桌面语法高亮",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "f5988528f5988528f5988528",
       "source": "Adds syntax highlighting for Templater commands in edit mode.",
       "translated": "在编辑模式下为Templater命令添加语法高亮。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "d476eaa0d476eaa0d476eaa0",
       "source": "Syntax highlighting on mobile",
       "translated": "移动端语法高亮",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "c703000ac703000ac703000a",
       "source": "Adds syntax highlighting for Templater commands in edit mode on mobile. Use with caution: this may break live preview on mobile platforms.",
       "translated": "在移动端编辑模式下为Templater命令添加语法高亮。请谨慎使用：这可能会破坏移动平台上的实时预览。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "a0ae04d6a0ae04d6a0ae04d6",
       "source": "Automatic jump to cursor",
       "translated": "自动跳转到光标",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "f8faa850f8faa850f8faa850",
       "source": "Trigger Templater on new file creation",
       "translated": "创建新文件时触发Templater",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "72681a7f72681a7f72681a7f",
       "source": "Template hotkeys",
       "translated": "模板快捷键",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "f3890e0df3890e0df3890e0d",
       "source": "Template hotkeys allows you to bind a template to a hotkey.",
       "translated": "模板快捷键允许您将模板绑定到快捷键。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "cbf5adcacbf5adcacbf5adca",
       "source": "Add new hotkey for template",
       "translated": "为模板添加新快捷键",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "2950bd7e2950bd7e2950bd7e",
       "source": "Startup templates",
       "translated": "启动模板",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "e2df8010e2df8010e2df8010",
       "source": "Add new startup template",
       "translated": "添加新启动模板",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "409586d7409586d7409586d7",
       "source": "User script functions",
       "translated": "用户脚本函数",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "ba89ab69ba89ab69ba89ab69",
       "source": "Script files folder location",
       "translated": "脚本文件文件夹位置",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "d988b177d988b177d988b177",
       "source": "User script intellisense",
       "translated": "用户脚本智能感知",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "e6bda2e8e6bda2e8e6bda2e8",
       "source": "Determine how you'd like to have user script intellisense render. Note values will not render if not in the script.",
       "translated": "确定您希望用户脚本智能感知如何呈现。请注意，如果不在脚本中，值将不会呈现。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "bdae7a3bbdae7a3bbdae7a3b",
       "source": "Turn off intellisense",
       "translated": "关闭智能感知",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "8ff183128ff183128ff18312",
       "source": "Render method description, parameters list, and return",
       "translated": "呈现方法描述、参数列表和返回值",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "224f5098224f5098224f5098",
       "source": "Render method description and parameters list",
       "translated": "呈现方法描述和参数列表",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "81e4834a81e4834a81e4834a",
       "source": "Render method description and return",
       "translated": "呈现方法描述和返回值",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "d9a5d74bd9a5d74bd9a5d74b",
       "source": "Render method description",
       "translated": "呈现方法描述",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "4b60e1804b60e1804b60e180",
       "source": "No user scripts folder set",
       "translated": "未设置用户脚本文件夹",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "9a31e29a9a31e29a9a31e29a",
       "source": "User system command functions",
       "translated": "用户系统命令函数",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "537db69b537db69b537db69b",
       "source": "Enable user system command functions",
       "translated": "启用用户系统命令函数",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "5491112d5491112d5491112d",
       "source": "Donate",
       "translated": "捐赠",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     },
     {
       "key": "679eac2b679eac2b679eac2b",
       "source": "If you like this Plugin, consider donating to support continued development.",
       "translated": "如果您喜欢这个插件，可以考虑捐赠来支持继续开发。",
-      "updatedAt": 1764999239081
+      "updatedAt": 1764998015830
     }
   ]
 }
