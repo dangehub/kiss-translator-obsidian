@@ -1,0 +1,852 @@
+{
+  "version": 1,
+  "scope": "make.md",
+  "entries": [
+    {
+      "key": "fad9524efad9524efad9524e",
+      "source": "General",
+      "translated": "General",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "375044273750442737504427",
+      "source": "Navigator",
+      "translated": "Navigator",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "dded7579dded7579dded7579",
+      "source": "The navigator lets you create and organize your spaces",
+      "translated": "The navigator lets you create and organize your spaces",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "0141f48f0141f48f0141f48f",
+      "source": "Spaces",
+      "translated": "Spaces",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "b8ba5815b8ba5815b8ba5815",
+      "source": "Customize your folders and tags with properties and views",
+      "translated": "Customize your folders and tags with properties and views",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "3710b22d3710b22d3710b22d",
+      "source": "Labels",
+      "translated": "Labels",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "9318111a9318111a9318111a",
+      "source": "Stickers",
+      "translated": "Stickers",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "0153582d0153582d0153582d",
+      "source": "Use Emojis to make it easier to find your notes",
+      "translated": "Use Emojis to make it easier to find your notes",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "589ffefa589ffefa589ffefa",
+      "source": "Use SVGs as Stickers",
+      "translated": "Use SVGs as Stickers",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "b244cfc7b244cfc7b244cfc7",
+      "source": "Use any svg file in your vault as a sticker",
+      "translated": "Use any svg file in your vault as a sticker",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "969f0a0e969f0a0e969f0a0e",
+      "source": "Alias",
+      "translated": "Alias",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "8a2102d98a2102d98a2102d9",
+      "source": "Use the alias metadata to show in Navigator",
+      "translated": "Use the alias metadata to show in Navigator",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "aa10ded2aa10ded2aa10ded2",
+      "source": "Cover Image",
+      "translated": "Cover Image",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "28d0795428d0795428d07954",
+      "source": "Show a cover image for notes and spaces",
+      "translated": "Show a cover image for notes and spaces",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "f0923bcaf0923bcaf0923bca",
+      "source": "Cover Height",
+      "translated": "Cover Height",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "dbcb0347dbcb0347dbcb0347",
+      "source": "The height for the cover of the note or space, default is 200",
+      "translated": "The height for the cover of the note or space, default is 200",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "4aa7e6194aa7e6194aa7e619",
+      "source": "Tags",
+      "translated": "Tags",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "276598dd276598dd276598dd",
+      "source": "Tag Spaces",
+      "translated": "Tag Spaces",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "2c134f032c134f032c134f03",
+      "source": "Automatically create spaces for each of your tags",
+      "translated": "Automatically create spaces for each of your tags",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "7f44ecb37f44ecb37f44ecb3",
+      "source": "Apply Properties to Subtags",
+      "translated": "Apply Properties to Subtags",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "901549a9901549a9901549a9",
+      "source": "Automatically apply context properties to subtags",
+      "translated": "Automatically apply context properties to subtags",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "70a24f6670a24f6670a24f66",
+      "source": "Appearance",
+      "translated": "Appearance",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "0b0e39360b0e39360b0e3936",
+      "source": "Sidebar Tabs",
+      "translated": "Sidebar Tabs",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "ca5fe5deca5fe5deca5fe5de",
+      "source": "Show/hide other sidebar tabs",
+      "translated": "Show/hide other sidebar tabs",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "1bccf4171bccf4171bccf417",
+      "source": "Vault Selector",
+      "translated": "Vault Selector",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "aeec31a1aeec31a1aeec31a1",
+      "source": "Show/hide the vault selector at the bottom",
+      "translated": "Show/hide the vault selector at the bottom",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "140d27c3140d27c3140d27c3",
+      "source": "App Ribbon",
+      "translated": "App Ribbon",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "3fd9581a3fd9581a3fd9581a",
+      "source": "Show/hide the left menu aka. ribbon",
+      "translated": "Show/hide the left menu aka. ribbon",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "5150b53d5150b53d5150b53d",
+      "source": "Navigator on Right Side",
+      "translated": "Navigator on Right Side",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "1f86c5021f86c5021f86c502",
+      "source": "Open the Navigator in the right panel",
+      "translated": "Open the Navigator in the right panel",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "74057dcd74057dcd74057dcd",
+      "source": "Row Height",
+      "translated": "Row Height",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "45aadb3345aadb3345aadb33",
+      "source": "The height for each row in navigator (in pixels), default is 29",
+      "translated": "The height for each row in navigator (in pixels), default is 29",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "202cfa80202cfa80202cfa80",
+      "source": "Row Height - Mobile",
+      "translated": "Row Height - Mobile",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "6f8583276f8583276f858327",
+      "source": "The height for each row in navigator for mobile (in pixels), default is 40",
+      "translated": "The height for each row in navigator for mobile (in pixels), default is 40",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "6d75f7916d75f7916d75f791",
+      "source": "Show Folder Indentation Lines",
+      "translated": "Show Folder Indentation Lines",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "a293a1bfa293a1bfa293a1bf",
+      "source": "Turn on to show a line on the left of folders to indicate indentation",
+      "translated": "Turn on to show a line on the left of folders to indicate indentation",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "51a2c21051a2c21051a2c210",
+      "source": "Preferences",
+      "translated": "Preferences",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "b2bff67db2bff67db2bff67d",
+      "source": "Open Navigator as Default Tab",
+      "translated": "Open Navigator as Default Tab",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "9eea69179eea69179eea6917",
+      "source": "Open the Navigator tab when Obsidian launches",
+      "translated": "Open the Navigator tab when Obsidian launches",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "b673598bb673598bb673598b",
+      "source": "Edit Stickers in Sidebar",
+      "translated": "Edit Stickers in Sidebar",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "e468412ae468412ae468412a",
+      "source": "Edit stickers directly in the sidebar",
+      "translated": "Edit stickers directly in the sidebar",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "a6853c02a6853c02a6853c02",
+      "source": "Use Obsidian Context Menu",
+      "translated": "Use Obsidian Context Menu",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "49d43d9749d43d9749d43d97",
+      "source": "Show the Obsidian context menu instead of Make.md",
+      "translated": "Show the Obsidian context menu instead of Make.md",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "1f877d471f877d471f877d47",
+      "source": "Auto Expand Folder",
+      "translated": "Auto Expand Folder",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "633d09bb633d09bb633d09bb",
+      "source": "Auto expand folders on click",
+      "translated": "Auto expand folders on click",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "e6ee3815e6ee3815e6ee3815",
+      "source": "Preview on Hover",
+      "translated": "Preview on Hover",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "6db59f3d6db59f3d6db59f3d",
+      "source": "Preview on Hover while holding Control/Command key",
+      "translated": "Preview on Hover while holding Control/Command key",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "c774677bc774677bc774677b",
+      "source": "Reveal Active File",
+      "translated": "Reveal Active File",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "279dcedf279dcedf279dcedf",
+      "source": "Automatically reveal the active file in Navigator",
+      "translated": "Automatically reveal the active file in Navigator",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "f47487a4f47487a4f47487a4",
+      "source": "Delete File Option",
+      "translated": "Delete File Option",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "779332bb779332bb779332bb",
+      "source": "Select how you want files to be deleted",
+      "translated": "Select how you want files to be deleted",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "2d6a580e2d6a580e2d6a580e",
+      "source": "Delete Permanently",
+      "translated": "Delete Permanently",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "6630fc7b6630fc7b6630fc7b",
+      "source": "Move to Obsidian Trash",
+      "translated": "Move to Obsidian Trash",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "6014c36b6014c36b6014c36b",
+      "source": "Move to System Trash",
+      "translated": "Move to System Trash",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "d0f21fbad0f21fbad0f21fba",
+      "source": "Blink",
+      "translated": "Blink",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "4c98c5714c98c5714c98c571",
+      "source": "A faster way to search and edit your notes",
+      "translated": "A faster way to search and edit your notes",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "f24b50e6f24b50e6f24b50e6",
+      "source": "Advanced",
+      "translated": "Advanced",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "3f3fd7953f3fd7953f3fd795",
+      "source": "Compatibility Mode",
+      "translated": "Compatibility Mode",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "7a3129077a3129077a312907",
+      "source": "This will improve the compatibility of plugins while using the Navigator, however will turn off linking to spaces from breadcrumbs",
+      "translated": "This will improve the compatibility of plugins while using the Navigator, however will turn off linking to spaces from breadcrumbs",
+      "updatedAt": 1765000258397
+    },
+    {
+      "key": "e7a02f87e7a02f87e7a02f87",
+      "source": "Default Space Template",
+      "translated": "Default Space Template",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "0b95f7820b95f7820b95f782",
+      "source": "Select the default template for new spaces",
+      "translated": "Select the default template for new spaces",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "10d9418710d9418710d94187",
+      "source": "Context",
+      "translated": "Context",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "e9bd59b4e9bd59b4e9bd59b4",
+      "source": "Contexts",
+      "translated": "Contexts",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "fb0fedfffb0fedfffb0fedff",
+      "source": "Contexts allows you to have full control over the metadata of your files",
+      "translated": "Contexts allows you to have full control over the metadata of your files",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "37be3d8737be3d8737be3d87",
+      "source": "Table View Pagination",
+      "translated": "Table View Pagination",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "a1e579f4a1e579f4a1e579f4",
+      "source": "Number of items per page in table view",
+      "translated": "Number of items per page in table view",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "88f053e888f053e888f053e8",
+      "source": "Auto Open Explorer",
+      "translated": "Auto Open Explorer",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "734dd97c734dd97c734dd97c",
+      "source": "Automatically open explorer panel in the right panel",
+      "translated": "Automatically open explorer panel in the right panel",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "05e7445005e7445005e74450",
+      "source": "Sync Context Fields to Frontmatter",
+      "translated": "Sync Context Fields to Frontmatter",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "a52bff53a52bff53a52bff53",
+      "source": "Turn on to automatically save all context fields to Frontmatter fields, not just existing Frontmatter fields.",
+      "translated": "Turn on to automatically save all context fields to Frontmatter fields, not just existing Frontmatter fields.",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "f5b66da1f5b66da1f5b66da1",
+      "source": "Sync Formula Fields to Frontmatter",
+      "translated": "Sync Formula Fields to Frontmatter",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "5ec1ce765ec1ce765ec1ce76",
+      "source": "Turn on to save calculated formula values to Frontmatter fields.",
+      "translated": "Turn on to save calculated formula values to Frontmatter fields.",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "5ab638465ab638465ab63846",
+      "source": "Hide Context Properties",
+      "translated": "Hide Context Properties",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "eb99fa35eb99fa35eb99fa35",
+      "source": "Hide properties you have added in context from the Obsidian properties panel",
+      "translated": "Hide properties you have added in context from the Obsidian properties panel",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "16f0fbbb16f0fbbb16f0fbbb",
+      "source": "Notes",
+      "translated": "Notes",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "d0797594d0797594d0797594",
+      "source": "Make.md Basics",
+      "translated": "Make.md Basics",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "f2f1793bf2f1793bf2f1793b",
+      "source": "Enable features from Make.md Basics including styler and flow blocks",
+      "translated": "Enable features from Make.md Basics including styler and flow blocks",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "c3a42697c3a42697c3a42697",
+      "source": "New Note Placeholder",
+      "translated": "New Note Placeholder",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "ec6e6fafec6e6fafec6e6faf",
+      "source": "Default name for new notes, applies to the Navigator buttons and the New Note command",
+      "translated": "Default name for new notes, applies to the Navigator buttons and the New Note command",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "d846c331d846c331d846c331",
+      "source": "Notes Preview",
+      "translated": "Notes Preview",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "aad3b310aad3b310aad3b310",
+      "source": "Show a preview of notes, may cause performance issues",
+      "translated": "Show a preview of notes, may cause performance issues",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "065255e4065255e4065255e4",
+      "source": "Notes Header",
+      "translated": "Notes Header",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "1898c23b1898c23b1898c23b",
+      "source": "Show a header to display labels and properties",
+      "translated": "Show a header to display labels and properties",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "d103a497d103a497d103a497",
+      "source": "Note Thumbnails",
+      "translated": "Note Thumbnails",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "f95b585bf95b585bf95b585b",
+      "source": "Create thumbnails for notes",
+      "translated": "Create thumbnails for notes",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "2009c0dd2009c0dd2009c0dd",
+      "source": "Show Context Properties in Header",
+      "translated": "Show Context Properties in Header",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "8ed149868ed149868ed14986",
+      "source": "Show the properties in the header for notes and spaces",
+      "translated": "Show the properties in the header for notes and spaces",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "751685af751685af751685af",
+      "source": "Auto Expand Context Properties",
+      "translated": "Auto Expand Context Properties",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "c6ebc3dac6ebc3dac6ebc3da",
+      "source": "Expand the inline context sections when opening a note",
+      "translated": "Expand the inline context sections when opening a note",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "6eeb0fd86eeb0fd86eeb0fd8",
+      "source": "Title and Sticker Layout",
+      "translated": "Title and Sticker Layout",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "c979d83bc979d83bc979d83b",
+      "source": "Layout for inline title and sticker in Inline Context",
+      "translated": "Layout for inline title and sticker in Inline Context",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "5f5b54fe5f5b54fe5f5b54fe",
+      "source": "Folder Note",
+      "translated": "Folder Note",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "e83fcadfe83fcadfe83fcadf",
+      "source": "Enable Folder Note",
+      "translated": "Enable Folder Note",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "3ae9242d3ae9242d3ae9242d",
+      "source": "Access the folder note in the folder page and hide the folder note from spaces",
+      "translated": "Access the folder note in the folder page and hide the folder note from spaces",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "fac369b9fac369b9fac369b9",
+      "source": "Folder Note Name",
+      "translated": "Folder Note Name",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "af7caa15af7caa15af7caa15",
+      "source": "Name of the folder note, keep blank to use the same name as the folder",
+      "translated": "Name of the folder note, keep blank to use the same name as the folder",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "837d5e40837d5e40837d5e40",
+      "source": "Performance",
+      "translated": "Performance",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "ba0a7b12ba0a7b12ba0a7b12",
+      "source": "Navigator Scroll Performance",
+      "translated": "Navigator Scroll Performance",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "9d3b7c659d3b7c659d3b7c65",
+      "source": "Turn on performance mode for Navigator, may affect scrolling appearance. Requires Restart",
+      "translated": "Turn on performance mode for Navigator, may affect scrolling appearance. Requires Restart",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "199e24a0199e24a0199e24a0",
+      "source": "Image Thumbnails",
+      "translated": "Image Thumbnails",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "18c3ce0d18c3ce0d18c3ce0d",
+      "source": "Create thumbnails for images to speed up performance",
+      "translated": "Create thumbnails for images to speed up performance",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "b64ba044b64ba044b64ba044",
+      "source": "Cache Search Index",
+      "translated": "Cache Search Index",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "e3f79a4be3f79a4be3f79a4b",
+      "source": "Cache the index for faster search results",
+      "translated": "Cache the index for faster search results",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "b9ff2f44b9ff2f44b9ff2f44",
+      "source": "Default Date Format",
+      "translated": "Default Date Format",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "6bcff8f46bcff8f46bcff8f4",
+      "source": "Set the default date format, example: yyyy-MM-dd (see https://date-fns.org/v2.30.0/docs/format)",
+      "translated": "Set the default date format, example: yyyy-MM-dd (see https://date-fns.org/v2.30.0/docs/format)",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "ee879d5fee879d5fee879d5f",
+      "source": "Date Picker Time",
+      "translated": "Date Picker Time",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "4d32d3b94d32d3b94d32d3b9",
+      "source": "Select time by default in the date picker",
+      "translated": "Select time by default in the date picker",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "08f2fa8508f2fa8508f2fa85",
+      "source": "Default Time Format",
+      "translated": "Default Time Format",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "a131bae6a131bae6a131bae6",
+      "source": "Set the default time format, example: h:mm a (see https://date-fns.org/v2.30.0/docs/format)",
+      "translated": "Set the default time format, example: h:mm a (see https://date-fns.org/v2.30.0/docs/format)",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "897e8fd4897e8fd4897e8fd4",
+      "source": "Experimental",
+      "translated": "Experimental",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "347f895f347f895f347f895f",
+      "source": "Experimental features that are subject to change and may not be optimized for performance",
+      "translated": "Experimental features that are subject to change and may not be optimized for performance",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "f26aa28df26aa28df26aa28d",
+      "source": "Space Folder Name",
+      "translated": "Space Folder Name",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "adb36d95adb36d95adb36d95",
+      "source": "Name of the folder for spaces",
+      "translated": "Name of the folder for spaces",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "407594184075941840759418",
+      "source": "Tag Space Folder",
+      "translated": "Tag Space Folder",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "39f5d76739f5d76739f5d767",
+      "source": "Name of the folder for tag spaces",
+      "translated": "Name of the folder for tag spaces",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "4cfd08d44cfd08d44cfd08d4",
+      "source": "Basics Settings",
+      "translated": "Basics Settings",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "ed3c118aed3c118aed3c118a",
+      "source": "Flow",
+      "translated": "Flow",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "7e6684037e6684037e668403",
+      "source": "Flow Block",
+      "translated": "Flow Block",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "03b0124403b0124403b01244",
+      "source": "Open your internal links or toggle your embeds in the flow block.",
+      "translated": "Open your internal links or toggle your embeds in the flow block.",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "392420743924207439242074",
+      "source": "Show Toggles to Open Flow Editor on Links",
+      "translated": "Show Toggles to Open Flow Editor on Links",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "87dd072087dd072087dd0720",
+      "source": "Turn on to toggle Flow Blocks directly in inline links",
+      "translated": "Turn on to toggle Flow Blocks directly in inline links",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "da54d2ebda54d2ebda54d2eb",
+      "source": "Show Stickers on Links",
+      "translated": "Show Stickers on Links",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "8e4aec098e4aec098e4aec09",
+      "source": "Turn on to toggle stickers shown directly by beside internal links",
+      "translated": "Turn on to toggle stickers shown directly by beside internal links",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "75dc48f475dc48f475dc48f4",
+      "source": "Flow Block Style",
+      "translated": "Flow Block Style",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "7894be517894be517894be51",
+      "source": "Select a theme for your flow block",
+      "translated": "Select a theme for your flow block",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "a181b40ba181b40ba181b40b",
+      "source": "Seamless",
+      "translated": "Seamless",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "1ab5a89b1ab5a89b1ab5a89b",
+      "source": "Minimal",
+      "translated": "Minimal",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "5a0c58995a0c58995a0c5899",
+      "source": "Flow Menu",
+      "translated": "Flow Menu",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "e55b21f7e55b21f7e55b21f7",
+      "source": "Open the Flow menu to quickly add content",
+      "translated": "Open the Flow menu to quickly add content",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "0645db210645db210645db21",
+      "source": "Flow Menu Trigger",
+      "translated": "Flow Menu Trigger",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "1f53e7d61f53e7d61f53e7d6",
+      "source": "Character to open the Flow Menu",
+      "translated": "Character to open the Flow Menu",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "d8ee957fd8ee957fd8ee957f",
+      "source": "Flow Menu Hint Text",
+      "translated": "Flow Menu Hint Text",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "2d95a8ea2d95a8ea2d95a8ea",
+      "source": "Show a hint text on how to open the Flow Menu Shortcut",
+      "translated": "Show a hint text on how to open the Flow Menu Shortcut",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "b0b9b40fb0b9b40fb0b9b40f",
+      "source": "Flow Styler",
+      "translated": "Flow Styler",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "95679d4595679d4595679d45",
+      "source": "Select text to add styling",
+      "translated": "Select text to add styling",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "d3a80b33d3a80b33d3a80b33",
+      "source": "Inline Stickers",
+      "translated": "Inline Stickers",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "26a97cae26a97cae26a97cae",
+      "source": "Add inline stickers by typing :",
+      "translated": "Add inline stickers by typing :",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "79907e0479907e0479907e04",
+      "source": "Text and Highlight Colors 🧪",
+      "translated": "Text and Highlight Colors 🧪",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "196701791967017919670179",
+      "source": "Select text color and highlight color, (this may change in the future because of the limitations with HTML and Obsidian)",
+      "translated": "Select text color and highlight color, (this may change in the future because of the limitations with HTML and Obsidian)",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "916b9fae916b9fae916b9fae",
+      "source": "Flow Styler (Mobile)",
+      "translated": "Flow Styler (Mobile)",
+      "updatedAt": 1765000258398
+    },
+    {
+      "key": "95d7135795d7135795d71357",
+      "source": "Replaces the mobile toolbar",
+      "translated": "Replaces the mobile toolbar",
+      "updatedAt": 1765000258398
+    }
+  ]
+}
