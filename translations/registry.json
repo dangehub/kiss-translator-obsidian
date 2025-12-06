@@ -2,11 +2,65 @@
   "languages": {
     "en": [
       {
+        "scope": "Admonition",
+        "name": "Admonition",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Admonition.json",
+        "updatedAt": 1765007020000,
+        "entryCount": 45,
+        "version": 1,
+        "lang": "en"
+      },
+      {
+        "scope": "Advanced Canvas",
+        "name": "Advanced Canvas",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Advanced_Canvas.json",
+        "updatedAt": 1765007020000,
+        "entryCount": 140,
+        "version": 1,
+        "lang": "en"
+      },
+      {
+        "scope": "Advanced Slides",
+        "name": "Advanced Slides",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Advanced_Slides.json",
+        "updatedAt": 1765007021000,
+        "entryCount": 50,
+        "version": 1,
+        "lang": "en"
+      },
+      {
         "scope": "Advanced Tables",
         "name": "Advanced Tables",
         "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Advanced_Tables.json",
         "updatedAt": 1764997895000,
         "entryCount": 9,
+        "version": 1,
+        "lang": "en"
+      },
+      {
+        "scope": "Advanced URI",
+        "name": "Advanced URI",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Advanced_URI.json",
+        "updatedAt": 1765007021000,
+        "entryCount": 28,
+        "version": 1,
+        "lang": "en"
+      },
+      {
+        "scope": "Annotator",
+        "name": "Annotator",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Annotator.json",
+        "updatedAt": 1765007022000,
+        "entryCount": 34,
+        "version": 1,
+        "lang": "en"
+      },
+      {
+        "scope": "Better Word Count",
+        "name": "Better Word Count",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Better_Word_Count.json",
+        "updatedAt": 1765007022000,
+        "entryCount": 41,
         "version": 1,
         "lang": "en"
       },
@@ -20,11 +74,47 @@
         "lang": "en"
       },
       {
+        "scope": "Checklist",
+        "name": "Checklist",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Checklist.json",
+        "updatedAt": 1765007023000,
+        "entryCount": 29,
+        "version": 1,
+        "lang": "en"
+      },
+      {
+        "scope": "Copilot",
+        "name": "Copilot",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Copilot.json",
+        "updatedAt": 1765007023000,
+        "entryCount": 208,
+        "version": 1,
+        "lang": "en"
+      },
+      {
         "scope": "Dataview",
         "name": "Dataview",
         "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Dataview.json",
         "updatedAt": 1764997895000,
         "entryCount": 48,
+        "version": 1,
+        "lang": "en"
+      },
+      {
+        "scope": "Day Planner",
+        "name": "Day Planner",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Day_Planner.json",
+        "updatedAt": 1765007024000,
+        "entryCount": 130,
+        "version": 1,
+        "lang": "en"
+      },
+      {
+        "scope": "Emoji Toolbar",
+        "name": "Emoji Toolbar",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Emoji_Toolbar.json",
+        "updatedAt": 1765007025000,
+        "entryCount": 4,
         "version": 1,
         "lang": "en"
       },
@@ -38,11 +128,65 @@
         "lang": "en"
       },
       {
+        "scope": "Highlightr",
+        "name": "Highlightr",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Highlightr.json",
+        "updatedAt": 1765007025000,
+        "entryCount": 37,
+        "version": 1,
+        "lang": "en"
+      },
+      {
+        "scope": "Homepage",
+        "name": "Homepage",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Homepage.json",
+        "updatedAt": 1765007026000,
+        "entryCount": 49,
+        "version": 1,
+        "lang": "en"
+      },
+      {
+        "scope": "Hover Editor",
+        "name": "Hover Editor",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Hover_Editor.json",
+        "updatedAt": 1765007026000,
+        "entryCount": 30,
+        "version": 1,
+        "lang": "en"
+      },
+      {
         "scope": "Iconize",
         "name": "Iconize",
         "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Iconize.json",
         "updatedAt": 1764997896000,
         "entryCount": 64,
+        "version": 1,
+        "lang": "en"
+      },
+      {
+        "scope": "Latex Suite",
+        "name": "Latex Suite",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Latex_Suite.json",
+        "updatedAt": 1765007027000,
+        "entryCount": 110,
+        "version": 1,
+        "lang": "en"
+      },
+      {
+        "scope": "make.md",
+        "name": "make.md",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/make.md.json",
+        "updatedAt": 1765007027000,
+        "entryCount": 141,
+        "version": 1,
+        "lang": "en"
+      },
+      {
+        "scope": "Mind Map",
+        "name": "Mind Map",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Mind_Map.json",
+        "updatedAt": 1765007028000,
+        "entryCount": 14,
         "version": 1,
         "lang": "en"
       },
@@ -56,11 +200,65 @@
         "lang": "en"
       },
       {
+        "scope": "Natural Language Dates",
+        "name": "Natural Language Dates",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Natural_Language_Dates.json",
+        "updatedAt": 1765007028000,
+        "entryCount": 26,
+        "version": 1,
+        "lang": "en"
+      },
+      {
         "scope": "Omnisearch",
         "name": "Omnisearch",
         "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Omnisearch.json",
         "updatedAt": 1764997897000,
         "entryCount": 87,
+        "version": 1,
+        "lang": "en"
+      },
+      {
+        "scope": "Outliner",
+        "name": "Outliner",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Outliner.json",
+        "updatedAt": 1765007029000,
+        "entryCount": 23,
+        "version": 1,
+        "lang": "en"
+      },
+      {
+        "scope": "Pandoc",
+        "name": "Pandoc",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Pandoc.json",
+        "updatedAt": 1765007029000,
+        "entryCount": 29,
+        "version": 1,
+        "lang": "en"
+      },
+      {
+        "scope": "Paste URL into selection",
+        "name": "Paste URL into selection",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Paste_URL_into_selection.json",
+        "updatedAt": 1765007030000,
+        "entryCount": 10,
+        "version": 1,
+        "lang": "en"
+      },
+      {
+        "scope": "PDF++",
+        "name": "PDF++",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/PDF++.json",
+        "updatedAt": 1765007031000,
+        "entryCount": 504,
+        "version": 1,
+        "lang": "en"
+      },
+      {
+        "scope": "Periodic Notes",
+        "name": "Periodic Notes",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Periodic_Notes.json",
+        "updatedAt": 1765007031000,
+        "entryCount": 21,
         "version": 1,
         "lang": "en"
       },
@@ -74,11 +272,56 @@
         "lang": "en"
       },
       {
+        "scope": "Recent Files",
+        "name": "Recent Files",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Recent_Files.json",
+        "updatedAt": 1765007032000,
+        "entryCount": 10,
+        "version": 1,
+        "lang": "en"
+      },
+      {
+        "scope": "Smart Connections",
+        "name": "Smart Connections",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Smart_Connections.json",
+        "updatedAt": 1765007032000,
+        "entryCount": 111,
+        "version": 1,
+        "lang": "en"
+      },
+      {
         "scope": "Templater",
         "name": "Templater",
         "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Templater.json",
         "updatedAt": 1764997898000,
         "entryCount": 28,
+        "version": 1,
+        "lang": "en"
+      },
+      {
+        "scope": "Text Generator",
+        "name": "Text Generator",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Text_Generator.json",
+        "updatedAt": 1765007033000,
+        "entryCount": 191,
+        "version": 1,
+        "lang": "en"
+      },
+      {
+        "scope": "Various Complements",
+        "name": "Various Complements",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Various_Complements.json",
+        "updatedAt": 1765007033000,
+        "entryCount": 117,
+        "version": 1,
+        "lang": "en"
+      },
+      {
+        "scope": "Zotero Integration",
+        "name": "Zotero Integration",
+        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/en/Zotero_Integration.json",
+        "updatedAt": 1765007034000,
+        "entryCount": 37,
         "version": 1,
         "lang": "en"
       }
@@ -97,7 +340,7 @@
         "scope": "BRAT",
         "name": "BRAT",
         "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/zh/BRAT_zh.json",
-        "updatedAt": 1764997900000,
+        "updatedAt": 1765007038000,
         "entryCount": 34,
         "version": 1,
         "lang": "zh"
@@ -106,7 +349,7 @@
         "scope": "Dataview",
         "name": "Dataview",
         "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/zh/Dataview_zh.json",
-        "updatedAt": 1764999120000,
+        "updatedAt": 1765007039000,
         "entryCount": 48,
         "version": 1,
         "lang": "zh"
@@ -115,7 +358,7 @@
         "scope": "Git",
         "name": "Git",
         "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/zh/Git_zh.json",
-        "updatedAt": 1764999121000,
+        "updatedAt": 1765007040000,
         "entryCount": 55,
         "version": 1,
         "lang": "zh"
@@ -124,7 +367,7 @@
         "scope": "Iconize",
         "name": "Iconize",
         "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/zh/Iconize_zh.json",
-        "updatedAt": 1764999123000,
+        "updatedAt": 1765007041000,
         "entryCount": 64,
         "version": 1,
         "lang": "zh"
@@ -133,7 +376,7 @@
         "scope": "Minimal Theme Settings",
         "name": "Minimal Theme Settings",
         "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/zh/Minimal_Theme_Settings_zh.json",
-        "updatedAt": 1764999124000,
+        "updatedAt": 1765007043000,
         "entryCount": 83,
         "version": 1,
         "lang": "zh"
@@ -142,17 +385,8 @@
         "scope": "Omnisearch",
         "name": "Omnisearch",
         "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/zh/Omnisearch_zh.json",
-        "updatedAt": 1764999125000,
+        "updatedAt": 1765007044000,
         "entryCount": 87,
-        "version": 1,
-        "lang": "zh"
-      },
-      {
-        "scope": "PDF++",
-        "name": "PDF++",
-        "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/zh/pdf++_zh.json",
-        "updatedAt": 1764951778000,
-        "entryCount": 512,
         "version": 1,
         "lang": "zh"
       },
@@ -160,7 +394,7 @@
         "scope": "QuickAdd",
         "name": "QuickAdd",
         "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/zh/QuickAdd_zh.json",
-        "updatedAt": 1764999126000,
+        "updatedAt": 1765007045000,
         "entryCount": 36,
         "version": 1,
         "lang": "zh"
@@ -169,7 +403,7 @@
         "scope": "Templater",
         "name": "Templater",
         "downloadUrl": "https://raw.githubusercontent.com/dangehub/kiss-translator-obsidian/refs/heads/main/translations/zh/Templater_zh.json",
-        "updatedAt": 1764999127000,
+        "updatedAt": 1765007046000,
         "entryCount": 28,
         "version": 1,
         "lang": "zh"

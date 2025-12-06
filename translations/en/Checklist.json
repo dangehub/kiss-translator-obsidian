@@ -6,175 +6,175 @@
       "key": "3c45080b3c45080b3c45080b",
       "source": "General Settings",
       "translated": "General Settings",
-      "updatedAt": 1765001017776
+      "updatedAt": 1765007348788
     },
     {
       "key": "fad9524efad9524efad9524e",
       "source": "General",
       "translated": "General",
-      "updatedAt": 1765001017776
+      "updatedAt": 1765007348788
     },
     {
       "key": "1b630c6d1b630c6d1b630c6d",
       "source": "Tag name",
       "translated": "Tag name",
-      "updatedAt": 1765001017776
+      "updatedAt": 1765007348788
     },
     {
       "key": "0d7294ab0d7294ab0d7294ab",
       "source": "e.g. \"todo\" will match #todo. You may add mutliple tags separated by a newline. Leave empty to capture all",
       "translated": "e.g. \"todo\" will match #todo. You may add mutliple tags separated by a newline. Leave empty to capture all",
-      "updatedAt": 1765001017776
+      "updatedAt": 1765007348788
     },
     {
       "key": "f220f4e9f220f4e9f220f4e9",
       "source": "Show Completed?",
       "translated": "Show Completed?",
-      "updatedAt": 1765001017776
+      "updatedAt": 1765007348788
     },
     {
       "key": "469202e7469202e7469202e7",
       "source": "Show All Todos In File?",
       "translated": "Show All Todos In File?",
-      "updatedAt": 1765001017776
+      "updatedAt": 1765007348788
     },
     {
       "key": "560301635603016356030163",
       "source": "Show all items in file if tag is present, or only items attached to the block where the tag is located. Only has an effect if Tag Name is not empty",
       "translated": "Show all items in file if tag is present, or only items attached to the block where the tag is located. Only has an effect if Tag Name is not empty",
-      "updatedAt": 1765001017776
+      "updatedAt": 1765007348788
     },
     {
       "key": "b613b521b613b521b613b521",
       "source": "Show only in currently active file?",
       "translated": "Show only in currently active file?",
-      "updatedAt": 1765001017776
+      "updatedAt": 1765007348788
     },
     {
       "key": "6e8980c96e8980c96e8980c9",
       "source": "Show only todos present in currently active file?",
       "translated": "Show only todos present in currently active file?",
-      "updatedAt": 1765001017776
+      "updatedAt": 1765007348788
     },
     {
       "key": "0536be7b0536be7b0536be7b",
       "source": "Grouping & Sorting",
       "translated": "Grouping & Sorting",
-      "updatedAt": 1765001017776
+      "updatedAt": 1765007348788
     },
     {
       "key": "4ea53cdc4ea53cdc4ea53cdc",
       "source": "Group By",
       "translated": "Group By",
-      "updatedAt": 1765001017776
+      "updatedAt": 1765007348788
     },
     {
       "key": "98a34f8a98a34f8a98a34f8a",
       "source": "Tag",
       "translated": "Tag",
-      "updatedAt": 1765001017776
+      "updatedAt": 1765007348788
     },
     {
       "key": "d6227257d6227257d6227257",
       "source": "Item Sort",
       "translated": "Item Sort",
-      "updatedAt": 1765001017776
+      "updatedAt": 1765007348788
     },
     {
       "key": "730ddba2730ddba2730ddba2",
       "source": "Time sorts are based on last time the file for a particular item was edited",
       "translated": "Time sorts are based on last time the file for a particular item was edited",
-      "updatedAt": 1765001017776
+      "updatedAt": 1765007348788
     },
     {
       "key": "d79aa4d0d79aa4d0d79aa4d0",
       "source": "A -> Z",
       "translated": "A -> Z",
-      "updatedAt": 1765001017777
+      "updatedAt": 1765007348788
     },
     {
       "key": "9bfcaaf09bfcaaf09bfcaaf0",
       "source": "Z -> A",
       "translated": "Z -> A",
-      "updatedAt": 1765001017777
+      "updatedAt": 1765007348788
     },
     {
       "key": "31dbb7d031dbb7d031dbb7d0",
       "source": "New -> Old",
       "translated": "New -> Old",
-      "updatedAt": 1765001017777
+      "updatedAt": 1765007348788
     },
     {
       "key": "f17eb130f17eb130f17eb130",
       "source": "Old -> New",
       "translated": "Old -> New",
-      "updatedAt": 1765001017777
+      "updatedAt": 1765007348788
     },
     {
       "key": "2f5eb3fd2f5eb3fd2f5eb3fd",
       "source": "Group Sort",
       "translated": "Group Sort",
-      "updatedAt": 1765001017777
+      "updatedAt": 1765007348788
     },
     {
       "key": "48814a5248814a5248814a52",
       "source": "Time sorts are based on last time the file for the newest or oldest item in a group was edited",
       "translated": "Time sorts are based on last time the file for the newest or oldest item in a group was edited",
-      "updatedAt": 1765001017777
+      "updatedAt": 1765007348788
     },
     {
       "key": "1e537b2a1e537b2a1e537b2a",
       "source": "Styling",
       "translated": "Styling",
-      "updatedAt": 1765001017777
+      "updatedAt": 1765007348788
     },
     {
       "key": "47aef09e47aef09e47aef09e",
       "source": "Look and Feel",
       "translated": "Look and Feel",
-      "updatedAt": 1765001017777
+      "updatedAt": 1765007348788
     },
     {
       "key": "4935557c4935557c4935557c",
       "source": "Classic",
       "translated": "Classic",
-      "updatedAt": 1765001017777
+      "updatedAt": 1765007348788
     },
     {
       "key": "e815fbffe815fbffe815fbff",
       "source": "Compact",
       "translated": "Compact",
-      "updatedAt": 1765001017777
+      "updatedAt": 1765007348788
     },
     {
       "key": "f24b50e6f24b50e6f24b50e6",
       "source": "Advanced",
       "translated": "Advanced",
-      "updatedAt": 1765001017777
+      "updatedAt": 1765007348788
     },
     {
       "key": "7d01a6d17d01a6d17d01a6d1",
       "source": "Include Files",
       "translated": "Include Files",
-      "updatedAt": 1765001017777
+      "updatedAt": 1765007348788
     },
     {
       "key": "8348027b8348027b8348027b",
       "source": "Include all files that match this glob pattern. Examples on plugin page/github readme. Leave empty to check all files.",
       "translated": "Include all files that match this glob pattern. Examples on plugin page/github readme. Leave empty to check all files.",
-      "updatedAt": 1765001017777
+      "updatedAt": 1765007348788
     },
     {
       "key": "39b6f5b739b6f5b739b6f5b7",
       "source": "Auto Refresh List?",
       "translated": "Auto Refresh List?",
-      "updatedAt": 1765001017777
+      "updatedAt": 1765007348788
     },
     {
       "key": "fbd96d32fbd96d32fbd96d32",
       "source": "It's recommended to leave this on unless you are expereince performance issues due to a large vault. You can then reload manually using the \"Checklist: refresh\" command",
       "translated": "It's recommended to leave this on unless you are expereince performance issues due to a large vault. You can then reload manually using the \"Checklist: refresh\" command",
-      "updatedAt": 1765001017777
+      "updatedAt": 1765007348788
     }
   ]
 }

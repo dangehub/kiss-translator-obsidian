@@ -6,205 +6,205 @@
       "key": "6e5641cf6e5641cf6e5641cf",
       "source": "Annotator Settings",
       "translated": "Annotator Settings",
-      "updatedAt": 1765000375953
+      "updatedAt": 1765007348788
     },
     {
       "key": "3f9e594b3f9e594b3f9e594b",
       "source": "Annotation Target Settings",
       "translated": "Annotation Target Settings",
-      "updatedAt": 1765000375953
+      "updatedAt": 1765007348788
     },
     {
       "key": "2732e68d2732e68d2732e68d",
       "source": "Custom Default Path",
       "translated": "Custom Default Path",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "1896cb9c1896cb9c1896cb9c",
       "source": "If the provided annotation target is not found, Annotator will try prepending this string to the path. This can be useful if, for example, all your notes are located at a specific remote location.",
       "translated": "If the provided annotation target is not found, Annotator will try prepending this string to the path. This can be useful if, for example, all your notes are located at a specific remote location.",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "124994fa124994fa124994fa",
       "source": "Epub Reader Settings",
       "translated": "Epub Reader Settings",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "eebd873ceebd873ceebd873c",
       "source": "Epub reader mode",
       "translated": "Epub reader mode",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "ad22fd95ad22fd95ad22fd95",
       "source": "Scroll",
       "translated": "Scroll",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "b92727f4b92727f4b92727f4",
       "source": "Pagination",
       "translated": "Pagination",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "b8aa008eb8aa008eb8aa008e",
       "source": "Font Size",
       "translated": "Font Size",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "cf8a551dcf8a551dcf8a551d",
       "source": "Base font size in percents. Current: 100%",
       "translated": "Base font size in percents. Current: 100%",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "f064873df064873df064873d",
       "source": "Annotation Markdown Settings",
       "translated": "Annotation Markdown Settings",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "3cffe0ef3cffe0ef3cffe0ef",
       "source": "Use Annotation Mode By Default",
       "translated": "Use Annotation Mode By Default",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "06de0fed06de0fed06de0fed",
       "source": "Whether to use annotation mode by default when opening a note with annotation-target",
       "translated": "Whether to use annotation mode by default when opening a note with annotation-target",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "dfc65794dfc65794dfc65794",
       "source": "Include Prefix",
       "translated": "Include Prefix",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "ba68eeaeba68eeaeba68eeae",
       "source": "Whether to include the %%PREFIX%% region of the annotation markdown. Allows you to see some text before the highlighted region.",
       "translated": "Whether to include the %%PREFIX%% region of the annotation markdown. Allows you to see some text before the highlighted region.",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "f6802c4bf6802c4bf6802c4b",
       "source": "Include Postfix",
       "translated": "Include Postfix",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "424ee20c424ee20c424ee20c",
       "source": "Whether to include the %%POSTFIX%% region of the annotation markdown. Allows you to see some text after the highlighted region.",
       "translated": "Whether to include the %%POSTFIX%% region of the annotation markdown. Allows you to see some text after the highlighted region.",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "77ff216477ff216477ff2164",
       "source": "Highlight highlighted text",
       "translated": "Highlight highlighted text",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "e138fc93e138fc93e138fc93",
       "source": "Whether to wrap the %%HIGHLIGHT%% region text in == ==, so that the text becomes highlighted. Useful for distinguishing the highlight from the pre- and postfix.",
       "translated": "Whether to wrap the %%HIGHLIGHT%% region text in == ==, so that the text becomes highlighted. Useful for distinguishing the highlight from the pre- and postfix.",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "654d83c2654d83c2654d83c2",
       "source": "Dark Mode Settings",
       "translated": "Dark Mode Settings",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "22dffe3422dffe3422dffe34",
       "source": "Use Dark Mode By Default",
       "translated": "Use Dark Mode By Default",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "4ce1ec2f4ce1ec2f4ce1ec2f",
       "source": "Whether to use dark mode by default when opening pdfs/epubs.",
       "translated": "Whether to use dark mode by default when opening pdfs/epubs.",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "69f663f669f663f669f663f6",
       "source": "Sepia",
       "translated": "Sepia",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "4ca7bd924ca7bd924ca7bd92",
       "source": "The amount of sepia in dark mode",
       "translated": "The amount of sepia in dark mode",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "805b207a805b207a805b207a",
       "source": "Contrast",
       "translated": "Contrast",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "0a7566de0a7566de0a7566de",
       "source": "The amount of contrast in dark mode",
       "translated": "The amount of contrast in dark mode",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "ed9ba9b1ed9ba9b1ed9ba9b1",
       "source": "Brightness",
       "translated": "Brightness",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "5fd95df55fd95df55fd95df5",
       "source": "The amount of brightness in dark mode",
       "translated": "The amount of brightness in dark mode",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "bf2eb03bbf2eb03bbf2eb03b",
       "source": "Annotate.TV settings",
       "translated": "Annotate.TV settings",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "7c8bf55f7c8bf55f7c8bf55f",
       "source": "Annotate.tv resource URL",
       "translated": "Annotate.tv resource URL",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "7514fff17514fff17514fff1",
       "source": "Not bundled with the plugin due to potential copyright issues.",
       "translated": "Not bundled with the plugin due to potential copyright issues.",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "ac57b7ebac57b7ebac57b7eb",
       "source": "Developer Settings",
       "translated": "Developer Settings",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "b9e55debb9e55debb9e55deb",
       "source": "Enable Debug Logging",
       "translated": "Enable Debug Logging",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     },
     {
       "key": "7922a7a57922a7a57922a7a5",
       "source": "If this is enabled, more things are printed to the console.",
       "translated": "If this is enabled, more things are printed to the console.",
-      "updatedAt": 1765000375954
+      "updatedAt": 1765007348788
     }
   ]
 }

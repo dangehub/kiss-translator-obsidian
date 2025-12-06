@@ -6,271 +6,271 @@
       "key": "685272d4685272d4685272d4",
       "source": "Admonition 设置",
       "translated": "Admonition 设置",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "d081a715d081a715d081a715",
       "source": "Export Custom Types as CSS",
       "translated": "Export Custom Types as CSS",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "d635aabad635aabad635aaba",
       "source": "Export a CSS snippet for custom callout types.",
       "translated": "Export a CSS snippet for custom callout types.",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "f0e02c6ef0e02c6ef0e02c6e",
       "source": "Export Custom Types as JSON",
       "translated": "Export Custom Types as JSON",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "f1de2c79f1de2c79f1de2c79",
       "source": "Choose custom types to export as a JSON file that you can then share with other users.",
       "translated": "Choose custom types to export as a JSON file that you can then share with other users.",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "00d1f68d00d1f68d00d1f68d",
       "source": "Download All",
       "translated": "Download All",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "2e5028022e5028022e502802",
       "source": "Select & Download",
       "translated": "Select & Download",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "f9b26aaaf9b26aaaf9b26aaa",
       "source": "Use CSS Snippet for Custom Callouts",
       "translated": "Use CSS Snippet for Custom Callouts",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "fc63a380fc63a380fc63a380",
       "source": "Instead of managing it internally, Admonitions will maintain a CSS snippet to enable your custom types for callouts.",
       "translated": "Instead of managing it internally, Admonitions will maintain a CSS snippet to enable your custom types for callouts.",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "efde1ab6efde1ab6efde1ab6",
       "source": "新增",
       "translated": "新增",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "85d4ee5485d4ee5485d4ee54",
       "source": "Add a new Admonition type. All custom Admonitions will also be usable as callouts.",
       "translated": "Add a new Admonition type. All custom Admonitions will also be usable as callouts.",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "986692ab986692ab986692ab",
       "source": "Import Admonition(s)",
       "translated": "Import Admonition(s)",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "18bcaede18bcaede18bcaede",
       "source": "Import admonitions from a JSON definition.",
       "translated": "Import admonitions from a JSON definition.",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "14e53b4e14e53b4e14e53b4e",
       "source": "Admonitions & Callouts",
       "translated": "Admonitions & Callouts",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "df337496df337496df337496",
       "source": "Add Drop Shadow",
       "translated": "Add Drop Shadow",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "d78617f5d78617f5d78617f5",
       "source": "A drop shadow will be added to admonitions.",
       "translated": "A drop shadow will be added to admonitions.",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "ee81021cee81021cee81021c",
       "source": "默认折叠",
       "translated": "默认折叠",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "40160b6740160b6740160b67",
       "source": "All admonitions & callouts will be collapsible by default. Use",
       "translated": "All admonitions & callouts will be collapsible by default. Use",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "b0039cc6b0039cc6b0039cc6",
       "source": "来阻止。",
       "translated": "来阻止。",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "82f3123f82f3123f82f3123f",
       "source": "添加复制按钮",
       "translated": "添加复制按钮",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "fefe1aa1fefe1aa1fefe1aa1",
       "source": "Add a 'copy content' button to admonitions & callouts.",
       "translated": "Add a 'copy content' button to admonitions & callouts.",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "5370cd2a5370cd2a5370cd2a",
       "source": "将名称转变为 Markdown",
       "translated": "将名称转变为 Markdown",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "0e11986a0e11986a0e11986a",
       "source": "Admonition 名称将以 markdown 形式呈现。",
       "translated": "Admonition 名称将以 markdown 形式呈现。",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "38acd70838acd70838acd708",
       "source": "Set Admonition Colors",
       "translated": "Set Admonition Colors",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "0fc56d860fc56d860fc56d86",
       "source": "Disable this setting to turn off admonition coloring by default. Can be overridden in the admonition definition.",
       "translated": "Disable this setting to turn off admonition coloring by default. Can be overridden in the admonition definition.",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "ac1401e2ac1401e2ac1401e2",
       "source": "Hide Empty Admonitions",
       "translated": "Hide Empty Admonitions",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "3dad377c3dad377c3dad377c",
       "source": "Any admonition that does not have content inside it will be hidden.",
       "translated": "Any admonition that does not have content inside it will be hidden.",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "e2855319e2855319e2855319",
       "source": "Icon Packs",
       "translated": "Icon Packs",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "89cd145789cd145789cd1457",
       "source": "Use Font Awesome Icons",
       "translated": "Use Font Awesome Icons",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "7a69c5bf7a69c5bf7a69c5bf",
       "source": "Font Awesome Free icons will be available in the item picker. Existing Admonitions defined using Font Awesome icons will continue to work.",
       "translated": "Font Awesome Free icons will be available in the item picker. Existing Admonitions defined using Font Awesome icons will continue to work.",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "3d656f5f3d656f5f3d656f5f",
       "source": "Load Additional Icons",
       "translated": "Load Additional Icons",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "3a42e4203a42e4203a42e420",
       "source": "Load an additional icon pack. This requires an internet connection.",
       "translated": "Load an additional icon pack. This requires an internet connection.",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "a8b57438a8b57438a8b57438",
       "source": "Octicons",
       "translated": "Octicons",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "17eeb93a17eeb93a17eeb93a",
       "source": "RPG Awesome",
       "translated": "RPG Awesome",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "0fe2f23e0fe2f23e0fe2f23e",
       "source": "Additional Syntaxes",
       "translated": "Additional Syntaxes",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "86c2d17686c2d17686c2d176",
       "source": "Obsidian 0.14 has introduced Callout boxes to its core functionality using the same syntax as the Microsoft Document callouts.",
       "translated": "Obsidian 0.14 has introduced Callout boxes to its core functionality using the same syntax as the Microsoft Document callouts.",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "fad5e8c5fad5e8c5fad5e8c5",
       "source": "This has rendered the Microsoft Document syntax for Admonitions obsolete, but Admonitions can still be used to create and manage your custom callout types.",
       "translated": "This has rendered the Microsoft Document syntax for Admonitions obsolete, but Admonitions can still be used to create and manage your custom callout types.",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "8a096d9e8a096d9e8a096d9e",
       "source": "Your existing code block Admonitions will always work!",
       "translated": "Your existing code block Admonitions will always work!",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "e79c2d32e79c2d32e79c2d32",
       "source": "Convert MSDoc Admonitions to Callouts",
       "translated": "Convert MSDoc Admonitions to Callouts",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "79fc741e79fc741e79fc741e",
       "source": "This",
       "translated": "This",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "6ceb11a36ceb11a36ceb11a3",
       "source": "modify notes. Use at your own risk and please make backups.",
       "translated": "modify notes. Use at your own risk and please make backups.",
-      "updatedAt": 1764999996009
+      "updatedAt": 1765007348788
     },
     {
       "key": "cfa045b1cfa045b1cfa045b1",
       "source": "With large vaults, this could take awhile!",
       "translated": "With large vaults, this could take awhile!",
-      "updatedAt": 1764999996010
+      "updatedAt": 1765007348788
     },
     {
       "key": "09228a8f09228a8f09228a8f",
       "source": "Convert",
       "translated": "Convert",
-      "updatedAt": 1764999996010
+      "updatedAt": 1765007348788
     },
     {
       "key": "10f7e38010f7e38010f7e380",
       "source": "Convert Codeblock Admonitions to Callouts",
       "translated": "Convert Codeblock Admonitions to Callouts",
-      "updatedAt": 1764999996010
+      "updatedAt": 1765007348788
     },
     {
       "key": "e46d7e23e46d7e23e46d7e23",
       "source": "Advanced Settings",
       "translated": "Advanced Settings",
-      "updatedAt": 1764999996010
+      "updatedAt": 1765007348788
     }
   ]
 }

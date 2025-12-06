@@ -6,301 +6,301 @@
       "key": "3c45080b3c45080b3c45080b",
       "source": "General Settings",
       "translated": "General Settings",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "694a2446694a2446694a2446",
       "source": "Slide Preview Mode",
       "translated": "Slide Preview Mode",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "a89e960ca89e960ca89e960c",
       "source": "How should slide previews be displayed?",
       "translated": "How should slide previews be displayed?",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "91c4a0fd91c4a0fd91c4a0fd",
       "source": "as Tab",
       "translated": "as Tab",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "e5dc1aefe5dc1aefe5dc1aef",
       "source": "split Workspace",
       "translated": "split Workspace",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "463a78a1463a78a1463a78a1",
       "source": "Port",
       "translated": "Port",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "af18f4cbaf18f4cbaf18f4cb",
       "source": "On which port should Advanced Slides run? (default: 3000)",
       "translated": "On which port should Advanced Slides run? (default: 3000)",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "dd52c1e6dd52c1e6dd52c1e6",
       "source": "Auto Reload",
       "translated": "Auto Reload",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "ffd321c7ffd321c7ffd321c7",
       "source": "Should the slide preview window be updated when a change in source file is detected?",
       "translated": "Should the slide preview window be updated when a change in source file is detected?",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "c52991dec52991dec52991de",
       "source": "Auto Complete",
       "translated": "Auto Complete",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "c8cdda36c8cdda36c8cdda36",
       "source": "Do you want to auto-complete inputs?",
       "translated": "Do you want to auto-complete inputs?",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "6e10f8896e10f8896e10f889",
       "source": "Always",
       "translated": "Always",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "1d3f01f61d3f01f61d3f01f6",
       "source": "only in Slide Preview",
       "translated": "only in Slide Preview",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "0be46f750be46f750be46f75",
       "source": "Export Directory",
       "translated": "Export Directory",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "85ed929885ed929885ed9298",
       "source": "Where should Advanced Slides export presentations?",
       "translated": "Where should Advanced Slides export presentations?",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "3aace10a3aace10a3aace10a",
       "source": "Slide Settings",
       "translated": "Slide Settings",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "51ffc1c951ffc1c951ffc1c9",
       "source": "Theme",
       "translated": "Theme",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "a6e2db8ca6e2db8ca6e2db8c",
       "source": "Which theme should be used for your slides?",
       "translated": "Which theme should be used for your slides?",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "cb0ff9b9cb0ff9b9cb0ff9b9",
       "source": "Highlight Theme",
       "translated": "Highlight Theme",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "1d36861c1d36861c1d36861c",
       "source": "Which highlight theme should be used for your slides?",
       "translated": "Which highlight theme should be used for your slides?",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "d175c7e0d175c7e0d175c7e0",
       "source": "Transition Style",
       "translated": "Transition Style",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "74eb524a74eb524a74eb524a",
       "source": "How should the transition between slides look like?",
       "translated": "How should the transition between slides look like?",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "624fdc12624fdc12624fdc12",
       "source": "none",
       "translated": "none",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "6645485e6645485e6645485e",
       "source": "fade",
       "translated": "fade",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "dc18264fdc18264fdc18264f",
       "source": "slide",
       "translated": "slide",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "798b0451798b0451798b0451",
       "source": "convex",
       "translated": "convex",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "b37e448bb37e448bb37e448b",
       "source": "concave",
       "translated": "concave",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "93dfd36f93dfd36f93dfd36f",
       "source": "zoom",
       "translated": "zoom",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "a9222750a9222750a9222750",
       "source": "Transition Speed",
       "translated": "Transition Speed",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "d64378add64378add64378ad",
       "source": "How fast should the transition between two slides be?",
       "translated": "How fast should the transition between two slides be?",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "94c10c1f94c10c1f94c10c1f",
       "source": "slow",
       "translated": "slow",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "0c394f530c394f530c394f53",
       "source": "default",
       "translated": "default",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "dcc9d6f8dcc9d6f8dcc9d6f8",
       "source": "fast",
       "translated": "fast",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "2dcec5c22dcec5c22dcec5c2",
       "source": "Plugins",
       "translated": "Plugins",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "a494d24ca494d24ca494d24c",
       "source": "Controls",
       "translated": "Controls",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "2dbd0cc62dbd0cc62dbd0cc6",
       "source": "Display presentation control arrows?",
       "translated": "Display presentation control arrows?",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "7d7862347d7862347d786234",
       "source": "Progress Bar",
       "translated": "Progress Bar",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "c33ada27c33ada27c33ada27",
       "source": "Display presentation progress bar?",
       "translated": "Display presentation progress bar?",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "dc796affdc796affdc796aff",
       "source": "Slide Numbers",
       "translated": "Slide Numbers",
-      "updatedAt": 1765000034882
+      "updatedAt": 1765007348788
     },
     {
       "key": "593e61ba593e61ba593e61ba",
       "source": "Display the page number of the current slide?",
       "translated": "Display the page number of the current slide?",
-      "updatedAt": 1765000034883
+      "updatedAt": 1765007348788
     },
     {
       "key": "3c525c4b3c525c4b3c525c4b",
       "source": "Menu",
       "translated": "Menu",
-      "updatedAt": 1765000034883
+      "updatedAt": 1765007348788
     },
     {
       "key": "1058638e1058638e1058638e",
       "source": "Display presentation menu button?",
       "translated": "Display presentation menu button?",
-      "updatedAt": 1765000034883
+      "updatedAt": 1765007348788
     },
     {
       "key": "da4e8f5bda4e8f5bda4e8f5b",
       "source": "Overview",
       "translated": "Overview",
-      "updatedAt": 1765000034883
+      "updatedAt": 1765007348788
     },
     {
       "key": "ad31349ead31349ead31349e",
       "source": "Display presentation overview button?",
       "translated": "Display presentation overview button?",
-      "updatedAt": 1765000034883
+      "updatedAt": 1765007348788
     },
     {
       "key": "bb9500efbb9500efbb9500ef",
       "source": "Chalkboard",
       "translated": "Chalkboard",
-      "updatedAt": 1765000034883
+      "updatedAt": 1765007348788
     },
     {
       "key": "05a0bdf505a0bdf505a0bdf5",
       "source": "Should the slides contain a chalkboard ?",
       "translated": "Should the slides contain a chalkboard ?",
-      "updatedAt": 1765000034883
+      "updatedAt": 1765007348788
     },
     {
       "key": "e46cdb16e46cdb16e46cdb16",
       "source": "Elapsed Time Bar",
       "translated": "Elapsed Time Bar",
-      "updatedAt": 1765000034883
+      "updatedAt": 1765007348788
     },
     {
       "key": "cf6bca53cf6bca53cf6bca53",
       "source": "Display elapsed time bar?",
       "translated": "Display elapsed time bar?",
-      "updatedAt": 1765000034883
+      "updatedAt": 1765007348788
     },
     {
       "key": "4b5ba38a4b5ba38a4b5ba38a",
       "source": "Laser Pointer",
       "translated": "Laser Pointer",
-      "updatedAt": 1765000034883
+      "updatedAt": 1765007348788
     },
     {
       "key": "775e28d2775e28d2775e28d2",
       "source": "Changes your mouse into a laser pointer (Toggle with Q)",
       "translated": "Changes your mouse into a laser pointer (Toggle with Q)",
-      "updatedAt": 1765000034883
+      "updatedAt": 1765007348788
     }
   ]
 }
