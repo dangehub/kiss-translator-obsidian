@@ -40,7 +40,7 @@ KISS Translator 是一个用来翻译 Obsidian 内任何文本的插件，能一
 
 #### 初学者：只使用云端词典
 
-![[docs/快速上手说明.webp]]
+![](docs/快速上手说明.webp)
 
 1. 打开 Obsidian 设置页面
 2. 找到 **KISS Translator** 菜单
@@ -51,7 +51,7 @@ KISS Translator 是一个用来翻译 Obsidian 内任何文本的插件，能一
 
 ### 高级用户：需要自行调用 AI 翻译
 
-![[docs/API配置.webp]]
+![](docs/API配置.webp)
 
 一般只需要配置：
 
@@ -63,7 +63,7 @@ KISS Translator 是一个用来翻译 Obsidian 内任何文本的插件，能一
 
 #### 悬浮球菜单详解
 
-![[docs/悬浮球界面.webp]]
+![](docs/悬浮球界面.webp)
 
 1. 触发一次翻译，需要配置好 Key，翻译采用逐行翻译，正在翻译的词条最后会有一个蓝色圆点动画，翻译会被存储到**当前活跃的词典**中
 2. 若勾选编辑模式，则会在所有译文后面加上一个编辑图标，点击后可以编辑译文
@@ -96,7 +96,7 @@ Crowdin 每隔一个小时（高权限用户可以手动同步）会自动获取
 
 手动提取原文 -->上传 crowdin-->调用 ai 一键预翻译 -->词典自动同步到 github-->管理员审核并合并 PR-->github action 自动更新注册表 -->用户在插件内读取注册表后下载云端词典
 
-![[docs/Crowdin展示.webp]]
+![](docs/Crowdin展示.webp)
 
 ## 开发 / 构建
 
