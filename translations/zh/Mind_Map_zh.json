@@ -6,85 +6,85 @@
       "key": "75f83b4075f83b4075f83b40",
       "source": "Preview Split",
       "translated": "预览拆分",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "977590f5977590f5977590f5",
       "source": "Split direction for the Mind Map Preview",
       "translated": "思维导图预览的拆分方向",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6af048866af048866af04886",
       "source": "Horizontal",
       "translated": "水平",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a71f14aaa71f14aaa71f14aa",
       "source": "Vertical",
       "translated": "垂直",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "454875ad454875ad454875ad",
       "source": "Node Min Height",
       "translated": "节点最小高度",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "931632329316323293163232",
       "source": "Minimum height for the mind map nodes",
       "translated": "思维导图节点的最小高度",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "02884e3402884e3402884e34",
       "source": "Node Text Line Height",
       "translated": "节点文本行高",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "46dd50dd46dd50dd46dd50dd",
       "source": "Line height for content in mind map nodes",
       "translated": "思维导图节点中的内容行高",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "294fb66b294fb66b294fb66b",
       "source": "Vertical Spacing",
       "translated": "垂直间距",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3a66ba3a3a66ba3a3a66ba3a",
       "source": "Vertical spacing of the mind map nodes",
       "translated": "思维导图节点的垂直间距",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "96287b0796287b0796287b07",
       "source": "Horizontal Spacing",
       "translated": "水平间距",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "feeff516feeff516feeff516",
       "source": "Horizontal spacing of the mind map nodes",
       "translated": "思维导图节点的水平间距",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2ad559b72ad559b72ad559b7",
       "source": "Horizontal padding",
       "translated": "水平内边距",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5c1d38115c1d38115c1d3811",
       "source": "Leading space before the content of mind map nodes",
       "translated": "思维导图节点内容前的空格",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     }
   ]
 }

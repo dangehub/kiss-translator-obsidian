@@ -6,1147 +6,1147 @@
       "key": "03fb915603fb915603fb9156",
       "source": "Text Generator",
       "translated": "文本生成器",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a38a6090a38a6090a38a6090",
       "source": "LLM Settings",
       "translated": "LLM设置",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1c227c321c227c321c227c32",
       "source": "Provider Profile",
       "translated": "提供商配置文件",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f311da51f311da51f311da51",
       "source": "Langchain",
       "translated": "Langchain",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f9378ffaf9378ffaf9378ffa",
       "source": "OpenAI Chat",
       "translated": "OpenAI聊天",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6042d4546042d4546042d454",
       "source": "OpenAI Instruct",
       "translated": "OpenAI指令",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "68ad7c1d68ad7c1d68ad7c1d",
       "source": "OpenAI Agent",
       "translated": "OpenAI代理",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "8aeb002d8aeb002d8aeb002d",
       "source": "Google GenerativeAI",
       "translated": "Google GenerativeAI",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3b4ae0a13b4ae0a13b4ae0a1",
       "source": "Google Palm",
       "translated": "Google Palm",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "454e9ffa454e9ffa454e9ffa",
       "source": "Ollama",
       "translated": "Ollama",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "24f27dc424f27dc424f27dc4",
       "source": "Huggingface",
       "translated": "Huggingface",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "10cd0b7210cd0b7210cd0b72",
       "source": "MistralAI Chat",
       "translated": "MistralAI聊天",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7c87d5d27c87d5d27c87d5d2",
       "source": "Chat Anthropic",
       "translated": "Chat Anthropic",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3f11e0033f11e0033f11e003",
       "source": "Azure OpenAI Chat",
       "translated": "Azure OpenAI聊天",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c94885adc94885adc94885ad",
       "source": "Azure OpenAI Instruct",
       "translated": "Azure OpenAI指令",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "908dd919908dd919908dd919",
       "source": "Anthropic Legacy",
       "translated": "Anthropic旧版",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1c6826cb1c6826cb1c6826cb",
       "source": "Custom",
       "translated": "自定义",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "bd663af7bd663af7bd663af7",
       "source": "API Key",
       "translated": "API密钥",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ecd89ac0ecd89ac0ecd89ac0",
       "source": "Base Path",
       "translated": "基础路径",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "46552ae746552ae746552ae7",
       "source": "Make sure it supports CORS",
       "translated": "确保其支持CORS",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "33ead63733ead63733ead637",
       "source": "Model",
       "translated": "模型",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c54e1196c54e1196c54e1196",
       "source": "computer-use-preview",
       "translated": "computer-use-preview",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "430507ed430507ed430507ed",
       "source": "gpt-3.5-turbo",
       "translated": "gpt-3.5-turbo",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f831684cf831684cf831684c",
       "source": "gpt-3.5-turbo-16k",
       "translated": "gpt-3.5-turbo-16k",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "9d2af6a29d2af6a29d2af6a2",
       "source": "gpt-4",
       "translated": "gpt-4",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c968e745c968e745c968e745",
       "source": "gpt-4-32k",
       "translated": "gpt-4-32k",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6699b56c6699b56c6699b56c",
       "source": "gpt-4-vision-preview",
       "translated": "gpt-4-vision-preview",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "399458de399458de399458de",
       "source": "gpt-4.1-nano",
       "translated": "gpt-4.1-nano",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "75fa033e75fa033e75fa033e",
       "source": "gpt-4.5-preview",
       "translated": "gpt-4.5-preview",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "166e92ed166e92ed166e92ed",
       "source": "gpt-4o",
       "translated": "gpt-4o",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f5e2ced1f5e2ced1f5e2ced1",
       "source": "gpt-4o-audio-preview",
       "translated": "gpt-4o-audio-preview",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "eac17aa3eac17aa3eac17aa3",
       "source": "gpt-4o-mini",
       "translated": "gpt-4o-mini",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "dee7419fdee7419fdee7419f",
       "source": "gpt-4o-mini-audio-preview",
       "translated": "gpt-4o-mini-audio-preview",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "458246864582468645824686",
       "source": "gpt-4o-mini-realtime-preview",
       "translated": "gpt-4o-mini-realtime-preview",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "63fa5da763fa5da763fa5da7",
       "source": "gpt-4o-mini-search-preview",
       "translated": "gpt-4o-mini-search-preview",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b92efb08b92efb08b92efb08",
       "source": "gpt-4o-realtime-preview",
       "translated": "gpt-4o-realtime-preview",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "fe407ba9fe407ba9fe407ba9",
       "source": "gpt-4o-search-preview",
       "translated": "gpt-4o-search-preview",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "123ebdfd123ebdfd123ebdfd",
       "source": "computer-use-preview-2025-03-11",
       "translated": "computer-use-preview-2025-03-11",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c8b91049c8b91049c8b91049",
       "source": "gpt-4-0314",
       "translated": "gpt-4-0314",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7aa0050b7aa0050b7aa0050b",
       "source": "gpt-4-0613",
       "translated": "gpt-4-0613",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b4a45a4eb4a45a4eb4a45a4e",
       "source": "gpt-4-32k-0314",
       "translated": "gpt-4-32k-0314",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0884e48c0884e48c0884e48c",
       "source": "gpt-4-32k-0613",
       "translated": "gpt-4-32k-0613",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "38f31b1438f31b1438f31b14",
       "source": "gpt-4.1-2025-04-14",
       "translated": "gpt-4.1-2025-04-14",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4197f71a4197f71a4197f71a",
       "source": "gpt-4.1-mini-2025-04-14",
       "translated": "gpt-4.1-mini-2025-04-14",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ffcc0057ffcc0057ffcc0057",
       "source": "gpt-4.1-nano-2025-04-14",
       "translated": "gpt-4.1-nano-2025-04-14",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c8c57bd1c8c57bd1c8c57bd1",
       "source": "gpt-4.5-preview-2025-02-27",
       "translated": "gpt-4.5-preview-2025-02-27",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e945b36ae945b36ae945b36a",
       "source": "gpt-4o-2024-08-06",
       "translated": "gpt-4o-2024-08-06",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c6c3bfbdc6c3bfbdc6c3bfbd",
       "source": "gpt-4o-audio-preview-2024-12-17",
       "translated": "gpt-4o-audio-preview-2024-12-17",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4ec702e44ec702e44ec702e4",
       "source": "gpt-4o-mini-2024-07-18",
       "translated": "gpt-4o-mini-2024-07-18",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "cb2aa333cb2aa333cb2aa333",
       "source": "gpt-4o-mini-audio-preview-2024-12-17",
       "translated": "gpt-4o-mini-audio-preview-2024-12-17",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "66aa770a66aa770a66aa770a",
       "source": "gpt-4o-mini-realtime-preview-2024-12-17",
       "translated": "gpt-4o-mini-realtime-preview-2024-12-17",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2c9f452c2c9f452c2c9f452c",
       "source": "gpt-4o-mini-search-preview-2025-03-11",
       "translated": "gpt-4o-mini-search-preview-2025-03-11",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0733b0c40733b0c40733b0c4",
       "source": "gpt-4o-realtime-preview-2024-12-17",
       "translated": "gpt-4o-realtime-preview-2024-12-17",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b57bdc62b57bdc62b57bdc62",
       "source": "gpt-4o-search-preview-2025-03-11",
       "translated": "gpt-4o-search-preview-2025-03-11",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f640ce46f640ce46f640ce46",
       "source": "Enable Custom Headers",
       "translated": "启用自定义标头",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c9d39f97c9d39f97c9d39f97",
       "source": "Useful links",
       "translated": "有用链接",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d21bb1c1d21bb1c1d21bb1c1",
       "source": "Create account OpenAI",
       "translated": "创建OpenAI账户",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ca2a15f2ca2a15f2ca2a15f2",
       "source": "API documentation",
       "translated": "API文档",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4f55fb654f55fb654f55fb65",
       "source": "You can use LM Studio",
       "translated": "您可以使用LM Studio",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "411d9c01411d9c01411d9c01",
       "source": "more information",
       "translated": "更多信息",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d6dc7d05d6dc7d05d6dc7d05",
       "source": "ID: OpenAI Chat (Langchain)",
       "translated": "ID: OpenAI聊天 (Langchain)",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e46d7e23e46d7e23e46d7e23",
       "source": "Advanced Settings",
       "translated": "高级设置",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "248f8046248f8046248f8046",
       "source": "Default model parameters",
       "translated": "默认模型参数",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "561fcb6e561fcb6e561fcb6e",
       "source": "Auto-Suggest Options",
       "translated": "自动建议选项",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "57b9162457b9162457b91624",
       "source": "Slash-Suggest Options",
       "translated": "删除建议选项",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ec25f080ec25f080ec25f080",
       "source": "Custom Instructions",
       "translated": "自定义说明",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ce39b54dce39b54dce39b54d",
       "source": "Template Settings",
       "translated": "模板设置",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c08aa6abc08aa6abc08aa6ab",
       "source": "Extractors Options",
       "translated": "提取器选项",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "efe57bffefe57bffefe57bff",
       "source": "Whisper Settings",
       "translated": "Whisper设置",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0af029460af029460af02946",
       "source": "Text Generator Options",
       "translated": "文本生成器选项",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c6aa0de4c6aa0de4c6aa0de4",
       "source": "Streaming",
       "translated": "流式传输",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "482a15c7482a15c7482a15c7",
       "source": "Enable streaming if supported by the provider",
       "translated": "如果提供商支持则启用流式传输",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3c3d8f163c3d8f163c3d8f16",
       "source": "Display errors in the editor",
       "translated": "在编辑器中显示错误",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "cd42e8bdcd42e8bdcd42e8bd",
       "source": "If you want to see the errors in the editor",
       "translated": "如果您希望在编辑器中看到错误",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1ff14e4d1ff14e4d1ff14e4d",
       "source": "Show Status in StatusBar",
       "translated": "在状态栏中显示状态",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7dade52c7dade52c7dade52c",
       "source": "Show information in the Status Bar",
       "translated": "在状态栏中显示信息",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "31544b3d31544b3d31544b3d",
       "source": "Output generated text to blockquote",
       "translated": "将生成的文本输出到块引用",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5eff523b5eff523b5eff523b",
       "source": "Distinguish between AI generated text and typed text using a blockquote",
       "translated": "使用块引用区分AI生成的文本和键入的文本",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3135617b3135617b3135617b",
       "source": "Free cursor on streaming",
       "translated": "流式传输时自由光标",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a818d5f2a818d5f2a818d5f2",
       "source": "Note that it might result in weird bugs, the auto-scrolling might not work",
       "translated": "请注意，这可能导致奇怪的错误，自动滚动可能无法正常工作",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5e2d9b235e2d9b235e2d9b23",
       "source": "Experimentation Features",
       "translated": "实验性功能",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "35f00d9335f00d9335f00d93",
       "source": "This adds experiment features, which might not be stable yet",
       "translated": "这会添加实验性功能，可能尚不稳定",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "903c086e903c086e903c086e",
       "source": "include Attachments",
       "translated": "包含附件",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "630d2d1b630d2d1b630d2d1b",
       "source": "EXPERIMENTAL: adds the images that are referenced in the request, IT MIGHT CONSUME ALOT OF TOKENS",
       "translated": "实验性：添加请求中引用的图像，可能会消耗大量令牌",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "576d5ad6576d5ad6576d5ad6",
       "source": "Templates Path",
       "translated": "模板路径",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "41cbd8c441cbd8c441cbd8c4",
       "source": "Path for Templates directory",
       "translated": "模板目录路径",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f7e98d9bf7e98d9bf7e98d9b",
       "source": "TextGenerator Path",
       "translated": "文本生成器路径",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "512efe66512efe66512efe66",
       "source": "Path To Folder that Text Generator can put Backups,generations...etc into",
       "translated": "文本生成器可存放备份、生成内容等的文件夹路径",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ef9fabd9ef9fabd9ef9fabd9",
       "source": "Reload the plugin",
       "translated": "重新加载插件",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "eeeac5a1eeeac5a1eeeac5a1",
       "source": "Some changes might require you to reload the plugins",
       "translated": "某些更改可能需要您重新加载插件",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "8bb586c98bb586c98bb586c9",
       "source": "Reload",
       "translated": "重新加载",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "587085ca587085ca587085ca",
       "source": "Resets all settings to default",
       "translated": "将所有设置重置为默认值",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "12441f3112441f3112441f31",
       "source": "It will delete all your configurations",
       "translated": "这将删除您的所有配置",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "674c7c76674c7c76674c7c76",
       "source": "You can specify more parameters in the Frontmatter YAML",
       "translated": "您可以在Frontmatter YAML中指定更多参数",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "adfac824adfac824adfac824",
       "source": "Max tokens",
       "translated": "最大令牌数",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6c7177ce6c7177ce6c7177ce",
       "source": "The maximum number of tokens to generate in the chat completion. The total length of input tokens and generated tokens is limited by the model's context length. (1000 tokens ~ 750 words)",
       "translated": "聊天完成中生成的最大令牌数。输入令牌和生成令牌的总长度受模型上下文长度限制。（1000个令牌约750个单词）",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "dc3e0094dc3e0094dc3e0094",
       "source": "Temperature",
       "translated": "温度参数",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2f6d89632f6d89632f6d8963",
       "source": "What sampling temperature to use, between 0 and 2. Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic.",
       "translated": "使用的采样温度，介于0到2之间。较高的值（如0.8）会使输出更随机，而较低的值（如0.2）会使输出更集中和确定。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f9d7d827f9d7d827f9d7d827",
       "source": "Frequency Penalty",
       "translated": "频率惩罚",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "8255856b8255856b8255856b",
       "source": "Number between -2.0 and 2.0. Positive values penalize new tokens based on whether they appear in the text so far, increasing the model's likelihood to talk about new topics.",
       "translated": "介于-2.0和2.0之间的数字。正值会根据新令牌是否已在文本中出现来惩罚它们，增加模型谈论新主题的可能性。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "887d62c3887d62c3887d62c3",
       "source": "Timeout",
       "translated": "超时",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f9aa1614f9aa1614f9aa1614",
       "source": "Timeout in milliseconds. If the request takes longer than the timeout, the request will be aborted. (default: 5000ms)",
       "translated": "超时时间（毫秒）。如果请求时间超过超时时间，请求将被中止。（默认：5000毫秒）",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "54bb81e854bb81e854bb81e8",
       "source": "Prefix",
       "translated": "前缀",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "271568bd271568bd271568bd",
       "source": "Prefix to add to the beginning of the completion (default: '\\n\\n')",
       "translated": "添加到补全内容开头的前缀（默认：'\\n\\n'）",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "289a3e22289a3e22289a3e22",
       "source": "Enable/Disable",
       "translated": "启用/禁用",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "978da0d8978da0d8978da0d8",
       "source": "Enable or disable auto-suggest.",
       "translated": "启用或禁用自动建议。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "373a8322373a8322373a8322",
       "source": "Custom default generation prompt",
       "translated": "自定义默认生成提示",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "cf340c4bcf340c4bcf340c4b",
       "source": "You can customize {{context}} variable",
       "translated": "您可以自定义{{context}}变量",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d0814ea2d0814ea2d0814ea2",
       "source": "Enable generate title instruct",
       "translated": "启用生成标题指令",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "851e40fd851e40fd851e40fd",
       "source": "You can customize generate title prompt",
       "translated": "您可以自定义生成标题提示",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "acb11845acb11845acb11845",
       "source": "TG Selection Limiter(regex)",
       "translated": "TG选择限制器（正则表达式）",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "77a8e22d77a8e22d77a8e22d",
       "source": "tg_selection stopping character. Empty means disabled. Default: ^\\*\\*\\*",
       "translated": "tg_selection停止字符。留空表示禁用。默认：^\\*\\*\\*",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6b555eb16b555eb16b555eb1",
       "source": "{{context}} Variable Template",
       "translated": "{{context}}变量模板",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "de2ec1aade2ec1aade2ec1aa",
       "source": "Template for {{context}} variable",
       "translated": "{{context}}变量的模板",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0cc94e080cc94e080cc94e08",
       "source": "includeClipboard",
       "translated": "includeClipboard",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1fa745971fa745971fa74597",
       "source": "Make clipboard available for templates",
       "translated": "使剪贴板可用于模板",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b538ae1db538ae1db538ae1d",
       "source": "Allow scripts",
       "translated": "允许脚本",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "98ad658f98ad658f98ad658f",
       "source": "Only enable this if you trust the authors of the templates, or know what you're doing.",
       "translated": "仅当您信任模板作者或清楚自己在做什么时才启用此功能。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5351d51a5351d51a5351d51a",
       "source": "PDF Extractor",
       "translated": "PDF提取器",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4d7bd61c4d7bd61c4d7bd61c",
       "source": "Enable or disable PDF extractor.",
       "translated": "启用或禁用PDF提取器。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "9c50e06b9c50e06b9c50e06b",
       "source": "Web Page Extractor",
       "translated": "网页提取器",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "8b794f4d8b794f4d8b794f4d",
       "source": "Enable or disable web page extractor.",
       "translated": "启用或禁用网页提取器。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "43481f6d43481f6d43481f6d",
       "source": "Youtube Extractor",
       "translated": "YouTube 提取器",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "eafbd1cbeafbd1cbeafbd1cb",
       "source": "Enable or disable Youtube extractor.",
       "translated": "启用或禁用 YouTube 提取器。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c99848fdc99848fdc99848fd",
       "source": "Audio Extractor (Whisper)",
       "translated": "音频提取器（Whisper）",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "8bd24a368bd24a368bd24a36",
       "source": "Enable or disable audio extractor using Whisper OpenAI ($0.006 / minute) supports multi-languages and accepts a variety of formats (m4a, mp3, mp4, mpeg, mpga, wav, webm).",
       "translated": "启用或禁用使用Whisper OpenAI的音频提取器（$0.006/分钟），支持多种语言并接受多种格式（m4a、mp3、mp4、mpeg、mpga、wav、webm）。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a400e1e1a400e1e1a400e1e1",
       "source": "Embedded Image Extractor",
       "translated": "嵌入式图像提取器",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6e7b4a676e7b4a676e7b4a67",
       "source": "Enable or disable Embedded Image Extractor.",
       "translated": "启用或禁用嵌入式图像提取器。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "9b9989cf9b9989cf9b9989cf",
       "source": "Image Extractor",
       "translated": "图像提取器",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a77ead5aa77ead5aa77ead5a",
       "source": "Enable or disable Image Extractor from URL",
       "translated": "启用或禁用从 URL 提取图像",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7e7a5ae07e7a5ae07e7a5ae0",
       "source": "BasePath",
       "translated": "BasePath",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "cd9de454cd9de454cd9de454",
       "source": "default to openai",
       "translated": "默认为 openai",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a5ac464ea5ac464ea5ac464e",
       "source": "default to openai provider's apikey",
       "translated": "默认为 openai 提供商的 apikey",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a5fc4b56a5fc4b56a5fc4b56",
       "source": "default to whisper-1",
       "translated": "默认为 whisper-1",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b923fe7ab923fe7ab923fe7a",
       "source": "API Version",
       "translated": "API 版本",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1a7199961a7199961a719996",
       "source": "Api version (Azure only)",
       "translated": "API 版本（仅限 Azure）",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2975d52a2975d52a2975d52a",
       "source": "Language",
       "translated": "语言",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5b7549a35b7549a35b7549a3",
       "source": "default to (none)",
       "translated": "默认为（无）",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5286cff35286cff35286cff3",
       "source": "Keys encryption",
       "translated": "密钥加密",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "cda17f20cda17f20cda17f20",
       "source": "Enable encrypting keys, this could cause incompatibility with mobile devices",
       "translated": "启用密钥加密，这可能导致与移动设备不兼容",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1c3139031c3139031c313903",
       "source": "generate-text",
       "translated": "generate-text",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5581784f5581784f5581784f",
       "source": "Generate Text!",
       "translated": "生成文本！",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2d90612c2d90612c2d90612c",
       "source": "generate-text-with-metadata",
       "translated": "generate-text-with-metadata",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "76af436976af436976af4369",
       "source": "Generate Text (use Metadata))!",
       "translated": "生成文本（使用元数据）！",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ba4df31bba4df31bba4df31b",
       "source": "insert-generated-text-From-template",
       "translated": "insert-generated-text-From-template",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0a3dca7b0a3dca7b0a3dca7b",
       "source": "Templates: Generate & Insert",
       "translated": "模板：生成并插入",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "fa2666a8fa2666a8fa2666a8",
       "source": "create-generated-text-From-template",
       "translated": "create-generated-text-From-template",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "efab0cd8efab0cd8efab0cd8",
       "source": "Templates: Generate & Create Note",
       "translated": "模板：生成并创建笔记",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a47037f0a47037f0a47037f0",
       "source": "search-results-batch-generate-from-template",
       "translated": "search-results-batch-generate-from-template",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d50f9eded50f9eded50f9ede",
       "source": "Templates (Batch): From Search Results",
       "translated": "模板（批量）：从搜索结果",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "119f3639119f3639119f3639",
       "source": "insert-text-From-template",
       "translated": "insert-text-From-template",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6981fb666981fb666981fb66",
       "source": "Templates: Insert Template",
       "translated": "模板：插入模板",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "412a548a412a548a412a548a",
       "source": "create-text-From-template",
       "translated": "create-text-From-template",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e34cf724e34cf724e34cf724",
       "source": "Templates: Insert & Create Note",
       "translated": "模板：插入并创建笔记",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a11626bba11626bba11626bb",
       "source": "show-modal-From-template",
       "translated": "show-modal-From-template",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7a1096f67a1096f67a1096f6",
       "source": "Show modal From Template",
       "translated": "从模板显示模态框",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f62c395bf62c395bf62c395b",
       "source": "open-template-as-tool",
       "translated": "open-template-as-tool",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "32250a9632250a9632250a96",
       "source": "Open Template as Tool",
       "translated": "将模板作为工具打开",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5714c0605714c0605714c060",
       "source": "open-playground",
       "translated": "open-playground",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "51328c3d51328c3d51328c3d",
       "source": "Open Template Playground",
       "translated": "打开模板游乐场",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "8eb459e68eb459e68eb459e6",
       "source": "set_max_tokens",
       "translated": "set_max_tokens",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "88a9543988a9543988a95439",
       "source": "Set max_tokens",
       "translated": "设置 max_tokens",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4d3795674d3795674d379567",
       "source": "Chose LLM",
       "translated": "选择 LLM",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2c7b201a2c7b201a2c7b201a",
       "source": "set-llm",
       "translated": "set-llm",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3e6189d83e6189d83e6189d8",
       "source": "set-model",
       "translated": "set-model",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1a266aeb1a266aeb1a266aeb",
       "source": "Choose a Model",
       "translated": "选择一个模型",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0c3dcff10c3dcff10c3dcff1",
       "source": "packageManager",
       "translated": "packageManager",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "518721525187215251872152",
       "source": "Template Packages Manager",
       "translated": "模板包管理器",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5ead9b615ead9b615ead9b61",
       "source": "create-template",
       "translated": "create-template",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6c847d0d6c847d0d6c847d0d",
       "source": "Create a Template",
       "translated": "创建模板",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6f33a1e36f33a1e36f33a1e3",
       "source": "get-title",
       "translated": "get-title",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "08e8d09208e8d09208e8d092",
       "source": "Generate a Title",
       "translated": "生成标题",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ebf00556ebf00556ebf00556",
       "source": "generated-text-to-clipboard-From-template",
       "translated": "generated-text-to-clipboard-From-template",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "84d5b6de84d5b6de84d5b6de",
       "source": "Templates: Generate & Copy To Clipboard",
       "translated": "模板：生成并复制到剪贴板",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2c5560b92c5560b92c5560b9",
       "source": "calculate-tokens",
       "translated": "calculate-tokens",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "84414ba284414ba284414ba2",
       "source": "Estimate tokens for the current document",
       "translated": "估算当前文档的令牌数",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "17dc173217dc173217dc1732",
       "source": "calculate-tokens-for-template",
       "translated": "calculate-tokens-for-template",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "88591b6c88591b6c88591b6c",
       "source": "Estimate tokens for a Template",
       "translated": "估算模板的令牌数",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "506b510d506b510d506b510d",
       "source": "text-extractor-tool",
       "translated": "text-extractor-tool",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "39b63a2d39b63a2d39b63a2d",
       "source": "Text Extractor Tool",
       "translated": "文本提取器工具",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e114b751e114b751e114b751",
       "source": "stop-stream",
       "translated": "stop-stream",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "886feb1c886feb1c886feb1c",
       "source": "Stop Stream",
       "translated": "停止流",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2a9a21362a9a21362a9a2136",
       "source": "custom-instruct",
       "translated": "custom-instruct",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "35e94a6935e94a6935e94a69",
       "source": "generate-in-right-click-menu",
       "translated": "generate-in-right-click-menu",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c6fa7d40c6fa7d40c6fa7d40",
       "source": "batch-generate-in-right-click-files-menu",
       "translated": "batch-generate-in-right-click-files-menu",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "bb222b94bb222b94bb222b94",
       "source": "tg-block-processor",
       "translated": "tg-block-processor",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "066c85e9066c85e9066c85e9",
       "source": "reload",
       "translated": "reload",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "894b26a0894b26a0894b26a0",
       "source": "reload Plugin",
       "translated": "重新加载插件",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "20d5e56e20d5e56e20d5e56e",
       "source": "disable-ribbon-icons",
       "translated": "disable-ribbon-icons",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ae58c546ae58c546ae58c546",
       "source": "overlay-toolbar",
       "translated": "overlay-toolbar",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2a7f655f2a7f655f2a7f655f",
       "source": "log-slowest-operations",
       "translated": "log-slowest-operations",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     }
   ]
 }

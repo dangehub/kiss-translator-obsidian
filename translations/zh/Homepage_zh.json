@@ -6,295 +6,295 @@
       "key": "d85606a4d85606a4d85606a4",
       "source": "Homepage",
       "translated": "首页",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1e26ea3e1e26ea3e1e26ea3e",
       "source": "File",
       "translated": "文件",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3ab1bd9d3ab1bd9d3ab1bd9d",
       "source": "Workspace",
       "translated": "工作区",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5aa288255aa288255aa28825",
       "source": "Random file",
       "translated": "随机文件",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "62166df262166df262166df2",
       "source": "Random in folder",
       "translated": "文件夹内随机",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "8d55f2998d55f2998d55f299",
       "source": "Graph view",
       "translated": "图谱视图",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "15f9728515f9728515f97285",
       "source": "Nothing",
       "translated": "无",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b9fd8e39b9fd8e39b9fd8e39",
       "source": "Journal",
       "translated": "日记",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5764fc515764fc515764fc51",
       "source": "Daily Note",
       "translated": "每日笔记",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c0c8d721c0c8d721c0c8d721",
       "source": "Weekly Note",
       "translated": "每周笔记",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3cdca74d3cdca74d3cdca74d",
       "source": "Monthly Note",
       "translated": "每月笔记",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "002ffa92002ffa92002ffa92",
       "source": "Yearly Note",
       "translated": "每年笔记",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6b1fc0a86b1fc0a86b1fc0a8",
       "source": "Open on startup",
       "translated": "启动时打开",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a0a160b7a0a160b7a0a160b7",
       "source": "When launching Obsidian, open the homepage.",
       "translated": "启动 Obsidian 时，打开首页。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "de7060cdde7060cdde7060cd",
       "source": "Open when empty",
       "translated": "无标签时打开",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3f86cd763f86cd763f86cd76",
       "source": "When there are no tabs open, open the homepage.",
       "translated": "当没有打开的标签页时，打开首页。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7d50d2fd7d50d2fd7d50d2fd",
       "source": "Use when opening normally",
       "translated": "正常打开时应用设置",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "afabeffdafabeffdafabeffd",
       "source": "Use homepage settings when opening it normally, such as from a link or the file browser.",
       "translated": "当主页正常打开时，应用主页设置，比如从链接或文件管理器打开。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f2a075a1f2a075a1f2a075a1",
       "source": "Separate mobile homepage",
       "translated": "单独的移动设备首页",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e9907000e9907000e9907000",
       "source": "For mobile devices, store the homepage and its settings separately.",
       "translated": "对于移动设备，单独存储主页及其设置。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7af07a8c7af07a8c7af07a8c",
       "source": "Commands",
       "translated": "命令",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "687c82a4687c82a4687c82a4",
       "source": "Select commands that will be executed when opening the homepage.",
       "translated": "选择打开主页时要执行的命令。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b0310c17b0310c17b0310c17",
       "source": "Add...",
       "translated": "添加...",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c180be77c180be77c180be77",
       "source": "Vault environment",
       "translated": "保险库环境",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3c7eaa333c7eaa333c7eaa33",
       "source": "Opening method",
       "translated": "开启方式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "493f6da8493f6da8493f6da8",
       "source": "Determine how extant tabs and views are affected on startup.",
       "translated": "确定启动时现有选项卡和视图如何受到影响。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "159948421599484215994842",
       "source": "Replace all open notes",
       "translated": "替换所有打开的笔记",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3e10abce3e10abce3e10abce",
       "source": "Replace last note",
       "translated": "替换最后一个笔记",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "da2d1cd4da2d1cd4da2d1cd4",
       "source": "Keep open notes",
       "translated": "保持打开的笔记",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5b0799e95b0799e95b0799e9",
       "source": "Manual opening method",
       "translated": "手动开启方式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "26dcfcd226dcfcd226dcfcd2",
       "source": "Determine how extant tabs and views are affected when opening with commands or the ribbon button.",
       "translated": "确定使用命令或功能区按钮打开时对现有选项卡和视图的影响。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6960018f6960018f6960018f",
       "source": "Pin",
       "translated": "固定",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0a5a6c440a5a6c440a5a6c44",
       "source": "Pin the homepage when opening.",
       "translated": "打开时固定主页。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "31f4a75231f4a75231f4a752",
       "source": "Hide release notes",
       "translated": "隐藏发布说明",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "79f6da6f79f6da6f79f6da6f",
       "source": "Never display release notes when Obsidian updates.",
       "translated": "Obsidian 更新时永不显示发布说明。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f7e6d1bef7e6d1bef7e6d1be",
       "source": "Auto-create",
       "translated": "自动创建",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "779e5884779e5884779e5884",
       "source": "If this vault is synced using unofficial services, this may lead to content being overwritten.",
       "translated": "如果使用非官方服务同步此保险库，则可能导致内容被覆盖。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "524af1c0524af1c0524af1c0",
       "source": "Opened view",
       "translated": "已打开的视图",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d2def089d2def089d2def089",
       "source": "Homepage view",
       "translated": "首页视图",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "43ab0ac143ab0ac143ab0ac1",
       "source": "Choose what view to open the homepage in.",
       "translated": "选择在何种视图中打开首页。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3b45757e3b45757e3b45757e",
       "source": "Default view",
       "translated": "默认视图",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "298e7327298e7327298e7327",
       "source": "Reading view",
       "translated": "阅读视图",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "507021155070211550702115",
       "source": "Editing view (Source)",
       "translated": "编辑视图（源代码）",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a4a3a554a4a3a554a4a3a554",
       "source": "Editing view (Live Preview)",
       "translated": "编辑视图（实时预览）",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f039a7e0f039a7e0f039a7e0",
       "source": "Revert view on close",
       "translated": "关闭时恢复视图",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "873a5b86873a5b86873a5b86",
       "source": "When navigating away from the homepage, restore the default view.",
       "translated": "离开主页时，恢复默认视图。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5cc389975cc389975cc38997",
       "source": "Auto-scroll",
       "translated": "自动滚动",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "915d7344915d7344915d7344",
       "source": "When opening the homepage, scroll to the bottom and focus on the last line.",
       "translated": "打开主页时，滚动到底部并专注于最后一行。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "420077e2420077e2420077e2",
       "source": "Copy debug info",
       "translated": "复制调试信息",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     }
   ]
 }

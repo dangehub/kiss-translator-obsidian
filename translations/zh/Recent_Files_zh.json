@@ -6,61 +6,61 @@
       "key": "a4416ba3a4416ba3a4416ba3",
       "source": "Omitted pathname patterns",
       "translated": "省略的路径名模式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "27717dec27717dec27717dec",
       "source": "Omitted frontmatter-tag patterns",
       "translated": "省略的前言标签模式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "717852e0717852e0717852e0",
       "source": "Frontmatter-tag patterns to ignore. One pattern per line.",
       "translated": "要忽略的前言标签模式。每行一个模式。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "db0536afdb0536afdb0536af",
       "source": "Omit bookmarked files",
       "translated": "省略已收藏的文件",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "9d47d3f99d47d3f99d47d3f9",
       "source": "Update list when file is:",
       "translated": "在以下情况下更新列表：",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7abb28cd7abb28cd7abb28cd",
       "source": "Opened",
       "translated": "打开",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6ee6449a6ee6449a6ee6449a",
       "source": "Changed",
       "translated": "更改",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1ea109061ea109061ea10906",
       "source": "List length",
       "translated": "列表长度",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e4ae8dfae4ae8dfae4ae8dfa",
       "source": "Maximum number of filenames to keep in the list.",
       "translated": "列表中保留的最大文件数量。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3aaf8c383aaf8c383aaf8c38",
       "source": "If this plugin adds value for you and you would like to help support continued development, please use the buttons below:",
       "translated": "如果此插件对您有价值，并且您想帮助支持持续开发，请使用下面的按钮：",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     }
   ]
 }

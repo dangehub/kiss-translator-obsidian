@@ -6,703 +6,703 @@
       "key": "aaeeac2caaeeac2caaeeac2c",
       "source": "Various Complements - Settings",
       "translated": "各种补全 - 设置",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "621e6d33621e6d33621e6d33",
       "source": "Main",
       "translated": "主要",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4bc060234bc060234bc06023",
       "source": "Strategy",
       "translated": "策略",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6056d6d36056d6d36056d6d3",
       "source": "english-only",
       "translated": "仅英文",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c267f3bfc267f3bfc267f3bf",
       "source": "japanese",
       "translated": "日语",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "339750a2339750a2339750a2",
       "source": "arabic",
       "translated": "阿拉伯语",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1b394ea71b394ea71b394ea7",
       "source": "chinese",
       "translated": "中文",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "9d7071049d7071049d707104",
       "source": "korean",
       "translated": "韩语",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "af044810af044810af044810",
       "source": "Match strategy",
       "translated": "匹配策略",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "18765d0818765d0818765d08",
       "source": "prefix",
       "translated": "前缀",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "62d89d0b62d89d0b62d89d0b",
       "source": "partial",
       "translated": "部分",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f48e1941f48e1941f48e1941",
       "source": "Fuzzy match",
       "translated": "模糊匹配",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3e7d36433e7d36433e7d3643",
       "source": "Min fuzzy match score",
       "translated": "最小模糊匹配得分",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c01a3808c01a3808c01a3808",
       "source": "It only shows suggestions whose fuzzy matched score is more than the specific value.",
       "translated": "仅显示模糊匹配得分高于特定值的建议。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "9f76ff529f76ff529f76ff52",
       "source": "Treat accent diacritics as alphabetic characters.",
       "translated": "将重音变音符号视为字母字符。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "31e4429b31e4429b31e4429b",
       "source": "Ex: If enabled, 'aaa' matches with 'áäā'",
       "translated": "例如：如果启用，'aaa' 将匹配 'áäā'",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f7703d2df7703d2df7703d2d",
       "source": "Treat an underscore as a part of a word.",
       "translated": "将下划线视为单词的一部分。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d4887a9ed4887a9ed4887a9e",
       "source": "If this setting is enabled, aaa_bbb will be tokenized as a single token aaa_bbb, rather than being split into aaa and bbb.",
       "translated": "如果启用此设置，aaa_bbb 将被标记为单个标记 aaa_bbb，而不是拆分为 aaa 和 bbb。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "dc9813e3dc9813e3dc9813e3",
       "source": "Matching without emoji",
       "translated": "无表情符号匹配",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "80b4baa380b4baa380b4baa3",
       "source": "Ex: If enabled, 'aaa' matches with '😀aaa'",
       "translated": "例如：如果启用，'aaa' 将匹配 '😀aaa'",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "fa5b3559fa5b3559fa5b3559",
       "source": "Max number of suggestions",
       "translated": "建议的最大数量",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "aee0c4d5aee0c4d5aee0c4d5",
       "source": "Max number of words as a phrase",
       "translated": "短语的最大单词数",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "71dea7da71dea7da71dea7da",
       "source": "[⚠Warning] It makes slower more than N times (N is set value)",
       "translated": "[⚠警告] 这将使速度减慢超过 N 倍（N 为设定值）",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "408699514086995140869951",
       "source": "Min number of characters for trigger",
       "translated": "触发的最小字符数",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "51a481d051a481d051a481d0",
       "source": "Setting the value to 0 does not mean the suggestion will be triggered without any inputted character. Instead, a designated value will be used depending on the Strategy you choose.",
       "translated": "将值设置为 0 并不意味着建议会在没有任何输入字符的情况下触发。相反，将根据您选择的策略使用指定的值。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "cf505846cf505846cf505846",
       "source": "Min number of words for trigger",
       "translated": "触发的最小单词数",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2a664e372a664e372a664e37",
       "source": "Complement automatically",
       "translated": "自动补全",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c4a8a4cdc4a8a4cdc4a8a4cd",
       "source": "Delay milli-seconds for trigger",
       "translated": "触发的延迟毫秒数",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "08ed485008ed485008ed4850",
       "source": "Disable suggestions during IME on",
       "translated": "输入法开启时禁用建议",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f1415ab4f1415ab4f1415ab4",
       "source": "Disable suggestions in the Math block",
       "translated": "在数学块中禁用建议",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "367a504b367a504b367a504b",
       "source": "Disables suggestions within math blocks. This setting does not apply to inline blocks.",
       "translated": "禁用数学块内的建议。此设置不适用于内联块。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "8c8e06298c8e06298c8e0629",
       "source": "Disable suggestions in the Code block",
       "translated": "在代码块中禁用建议",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6b947a966b947a966b947a96",
       "source": "Disables suggestions within code blocks. This setting does not apply to inline blocks.",
       "translated": "禁用代码块内的建议。此设置不适用于内联块。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4404506b4404506b4404506b",
       "source": "Insert space after completion",
       "translated": "补全后插入空格",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "609ee618609ee618609ee618",
       "source": "First characters to disable suggestions",
       "translated": "禁用建议的首字符",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d4d65e3fd4d65e3fd4d65e3f",
       "source": "Line patterns to suppress trigger",
       "translated": "抑制触发的行模式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "372533dc372533dc372533dc",
       "source": "Regular expression line patterns (partial match) until the cursor, that suppresses the activation of autocomplete. Multiple patterns can be defined with line breaks.",
       "translated": "正则表达式行模式（部分匹配）直到光标位置，用于抑制自动补全的激活。可以通过换行定义多个模式。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "00dc2fec00dc2fec00dc2fec",
       "source": "Phrase patterns to suppress trigger",
       "translated": "抑制触发的短语模式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "de0b6789de0b6789de0b6789",
       "source": "Regular expression patterns (exact match) that suppress the activation of autocomplete. Multiple patterns can be defined with line breaks.",
       "translated": "正则表达式模式（精确匹配），用于抑制自动补全的激活。可以通过换行定义多个模式。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "8cc94c548cc94c548cc94c54",
       "source": "No auto-focus until the cycle",
       "translated": "循环前不自动聚焦",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "37837a3437837a3437837a34",
       "source": "No focus on the suggestions until the cycle key is pressed.",
       "translated": "在按下循环键之前，建议不会获得焦点。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "70a24f6670a24f6670a24f66",
       "source": "Appearance",
       "translated": "外观",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3a70ff933a70ff933a70ff93",
       "source": "Show Match strategy",
       "translated": "显示匹配策略",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "733902637339026373390263",
       "source": "Show Match strategy at the status bar. Changing this option requires a restart to take effect.",
       "translated": "在状态栏显示匹配策略。更改此选项需要重启才能生效。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "9a6aaaf49a6aaaf49a6aaaf4",
       "source": "Show Complement automatically",
       "translated": "显示自动补全",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "abdf2cc4abdf2cc4abdf2cc4",
       "source": "Show complement automatically at the status bar. Changing this option requires a restart to take effect.",
       "translated": "在状态栏显示自动补全。更改此选项需要重启才能生效。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "031a1d91031a1d91031a1d91",
       "source": "Show Indexing status",
       "translated": "显示索引状态",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7b9f6c417b9f6c417b9f6c41",
       "source": "Show indexing status at the status bar. Changing this option requires a restart to take effect.",
       "translated": "在状态栏显示索引状态。更改此选项需要重启才能生效。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "72390fd272390fd272390fd2",
       "source": "Description on a suggestion",
       "translated": "建议上的描述",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "24ab492a24ab492a24ab492a",
       "source": "Short",
       "translated": "简短",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a7cd3b2ba7cd3b2ba7cd3b2b",
       "source": "Full",
       "translated": "完整",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7f99e4727f99e4727f99e472",
       "source": "Key customization",
       "translated": "按键自定义",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "13d5cacf13d5cacf13d5cacf",
       "source": "Hotkeys",
       "translated": "热键",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1a978f2e1a978f2e1a978f2e",
       "source": "'Ctrl a' means pressing the Ctrl key and the A key.",
       "translated": "'Ctrl a' 表示按下 Ctrl 键和 A 键。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4d9253044d9253044d925304",
       "source": "'Enter|Tab' means pressing the Enter key or the Tab key.",
       "translated": "'Enter|Tab' 表示按下 Enter 键或 Tab 键。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4688c3e84688c3e84688c3e8",
       "source": "Use 'Mod' instead of 'Ctrl' on Windows or 'Cmd' on macOS.",
       "translated": "在 Windows 上使用 'Mod' 代替 'Ctrl'，在 macOS 上使用 'Cmd'。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "038622100386221003862210",
       "source": "select",
       "translated": "选择",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5ea297775ea297775ea29777",
       "source": "select with custom alias",
       "translated": "使用自定义别名选择",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b5e9562eb5e9562eb5e9562e",
       "source": "select with query alias",
       "translated": "使用查询别名选择",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a136323da136323da136323d",
       "source": "up",
       "translated": "上",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "8ac8b3aa8ac8b3aa8ac8b3aa",
       "source": "down",
       "translated": "下",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "baf002a6baf002a6baf002a6",
       "source": "select 1st",
       "translated": "选择第 1 个",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d58c46c8d58c46c8d58c46c8",
       "source": "select 2nd",
       "translated": "选择第 2 个",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "83daad5583daad5583daad55",
       "source": "select 3rd",
       "translated": "选择第 3 个",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "263d0398263d0398263d0398",
       "source": "select 4th",
       "translated": "选择第 4 个",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "aacb8699aacb8699aacb8699",
       "source": "select 5th",
       "translated": "选择第 5 个",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "dfe6aa9adfe6aa9adfe6aa9a",
       "source": "select 6th",
       "translated": "选择第 6 个",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "64752d9b64752d9b64752d9b",
       "source": "select 7th",
       "translated": "选择第 7 个",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c419d094c419d094c419d094",
       "source": "select 8th",
       "translated": "选择第 8 个",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "48a8539548a8539548a85395",
       "source": "select 9th",
       "translated": "选择第 9 个",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "63b4b84c63b4b84c63b4b84c",
       "source": "open",
       "translated": "打开",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "fef6c73cfef6c73cfef6c73c",
       "source": "completion",
       "translated": "补全",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "54b0bd6054b0bd6054b0bd60",
       "source": "insert as text",
       "translated": "作为文本插入",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ee62f346ee62f346ee62f346",
       "source": "Propagate ESC",
       "translated": "传播 ESC",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "9bb8aae89bb8aae89bb8aae8",
       "source": "It is handy if you use Vim mode because you can switch to Normal mode by one ESC, whether it shows suggestions or not.",
       "translated": "如果您使用 Vim 模式，这很方便，因为无论是否显示建议，您都可以通过一次 ESC 切换到正常模式。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6278ebfd6278ebfd6278ebfd",
       "source": "Current file complement",
       "translated": "当前文件补全",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d617c91cd617c91cd617c91c",
       "source": "Enable Current file complement",
       "translated": "启用当前文件补全",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "fe401017fe401017fe401017",
       "source": "Min number of characters for indexing",
       "translated": "索引的最小字符数",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "bd9bb435bd9bb435bd9bb435",
       "source": "It uses a default value of Strategy if set 0.",
       "translated": "如果设置为 0，则使用策略的默认值。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a94f1d10a94f1d10a94f1d10",
       "source": "Only complement English on current file complement",
       "translated": "仅对当前文件补全进行英文补全",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "93fa8bc993fa8bc993fa8bc9",
       "source": "Override the main trigger setting for this provider. Set 0 to use the main setting value.",
       "translated": "覆盖此提供程序的主要触发设置。设置为 0 以使用主要设置值。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f87bcbeef87bcbeef87bcbee",
       "source": "Exclude word patterns for indexing",
       "translated": "索引的排除单词模式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "efabe8acefabe8acefabe8ac",
       "source": "Regexp patterns for words to be excluded from the suggestions, separated by line breaks.",
       "translated": "用于从建议中排除单词的正则表达式模式，以换行分隔。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e22cb321e22cb321e22cb321",
       "source": "Current vault complement",
       "translated": "当前仓库补全",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e8481020e8481020e8481020",
       "source": "Enable Current vault complement",
       "translated": "启用当前仓库补全",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d1b8b6b9d1b8b6b9d1b8b6b9",
       "source": "Custom dictionary complement",
       "translated": "自定义词典补全",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "bcf97ab8bcf97ab8bcf97ab8",
       "source": "Enable Custom dictionary complement",
       "translated": "启用自定义词典补全",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5d00ff555d00ff555d00ff55",
       "source": "Internal link complement",
       "translated": "内部链接补全",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6c5fae946c5fae946c5fae94",
       "source": "Enable Internal link complement",
       "translated": "启用内部链接补全",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d67d0c27d67d0c27d67d0c27",
       "source": "Suggest with an alias",
       "translated": "使用别名建议",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b56e5f1db56e5f1db56e5f1d",
       "source": "Update internal links on save",
       "translated": "保存时更新内部链接",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "151729e5151729e5151729e5",
       "source": "Exclude self internal link",
       "translated": "排除自身内部链接",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "cc5428d4cc5428d4cc5428d4",
       "source": "Exclude existing in active file internal links",
       "translated": "排除活动文件中已存在的内部链接",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "03ad46fa03ad46fa03ad46fa",
       "source": "Exclude internal links present in the current file from the suggestions. Note that the number of excluded suggestions will reduce the total suggestions by the value set in the 'Max number of suggestions' option.",
       "translated": "从建议中排除当前文件中存在的内部链接。请注意，排除的建议数量将减少“建议的最大数量”选项中设置的总建议数。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e45dee3be45dee3be45dee3b",
       "source": "Insert an alias that is transformed from the displayed internal link",
       "translated": "插入从显示的内部链接转换而来的别名",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "9f74fb789f74fb789f74fb78",
       "source": "Exclude prefix path patterns",
       "translated": "排除前缀路径模式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5ee3c3eb5ee3c3eb5ee3c3eb",
       "source": "Prefix match path patterns to exclude files.",
       "translated": "前缀匹配路径模式以排除文件。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "370c260e370c260e370c260e",
       "source": "Exclude path glob patterns",
       "translated": "排除路径通配符模式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "dc8396cedc8396cedc8396ce",
       "source": "Glob patterns to exclude files. Supports wildcards like **/attachments, **/*.png, etc.",
       "translated": "用于排除文件的通配符模式。支持通配符，如 **/attachments、**/*.png 等。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3f115dc93f115dc93f115dc9",
       "source": "⚠ Glob patterns add processing overhead. Use prefix path patterns above for better performance when possible.",
       "translated": "⚠ 通配符模式会增加处理开销。尽可能使用上面的前缀路径模式以获得更好的性能。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "11274a9211274a9211274a92",
       "source": "Front matter key for exclusion",
       "translated": "用于排除的前置元数据键",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "8ed780948ed780948ed78094",
       "source": "Exclude internal links from the suggestions if whose front matters have the key whose name is same as this setting, and the value is 'true'",
       "translated": "如果其前置元数据具有与此设置名称相同的键，并且值为 'true'，则从建议中排除内部链接。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "48dbfc7e48dbfc7e48dbfc7e",
       "source": "Tags for exclusion",
       "translated": "用于排除的标签",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ae2e8524ae2e8524ae2e8524",
       "source": "Tags to exclude suggestions for internal links. If specifying multiple tags, separate them with line breaks.",
       "translated": "用于排除内部链接建议的标签。如果指定多个标签，请用换行符分隔。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b470d4a8b470d4a8b470d4a8",
       "source": "Front matter complement",
       "translated": "Front matter 补充",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5f2421495f2421495f242149",
       "source": "Enable Front matter complement",
       "translated": "启用 Front matter 补充",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d38c6bf6d38c6bf6d38c6bf6",
       "source": "Intelligent suggestion prioritization",
       "translated": "智能建议优先级排序",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "8f39b5578f39b5578f39b557",
       "source": "Enable Intelligent Suggestion Prioritization",
       "translated": "启用智能建议优先级排序",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "18176cb118176cb118176cb1",
       "source": "history file path",
       "translated": "历史文件路径",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ce247a64ce247a64ce247a64",
       "source": "Default: .obsidian/plugins/various-complements/histories.json",
       "translated": "默认：.obsidian/plugins/various-complements/histories.json",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f8980ea1f8980ea1f8980ea1",
       "source": "Max days to keep history",
       "translated": "保留历史记录的最大天数",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5781c2865781c2865781c286",
       "source": "If set 0, it will never remove",
       "translated": "如果设置为0，则永不删除",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5547b0845547b0845547b084",
       "source": "Max number of history to keep",
       "translated": "保留历史记录的最大数量",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "fc4921d8fc4921d8fc4921d8",
       "source": "Mobile",
       "translated": "移动设备",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c76e6b0dc76e6b0dc76e6b0d",
       "source": "Disable on mobile",
       "translated": "在移动设备上禁用",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "56ff746956ff746956ff7469",
       "source": "Debug",
       "translated": "调试",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "16eecc3b16eecc3b16eecc3b",
       "source": "Show log about performance in a console",
       "translated": "在控制台显示性能记录",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     }
   ]
 }

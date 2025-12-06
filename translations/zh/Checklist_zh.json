@@ -6,175 +6,175 @@
       "key": "3c45080b3c45080b3c45080b",
       "source": "General Settings",
       "translated": "常规设置",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "fad9524efad9524efad9524e",
       "source": "General",
       "translated": "常规",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1b630c6d1b630c6d1b630c6d",
       "source": "Tag name",
       "translated": "标签名称",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0d7294ab0d7294ab0d7294ab",
       "source": "e.g. \"todo\" will match #todo. You may add mutliple tags separated by a newline. Leave empty to capture all",
       "translated": "例如 \"todo\" 将匹配 #todo。您可以添加多个标签，并以换行符分隔。留空则捕获所有",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f220f4e9f220f4e9f220f4e9",
       "source": "Show Completed?",
       "translated": "显示已完成的任务？",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "469202e7469202e7469202e7",
       "source": "Show All Todos In File?",
       "translated": "显示文件中的所有待办项？",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "560301635603016356030163",
       "source": "Show all items in file if tag is present, or only items attached to the block where the tag is located. Only has an effect if Tag Name is not empty",
       "translated": "如果标签存在，则显示文件中的所有项目，或仅显示附加到标签所在块的项目。仅在标签名称不为空时有效",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b613b521b613b521b613b521",
       "source": "Show only in currently active file?",
       "translated": "仅显示当前活动文件中的内容？",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6e8980c96e8980c96e8980c9",
       "source": "Show only todos present in currently active file?",
       "translated": "仅显示当前活动文件中存在的待办项？",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0536be7b0536be7b0536be7b",
       "source": "Grouping & Sorting",
       "translated": "分组与排序",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4ea53cdc4ea53cdc4ea53cdc",
       "source": "Group By",
       "translated": "分组依据",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "98a34f8a98a34f8a98a34f8a",
       "source": "Tag",
       "translated": "标签",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d6227257d6227257d6227257",
       "source": "Item Sort",
       "translated": "项目排序",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "730ddba2730ddba2730ddba2",
       "source": "Time sorts are based on last time the file for a particular item was edited",
       "translated": "时间排序基于特定项目的文件最后编辑时间",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d79aa4d0d79aa4d0d79aa4d0",
       "source": "A -> Z",
       "translated": "A -> Z",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "9bfcaaf09bfcaaf09bfcaaf0",
       "source": "Z -> A",
       "translated": "Z -> A",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "31dbb7d031dbb7d031dbb7d0",
       "source": "New -> Old",
       "translated": "新 -> 旧",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f17eb130f17eb130f17eb130",
       "source": "Old -> New",
       "translated": "旧 -> 新",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2f5eb3fd2f5eb3fd2f5eb3fd",
       "source": "Group Sort",
       "translated": "组排序",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "48814a5248814a5248814a52",
       "source": "Time sorts are based on last time the file for the newest or oldest item in a group was edited",
       "translated": "时间排序基于分组中最新或最旧项目的文件最后编辑时间",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1e537b2a1e537b2a1e537b2a",
       "source": "Styling",
       "translated": "样式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "47aef09e47aef09e47aef09e",
       "source": "Look and Feel",
       "translated": "外观与感觉",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4935557c4935557c4935557c",
       "source": "Classic",
       "translated": "经典",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e815fbffe815fbffe815fbff",
       "source": "Compact",
       "translated": "紧凑",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f24b50e6f24b50e6f24b50e6",
       "source": "Advanced",
       "translated": "高级",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7d01a6d17d01a6d17d01a6d1",
       "source": "Include Files",
       "translated": "包含文件",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "8348027b8348027b8348027b",
       "source": "Include all files that match this glob pattern. Examples on plugin page/github readme. Leave empty to check all files.",
       "translated": "包含所有匹配此全局模式的文件。插件页面或GitHub自述文件中有示例。留空则检查所有文件。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "39b6f5b739b6f5b739b6f5b7",
       "source": "Auto Refresh List?",
       "translated": "自动刷新列表？",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "fbd96d32fbd96d32fbd96d32",
       "source": "It's recommended to leave this on unless you are expereince performance issues due to a large vault. You can then reload manually using the \"Checklist: refresh\" command",
       "translated": "建议保持此项开启，除非您因存储库较大而遇到性能问题。您可以使用 \"Checklist: refresh\" 命令手动重新加载。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     }
   ]
 }

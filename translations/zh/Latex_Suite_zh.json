@@ -6,661 +6,661 @@
       "key": "aee27caeaee27caeaee27cae",
       "source": "Snippets",
       "translated": "代码片段",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "66abe29d66abe29d66abe29d",
       "source": "Enabled",
       "translated": "已启用",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ee1cda82ee1cda82ee1cda82",
       "source": "Whether snippets are enabled.",
       "translated": "是否启用代码片段功能。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d10c826dd10c826dd10c826d",
       "source": "Enter snippets here. Remember to add a comma after each snippet, and escape all backslashes with an extra \\. Lines starting with \"//\" will be treated as comments and ignored.",
       "translated": "在此输入代码片段。记得在每个片段后添加逗号，并用额外的反斜杠转义所有反斜杠。以“//”开始的行将会被视为注释而被忽略。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7de689b97de689b97de689b9",
       "source": "10",
       "translated": "10",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d90389b8d90389b8d90389b8",
       "source": "11",
       "translated": "11",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "70cd5bbb70cd5bbb70cd5bbb",
       "source": "12",
       "translated": "12",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b80a19bab80a19bab80a19ba",
       "source": "13",
       "translated": "13",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "fbe6aabdfbe6aabdfbe6aabd",
       "source": "14",
       "translated": "14",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5703aabc5703aabc5703aabc",
       "source": "15",
       "translated": "15",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "eecd7cbfeecd7cbfeecd7cbf",
       "source": "16",
       "translated": "16",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "360a3abe360a3abe360a3abe",
       "source": "17",
       "translated": "17",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5db547b15db547b15db547b1",
       "source": "18",
       "translated": "18",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b8d247b0b8d247b0b8d247b0",
       "source": "19",
       "translated": "19",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3a7cfbda3a7cfbda3a7cfbda",
       "source": "20",
       "translated": "20",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5717284b5717284b5717284b",
       "source": "// Math mode",
       "translated": "// 数学模式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b1aa6900b1aa6900b1aa6900",
       "source": "trigger",
       "translated": "触发器",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "fe23bffefe23bffefe23bffe",
       "source": "\"mk\"",
       "translated": "\"mk\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "cd2965a6cd2965a6cd2965a6",
       "source": "replacement",
       "translated": "替换",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "102429cc102429cc102429cc",
       "source": "\"$$0$\"",
       "translated": "\"$$0$\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "93b7a16893b7a16893b7a168",
       "source": "options",
       "translated": "选项",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4ceb2bcd4ceb2bcd4ceb2bcd",
       "source": "\"tA\"",
       "translated": "\"tA\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d20aa871d20aa871d20aa871",
       "source": "\"dm\"",
       "translated": "\"dm\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e76ec04ce76ec04ce76ec04c",
       "source": "\"$$\\n$0\\n$$\"",
       "translated": "\"$$\\n$0\\n$$\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2941c01a2941c01a2941c01a",
       "source": "\"tAw\"",
       "translated": "\"tAw\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e0c87538e0c87538e0c87538",
       "source": "\"beg\"",
       "translated": "\"beg\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "132e3d25132e3d25132e3d25",
       "source": "\"\\\\begin{$0}\\n$1\\n\\\\end{$0}\"",
       "translated": "\"\\\\begin{$0}\\n$1\\n\\\\end{$0}\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0721c7d40721c7d40721c7d4",
       "source": "\"mA\"",
       "translated": "\"mA\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "39ff4e1039ff4e1039ff4e10",
       "source": "// Dashes",
       "translated": "// 破折号",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4ed802984ed802984ed80298",
       "source": "// {trigger: \"--\", replacement: \"–\", options: \"tA\"},",
       "translated": "// {trigger: \"--\", replacement: \"–\", options: \"tA\"},",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "764538217645382176453821",
       "source": "// {trigger: \"–-\", replacement: \"—\", options: \"tA\"},",
       "translated": "// {trigger: \"–-\", replacement: \"—\", options: \"tA\"},",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "79b2b95f79b2b95f79b2b95f",
       "source": "// {trigger: \"—-\", replacement: \"---\", options: \"tA\"},",
       "translated": "// {trigger: \"—-\", replacement: \"---\", options: \"tA\"},",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "9005768b9005768b9005768b",
       "source": "// Greek letters",
       "translated": "// 希腊字母",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f446b999f446b999f446b999",
       "source": "\"@a\"",
       "translated": "\"@a\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "29d7b10c29d7b10c29d7b10c",
       "source": "\"\\\\alpha\"",
       "translated": "\"\\\\alpha\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5b2c49ba5b2c49ba5b2c49ba",
       "source": "\"@b\"",
       "translated": "\"@b\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c7ff8d8ac7ff8d8ac7ff8d8a",
       "source": "\"\\\\beta\"",
       "translated": "\"\\\\beta\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "84114bdf84114bdf84114bdf",
       "source": "\"@g\"",
       "translated": "\"@g\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e1ca04bfe1ca04bfe1ca04bf",
       "source": "\"\\\\gamma\"",
       "translated": "\"\\\\gamma\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "acf6c6ffacf6c6ffacf6c6ff",
       "source": "\"@G\"",
       "translated": "\"@G\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4857e59f4857e59f4857e59f",
       "source": "\"\\\\Gamma\"",
       "translated": "\"\\\\Gamma\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5741fa7c5741fa7c5741fa7c",
       "source": "\"@d\"",
       "translated": "\"@d\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "9668ad609668ad609668ad60",
       "source": "\"\\\\delta\"",
       "translated": "\"\\\\delta\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "af7fd71caf7fd71caf7fd71c",
       "source": "\"@D\"",
       "translated": "\"@D\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "12e84e4012e84e4012e84e40",
       "source": "\"\\\\Delta\"",
       "translated": "\"\\\\Delta\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "340e5a1d340e5a1d340e5a1d",
       "source": "\"@e\"",
       "translated": "\"@e\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b185a61ab185a61ab185a61a",
       "source": "\"\\\\epsilon\"",
       "translated": "\"\\\\epsilon\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e1f2b327e1f2b327e1f2b327",
       "source": "\":e\"",
       "translated": "\":e\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2bb6af3f2bb6af3f2bb6af3f",
       "source": "\"\\\\varepsilon\"",
       "translated": "\"\\\\varepsilon\"",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a7f51053a7f51053a7f51053",
       "source": "Load snippets from file or folder",
       "translated": "从文件或文件夹中加载代码片段",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b785bed5b785bed5b785bed5",
       "source": "Whether to load snippets from a specified file, or from all files within a folder (instead of from the plugin settings).",
       "translated": "是否从一个指定的文件加载代码片段，或者从一个文件夹中的所有文件加载代码片段（而不是从插件设置中加载）。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "43ec1c7e43ec1c7e43ec1c7e",
       "source": "Snippets file or folder location",
       "translated": "代码片段文件或文件夹位置",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c30ef1b7c30ef1b7c30ef1b7",
       "source": "Key trigger for non-auto snippets",
       "translated": "非自动代码片段的触发按键",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f05df971f05df971f05df971",
       "source": "What key to press to expand non-auto snippets.",
       "translated": "按下哪个键来触发扩展非自动代码片段。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a96def8fa96def8fa96def8f",
       "source": "Tab",
       "translated": "Tab",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "def220dcdef220dcdef220dc",
       "source": "Space",
       "translated": "空格",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "753264917532649175326491",
       "source": "Conceal",
       "translated": "隐藏",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f3f520d2f3f520d2f3f520d2",
       "source": "Make equations more readable by hiding LaTeX syntax and instead displaying it in a pretty format.",
       "translated": "通过隐藏 LaTeX 标记并以美观的格式显示，使公式更易于阅读。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7fba71c17fba71c17fba71c1",
       "source": "LaTeX beneath the cursor will be revealed.",
       "translated": "光标下的 LaTeX 将被显示。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "207d991b207d991b207d991b",
       "source": "Disabled by default to not confuse new users. However, I recommend turning this on once you are comfortable with the plugin!",
       "translated": "默认情况下禁用，以免困扰新用户。不过，我建议一旦您熟悉了这个插件，就开启这个功能！",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0fbf657b0fbf657b0fbf657b",
       "source": "Reveal delay (ms)",
       "translated": "显示延迟（毫秒）",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "95a6065795a6065795a60657",
       "source": "How long to delay the reveal of LaTeX for, in milliseconds, when the cursor moves over LaTeX. Defaults to 0 (LaTeX under the cursor is revealed immediately).",
       "translated": "当光标移动到 LaTeX 上时，延迟显示 LaTeX 的时间，以毫秒为单位。默认为 0（光标下的 LaTeX 立即显示）。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "00f16c0b00f16c0b00f16c0b",
       "source": "Can be set to a positive number, e.g. 300, to delay the reveal of LaTeX, making it much easier to navigate equations using arrow keys.",
       "translated": "可以设置为正数，例如 300，以延迟显示 LaTeX，使得使用方向键导航方程更加容易。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1ccbb0321ccbb0321ccbb032",
       "source": "Must be an integer ≥ 0.",
       "translated": "必须是一个整数 ≥ 0。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "84ae30a584ae30a584ae30a5",
       "source": "Highlight and color brackets",
       "translated": "高亮和彩色括号",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "133635d5133635d5133635d5",
       "source": "Color paired brackets",
       "translated": "彩色配对括号",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "dcdaa1ffdcdaa1ffdcdaa1ff",
       "source": "Whether to colorize matching brackets.",
       "translated": "是否以彩色显示配对括号。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "054a8408054a8408054a8408",
       "source": "Highlight matching bracket beneath cursor",
       "translated": "高亮光标下的配对括号",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ac4a1035ac4a1035ac4a1035",
       "source": "When the cursor is adjacent to a bracket, highlight the matching bracket.",
       "translated": "当光标紧邻一个括号时，高亮显示配对的括号。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d32a0b68d32a0b68d32a0b68",
       "source": "Math popup preview",
       "translated": "数学弹出预览",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e5bbb0c4e5bbb0c4e5bbb0c4",
       "source": "When inside an equation, show a popup preview window of the rendered math.",
       "translated": "在方程内部时，显示渲染后的数学的弹出式预览窗口。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "155d6c7d155d6c7d155d6c7d",
       "source": "The popup preview will be shown for all inline math equations, as well as for block math equations in Source mode.",
       "translated": "弹出预览将显示所有内联数学方程，以及在源代码模式下的块数学方程。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0fc006610fc006610fc00661",
       "source": "Position",
       "translated": "位置",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f5f58274f5f58274f5f58274",
       "source": "Where to display the popup preview relative to the equation source.",
       "translated": "显示相对于数学公式源码的弹出预览位置。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "258c6d67258c6d67258c6d67",
       "source": "Above",
       "translated": "上方",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "65ea8bab65ea8bab65ea8bab",
       "source": "Below",
       "translated": "下方",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f299cbf0f299cbf0f299cbf0",
       "source": "Auto-fraction",
       "translated": "自动分数",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6262b2706262b2706262b270",
       "source": "Whether auto-fraction is enabled.",
       "translated": "是否启用自动分数功能。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d6493c94d6493c94d6493c94",
       "source": "Fraction symbol",
       "translated": "分数符号",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c8900763c8900763c8900763",
       "source": "The fraction symbol to use in the replacement. e.g. \\frac, \\dfrac, \\tfrac",
       "translated": "在替换操作时使用的分数符号。例如 \\\\frac, \\\\dfrac, \\\\tfrac",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "83350fbc83350fbc83350fbc",
       "source": "Excluded environments",
       "translated": "排除的环境",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c9d79100c9d79100c9d79100",
       "source": "A list of environments to exclude auto-fraction from running in. For example, to exclude auto-fraction from running while inside an exponent, such as e^{...}, use [\"^{\", \"}\"]",
       "translated": "一个不运行自动分数功能的环境列表。例如，在指数内不运行自动分数，例如 e^{...}，使用 [\"^{\", \"}\"]",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3ce635ed3ce635ed3ce635ed",
       "source": "Breaking characters",
       "translated": "打断符号",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "cadd3d63cadd3d63cadd3d63",
       "source": "A list of characters that denote the start/end of a fraction. e.g. if + is included in the list, \"a+b/c\" will expand to \"a+\\frac{b}{c}\". If + is not in the list, it will expand to \"\\frac{a+b}{c}\".",
       "translated": "表示分数开始/结束的字符列表。例如：如果 + 在此列表中，“a+b/c” 将会扩展为 “a+\\\\frac{b}{c}”；如果 + 不在此列表中，则扩展为 “\\\\frac{a+b}{c}”",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2b54dbc02b54dbc02b54dbc0",
       "source": "Matrix shortcuts",
       "translated": "矩阵快捷方式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ff8423ecff8423ecff8423ec",
       "source": "Whether matrix shortcuts are enabled.",
       "translated": "是否启用矩阵快捷方式。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "8c6d98fe8c6d98fe8c6d98fe",
       "source": "Environments",
       "translated": "环境",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b8423041b8423041b8423041",
       "source": "A list of environment names to run the matrix shortcuts in, separated by commas.",
       "translated": "一个环境名称列表，用逗号分隔，在这些环境中快捷运行矩阵。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "df435b41df435b41df435b41",
       "source": "Tabout",
       "translated": "制表符对齐",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d6eea6a1d6eea6a1d6eea6a1",
       "source": "Whether tabout is enabled.",
       "translated": "是否启用制表符对齐功能。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "356f0cb7356f0cb7356f0cb7",
       "source": "Auto-enlarge brackets",
       "translated": "自动放大括号",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "98f4cdc898f4cdc898f4cdc8",
       "source": "Whether to automatically enlarge brackets containing e.g. sum, int, frac.",
       "translated": "是否自动放大包含 sum、int、frac 等的括号。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "143457b3143457b3143457b3",
       "source": "Triggers",
       "translated": "触发器",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5d0159165d0159165d015916",
       "source": "A list of symbols that should trigger auto-enlarge brackets, separated by commas.",
       "translated": "一个符号列表，用逗号分隔，这些符号应该触发自动放大括号。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d69504c6d69504c6d69504c6",
       "source": "Advanced snippet settings",
       "translated": "高级代码片段设置",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2663e8e82663e8e82663e8e8",
       "source": "Snippet variables",
       "translated": "代码片段变量",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3ed6d6293ed6d6293ed6d629",
       "source": "Assign snippet variables that can be used as shortcuts when writing snippets.",
       "translated": "分配代码片段变量，这些变量在编写片段时可以用作快捷方式。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "33603f9533603f9533603f95",
       "source": "Load snippet variables from file or folder",
       "translated": "从文件或文件夹中加载代码片段变量",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "691bf4d3691bf4d3691bf4d3",
       "source": "Whether to load snippet variables from a specified file, or from all files within a folder (instead of from the plugin settings).",
       "translated": "是否从某指定的文件加载代码片段变量，或者从某文件夹中的所有文件加载代码片段变量（而不是从插件设置中加载）。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "8852f3388852f3388852f338",
       "source": "Snippet variables file or folder location",
       "translated": "代码片段变量文件或文件夹的位置",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4c3a49264c3a49264c3a4926",
       "source": "Word delimiters",
       "translated": "单词分隔符",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7f2183167f2183167f218316",
       "source": "Symbols that will be treated as word delimiters, for use with the \"w\" snippet option.",
       "translated": "将被视为单词分隔符的符号，用于与“w”片段选项一起使用。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "8b7777a38b7777a38b7777a3",
       "source": "Remove trailing whitespaces in snippets in inline math",
       "translated": "在内联数学公式中的片段移除尾随空格",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "50b4866550b4866550b48665",
       "source": "Whether to remove trailing whitespaces when expanding snippets at the end of inline math blocks.",
       "translated": "在展开内联数学块末尾的片段时是否移除尾随空格",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "fa716f78fa716f78fa716f78",
       "source": "Remove closing $ when backspacing inside blank inline math",
       "translated": "在内联数学公式的空白处退格时移除闭合的 $",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2028242b2028242b2028242b",
       "source": "Whether to also remove the closing $ when you delete the opening $ symbol inside blank inline math.",
       "translated": "当您在空白内联数学中删除不闭合的 $ 时，是否也移除闭合的 $",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "61be1fa361be1fa361be1fa3",
       "source": "Don't trigger snippets when IME is active",
       "translated": "当输入法编辑器（IME）处于活动状态时不触发片段",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0cb414af0cb414af0cb414af",
       "source": "Whether to suppress snippets triggering when an IME is active.",
       "translated": "是否在输入法编辑器（IME）处于活动状态时禁止触发片段",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "65598db965598db965598db9",
       "source": "Code languages to interpret as math mode",
       "translated": "将以下代码语言解释为数学模式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ed4d6f98ed4d6f98ed4d6f98",
       "source": "Codeblock languages where the whole code block should be treated like a math block, separated by commas.",
       "translated": "代码块语言，整个代码块应被视为数学块，用逗号分隔",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     }
   ]
 }

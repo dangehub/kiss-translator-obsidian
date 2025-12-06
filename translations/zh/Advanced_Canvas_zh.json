@@ -6,841 +6,841 @@
       "key": "f6cbc740f6cbc740f6cbc740",
       "source": "Enjoying the plugin?",
       "translated": "喜欢这个插件吗？",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "126507191265071912650719",
       "source": "1.785£/h",
       "translated": "1.785£/小时",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "fad9524efad9524efad9524e",
       "source": "General",
       "translated": "常规",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5c768bca5c768bca5c768bca",
       "source": "General settings of the Advanced Canvas plugin.",
       "translated": "高级画布插件的常规设置。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "84f4127a84f4127a84f4127a",
       "source": "Node type on double click",
       "translated": "双击时创建的节点类型",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a7026ff1a7026ff1a7026ff1",
       "source": "The type of node that will be created when double clicking on the canvas.",
       "translated": "在画布上双击时将创建的节点类型。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "678a8ea8678a8ea8678a8ea8",
       "source": "Always align new nodes to grid",
       "translated": "始终将新节点对齐到网格",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3216e58b3216e58b3216e58b",
       "source": "When enabled, new nodes will be aligned to the grid.",
       "translated": "启用后，新节点将与网格对齐。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "109b9d4d109b9d4d109b9d4d",
       "source": "Default text node dimensions",
       "translated": "默认文本节点尺寸",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "dd9ea012dd9ea012dd9ea012",
       "source": "The default dimensions of a text node.",
       "translated": "文本节点的默认尺寸。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "46aa3f1646aa3f1646aa3f16",
       "source": "Default file node dimensions",
       "translated": "默认文件节点尺寸",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1abf06491abf06491abf0649",
       "source": "The default dimensions of a file node.",
       "translated": "文件节点的默认尺寸。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "bd9a39ebbd9a39ebbd9a39eb",
       "source": "Minimum node size",
       "translated": "最小节点尺寸",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "313284d6313284d6313284d6",
       "source": "The minimum size (either width or height) of a node.",
       "translated": "节点的最小尺寸（宽度或高度）。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b8b18876b8b18876b8b18876",
       "source": "Maximum node width",
       "translated": "最大节点宽度",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6bf5da8d6bf5da8d6bf5da8d",
       "source": "The maximum width of a node. Set to -1 for no limit.",
       "translated": "节点的最大宽度。设置为 -1 表示无限制。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6e4825626e4825626e482562",
       "source": "Disable font size relative to zoom",
       "translated": "禁用字体大小相对于缩放",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "89a9493c89a9493c89a9493c",
       "source": "When enabled, the font size of e.g. group node titles and edge labels will not increase when zooming out.",
       "translated": "启用时，例如组节点标题和边缘标签的字体大小在缩小时不会增加。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3ec0936b3ec0936b3ec0936b",
       "source": "Extended commands",
       "translated": "扩展命令",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "844fdddc844fdddc844fdddc",
       "source": "Add more commands to the canvas.",
       "translated": "向画布添加更多命令。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b5010bbbb5010bbbb5010bbb",
       "source": "Zoom to cloned node",
       "translated": "缩放到克隆节点",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0da09dde0da09dde0da09dde",
       "source": "When enabled, the canvas will zoom to the cloned node.",
       "translated": "启用时，画布将缩放到克隆节点。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c882e7adc882e7adc882e7ad",
       "source": "Clone node margin",
       "translated": "克隆节点间距",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5c9c1c225c9c1c225c9c1c22",
       "source": "The margin between the cloned node and the source node.",
       "translated": "克隆节点与源节点之间的边距。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1b4e68e91b4e68e91b4e68e9",
       "source": "Expand node step size",
       "translated": "扩展节点步长",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b1dba61cb1dba61cb1dba61c",
       "source": "The step size for expanding the node.",
       "translated": "扩展节点的步长。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7064b1f07064b1f07064b1f0",
       "source": "Enable .canvas metadata cache compatibility",
       "translated": "启用 .canvas 元数据缓存兼容性",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e57ab4a3e57ab4a3e57ab4a3",
       "source": "Make .canvas files compatible with the backlinks and outgoing links feature and show the connections in the graph view.",
       "translated": "使 .canvas 文件与反向链接和出站链接功能兼容，并在图形视图中显示连接。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4d26a5004d26a5004d26a500",
       "source": "Treat edges between file nodes as links",
       "translated": "将文件节点之间的边视为链接",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "bdc8041abdc8041abdc8041a",
       "source": "When enabled, edges between file nodes will be treated as links. This means that if file node A.md has an edge to file node B.md in the canvas, file A.md will have a link to file B.md in the outgoing links section and show a connection in the graph view.",
       "translated": "启用后，文件节点之间的边将被视为链接。这意味着如果文件节点 A.md 在画布中有一条边指向文件节点 B.md，文件 A.md 将在出站链接部分有一个指向文件 B.md 的链接，并在图形视图中显示连接。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "dfe107ccdfe107ccdfe107cc",
       "source": "Enable support for linking to a node using a [[wikilink]]",
       "translated": "启用对使用 [[wikilink]] 链接到节点的支持",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b695a643b695a643b695a643",
       "source": "When enabled, you can link and embed a node using [[canvas-file#node-id]].",
       "translated": "启用后，您可以使用 [[canvas-file#node-id]] 链接和嵌入节点。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "257a49d7257a49d7257a49d7",
       "source": "Native-like file search",
       "translated": "原生式文件搜索",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "324d47a0324d47a0324d47a0",
       "source": "When enabled, the file search will be done using the native Obsidian file search.",
       "translated": "启用后，文件搜索将使用原生 Obsidian 文件搜索完成。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d6bba161d6bba161d6bba161",
       "source": "Auto file node edges",
       "translated": "自动文件节点边",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7ad3cba27ad3cba27ad3cba2",
       "source": "Automatically create edges between file nodes based their frontmatter links.",
       "translated": "根据其 frontmatter 链接自动在文件节点之间创建边。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "55b9c95255b9c95255b9c952",
       "source": "Frontmatter key name",
       "translated": "Frontmatter 键名",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "702c3bd5702c3bd5702c3bd5",
       "source": "The frontmatter key to fetch the outgoing edges from. (Keep the default to ensure best compatibility.)",
       "translated": "用于获取出站边的 frontmatter 键。（保持默认以确保最佳兼容性。）",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c26396dfc26396dfc26396df",
       "source": "Portals",
       "translated": "传送门",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "018e26b4018e26b4018e26b4",
       "source": "Create portals to other canvases.",
       "translated": "创建通往其他画布的传送门。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "db8937c0db8937c0db8937c0",
       "source": "Show edges into disabled portals",
       "translated": "显示连接到禁用传送门的边",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c79abfc4c79abfc4c79abfc4",
       "source": "When enabled, edges into disabled portals will be shown.",
       "translated": "启用时，指向禁用传送门的边将显示。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "71ee7ff871ee7ff871ee7ff8",
       "source": "Collapsible groups",
       "translated": "可折叠组",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e92150a4e92150a4e92150a4",
       "source": "Group nodes can be collapsed and expanded to keep the canvas organized.",
       "translated": "组节点可以折叠和展开，以保持画布的整洁。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5deeec935deeec935deeec93",
       "source": "Collapsed group preview on drag",
       "translated": "拖动时折叠组预览",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "31c4dd0131c4dd0131c4dd01",
       "source": "When enabled, a group that is collapsed show its border while dragging a node.",
       "translated": "启用时，折叠的组在拖动节点时会显示其边框。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "dddd04eedddd04eedddd04ee",
       "source": "Combine custom styles",
       "translated": "合并自定义样式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "df109df6df109df6df109df6",
       "source": "Combine all style attributes of Advanced Canvas in a single dropdown.",
       "translated": "将高级画布的所有样式属性合并在一个下拉菜单中。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "897036aa897036aa897036aa",
       "source": "Node styling",
       "translated": "节点样式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c06426ecc06426ecc06426ec",
       "source": "Style your nodes with different shapes and borders.",
       "translated": "使用不同的形状和边框为节点设置样式。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4fa1a6194fa1a6194fa1a619",
       "source": "Custom node style settings",
       "translated": "自定义节点样式设置",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "70282e6b70282e6b70282e6b",
       "source": "Add custom style settings for nodes. (Go to GitHub for more information)",
       "translated": "添加自定义节点样式设置。（有关更多信息，请访问 GitHub）",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "714b7d2c714b7d2c714b7d2c",
       "source": "Open",
       "translated": "打开",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "65708ed365708ed365708ed3",
       "source": "Default text node color",
       "translated": "默认文本节点颜色",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "414cd67f414cd67f414cd67f",
       "source": "The default color of a text node. The default range is from 0 to 6, where 0 is no color. The range can be extended by using the Custom Colors feature of Advanced Canvas.",
       "translated": "文本节点的默认颜色。默认范围是 0 到 6，其中 0 表示无颜色。可以通过使用高级画布的自定义颜色功能扩展范围。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "be39599abe39599abe39599a",
       "source": "Edges styling",
       "translated": "边样式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "01ca0dae01ca0dae01ca0dae",
       "source": "Style your edges with different path styles.",
       "translated": "使用不同的路径样式为边设置样式。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "911cefba911cefba911cefba",
       "source": "Custom edge style settings",
       "translated": "自定义边样式设置",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "57401da857401da857401da8",
       "source": "Add custom style settings for edges. (Go to GitHub for more information)",
       "translated": "添加自定义边样式设置。（有关更多信息，请访问 GitHub）",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "eff37035eff37035eff37035",
       "source": "Inherit edge color from node",
       "translated": "从节点继承边颜色",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d285c598d285c598d285c598",
       "source": "When creating a new edge by dragging from a node, the edge will inherit the color of the node it is dragged from.",
       "translated": "通过从节点拖动创建新边时，边将继承其拖动来源节点的颜色。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a620560da620560da620560d",
       "source": "Default edge color",
       "translated": "默认边颜色",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2ea294cf2ea294cf2ea294cf",
       "source": "The default color of an edge. The default range is from 0 to 6, where 0 is no color. The range can be extended by using the Custom Colors feature of Advanced Canvas.",
       "translated": "边的默认颜色。默认范围是 0 到 6，其中 0 表示无颜色。可以通过使用高级画布的自定义颜色功能扩展范围。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5255b33b5255b33b5255b33b",
       "source": "Default edge line direction",
       "translated": "默认边线方向",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "231a9fca231a9fca231a9fca",
       "source": "The default line direction of an edge.",
       "translated": "边的默认线条方向。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "677de5bf677de5bf677de5bf",
       "source": "Nondirectional",
       "translated": "无方向",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d31df6a2d31df6a2d31df6a2",
       "source": "Unidirectional",
       "translated": "单向",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d771095bd771095bd771095b",
       "source": "Bidirectional",
       "translated": "双向",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "31d4fbc031d4fbc031d4fbc0",
       "source": "Update edge style while dragging (Can be very slow)",
       "translated": "拖动时更新边样式（可能非常慢）",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0ab41cae0ab41cae0ab41cae",
       "source": "When enabled, the edge style will be updated while dragging an edge.",
       "translated": "启用时，在拖动边时，边的样式将会更新。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "dbdb5d17dbdb5d17dbdb5d17",
       "source": "Square path rounded",
       "translated": "方形路径圆角",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f3e178e4f3e178e4f3e178e4",
       "source": "When enabled, the square path's corners will be rounded.",
       "translated": "启用后，方形路径的角将变为圆角。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "473a640d473a640d473a640d",
       "source": "A* allow diagonal",
       "translated": "A* 允许对角线",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0ccd71dd0ccd71dd0ccd71dd",
       "source": "When enabled, the A* path style will allow diagonal paths.",
       "translated": "启用后，A* 路径样式将允许对角线路径。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "dc5c905ddc5c905ddc5c905d",
       "source": "A* rounded path",
       "translated": "A* 圆滑路径",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "35a77b1935a77b1935a77b19",
       "source": "When enabled, the A* path style will be rounded.",
       "translated": "启用时，A* 路径样式将变为圆角。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2ebb01ee2ebb01ee2ebb01ee",
       "source": "Floating edges (auto edge side)",
       "translated": "浮动边（自动边侧）",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "dc372f7ddc372f7ddc372f7d",
       "source": "Floating edges are automatically placed on the most suitable side of the node.",
       "translated": "浮动边会自动放置在节点最合适的一侧。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d1063e28d1063e28d1063e28",
       "source": "Allow floating edges creation",
       "translated": "允许创建浮动边",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "da88f696da88f696da88f696",
       "source": "Allow floating edges creation by dragging the edge over the target node without placing it over a specific side connection point. (If disabled, floating edges can only be created and used by other Advanced Canvas features.)",
       "translated": "允许通过将边拖动到目标节点上而不将其放置在特定侧连接点上来创建浮动边。（如果禁用，浮动边只能由其他高级画布功能创建和使用。）",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1e3caf7a1e3caf7a1e3caf7a",
       "source": "New edge from side floating",
       "translated": "从侧边浮动的新边",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "611adf14611adf14611adf14",
       "source": "When enabled, the \"from\" side of the edge will always be floating.",
       "translated": "启用后，边的“起始”侧将始终浮动。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f5b47efbf5b47efbf5b47efb",
       "source": "Flip edges",
       "translated": "翻转边",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "524b6fa6524b6fa6524b6fa6",
       "source": "Flip the direction of edges using the popup menu.",
       "translated": "使用弹出菜单翻转边的方向。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "cdd7d5ddcdd7d5ddcdd7d5dd",
       "source": "Presentations",
       "translated": "演示文稿",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7122864a7122864a7122864a",
       "source": "Create a presentation from your canvas.",
       "translated": "从画布创建演示文稿。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4da1e7944da1e7944da1e794",
       "source": "Show \"Set Start Node\" in node popup",
       "translated": "在节点弹出窗口中显示“设置起始节点”",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "bdd9318bbdd9318bbdd9318b",
       "source": "If turned off, you can still set the start node using the corresponding command.",
       "translated": "如果关闭，你仍然可以使用相应的命令设置起始节点。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "20797fe720797fe720797fe7",
       "source": "Default slide dimensions",
       "translated": "默认幻灯片尺寸",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a3f531b8a3f531b8a3f531b8",
       "source": "The default dimensions of a slide.",
       "translated": "幻灯片的默认尺寸。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3cf7a56d3cf7a56d3cf7a56d",
       "source": "Wrap in slide padding",
       "translated": "包裹在幻灯片中的内边距",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6b590c696b590c696b590c69",
       "source": "The padding of the slide when wrapping the canvas in a slide.",
       "translated": "将画布包裹在幻灯片中时的幻灯片内边距。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6ac6c8c16ac6c8c16ac6c8c1",
       "source": "Reset viewport on presentation end",
       "translated": "演示结束时重置视口",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "18ccbd1f18ccbd1f18ccbd1f",
       "source": "When enabled, the viewport will be reset to the original position after the presentation ends.",
       "translated": "启用时，演示文稿结束后，视口将重置为原始位置。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6cd8f37f6cd8f37f6cd8f37f",
       "source": "Use arrow keys to change slides",
       "translated": "使用箭头键切换幻灯片",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "163f74c8163f74c8163f74c8",
       "source": "When enabled, you can use the arrow keys to change slides in presentation mode.",
       "translated": "启用时，你可以在演示模式下使用箭头键切换幻灯片。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e048be1ee048be1ee048be1e",
       "source": "Use PgUp/PgDown keys to change slides",
       "translated": "使用 PgUp/PgDown 键切换幻灯片",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c5991ef5c5991ef5c5991ef5",
       "source": "When enabled, you can use the PgUp/PgDown keys to change slides in presentation mode (Makes the presentation mode compatible with most presentation remotes).",
       "translated": "启用时，你可以在演示模式下使用 PgUp/PgDown 键切换幻灯片（使演示模式与大多数演示遥控器兼容）。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "19c46e5e19c46e5e19c46e5e",
       "source": "Zoom to slide without padding",
       "translated": "缩放到没有内边距的幻灯片",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6b411c9b6b411c9b6b411c9b",
       "source": "When enabled, the canvas will zoom to the slide without padding.",
       "translated": "启用时，画布将缩放到无内边距的幻灯片。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "cc0cd971cc0cd971cc0cd971",
       "source": "Use unclamped zoom while presenting",
       "translated": "演示时使用无限制缩放",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3048b34f3048b34f3048b34f",
       "source": "When enabled, the zoom will not be clamped while presenting.",
       "translated": "启用时，演示期间的缩放将不受限制。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "418ba81b418ba81b418ba81b",
       "source": "Enter fullscreen while presenting",
       "translated": "演示时进入全屏模式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e8dfc641e8dfc641e8dfc641",
       "source": "When enabled, presentations automatically request fullscreen. Disable to keep Obsidian windowed during presentations.",
       "translated": "启用时，演示将自动请求全屏。禁用可在演示期间保持 Obsidian 窗口化。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "9f0df3089f0df3089f0df308",
       "source": "Slide transition animation duration",
       "translated": "幻灯片过渡动画持续时间",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "318d574c318d574c318d574c",
       "source": "The duration of the slide transition animation in seconds. Set to 0 to disable the animation.",
       "translated": "幻灯片过渡动画的持续时间（秒）。设置为 0 以禁用动画。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c1572a79c1572a79c1572a79",
       "source": "Slide transition animation intensity",
       "translated": "幻灯片过渡动画强度",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a1dfe035a1dfe035a1dfe035",
       "source": "The intensity of the slide transition animation. The higher the value, the more the canvas will zoom out before zooming in on the next slide.",
       "translated": "幻灯片过渡动画的强度。值越高，画布在放大到下一张幻灯片之前会更多地缩小。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b4524838b4524838b4524838",
       "source": "Z ordering controls",
       "translated": "Z 轴顺序控制",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "8264eb8c8264eb8c8264eb8c",
       "source": "Change the persistent z-index of nodes using the context menu.",
       "translated": "使用上下文菜单更改节点的持久 z-index。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2c79dc4c2c79dc4c2c79dc4c",
       "source": "Show one layer shift options",
       "translated": "显示单层移动选项",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6c76498c6c76498c6c76498c",
       "source": "When enabled, you can move nodes one layer forward or backward.",
       "translated": "启用时，您可以将节点向前或向后移动一层。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1a657fae1a657fae1a657fae",
       "source": "Aspect ratio control",
       "translated": "宽高比控制",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ca6a2191ca6a2191ca6a2191",
       "source": "Change the aspect ratio of nodes using the context menu.",
       "translated": "使用上下文菜单更改节点的宽高比。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "bde608edbde608edbde608ed",
       "source": "Variable breakpoint",
       "translated": "变量断点",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a52025d3a52025d3a52025d3",
       "source": "Change the zoom breakpoint (the zoom level at which the nodes won't render their content anymore) on a per-node basis using the --variable-breakpoint CSS variable.",
       "translated": "使用 --variable-breakpoint CSS 变量，基于每个节点更改缩放断点（节点不再渲染内容的缩放级别）。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3dfc6ea53dfc6ea53dfc6ea5",
       "source": "Auto resize node",
       "translated": "自动调整节点大小",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7122df9f7122df9f7122df9f",
       "source": "Automatically resize the height of a node to fit the content.",
       "translated": "自动调整节点高度以适应内容。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e7e04054e7e04054e7e04054",
       "source": "Enable auto resize by default",
       "translated": "默认启用自动调整大小",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "14aa057e14aa057e14aa057e",
       "source": "When enabled, the auto resize feature will be enabled by default for all nodes.",
       "translated": "启用时，所有节点默认启用自动调整大小功能。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "9c1b27339c1b27339c1b2733",
       "source": "Max height",
       "translated": "最大高度",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2c5c7a0d2c5c7a0d2c5c7a0d",
       "source": "The maximum height of the node when auto resizing (-1 for unlimited).",
       "translated": "自动调整大小时节点的最大高度（-1表示无限制）。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "36b805d736b805d736b805d7",
       "source": "Snap to grid",
       "translated": "网格对齐",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "bb3a26f5bb3a26f5bb3a26f5",
       "source": "When enabled, the height of the node will snap to the grid.",
       "translated": "启用时，节点的高度将对齐到网格。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "cda5dd9ecda5dd9ecda5dd9e",
       "source": "Canvas encapsulation",
       "translated": "画布封装",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e31f9fefe31f9fefe31f9fef",
       "source": "Encapsulate a selection of nodes and edges into a new canvas using the context menu.",
       "translated": "使用上下文菜单将选定的节点和边封装到新画布中。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "edf0668eedf0668eedf0668e",
       "source": "Better readonly",
       "translated": "更好的只读模式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "22a2253022a2253022a22530",
       "source": "Improve the readonly mode.",
       "translated": "改进只读模式。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a228689ba228689ba228689b",
       "source": "Hide background grid when in readonly",
       "translated": "只读时隐藏背景网格",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2f62d0412f62d0412f62d041",
       "source": "When enabled, the background grid will be hidden when in readonly mode.",
       "translated": "启用时，只读模式下将隐藏背景网格。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d2c402abd2c402abd2c402ab",
       "source": "Edge highlight",
       "translated": "边高亮",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f85d6ea6f85d6ea6f85d6ea6",
       "source": "Highlight outgoing (and optionally incoming) edges of a selected node.",
       "translated": "高亮显示所选节点的出边（以及可选的入边）。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "65ea603e65ea603e65ea603e",
       "source": "Highlight incoming edges",
       "translated": "高亮入边",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2dfa69442dfa69442dfa6944",
       "source": "When enabled, incoming edges will also be highlighted.",
       "translated": "启用时，入边也将被高亮显示。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "240e1b5b240e1b5b240e1b5b",
       "source": "Edge selection",
       "translated": "边选择",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3fdfc24e3fdfc24e3fdfc24e",
       "source": "Select edges connected to the selected node(s) using the popup menu.",
       "translated": "使用弹出菜单选择连接到所选节点的边。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3c08c96d3c08c96d3c08c96d",
       "source": "Select edge by direction",
       "translated": "按方向选择边",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d241b4efd241b4efd241b4ef",
       "source": "Select incoming or outgoing edges using separate popup menu items.",
       "translated": "使用单独的弹出菜单项选择入边或出边。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f5eb1a57f5eb1a57f5eb1a57",
       "source": "Focus mode",
       "translated": "聚焦模式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5ba003945ba003945ba00394",
       "source": "Focus on a single node and blur all other nodes.",
       "translated": "聚焦于单个节点，模糊其他所有节点。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     }
   ]
 }

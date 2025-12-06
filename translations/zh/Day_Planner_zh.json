@@ -6,781 +6,781 @@
       "key": "476bfde4476bfde4476bfde4",
       "source": "Show release notes after update",
       "translated": "更新后显示发布说明",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "24bdb59824bdb59824bdb598",
       "source": "Task Notification",
       "translated": "任务通知",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b73b7a31b73b7a31b73b7a31",
       "source": "Display a notification when a new task is started",
       "translated": "启动新任务时显示通知",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3c8338393c8338393c833839",
       "source": "Center the Pointer in the Timeline View",
       "translated": "在时间轴视图中将指针居中",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5bf695455bf695455bf69545",
       "source": "Should the pointer continuously get scrolled to the center of the view",
       "translated": "指针是否应持续滚动到视图中心",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f745151bf745151bf745151b",
       "source": "Sort tasks in planner chronologically after edits",
       "translated": "编辑后按时间顺序排列计划表中的任务",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ab314f3fab314f3fab314f3f",
       "source": "Event format on creation",
       "translated": "创建时的事件格式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7cc4d97b7cc4d97b7cc4d97b",
       "source": "Bullet (- New item)",
       "translated": "项目符号（- 新项目）",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "56fe0a1656fe0a1656fe0a16",
       "source": "Task (- [ ] New item)",
       "translated": "任务（- [ ] 新项目）",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f8784502f8784502f8784502",
       "source": "Timeline Zoom Level",
       "translated": "时间轴线缩放级别",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "94e6fd8d94e6fd8d94e6fd8d",
       "source": "The zoom level to display the timeline. The higher the number, the more vertical space each task will take up.",
       "translated": "显示时间线的缩放级别。数字越大，每个任务占用的垂直空间就越大。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7b4344627b4344627b434462",
       "source": "Default task status on creation",
       "translated": "创建时的默认任务状态",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1671567b1671567b1671567b",
       "source": "You can use custom statuses for more advanced workflows. E.g.: '- [>] Task'",
       "translated": "您可以使用自定义状态来实现更高级的工作流程。例如：'- [>] Task'",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a77565c8a77565c8a77565c8",
       "source": "Timeline Icon",
       "translated": "时间线图标",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "898b70f1898b70f1898b70f1",
       "source": "The icon of the timeline pane. Reopen timeline pane or restart obsidian to see the change.",
       "translated": "时间线窗格的图标。重新打开时间线窗格或重启 obsidian 以查看变化。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6dbbff946dbbff946dbbff94",
       "source": "any-key",
       "translated": "任意键",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "bb494045bb494045bb494045",
       "source": "audio-file",
       "translated": "音频文件",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a0422e82a0422e82a0422e82",
       "source": "blocks",
       "translated": "块",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "dcc743eadcc743eadcc743ea",
       "source": "broken-link",
       "translated": "损坏链接",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2353b0912353b0912353b091",
       "source": "bullet-list",
       "translated": "项目符号列表",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ea6ac6dbea6ac6dbea6ac6db",
       "source": "calendar-with-checkmark",
       "translated": "带勾选标记的日历",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5cb0388f5cb0388f5cb0388f",
       "source": "calendar-clock",
       "translated": "日历时钟",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "951912b8951912b8951912b8",
       "source": "calendar-range",
       "translated": "日历范围",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b65c938bb65c938bb65c938b",
       "source": "checkmark",
       "translated": "勾选标记",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d1c6720dd1c6720dd1c6720d",
       "source": "create-new",
       "translated": "新建",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d4ab5fe6d4ab5fe6d4ab5fe6",
       "source": "cross",
       "translated": "叉号",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e0a9ea54e0a9ea54e0a9ea54",
       "source": "cross-in-box",
       "translated": "盒中叉号",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3e2b313e3e2b313e3e2b313e",
       "source": "crossed-star",
       "translated": "划掉星星",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3f01adb33f01adb33f01adb3",
       "source": "dice",
       "translated": "骰子",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d7b25ad7d7b25ad7d7b25ad7",
       "source": "document",
       "translated": "文档",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4b680e644b680e644b680e64",
       "source": "documents",
       "translated": "文档集",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "85ee9e5485ee9e5485ee9e54",
       "source": "dot-network",
       "translated": "点状网络",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "8d2fcdf08d2fcdf08d2fcdf0",
       "source": "enter",
       "translated": "回车",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e1d74e34e1d74e34e1d74e34",
       "source": "expand-vertically",
       "translated": "垂直展开",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5c428f6c5c428f6c5c428f6c",
       "source": "filled-pin",
       "translated": "实心图钉",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5107f6ae5107f6ae5107f6ae",
       "source": "folder",
       "translated": "文件夹",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "14a83d0914a83d0914a83d09",
       "source": "gear",
       "translated": "齿轮",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "41c5c8ed41c5c8ed41c5c8ed",
       "source": "go-to-file",
       "translated": "转到文件",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0c41aa980c41aa980c41aa98",
       "source": "hashtag",
       "translated": "井号标签",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d617fa09d617fa09d617fa09",
       "source": "help",
       "translated": "帮助",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5fe57fb95fe57fb95fe57fb9",
       "source": "horizontal-split",
       "translated": "水平分割",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "33994a7433994a7433994a74",
       "source": "image-file",
       "translated": "图像文件",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "8c79a6768c79a6768c79a676",
       "source": "info",
       "translated": "信息",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a9c3fc99a9c3fc99a9c3fc99",
       "source": "install",
       "translated": "安装",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "333820593338205933382059",
       "source": "languages",
       "translated": "语言",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "262e02d7262e02d7262e02d7",
       "source": "left-arrow",
       "translated": "左箭头",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "f63ee4a5f63ee4a5f63ee4a5",
       "source": "left-arrow-with-tail",
       "translated": "带尾左箭头",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "8b2756718b2756718b275671",
       "source": "lines-of-text",
       "translated": "文本行",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "84837d5884837d5884837d58",
       "source": "link",
       "translated": "链接",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "831e53dc831e53dc831e53dc",
       "source": "logo-crystal",
       "translated": "水晶标志",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e8548d4ce8548d4ce8548d4c",
       "source": "magnifying-glass",
       "translated": "放大镜",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0df13e7e0df13e7e0df13e7e",
       "source": "microphone",
       "translated": "麦克风",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5ac090dd5ac090dd5ac090dd",
       "source": "microphone-filled",
       "translated": "实心麦克风",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "27b4201b27b4201b27b4201b",
       "source": "open-vault",
       "translated": "打开保险库",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "14bf87d514bf87d514bf87d5",
       "source": "pane-layout",
       "translated": "窗格布局",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0e4166f50e4166f50e4166f5",
       "source": "paper-plane",
       "translated": "纸飞机",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "aec83fc1aec83fc1aec83fc1",
       "source": "pdf-file",
       "translated": "PDF文件",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ee2f1de5ee2f1de5ee2f1de5",
       "source": "pencil",
       "translated": "铅笔",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "703a236f703a236f703a236f",
       "source": "pin",
       "translated": "图钉",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "925fff0b925fff0b925fff0b",
       "source": "popup-open",
       "translated": "弹出窗口打开",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c069c76ec069c76ec069c76e",
       "source": "presentation",
       "translated": "演示文稿",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4e1e328d4e1e328d4e1e328d",
       "source": "reset",
       "translated": "重置",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e1a8016ce1a8016ce1a8016c",
       "source": "right-arrow",
       "translated": "右箭头",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7210b19e7210b19e7210b19e",
       "source": "right-arrow-with-tail",
       "translated": "带尾右箭头",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d865b9dbd865b9dbd865b9db",
       "source": "right-triangle",
       "translated": "直角三角形",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d8abd236d8abd236d8abd236",
       "source": "search",
       "translated": "搜索",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "52a2b33652a2b33652a2b336",
       "source": "sheets-in-box",
       "translated": "容器中表格",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "9b85b34c9b85b34c9b85b34c",
       "source": "star",
       "translated": "星星",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "686baaa3686baaa3686baaa3",
       "source": "star-list",
       "translated": "星标列表",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "fd8d6b2afd8d6b2afd8d6b2a",
       "source": "switch",
       "translated": "开关",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0b8bcb6a0b8bcb6a0b8bcb6a",
       "source": "three-horizontal-bars",
       "translated": "三条水平线",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c80ac224c80ac224c80ac224",
       "source": "trash",
       "translated": "垃圾桶",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "58c4869c58c4869c58c4869c",
       "source": "two-columns",
       "translated": "两列",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "8df563438df563438df56343",
       "source": "up-and-down-arrows",
       "translated": "上下箭头",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "bacd7978bacd7978bacd7978",
       "source": "uppercase-lowercase-a",
       "translated": "大小写A",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ea8a1ae2ea8a1ae2ea8a1ae2",
       "source": "vault",
       "translated": "保险库",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "aca91bd5aca91bd5aca91bd5",
       "source": "vertical-split",
       "translated": "垂直分割",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e040eda8e040eda8e040eda8",
       "source": "vertical-three-dots",
       "translated": "垂直三点",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "77fa837877fa837877fa8378",
       "source": "Start Hour",
       "translated": "开始时间",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "39077b2239077b2239077b22",
       "source": "The planner is going to start at this hour each day",
       "translated": "计划器将在每天的这个时间开始工作",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7de689b97de689b97de689b9",
       "source": "10",
       "translated": "10",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d90389b8d90389b8d90389b8",
       "source": "11",
       "translated": "11",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "70cd5bbb70cd5bbb70cd5bbb",
       "source": "12",
       "translated": "12",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b619d0cbb619d0cbb619d0cb",
       "source": "First day of week",
       "translated": "一周的第一天",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ea0f1ce8ea0f1ce8ea0f1ce8",
       "source": "Monday",
       "translated": "星期一",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "053b3f2c053b3f2c053b3f2c",
       "source": "Sunday",
       "translated": "星期日",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ccb6c9e5ccb6c9e5ccb6c9e5",
       "source": "Saturday",
       "translated": "星期六",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a2b323b9a2b323b9a2b323b9",
       "source": "Friday",
       "translated": "星期五",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d9144e1dd9144e1dd9144e1d",
       "source": "Remote calendars",
       "translated": "远程日历",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c7414c0fc7414c0fc7414c0f",
       "source": "Add remote calendar",
       "translated": "添加远程日历",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d999fc4fd999fc4fd999fc4f",
       "source": "Date & Time Formats",
       "translated": "日期和时间格式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2bd5f57b2bd5f57b2bd5f57b",
       "source": "Hour format",
       "translated": "小时格式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b80a19bab80a19bab80a19ba",
       "source": "13",
       "translated": "13",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ca7f551eca7f551eca7f551e",
       "source": "Default timestamp format",
       "translated": "默认时间戳格式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2ffcf0ad2ffcf0ad2ffcf0ad",
       "source": "13:49",
       "translated": "13:49",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a445e1aca445e1aca445e1ac",
       "source": "Date Format in Timeline Header",
       "translated": "时间线标题中的日期格式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "672e9f38672e9f38672e9f38",
       "source": "2025-12-06",
       "translated": "2025-12-06",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "61b0ce5a61b0ce5a61b0ce5a",
       "source": "Planner Heading",
       "translated": "计划表标题",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "746d1167746d1167746d1167",
       "source": "Planner Heading Text",
       "translated": "计划者标题文本",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "54f1990a54f1990a54f1990a",
       "source": "Only the items under this heading (and its subheadings) are going to be pulled from daily notes.",
       "translated": "只有这个标题（及其子标题）下的项目才会从日常笔记中提取出来。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6624e33b6624e33b6624e33b",
       "source": "If left empty, the plugin will pull all items from daily notes.",
       "translated": "如果留空，插件将从日常笔记中提取所有项目。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7dfe1b377dfe1b377dfe1b37",
       "source": "Also used when creating a plan with drag-and-drop.",
       "translated": "在使用拖放创建计划时也会被使用",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c3c85b6cc3c85b6cc3c85b6c",
       "source": "Planner heading level",
       "translated": "计划者标题级别",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "85d79b7485d79b7485d79b74",
       "source": "When you create a planner in a file, this level of heading is going to be used",
       "translated": "在文件中创建计划表时，将使用这一级标题",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "dc684fd1dc684fd1dc684fd1",
       "source": "Status bar widget",
       "translated": "状态栏小组件",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d123a33ad123a33ad123a33a",
       "source": "Show active task",
       "translated": "显示当前任务",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b180f6b2b180f6b2b180f6b2",
       "source": "Show upcoming task",
       "translated": "显示即将执行的任务",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4eb3d7094eb3d7094eb3d709",
       "source": "Task progress indicator",
       "translated": "任务进度指示器",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3624714d3624714d3624714d",
       "source": "Mini-timeline",
       "translated": "迷你时间线",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e030e489e030e489e030e489",
       "source": "Bar",
       "translated": "条形图",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "193291841932918419329184",
       "source": "Pie",
       "translated": "饼图",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "363363373633633736336337",
       "source": "Task decoration",
       "translated": "任务装饰",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d929c7c4d929c7c4d929c7c4",
       "source": "Show a timestamp next to task text in timeline",
       "translated": "在时间轴中的任务文本旁显示时间戳",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "94e43cc694e43cc694e43cc6",
       "source": "Duration",
       "translated": "持续时间",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4ad574dc4ad574dc4ad574dc",
       "source": "Stretch task until next one in timeline if it has no end time",
       "translated": "如果任务没有结束时间，则将其延展至时间线中的下一个任务",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "752c5313752c5313752c5313",
       "source": "By \"no end time\" we mean \"- [ ] 10:00 Wake up\" instead of \"- [ ] 10:00 - 11:00 Wake up\"",
       "translated": "我们所说的“无结束时间”是指“- [ ] 10:00 起床”，而不是“- [ ] 10:00 - 11:00 起床”。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6ab8d8696ab8d8696ab8d869",
       "source": "Round time to minutes",
       "translated": "将时间四舍五入到分钟",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1da109a71da109a71da109a7",
       "source": "While editing, tasks are going to get rounded to this number",
       "translated": "在编辑时，任务会被四舍五入到这个数字中",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ca1093c0ca1093c0ca1093c0",
       "source": "Default task duration",
       "translated": "默认任务持续时间",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "dd1cd8f1dd1cd8f1dd1cd8f1",
       "source": "Used when you create a task with drag-and-drop & when you don't specify an end time",
       "translated": "在使用拖放功能创建任务和未指定结束时间时使用",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4fe8c2e84fe8c2e84fe8c2e8",
       "source": "Minimal task duration",
       "translated": "任务最短持续时间",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "960dadf0960dadf0960dadf0",
       "source": "Used when you create a task with drag-and-drop",
       "translated": "使用拖放功能创建任务时使用",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2ac8ea0c2ac8ea0c2ac8ea0c",
       "source": "Color blocking",
       "translated": "色块",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "75ad1ce975ad1ce975ad1ce9",
       "source": "Define a background color for a block containing some text (it might be a tag, like '#important'). The first color is for light mode, the second is for dark mode.",
       "translated": "为包含某些文本（可能是标签，如“#important”）的块定义背景色。第一种颜色用于浅色模式，第二种用于深色模式。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4be87b704be87b704be87b70",
       "source": "Add color override",
       "translated": "添加颜色覆盖",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "17390fa117390fa117390fa1",
       "source": "Colorful Timeline",
       "translated": "多彩时间轴",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b01ec300b01ec300b01ec300",
       "source": "Enable Colorful Timeline",
       "translated": "启用多彩时间线",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "43f976c243f976c243f976c2",
       "source": "If the planner timeline should be monochrome or color tasks based on time of day",
       "translated": "计划表时间轴是单色还是彩色",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "34b79b7134b79b7134b79b71",
       "source": "Colorful Timeline - Start Color",
       "translated": "彩色时间轴 - 起始颜色",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c8db967ec8db967ec8db967e",
       "source": "Colorful Timeline - End Color",
       "translated": "多彩时间轴 - 结束颜色",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     }
   ]
 }

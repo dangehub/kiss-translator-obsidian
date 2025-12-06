@@ -6,223 +6,223 @@
       "key": "d86a643ad86a643ad86a643a",
       "source": "Highlightr",
       "translated": "Highlightr",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "24fc291424fc291424fc2914",
       "source": "Plugin Settings",
       "translated": "插件设置",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "9b005f2a9b005f2a9b005f2a",
       "source": "Choose highlight method",
       "translated": "选择高亮方法",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c8296b5bc8296b5bc8296b5b",
       "source": "Choose between highlighting with inline CSS or CSS classes. Please note that there are pros and cons to both choices. Inline CSS will keep you from being reliant on external CSS files if you choose to export your notes. CSS classes are more flexible and easier to customize.",
       "translated": "请选择使用内联 CSS 还是 CSS 类进行高亮。请注意，两种选择都有优缺点。内联 CSS 可以让你在导出笔记时不必依赖外部 CSS 文件。CSS 类更灵活且易于定制。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6c598c0e6c598c0e6c598c0e",
       "source": "css-classes",
       "translated": "css-classes",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1451dcb81451dcb81451dcb8",
       "source": "inline-styles",
       "translated": "inline-styles",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "051fd642051fd642051fd642",
       "source": "Choose highlight style",
       "translated": "选择高亮样式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2139634a2139634a2139634a",
       "source": "Depending on your design aesthetic, you may want to customize the style of your highlights. Choose from an assortment of different highlighter styles by using the dropdown. Depending on your theme, this plugin's CSS may be overriden.",
       "translated": "根据您的设计审美，您可能需要自定义高亮的样式。通过下拉菜单选择不同的高亮风格。根据您的主题，此插件的 CSS 可能会被覆盖。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "67073db267073db267073db2",
       "source": "Lowlight",
       "translated": "Lowlight",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a2054d48a2054d48a2054d48",
       "source": "Floating",
       "translated": "Floating",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "45ad42c645ad42c645ad42c6",
       "source": "Realistic",
       "translated": "Realistic",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0340e93b0340e93b0340e93b",
       "source": "Rounded",
       "translated": "Rounded",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "9c36dad29c36dad29c36dad2",
       "source": "lowlight",
       "translated": "lowlight",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0ac6aa680ac6aa680ac6aa68",
       "source": "floating",
       "translated": "floating",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c59d871bc59d871bc59d871b",
       "source": "rounded",
       "translated": "rounded",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "9aefa2a69aefa2a69aefa2a6",
       "source": "realistic",
       "translated": "realistic",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "94a1039b94a1039b94a1039b",
       "source": "Choose highlight colors",
       "translated": "选择高亮颜色",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6ace5f6a6ace5f6a6ace5f6a",
       "source": "Create new highlight colors by providing a color name and using the color picker to set the hex code value. Don't forget to save the color before exiting the color picker. Drag and drop the highlight color to change the order for your highlighter component.",
       "translated": "通过提供颜色名称并使用颜色选择器设置十六进制代码值来创建新的高亮颜色。不要忘记在退出颜色选择器前保存颜色。拖放高亮颜色以更改高亮组件的顺序。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b84092a4b84092a4b84092a4",
       "source": "Pink",
       "translated": "Pink",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c14046d1c14046d1c14046d1",
       "source": "#FFB8EBA6",
       "translated": "#FFB8EBA6",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4d2e570b4d2e570b4d2e570b",
       "source": "Red",
       "translated": "Red",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "728b2626728b2626728b2626",
       "source": "#FF5582A6",
       "translated": "#FF5582A6",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "044378880443788804437888",
       "source": "Orange",
       "translated": "Orange",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "bb2b1903bb2b1903bb2b1903",
       "source": "#FFB86CA6",
       "translated": "#FFB86CA6",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "785d937c785d937c785d937c",
       "source": "Yellow",
       "translated": "Yellow",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a72d0aeba72d0aeba72d0aeb",
       "source": "#FFF3A3A6",
       "translated": "#FFF3A3A6",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "949466439494664394946643",
       "source": "Green",
       "translated": "Green",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "228d7fcb228d7fcb228d7fcb",
       "source": "#BBFABBA6",
       "translated": "#BBFABBA6",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1874ca6d1874ca6d1874ca6d",
       "source": "Cyan",
       "translated": "Cyan",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a5a03cefa5a03cefa5a03cef",
       "source": "#ABF7F7A6",
       "translated": "#ABF7F7A6",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c4d246c6c4d246c6c4d246c6",
       "source": "Blue",
       "translated": "Blue",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "839c6849839c6849839c6849",
       "source": "#ADCCFFA6",
       "translated": "#ADCCFFA6",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "52fcd8b652fcd8b652fcd8b6",
       "source": "Purple",
       "translated": "Purple",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e5769f8be5769f8be5769f8b",
       "source": "#D2B3FFA6",
       "translated": "#D2B3FFA6",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "654da231654da231654da231",
       "source": "Grey",
       "translated": "Grey",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6d078e766d078e766d078e76",
       "source": "#CACFD9A6",
       "translated": "#CACFD9A6",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a8b2af35a8b2af35a8b2af35",
       "source": "If you like this Plugin and are considering donating to support continued development, use the buttons below!",
       "translated": "如果你喜欢这个插件，并且正在考虑捐款支持继续开发，请使用下面的按钮！",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     }
   ]
 }

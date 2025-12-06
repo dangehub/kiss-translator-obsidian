@@ -6,169 +6,169 @@
       "key": "78a5c2c878a5c2c878a5c2c8",
       "source": "Advanced URI",
       "translated": "高级URI",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "10a44d1610a44d1610a44d16",
       "source": "Open file on write",
       "translated": "打开文件以写入",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "52c927d652c927d652c927d6",
       "source": "Open file on write in a new pane",
       "translated": "在新窗格中打开文件以写入",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "853b8825853b8825853b8825",
       "source": "Open daily note in a new pane",
       "translated": "在新窗格中打开每日笔记",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a8e222daa8e222daa8e222da",
       "source": "Open file without write in new pane",
       "translated": "在新窗格中打开文件但不写入",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "059790920597909205979092",
       "source": "Use UID instead of file paths",
       "translated": "使用UID代替文件路径",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "da82dd32da82dd32da82dd32",
       "source": "Include vault name/ID parameter",
       "translated": "包含库名称/ID参数",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "8083ff0f8083ff0f8083ff0f",
       "source": "Vault identifying parameter",
       "translated": "库识别参数",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7e5215997e5215997e521599",
       "source": "Choose whether to use the vault Name or its internal ID as the identifying parameter.",
       "translated": "选择使用库名称或其内部ID作为标识参数。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "349073b5349073b5349073b5",
       "source": "ID",
       "translated": "ID",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2a63811f2a63811f2a63811f",
       "source": "UID field in frontmatter",
       "translated": "UID字段在前置事项中",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6b9fa4626b9fa4626b9fa462",
       "source": "Allow executing arbitrary code via eval",
       "translated": "允许通过eval执行任意代码",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "42139f7242139f7242139f72",
       "source": "⚠️ This can be dangerous as it allows executing arbitrary code. Only enable this if you trust the source of the URIs you are using and know what you are doing. ⚠️",
       "translated": "⚠️ 这可能是危险的，因为它允许执行任意代码。仅在信任您使用的URI来源并且知道您在做什么的情况下启用此功能。⚠️",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "662bc2a8662bc2a8662bc2a8",
       "source": "Link formats",
       "translated": "链接格式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "75bd42f275bd42f275bd42f2",
       "source": "{{uri}} - The Advanced URI",
       "translated": "{{uri}} - 高级URI",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "339f972a339f972a339f972a",
       "source": "{{path}} - The file path",
       "translated": "{{path}} - 文件路径",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3e7f1e6a3e7f1e6a3e7f1e6a",
       "source": "{{name}} - The file name",
       "translated": "{{name}} - 文件名",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d1c6fd37d1c6fd37d1c6fd37",
       "source": "{{folder}} - The path of the file folder",
       "translated": "{{folder}} - 文件文件夹路径",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7bfb0c2c7bfb0c2c7bfb0c2c",
       "source": "{{vaultName}} - The vault name",
       "translated": "{{vaultName}} - 库名称",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "36fdfbec36fdfbec36fdfbec",
       "source": "{{vaultId}} - The vault id",
       "translated": "{{vaultId}} - 库ID",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a5d8c573a5d8c573a5d8c573",
       "source": "{{uid}} - The file's UID, defaults to file name if not available",
       "translated": "{{uid}} - 文件的UID，如果不可用则默认为文件名",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1b5822091b5822091b582209",
       "source": "{{alias}} - The file's first alias, defaults to file name if not available",
       "translated": "{{alias}} - 文件的第一个别名，如果不可用则默认为文件名",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "265e8a9a265e8a9a265e8a9a",
       "source": "Add link format",
       "translated": "添加链接格式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d597733ad597733ad597733a",
       "source": "Add format",
       "translated": "添加格式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "673e0529673e0529673e0529",
       "source": "#1 Format",
       "translated": "#1格式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "78f2a09778f2a09778f2a097",
       "source": "Support",
       "translated": "支持",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "5491112d5491112d5491112d",
       "source": "Donate",
       "translated": "捐赠",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "679eac2b679eac2b679eac2b",
       "source": "If you like this Plugin, consider donating to support continued development.",
       "translated": "如果你喜欢这个插件，可以考虑捐赠来支持继续开发。",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     }
   ]
 }

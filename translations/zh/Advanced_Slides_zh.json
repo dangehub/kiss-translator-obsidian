@@ -6,301 +6,301 @@
       "key": "3c45080b3c45080b3c45080b",
       "source": "General Settings",
       "translated": "常规设置",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "694a2446694a2446694a2446",
       "source": "Slide Preview Mode",
       "translated": "幻灯片预览模式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a89e960ca89e960ca89e960c",
       "source": "How should slide previews be displayed?",
       "translated": "幻灯片预览应如何显示？",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "91c4a0fd91c4a0fd91c4a0fd",
       "source": "as Tab",
       "translated": "作为标签页",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e5dc1aefe5dc1aefe5dc1aef",
       "source": "split Workspace",
       "translated": "拆分工作区",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "463a78a1463a78a1463a78a1",
       "source": "Port",
       "translated": "端口",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "af18f4cbaf18f4cbaf18f4cb",
       "source": "On which port should Advanced Slides run? (default: 3000)",
       "translated": "应在哪个端口运行Advanced Slides？（默认：3000）",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "dd52c1e6dd52c1e6dd52c1e6",
       "source": "Auto Reload",
       "translated": "自动重新加载",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ffd321c7ffd321c7ffd321c7",
       "source": "Should the slide preview window be updated when a change in source file is detected?",
       "translated": "检测到源文件更改时，是否更新幻灯片预览窗口？",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c52991dec52991dec52991de",
       "source": "Auto Complete",
       "translated": "自动完成",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c8cdda36c8cdda36c8cdda36",
       "source": "Do you want to auto-complete inputs?",
       "translated": "你想自动完成输入吗？",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6e10f8896e10f8896e10f889",
       "source": "Always",
       "translated": "总是",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1d3f01f61d3f01f61d3f01f6",
       "source": "only in Slide Preview",
       "translated": "仅在幻灯片预览中",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0be46f750be46f750be46f75",
       "source": "Export Directory",
       "translated": "导出目录",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "85ed929885ed929885ed9298",
       "source": "Where should Advanced Slides export presentations?",
       "translated": "Advanced Slides应将演示文稿导出到哪里？",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3aace10a3aace10a3aace10a",
       "source": "Slide Settings",
       "translated": "幻灯片设置",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "51ffc1c951ffc1c951ffc1c9",
       "source": "Theme",
       "translated": "主题",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a6e2db8ca6e2db8ca6e2db8c",
       "source": "Which theme should be used for your slides?",
       "translated": "应使用哪个主题来制作幻灯片？",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "cb0ff9b9cb0ff9b9cb0ff9b9",
       "source": "Highlight Theme",
       "translated": "高亮主题",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1d36861c1d36861c1d36861c",
       "source": "Which highlight theme should be used for your slides?",
       "translated": "应使用哪个高亮主题用于您的幻灯片？",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d175c7e0d175c7e0d175c7e0",
       "source": "Transition Style",
       "translated": "过渡样式",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "74eb524a74eb524a74eb524a",
       "source": "How should the transition between slides look like?",
       "translated": "幻灯片之间的过渡效果应该如何？",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "624fdc12624fdc12624fdc12",
       "source": "none",
       "translated": "无",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "6645485e6645485e6645485e",
       "source": "fade",
       "translated": "淡入淡出",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "dc18264fdc18264fdc18264f",
       "source": "slide",
       "translated": "滑动",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "798b0451798b0451798b0451",
       "source": "convex",
       "translated": "凸面",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "b37e448bb37e448bb37e448b",
       "source": "concave",
       "translated": "凹面",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "93dfd36f93dfd36f93dfd36f",
       "source": "zoom",
       "translated": "缩放",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a9222750a9222750a9222750",
       "source": "Transition Speed",
       "translated": "过渡速度",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "d64378add64378add64378ad",
       "source": "How fast should the transition between two slides be?",
       "translated": "幻灯片之间的切换速度应为多少？",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "94c10c1f94c10c1f94c10c1f",
       "source": "slow",
       "translated": "慢",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "0c394f530c394f530c394f53",
       "source": "default",
       "translated": "默认",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "dcc9d6f8dcc9d6f8dcc9d6f8",
       "source": "fast",
       "translated": "快",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2dcec5c22dcec5c22dcec5c2",
       "source": "Plugins",
       "translated": "插件",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "a494d24ca494d24ca494d24c",
       "source": "Controls",
       "translated": "控制",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "2dbd0cc62dbd0cc62dbd0cc6",
       "source": "Display presentation control arrows?",
       "translated": "显示演示控制箭头？",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "7d7862347d7862347d786234",
       "source": "Progress Bar",
       "translated": "进度条",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "c33ada27c33ada27c33ada27",
       "source": "Display presentation progress bar?",
       "translated": "显示演示进度条？",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "dc796affdc796affdc796aff",
       "source": "Slide Numbers",
       "translated": "幻灯片编号",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "593e61ba593e61ba593e61ba",
       "source": "Display the page number of the current slide?",
       "translated": "显示当前幻灯片的页码？",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "3c525c4b3c525c4b3c525c4b",
       "source": "Menu",
       "translated": "菜单",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "1058638e1058638e1058638e",
       "source": "Display presentation menu button?",
       "translated": "显示演示菜单按钮？",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "da4e8f5bda4e8f5bda4e8f5b",
       "source": "Overview",
       "translated": "概览",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "ad31349ead31349ead31349e",
       "source": "Display presentation overview button?",
       "translated": "显示演示概览按钮？",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "bb9500efbb9500efbb9500ef",
       "source": "Chalkboard",
       "translated": "黑板",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "05a0bdf505a0bdf505a0bdf5",
       "source": "Should the slides contain a chalkboard ?",
       "translated": "幻灯片中应包含黑板吗？",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "e46cdb16e46cdb16e46cdb16",
       "source": "Elapsed Time Bar",
       "translated": "耗时进度条",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "cf6bca53cf6bca53cf6bca53",
       "source": "Display elapsed time bar?",
       "translated": "显示已用时间条？",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "4b5ba38a4b5ba38a4b5ba38a",
       "source": "Laser Pointer",
       "translated": "激光笔",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     },
     {
       "key": "775e28d2775e28d2775e28d2",
       "source": "Changes your mouse into a laser pointer (Toggle with Q)",
       "translated": "将你的鼠标变为激光笔（按 Q 切换）",
-      "updatedAt": 1765007348788
+      "updatedAt": 1765008111887
     }
   ]
 }
