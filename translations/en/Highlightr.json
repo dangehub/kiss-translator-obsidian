@@ -1,0 +1,228 @@
+{
+  "version": 1,
+  "scope": "Highlightr",
+  "entries": [
+    {
+      "key": "d86a643ad86a643ad86a643a",
+      "source": "Highlightr",
+      "translated": "Highlightr",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "24fc291424fc291424fc2914",
+      "source": "Plugin Settings",
+      "translated": "Plugin Settings",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "9b005f2a9b005f2a9b005f2a",
+      "source": "Choose highlight method",
+      "translated": "Choose highlight method",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "c8296b5bc8296b5bc8296b5b",
+      "source": "Choose between highlighting with inline CSS or CSS classes. Please note that there are pros and cons to both choices. Inline CSS will keep you from being reliant on external CSS files if you choose to export your notes. CSS classes are more flexible and easier to customize.",
+      "translated": "Choose between highlighting with inline CSS or CSS classes. Please note that there are pros and cons to both choices. Inline CSS will keep you from being reliant on external CSS files if you choose to export your notes. CSS classes are more flexible and easier to customize.",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "6c598c0e6c598c0e6c598c0e",
+      "source": "css-classes",
+      "translated": "css-classes",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "1451dcb81451dcb81451dcb8",
+      "source": "inline-styles",
+      "translated": "inline-styles",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "051fd642051fd642051fd642",
+      "source": "Choose highlight style",
+      "translated": "Choose highlight style",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "2139634a2139634a2139634a",
+      "source": "Depending on your design aesthetic, you may want to customize the style of your highlights. Choose from an assortment of different highlighter styles by using the dropdown. Depending on your theme, this plugin's CSS may be overriden.",
+      "translated": "Depending on your design aesthetic, you may want to customize the style of your highlights. Choose from an assortment of different highlighter styles by using the dropdown. Depending on your theme, this plugin's CSS may be overriden.",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "67073db267073db267073db2",
+      "source": "Lowlight",
+      "translated": "Lowlight",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "a2054d48a2054d48a2054d48",
+      "source": "Floating",
+      "translated": "Floating",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "45ad42c645ad42c645ad42c6",
+      "source": "Realistic",
+      "translated": "Realistic",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "0340e93b0340e93b0340e93b",
+      "source": "Rounded",
+      "translated": "Rounded",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "9c36dad29c36dad29c36dad2",
+      "source": "lowlight",
+      "translated": "lowlight",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "0ac6aa680ac6aa680ac6aa68",
+      "source": "floating",
+      "translated": "floating",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "c59d871bc59d871bc59d871b",
+      "source": "rounded",
+      "translated": "rounded",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "9aefa2a69aefa2a69aefa2a6",
+      "source": "realistic",
+      "translated": "realistic",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "94a1039b94a1039b94a1039b",
+      "source": "Choose highlight colors",
+      "translated": "Choose highlight colors",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "6ace5f6a6ace5f6a6ace5f6a",
+      "source": "Create new highlight colors by providing a color name and using the color picker to set the hex code value. Don't forget to save the color before exiting the color picker. Drag and drop the highlight color to change the order for your highlighter component.",
+      "translated": "Create new highlight colors by providing a color name and using the color picker to set the hex code value. Don't forget to save the color before exiting the color picker. Drag and drop the highlight color to change the order for your highlighter component.",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "b84092a4b84092a4b84092a4",
+      "source": "Pink",
+      "translated": "Pink",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "c14046d1c14046d1c14046d1",
+      "source": "#FFB8EBA6",
+      "translated": "#FFB8EBA6",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "4d2e570b4d2e570b4d2e570b",
+      "source": "Red",
+      "translated": "Red",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "728b2626728b2626728b2626",
+      "source": "#FF5582A6",
+      "translated": "#FF5582A6",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "044378880443788804437888",
+      "source": "Orange",
+      "translated": "Orange",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "bb2b1903bb2b1903bb2b1903",
+      "source": "#FFB86CA6",
+      "translated": "#FFB86CA6",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "785d937c785d937c785d937c",
+      "source": "Yellow",
+      "translated": "Yellow",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "a72d0aeba72d0aeba72d0aeb",
+      "source": "#FFF3A3A6",
+      "translated": "#FFF3A3A6",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "949466439494664394946643",
+      "source": "Green",
+      "translated": "Green",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "228d7fcb228d7fcb228d7fcb",
+      "source": "#BBFABBA6",
+      "translated": "#BBFABBA6",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "1874ca6d1874ca6d1874ca6d",
+      "source": "Cyan",
+      "translated": "Cyan",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "a5a03cefa5a03cefa5a03cef",
+      "source": "#ABF7F7A6",
+      "translated": "#ABF7F7A6",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "c4d246c6c4d246c6c4d246c6",
+      "source": "Blue",
+      "translated": "Blue",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "839c6849839c6849839c6849",
+      "source": "#ADCCFFA6",
+      "translated": "#ADCCFFA6",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "52fcd8b652fcd8b652fcd8b6",
+      "source": "Purple",
+      "translated": "Purple",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "e5769f8be5769f8be5769f8b",
+      "source": "#D2B3FFA6",
+      "translated": "#D2B3FFA6",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "654da231654da231654da231",
+      "source": "Grey",
+      "translated": "Grey",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "6d078e766d078e766d078e76",
+      "source": "#CACFD9A6",
+      "translated": "#CACFD9A6",
+      "updatedAt": 1765000342752
+    },
+    {
+      "key": "a8b2af35a8b2af35a8b2af35",
+      "source": "If you like this Plugin and are considering donating to support continued development, use the buttons below!",
+      "translated": "If you like this Plugin and are considering donating to support continued development, use the buttons below!",
+      "updatedAt": 1765000342752
+    }
+  ]
+}
