@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "scope": "Periodic Notes",
+  "entries": [
+    {
+      "key": "306e5cdb306e5cdb306e5cdb",
+      "source": "Getting Started",
+      "translated": "Getting Started",
+      "updatedAt": 1765000314098
+    },
+    {
+      "key": "a111a642a111a642a111a642",
+      "source": "With this plugin, you can quickly create and navigate to daily, weekly, and monthly notes. Enable them below to get started.",
+      "translated": "With this plugin, you can quickly create and navigate to daily, weekly, and monthly notes. Enable them below to get started.",
+      "updatedAt": 1765000314098
+    },
+    {
+      "key": "088225820882258208822582",
+      "source": "Dismiss",
+      "translated": "Dismiss",
+      "updatedAt": 1765000314098
+    },
+    {
+      "key": "915702a2915702a2915702a2",
+      "source": "Daily Notes",
+      "translated": "Daily Notes",
+      "updatedAt": 1765000314098
+    },
+    {
+      "key": "ce08489bce08489bce08489b",
+      "source": "Format",
+      "translated": "Format",
+      "updatedAt": 1765000314098
+    },
+    {
+      "key": "9d5800e19d5800e19d5800e1",
+      "source": "Daily Note Template",
+      "translated": "Daily Note Template",
+      "updatedAt": 1765000314098
+    },
+    {
+      "key": "f2b5f401f2b5f401f2b5f401",
+      "source": "Choose the file to use as a template",
+      "translated": "Choose the file to use as a template",
+      "updatedAt": 1765000314098
+    },
+    {
+      "key": "03a3563e03a3563e03a3563e",
+      "source": "Note Folder",
+      "translated": "Note Folder",
+      "updatedAt": 1765000314098
+    },
+    {
+      "key": "843523228435232284352322",
+      "source": "New daily notes will be placed here",
+      "translated": "New daily notes will be placed here",
+      "updatedAt": 1765000314098
+    },
+    {
+      "key": "677f44d2677f44d2677f44d2",
+      "source": "Weekly Notes",
+      "translated": "Weekly Notes",
+      "updatedAt": 1765000314098
+    },
+    {
+      "key": "741815d1741815d1741815d1",
+      "source": "Weekly Note Template",
+      "translated": "Weekly Note Template",
+      "updatedAt": 1765000314098
+    },
+    {
+      "key": "10c47bd210c47bd210c47bd2",
+      "source": "New weekly notes will be placed here",
+      "translated": "New weekly notes will be placed here",
+      "updatedAt": 1765000314098
+    },
+    {
+      "key": "9012b63e9012b63e9012b63e",
+      "source": "Monthly Notes",
+      "translated": "Monthly Notes",
+      "updatedAt": 1765000314098
+    },
+    {
+      "key": "dcd9d07ddcd9d07ddcd9d07d",
+      "source": "Monthly Note Template",
+      "translated": "Monthly Note Template",
+      "updatedAt": 1765000314099
+    },
+    {
+      "key": "f3c550bef3c550bef3c550be",
+      "source": "New monthly notes will be placed here",
+      "translated": "New monthly notes will be placed here",
+      "updatedAt": 1765000314099
+    },
+    {
+      "key": "df5cf05adf5cf05adf5cf05a",
+      "source": "Quarterly Notes",
+      "translated": "Quarterly Notes",
+      "updatedAt": 1765000314099
+    },
+    {
+      "key": "d2697d59d2697d59d2697d59",
+      "source": "Quarterly Note Template",
+      "translated": "Quarterly Note Template",
+      "updatedAt": 1765000314099
+    },
+    {
+      "key": "af048e1aaf048e1aaf048e1a",
+      "source": "New quarterly notes will be placed here",
+      "translated": "New quarterly notes will be placed here",
+      "updatedAt": 1765000314099
+    },
+    {
+      "key": "3b3ea8013b3ea8013b3ea801",
+      "source": "Yearly Notes",
+      "translated": "Yearly Notes",
+      "updatedAt": 1765000314099
+    },
+    {
+      "key": "834e2502834e2502834e2502",
+      "source": "Yearly Note Template",
+      "translated": "Yearly Note Template",
+      "updatedAt": 1765000314099
+    },
+    {
+      "key": "552a9e81552a9e81552a9e81",
+      "source": "New yearly notes will be placed here",
+      "translated": "New yearly notes will be placed here",
+      "updatedAt": 1765000314099
+    }
+  ]
+}
