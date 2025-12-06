@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "scope": "Periodic Notes",
+  "entries": [
+    {
+      "key": "306e5cdb306e5cdb306e5cdb",
+      "source": "Getting Started",
+      "translated": "入门指南",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "a111a642a111a642a111a642",
+      "source": "With this plugin, you can quickly create and navigate to daily, weekly, and monthly notes. Enable them below to get started.",
+      "translated": "通过此插件，您可以快速创建并导航到每日、每周和每月笔记。在下方启用它们以开始使用。",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "088225820882258208822582",
+      "source": "Dismiss",
+      "translated": "取消",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "915702a2915702a2915702a2",
+      "source": "Daily Notes",
+      "translated": "每日笔记",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "ce08489bce08489bce08489b",
+      "source": "Format",
+      "translated": "格式",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "9d5800e19d5800e19d5800e1",
+      "source": "Daily Note Template",
+      "translated": "每日笔记模板",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "f2b5f401f2b5f401f2b5f401",
+      "source": "Choose the file to use as a template",
+      "translated": "选择要作为模板使用的文件",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "03a3563e03a3563e03a3563e",
+      "source": "Note Folder",
+      "translated": "笔记文件夹",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "843523228435232284352322",
+      "source": "New daily notes will be placed here",
+      "translated": "新的每日笔记将放置在此处",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "677f44d2677f44d2677f44d2",
+      "source": "Weekly Notes",
+      "translated": "每周笔记",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "741815d1741815d1741815d1",
+      "source": "Weekly Note Template",
+      "translated": "每周笔记模板",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "10c47bd210c47bd210c47bd2",
+      "source": "New weekly notes will be placed here",
+      "translated": "新的每周笔记将放置在此处",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "9012b63e9012b63e9012b63e",
+      "source": "Monthly Notes",
+      "translated": "每月笔记",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "dcd9d07ddcd9d07ddcd9d07d",
+      "source": "Monthly Note Template",
+      "translated": "每月笔记模板",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "f3c550bef3c550bef3c550be",
+      "source": "New monthly notes will be placed here",
+      "translated": "新的每月笔记将放置在此处",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "df5cf05adf5cf05adf5cf05a",
+      "source": "Quarterly Notes",
+      "translated": "季度笔记",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "d2697d59d2697d59d2697d59",
+      "source": "Quarterly Note Template",
+      "translated": "季度笔记模板",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "af048e1aaf048e1aaf048e1a",
+      "source": "New quarterly notes will be placed here",
+      "translated": "新的季度笔记将放置在此处",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "3b3ea8013b3ea8013b3ea801",
+      "source": "Yearly Notes",
+      "translated": "年度笔记",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "834e2502834e2502834e2502",
+      "source": "Yearly Note Template",
+      "translated": "年度笔记模板",
+      "updatedAt": 1765007348788
+    },
+    {
+      "key": "552a9e81552a9e81552a9e81",
+      "source": "New yearly notes will be placed here",
+      "translated": "新的年度笔记将放置在此处",
+      "updatedAt": 1765007348788
+    }
+  ]
+}
