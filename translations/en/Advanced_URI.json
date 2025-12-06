@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "scope": "Advanced URI",
+  "entries": [
+    {
+      "key": "78a5c2c878a5c2c878a5c2c8",
+      "source": "Advanced URI",
+      "translated": "Advanced URI",
+      "updatedAt": 1765000449812
+    },
+    {
+      "key": "10a44d1610a44d1610a44d16",
+      "source": "Open file on write",
+      "translated": "Open file on write",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "52c927d652c927d652c927d6",
+      "source": "Open file on write in a new pane",
+      "translated": "Open file on write in a new pane",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "853b8825853b8825853b8825",
+      "source": "Open daily note in a new pane",
+      "translated": "Open daily note in a new pane",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "a8e222daa8e222daa8e222da",
+      "source": "Open file without write in new pane",
+      "translated": "Open file without write in new pane",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "059790920597909205979092",
+      "source": "Use UID instead of file paths",
+      "translated": "Use UID instead of file paths",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "da82dd32da82dd32da82dd32",
+      "source": "Include vault name/ID parameter",
+      "translated": "Include vault name/ID parameter",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "8083ff0f8083ff0f8083ff0f",
+      "source": "Vault identifying parameter",
+      "translated": "Vault identifying parameter",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "7e5215997e5215997e521599",
+      "source": "Choose whether to use the vault Name or its internal ID as the identifying parameter.",
+      "translated": "Choose whether to use the vault Name or its internal ID as the identifying parameter.",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "349073b5349073b5349073b5",
+      "source": "ID",
+      "translated": "ID",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "2a63811f2a63811f2a63811f",
+      "source": "UID field in frontmatter",
+      "translated": "UID field in frontmatter",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "6b9fa4626b9fa4626b9fa462",
+      "source": "Allow executing arbitrary code via eval",
+      "translated": "Allow executing arbitrary code via eval",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "42139f7242139f7242139f72",
+      "source": "⚠️ This can be dangerous as it allows executing arbitrary code. Only enable this if you trust the source of the URIs you are using and know what you are doing. ⚠️",
+      "translated": "⚠️ This can be dangerous as it allows executing arbitrary code. Only enable this if you trust the source of the URIs you are using and know what you are doing. ⚠️",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "662bc2a8662bc2a8662bc2a8",
+      "source": "Link formats",
+      "translated": "Link formats",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "75bd42f275bd42f275bd42f2",
+      "source": "{{uri}} - The Advanced URI",
+      "translated": "{{uri}} - The Advanced URI",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "339f972a339f972a339f972a",
+      "source": "{{path}} - The file path",
+      "translated": "{{path}} - The file path",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "3e7f1e6a3e7f1e6a3e7f1e6a",
+      "source": "{{name}} - The file name",
+      "translated": "{{name}} - The file name",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "d1c6fd37d1c6fd37d1c6fd37",
+      "source": "{{folder}} - The path of the file folder",
+      "translated": "{{folder}} - The path of the file folder",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "7bfb0c2c7bfb0c2c7bfb0c2c",
+      "source": "{{vaultName}} - The vault name",
+      "translated": "{{vaultName}} - The vault name",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "36fdfbec36fdfbec36fdfbec",
+      "source": "{{vaultId}} - The vault id",
+      "translated": "{{vaultId}} - The vault id",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "a5d8c573a5d8c573a5d8c573",
+      "source": "{{uid}} - The file's UID, defaults to file name if not available",
+      "translated": "{{uid}} - The file's UID, defaults to file name if not available",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "1b5822091b5822091b582209",
+      "source": "{{alias}} - The file's first alias, defaults to file name if not available",
+      "translated": "{{alias}} - The file's first alias, defaults to file name if not available",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "265e8a9a265e8a9a265e8a9a",
+      "source": "Add link format",
+      "translated": "Add link format",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "d597733ad597733ad597733a",
+      "source": "Add format",
+      "translated": "Add format",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "673e0529673e0529673e0529",
+      "source": "#1 Format",
+      "translated": "#1 Format",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "78f2a09778f2a09778f2a097",
+      "source": "Support",
+      "translated": "Support",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "5491112d5491112d5491112d",
+      "source": "Donate",
+      "translated": "Donate",
+      "updatedAt": 1765000449813
+    },
+    {
+      "key": "679eac2b679eac2b679eac2b",
+      "source": "If you like this Plugin, consider donating to support continued development.",
+      "translated": "If you like this Plugin, consider donating to support continued development.",
+      "updatedAt": 1765000449813
+    }
+  ]
+}
