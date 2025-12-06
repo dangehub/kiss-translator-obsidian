@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "scope": "Natural Language Dates",
+  "entries": [
+    {
+      "key": "d32c59bcd32c59bcd32c59bc",
+      "source": "Natural Language Dates",
+      "translated": "Natural Language Dates",
+      "updatedAt": 1765000630985
+    },
+    {
+      "key": "0017759a0017759a0017759a",
+      "source": "Parser settings",
+      "translated": "Parser settings",
+      "updatedAt": 1765000630985
+    },
+    {
+      "key": "ce447ecfce447ecfce447ecf",
+      "source": "Date format",
+      "translated": "Date format",
+      "updatedAt": 1765000630985
+    },
+    {
+      "key": "74d50d4974d50d4974d50d49",
+      "source": "Output format for parsed dates",
+      "translated": "Output format for parsed dates",
+      "updatedAt": 1765000630985
+    },
+    {
+      "key": "39b571b639b571b639b571b6",
+      "source": "Week starts on",
+      "translated": "Week starts on",
+      "updatedAt": 1765000630985
+    },
+    {
+      "key": "50dba98e50dba98e50dba98e",
+      "source": "Which day to consider as the start of the week",
+      "translated": "Which day to consider as the start of the week",
+      "updatedAt": 1765000630985
+    },
+    {
+      "key": "d76956aad76956aad76956aa",
+      "source": "Locale default (monday)",
+      "translated": "Locale default (monday)",
+      "updatedAt": 1765000630985
+    },
+    {
+      "key": "32e332fd32e332fd32e332fd",
+      "source": "星期日",
+      "translated": "星期日",
+      "updatedAt": 1765000630985
+    },
+    {
+      "key": "cbb7c718cbb7c718cbb7c718",
+      "source": "星期一",
+      "translated": "星期一",
+      "updatedAt": 1765000630985
+    },
+    {
+      "key": "eb4e2594eb4e2594eb4e2594",
+      "source": "星期二",
+      "translated": "星期二",
+      "updatedAt": 1765000630985
+    },
+    {
+      "key": "3e5104113e5104113e510411",
+      "source": "星期三",
+      "translated": "星期三",
+      "updatedAt": 1765000630985
+    },
+    {
+      "key": "40db09c340db09c340db09c3",
+      "source": "星期四",
+      "translated": "星期四",
+      "updatedAt": 1765000630985
+    },
+    {
+      "key": "136e638c136e638c136e638c",
+      "source": "星期五",
+      "translated": "星期五",
+      "updatedAt": 1765000630985
+    },
+    {
+      "key": "b4569d75b4569d75b4569d75",
+      "source": "星期六",
+      "translated": "星期六",
+      "updatedAt": 1765000630985
+    },
+    {
+      "key": "8c1a87ee8c1a87ee8c1a87ee",
+      "source": "Hotkey formatting settings",
+      "translated": "Hotkey formatting settings",
+      "updatedAt": 1765000630985
+    },
+    {
+      "key": "e109c34ee109c34ee109c34e",
+      "source": "Time format",
+      "translated": "Time format",
+      "updatedAt": 1765000630985
+    },
+    {
+      "key": "b8fd68deb8fd68deb8fd68de",
+      "source": "Format for the hotkeys that include the current time",
+      "translated": "Format for the hotkeys that include the current time",
+      "updatedAt": 1765000630985
+    },
+    {
+      "key": "fddc5625fddc5625fddc5625",
+      "source": "Separator",
+      "translated": "Separator",
+      "updatedAt": 1765000630985
+    },
+    {
+      "key": "00821f6e00821f6e00821f6e",
+      "source": "Separator between date and time for entries that have both",
+      "translated": "Separator between date and time for entries that have both",
+      "updatedAt": 1765000630986
+    },
+    {
+      "key": "c40581a7c40581a7c40581a7",
+      "source": "Date Autosuggest",
+      "translated": "Date Autosuggest",
+      "updatedAt": 1765000630986
+    },
+    {
+      "key": "4c1ae6e64c1ae6e64c1ae6e6",
+      "source": "Enable date autosuggest",
+      "translated": "Enable date autosuggest",
+      "updatedAt": 1765000630986
+    },
+    {
+      "key": "8130043e8130043e8130043e",
+      "source": "Input dates with natural language. Open the suggest menu with @",
+      "translated": "Input dates with natural language. Open the suggest menu with @",
+      "updatedAt": 1765000630986
+    },
+    {
+      "key": "47ce5e9347ce5e9347ce5e93",
+      "source": "Add dates as link?",
+      "translated": "Add dates as link?",
+      "updatedAt": 1765000630986
+    },
+    {
+      "key": "726c8998726c8998726c8998",
+      "source": "If enabled, dates created via autosuggest will be wrapped in [[wikilinks]]",
+      "translated": "If enabled, dates created via autosuggest will be wrapped in [[wikilinks]]",
+      "updatedAt": 1765000630986
+    },
+    {
+      "key": "b1c4d8ddb1c4d8ddb1c4d8dd",
+      "source": "Trigger phrase",
+      "translated": "Trigger phrase",
+      "updatedAt": 1765000630986
+    },
+    {
+      "key": "3bca6bcc3bca6bcc3bca6bcc",
+      "source": "Character(s) that will cause the date autosuggest to open",
+      "translated": "Character(s) that will cause the date autosuggest to open",
+      "updatedAt": 1765000630986
+    }
+  ]
+}
