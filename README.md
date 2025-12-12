@@ -35,7 +35,7 @@ Translay Translator 是一个用来翻译 Obsidian 内任何文本的插件，�
 
 #### 安装插件
 
-本插件暂未上架官方 Obsidian 市场，请使用 BRAT 插件或手动安装。
+[本插件无法上架官方 Obsidian 市场](https://github.com/obsidianmd/obsidian-releases/pull/8831#issuecomment-3645850703)，请使用 BRAT 插件或手动安装。
 
 **手动安装方法**：前往 `release` 下载并复制 `main.js`、`manifest.json`、`styles.css` 到 `<Vault>/.obsidian/plugins/aqu-translay-translator/`。
 
