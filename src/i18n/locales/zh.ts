@@ -63,6 +63,8 @@ export const zh: LocaleDict = {
 	"ui.menu.title": "选择 UI 词典",
 	"ui.menu.translate": "翻译当前页面",
 	"ui.menu.extract": "提取当前页面",
+	"ui.menu.pickTranslate": "元素选取翻译",
+	"ui.menu.pickExtract": "元素选取提取",
 	"ui.menu.edit": "编辑模式",
 	"ui.menu.hide": "隐藏原文",
 	"ui.menu.smart": "悬停时展示原文（只在隐藏原文时生效）",

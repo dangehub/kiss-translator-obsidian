@@ -67,6 +67,26 @@ export class TranslationSession {
 		this.applyOriginalVisibility();
 	}
 
+	async translateElement(el: HTMLElement, dictionaryOnly: boolean) {
+		await this.translateBlock(el, dictionaryOnly);
+		this.applyOriginalVisibility();
+	}
+
+	async extractElement(el: HTMLElement) {
+		const text = this.normalizeText(el.innerText || "");
+		if (!text || text.length < 2) return;
+		const keys = this.buildDictKeys(text);
+		if (!keys.primary || !this.dict) return;
+		const existing = await this.dict.get(this.scopeId, keys.all);
+		if (existing?.translated) return;
+		await this.dict.set(this.scopeId, {
+			key: keys.primary,
+			source: text,
+			translated: text,
+			updatedAt: Date.now(),
+		});
+	}
+
 	async extractOnly(rootOverride?: HTMLElement) {
 		const root = rootOverride ?? this.findPreviewRoot();
 		if (!root) {

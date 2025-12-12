@@ -130,6 +130,12 @@ export default class KissTranslatorPlugin extends Plugin {
 	private uiDictionaryEnabled = true;
 	private fabState: "off" | "empty" | "active" = "off";
 	private fabInitialized = false;
+	private pickerActive = false;
+	private pickerHighlight: HTMLElement | null = null;
+	private pickerMoveHandler: ((ev: MouseEvent) => void) | null = null;
+	private pickerClickHandler: ((ev: MouseEvent) => void) | null = null;
+	private pickerKeyHandler: ((ev: KeyboardEvent) => void) | null = null;
+	private pickerCurrentTarget: HTMLElement | null = null;
 	cloudRegistry: CloudDictMeta[] = [];
 	cloudRegistryLangs: string[] = [];
 	cloudRegistryLoading = false;
@@ -179,6 +185,7 @@ export default class KissTranslatorPlugin extends Plugin {
 		this.session = null;
 		this.uiSession?.clear();
 		this.uiSession = null;
+		this.stopElementPicker();
 		this.fab?.unmount();
 		this.dictStore?.flush().catch((err) => console.error(err));
 		this.closeScopeMenu();
@@ -223,12 +230,12 @@ export default class KissTranslatorPlugin extends Plugin {
 		});
 	}
 
-	extractUIWithFab() {
+	extractUIWithFab(targetOverride?: HTMLElement) {
 		if (this.uiBusy) {
 			new Notice(this.tr("notice.extracting"));
 			return;
 		}
-		const target = this.findUiTarget();
+		const target = targetOverride ?? this.findUiTarget();
 		if (!target) {
 			new Notice(this.tr("notice.extract.none"));
 			return;
@@ -256,12 +263,12 @@ export default class KissTranslatorPlugin extends Plugin {
 			});
 	}
 
-	translateUIWithFab() {
+	translateUIWithFab(targetOverride?: HTMLElement) {
 		if (this.uiBusy) {
 			new Notice(this.tr("notice.translate.busy"));
 			return;
 		}
-		const target = this.findUiTarget();
+		const target = targetOverride ?? this.findUiTarget();
 		if (!target) {
 			new Notice(this.tr("notice.translate.none"));
 			return;
@@ -287,6 +294,180 @@ export default class KissTranslatorPlugin extends Plugin {
 				this.uiBusy = false;
 				this.resumeUiAutoSoon();
 			});
+	}
+
+	private handlePickedElement(target: HTMLElement) {
+		if (this.settings.extractOnly) {
+			this.extractPickedElement(target);
+		} else {
+			this.translatePickedElement(target);
+		}
+	}
+
+	private startElementPicker() {
+		if (this.pickerActive) {
+			this.stopElementPicker();
+			return;
+		}
+		this.pickerActive = true;
+		document.body.classList.add("kiss-picker-active");
+
+		const highlight = document.createElement("div");
+		highlight.className = "kiss-picker-highlight";
+		document.body.appendChild(highlight);
+		this.pickerHighlight = highlight;
+
+		this.pickerMoveHandler = (ev: MouseEvent) => {
+			const target = this.getPickTarget(ev.clientX, ev.clientY);
+			this.pickerCurrentTarget = target;
+			this.updatePickerHighlight(target);
+		};
+		this.pickerClickHandler = (ev: MouseEvent) => {
+			ev.preventDefault();
+			ev.stopPropagation();
+			const target = this.getPickTarget(ev.clientX, ev.clientY) || this.pickerCurrentTarget;
+			this.stopElementPicker();
+			if (target) {
+				this.handlePickedElement(target);
+			}
+		};
+		this.pickerKeyHandler = (ev: KeyboardEvent) => {
+			if (ev.key === "Escape") {
+				this.stopElementPicker();
+			}
+		};
+
+		document.addEventListener("mousemove", this.pickerMoveHandler, true);
+		document.addEventListener("click", this.pickerClickHandler, true);
+		document.addEventListener("keydown", this.pickerKeyHandler, true);
+	}
+
+	private stopElementPicker() {
+		if (!this.pickerActive) return;
+		this.pickerActive = false;
+		document.body.classList.remove("kiss-picker-active");
+		if (this.pickerHighlight) {
+			this.pickerHighlight.remove();
+			this.pickerHighlight = null;
+		}
+		if (this.pickerMoveHandler) {
+			document.removeEventListener("mousemove", this.pickerMoveHandler, true);
+			this.pickerMoveHandler = null;
+		}
+		if (this.pickerClickHandler) {
+			document.removeEventListener("click", this.pickerClickHandler, true);
+			this.pickerClickHandler = null;
+		}
+		if (this.pickerKeyHandler) {
+			document.removeEventListener("keydown", this.pickerKeyHandler, true);
+			this.pickerKeyHandler = null;
+		}
+		this.pickerCurrentTarget = null;
+	}
+
+	private translatePickedElement(target: HTMLElement) {
+		if (this.uiBusy) {
+			new Notice(this.tr("notice.translate.busy"));
+			return;
+		}
+		this.prepareUiSession();
+		this.uiDictionaryEnabled = true;
+		const session = this.uiSession;
+		if (!session) return;
+		this.suppressUiAuto = true;
+		this.uiBusy = true;
+		session
+			.translateElement(target, false)
+			.then(() => {
+				this.setFabState(session.hasTranslations() ? "active" : "empty");
+			})
+			.catch((err) => {
+				console.error(err);
+				this.setFabState("off");
+				new Notice(this.tr("notice.error", { msg: err.message }));
+			})
+			.finally(() => {
+				this.uiBusy = false;
+				this.resumeUiAutoSoon();
+			});
+	}
+
+	private extractPickedElement(target: HTMLElement) {
+		if (this.uiBusy) {
+			new Notice(this.tr("notice.extracting"));
+			return;
+		}
+		this.prepareUiSession();
+		this.uiDictionaryEnabled = true;
+		const session = this.uiSession;
+		if (!session) return;
+		this.suppressUiAuto = true;
+		this.uiBusy = true;
+		session
+			.extractElement(target)
+			.then(() => {
+				this.setFabState("active");
+			})
+			.catch((err) => {
+				console.error(err);
+				this.setFabState("off");
+				new Notice(this.tr("notice.error", { msg: err.message }));
+			})
+			.finally(() => {
+				this.uiBusy = false;
+				this.resumeUiAutoSoon();
+			});
+	}
+
+	private getPickTarget(x: number, y: number): HTMLElement | null {
+		let el = document.elementFromPoint(x, y) as HTMLElement | null;
+		while (el) {
+			if (this.isPickerUi(el)) {
+				el = el.parentElement;
+				continue;
+			}
+			if (this.isElementSkippedForPicker(el)) {
+				el = el.parentElement;
+				continue;
+			}
+			return el;
+		}
+		return null;
+	}
+
+	private isPickerUi(el: HTMLElement) {
+		if (!el) return false;
+		if (el === this.pickerHighlight) return true;
+		if (el.closest(".kiss-scope-menu")) return true;
+		if (el.closest("#kiss-obsidian-fab")) return true;
+		return false;
+	}
+
+	private isElementSkippedForPicker(el: HTMLElement) {
+		const selectors = this.settings.skipSelectors || [];
+		for (const sel of selectors) {
+			if (!sel) continue;
+			try {
+				if (el.closest(sel)) return true;
+			} catch (_e) {
+				// ignore invalid selector
+			}
+		}
+		return false;
+	}
+
+	private updatePickerHighlight(target: HTMLElement | null) {
+		if (!this.pickerHighlight) return;
+		if (!target) {
+			this.pickerHighlight.style.display = "none";
+			return;
+		}
+		const rect = target.getBoundingClientRect();
+		this.pickerHighlight.style.display = "block";
+		this.pickerHighlight.style.left = `${rect.left + window.scrollX}px`;
+		this.pickerHighlight.style.top = `${rect.top + window.scrollY}px`;
+		this.pickerHighlight.style.width = `${rect.width}px`;
+		this.pickerHighlight.style.height = `${rect.height}px`;
 	}
 
 	private applyUiDictionaryTranslations() {
@@ -756,6 +937,16 @@ private getTranslationDir() {
 			this.closeScopeMenu();
 		};
 		actions.appendChild(translateBtn);
+		const pickBtn = document.createElement("button");
+		pickBtn.textContent = this.settings.extractOnly
+			? this.tr("ui.menu.pickExtract")
+			: this.tr("ui.menu.pickTranslate");
+		pickBtn.onclick = (e) => {
+			e.stopPropagation();
+			this.startElementPicker();
+			this.closeScopeMenu();
+		};
+		actions.appendChild(pickBtn);
 		menu.appendChild(actions);
 
 		const switches = document.createElement("div");

@@ -69,6 +69,8 @@ export const en: LocaleDict = {
 	"ui.menu.title": "Select UI dictionary",
 	"ui.menu.translate": "Translate current page",
 	"ui.menu.extract": "Extract current page",
+	"ui.menu.pickTranslate": "Element picker (translate)",
+	"ui.menu.pickExtract": "Element picker (extract only)",
 	"ui.menu.edit": "Edit mode",
 	"ui.menu.hide": "Hide original text",
 	"ui.menu.smart": "Show original on hover (only when hidden)",

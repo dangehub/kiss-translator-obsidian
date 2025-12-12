@@ -1,7 +1,7 @@
 {
 	"id": "aqu-translay-translator",
 	"name": "Translay Translator",
-	"version": "0.8.3",
+	"version": "0.8.4",
 	"minAppVersion": "0.15.0",
 	"description": "Translate UI text through a floating overlay with instant translation, editable dictionaries, and local or cloud language resources.",
 	"author": "dangehub",
